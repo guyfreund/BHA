@@ -1,0 +1,216 @@
+{
+  "metadata": {
+    "year": 1952,
+    "month": {
+      "from": "נובמבר",
+      "to": "דצמבר"
+    },
+    "date_of_publish": "Sat Nov 01 14:51:32 UTC 1952",
+    "issue_number": "21",
+    "publisher": "חיל האויר",
+    "editor": "רב סרן משה פומרנץ",
+    "deputy_editor": "-",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": 350,
+      "type": "פרוטה"
+    },
+    "photographers": ["ריטה גרינפלדר","ברגמן"],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 204,
+    "subscription_only": false
+  },
+  "index": [
+    {
+      "title": "בגליון זה",
+      "description": "",
+      "start_page": 5,
+      "author": ""
+    },
+    {
+      "title": "דבר המפקד ליום השנה החמישי להקמת ח.א",
+      "description": "",
+      "start_page": 7,
+      "author": ""
+    },
+    {
+      "title": "מתוך ארכיון הזכרונות",
+      "description": "",
+      "start_page": 8,
+      "author": ""
+    },
+    {
+      "title": "החמור המעופף",
+      "description": "",
+      "start_page": 23,
+      "author": ""
+    },
+    {
+      "title": "באויר העולם",
+      "description": "ערוך בימי י. זמיר ומ. קליין",
+      "start_page": 33,
+      "author": ""
+    },
+    {
+      "title": "ברוכים הבאים להודו",
+      "description": "",
+      "start_page": 46,
+      "author": ""
+    },
+    {
+      "title": "מבצע ביג שיט",
+      "description": "",
+      "start_page": 49,
+      "author": ""
+    },
+    {
+      "title": "ניווט בטבע",
+      "description": "עובד בידי אהל",
+      "start_page": 52,
+      "author": ""
+    },
+    {
+      "title": "אלה להבות",
+      "description": "",
+      "start_page": 57,
+      "author": ""
+    },
+    {
+      "title": "משולשים מעופפים",
+      "description": "",
+      "start_page": 60,
+      "author": ""
+    },
+    {
+      "title": "המנוע הסילוני",
+      "description": "",
+      "start_page": 65,
+      "author": ""
+    },
+    {
+      "title": "אוירודינמיקה",
+      "description": "",
+      "start_page": 76,
+      "author": ""
+    },
+    {
+      "title": "למד לטוס מספר 3",
+      "description": "",
+      "start_page": 88,
+      "author": ""
+    },
+    {
+      "title": "מכם מהו? (סוף)",
+      "description": "",
+      "start_page": 91,
+      "author": ""
+    },
+    {
+      "title": "מטוסי יוגוסלביה",
+      "description": "",
+      "start_page": 101,
+      "author": ""
+    },
+    {
+      "title": "הלופטוופה בשמי אירופה",
+      "description": "",
+      "start_page":104,
+      "author": ""
+    },
+    {
+      "title": "החלומות הללו",
+      "description": "",
+      "start_page": 119,
+      "author": ""
+    },
+    {
+      "title": "אפנת סרטי המדע הבדיוני",
+      "description": "עובד בידי סגן י. עופר",
+      "start_page": 120,
+      "author": ""
+    },
+    {
+      "title": "התוכל לזהות מטוסים אלו?",
+      "description": "",
+      "start_page": 130,
+      "author": ""
+    },
+    {
+      "title": "מגדוד פרשים לכיבוש השחקים",
+      "description": "",
+      "start_page": 132,
+      "author": ""
+    },
+    {
+      "title": "המערכה האוירית בקוריאה",
+      "description": "עובד בידי י.נכט וי. עופר",
+      "start_page": 139,
+      "author": ""
+    },
+    {
+      "title": "תשובות לזיהוי מטוסים",
+      "description": "",
+      "start_page": 145,
+      "author": ""
+    },
+  {
+      "title": "העזרה הגיעה ברגע האחרון",
+      "description": "",
+      "start_page": 147,
+      "author": ""
+    },
+  {
+      "title": "בממלכת העפרון והסרגל",
+      "description": "רפוטאז'ה בתצלומים",
+      "start_page": 150,
+      "author": ""
+    },
+  {
+      "title": "במחנות הקיץ של גדנע אויר",
+      "description": "",
+      "start_page": 154,
+      "author": ""
+    },
+  {
+      "title": "טיסנים בשמי העמק",
+      "description": "",
+      "start_page": 158,
+      "author": ""
+    },
+  {
+      "title": "8 עמודי תמרון בקו",
+      "description": "",
+      "start_page": 163,
+      "author": ""
+    },
+  {
+      "title": "מאחורי הקלעים של החופה",
+      "description": "",
+      "start_page": 172,
+      "author": ""
+    },
+  {
+      "title": "תעופה אזרחית",
+      "description": "",
+      "start_page": 173,
+      "author": ""
+    },
+  {
+      "title": "דאר אויר",
+      "description": "",
+      "start_page": 178,
+      "author": ""
+    },
+      {
+      "title": "בשמי המזרח התיכון",
+      "description": "",
+      "start_page": 180,
+      "author": ""
+    }
+  ]
+}

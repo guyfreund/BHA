@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "year": 1948,
+    "month": {
+      "from": "נובמבר",
+      "to": "נובמבר"
+    },
+    "date_of_publish": "Mon Nov 01 12:30:37 UTC 1948\n",
+    "issue_number": "2-3",
+    "publisher": "חיל האויר",
+    "editor": "-",
+    "deputy_editor": "-",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": 100,
+      "type": "מיל ארץ ישראלי"
+    },
+    "photographers": [],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 50,
+    "subscription_only": false
+  },
+  "index": [
+    {
+      "title": "החיל הזה כבש את השחקים",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "חיל האויר לישראל והמועצה לתעופה",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "חיל האויר באספקלרית העתונות",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "מודי איננו",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "החוק הצבאי",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "היחידה הפסיכוטכנית בחיל-האויר",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "אימונים טכניים בח.א.",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    }
+  ]
+}

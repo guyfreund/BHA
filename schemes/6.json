@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "year": 1949,
+    "month": {
+      "from": "נובמבר",
+      "to": "נובמבר"
+    },
+    "date_of_publish": "Mon Nov 01 12:47:14 UTC 2021\n",
+    "issue_number": "6",
+    "publisher": "חיל האויר",
+    "editor": "-",
+    "deputy_editor": "-",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": -1,
+      "type": ""
+    },
+    "photographers": [],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 87,
+    "subscription_only": false
+  },
+  "index": []
+}

@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "year": 1949,
+    "month": {
+      "from": "מרץ",
+      "to": "מרץ"
+    },
+    "date_of_publish": "Tue Mar 01 12:37:24 UTC 1949\n",
+    "issue_number": "4",
+    "publisher": "חיל האויר",
+    "editor": "-",
+    "deputy_editor": "-",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": 60,
+      "type": "מיל ארץ ישראלי"
+    },
+    "photographers": ["ריטה גרינפלדר","ברגמן"],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 44,
+    "subscription_only": false
+  },
+  "index": [
+    {
+      "title": "לעיצוב דמותו של חיל האויר",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "שנה לשדה דב",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "המחלניקים בחיל",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "מודי איננו",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "לזכרנו של הטיס ציבי",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "שאל ואענך",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "מחלקת המפות בחיל",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    }
+  ]
+}

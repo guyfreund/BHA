@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "year": 1950,
+    "month": {
+      "from": "ספטמבר",
+      "to": "אוקטובר"
+    },
+    "date_of_publish": "Fri Sep 01 13:14:00 UTC 1950\n",
+    "issue_number": "10",
+    "publisher": "אגף מנהל מטרש/ח.א.ל",
+    "editor": "פקד-טיס משה פומרנץ",
+    "deputy_editor": "-",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": 125,
+      "type": "פרוטה"
+    },
+    "photographers": [],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 101,
+    "subscription_only": false
+  },
+  "index": [
+    {
+      "title": "תולדות ההתפתחות של מבנה המטוס",
+      "description": "בגליון זה אנחנו מפרסמים את החלק הראשון של הרצאות הפרופסור נ.י. הוף",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "גופנאות-ממקצועות היסוד בתעופה",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "צלחות מעופפות",
+      "description": "כל מי שימצא אי פעם צלחת מעופפת חייב להרים את הטלפון ולהודיע על כך לשלטונות ארהב",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "המערכה האוירית בקוריאה",
+      "description": "הננו מביאים סיכום ראשוני של הקרבות האוירים בקוריאה, בלוית תצלומי המטוסים שלקחו חלק בקרבות",
+      "start_page": -1,
+      "author": ""
+    }
+  ]
+}

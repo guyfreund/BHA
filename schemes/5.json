@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "year": 1949,
+    "month": {
+      "from": "ספטמבר",
+      "to": "ספטמבר"
+    },
+    "date_of_publish": "Thu Sep 01 12:43:46 UTC 1949\n",
+    "issue_number": "5",
+    "publisher": "חיל האויר",
+    "editor": "-",
+    "deputy_editor": "-",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": -1,
+      "type": ""
+    },
+    "photographers": [],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 43,
+    "subscription_only": false
+  },
+  "index": []
+}

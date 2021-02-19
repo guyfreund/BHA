@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "year": 1951,
+    "month": {
+      "from": "יולי",
+      "to": "אוגוסט"
+    },
+    "date_of_publish": "Thu Jul 01 13:35:11 UTC 2021",
+    "issue_number": "15",
+    "publisher": "חיל האויר",
+    "editor": "סרן משה פומרנץ",
+    "deputy_editor": "-",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": 200,
+      "type": "פרוטה"
+    },
+    "photographers": [],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 138,
+    "subscription_only": false
+  },
+  "index": [
+    {
+      "title": "בטחון קשר מהו?",
+      "description": "קפטן צ'לרס רובינזון, קצין ביטחון קשר ראשי בח.א של ארהב כותב: החשיבות החיונית של בטחון קשר היא עצומה. סקירתו מביאה דוגמאות מאלפות מלקחי מלחמות העולם הראשונה והשניה.",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "אימונים אויריים",
+      "description": "רב סרן אדם שתקאי מעלה במדור בסמן התכוננות בעיות מספר סביב הנושא",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "ניהול מהו?",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "מבצע פוכס",
+      "description": "שני טייסים אמריקניים מודעים מחליטים לחצות את האוקינוס האטלנטי במטוסי הסילון פ-84-אי",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "החיילות שלנו",
+      "description": "נערה הרוכשת מקצוע בח.א.ל רוכשת מקצוע לעתידה האזרחי. יהודית בלום הסוקרת בקצרה את מעמדן של החיילות בחייל",
+      "start_page": -1,
+      "author": ""
+    }
+  ]
+}

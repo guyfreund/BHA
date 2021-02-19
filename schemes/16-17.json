@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "year": 1951,
+    "month": {
+      "from": "",
+      "to": ""
+    },
+    "date_of_publish": "Mon Jan 01 13:47:26 UTC 1951",
+    "issue_number": "16-17",
+    "publisher": "חיל האויר",
+    "editor": "-",
+    "deputy_editor": "-",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": -1,
+      "type": ""
+    },
+    "photographers": ["ריטה גרינפלדר","ברגמן"],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 154,
+    "subscription_only": false
+  },
+  "index": [
+  ]
+}

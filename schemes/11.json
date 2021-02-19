@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "year": 1950,
+    "month": {
+      "from": "",
+      "to": ""
+    },
+    "date_of_publish": "Sun Jan 01 13:16:46 UTC 1950\n",
+    "issue_number": "11",
+    "publisher": "חיל האויר",
+    "editor": "-",
+    "deputy_editor": "-",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": -1,
+      "type": ""
+    },
+    "photographers": [],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 103,
+    "subscription_only": false
+  },
+  "index": [
+    {
+      "title": "התישבות תעופתית",
+      "description": "ראש כנף יוסף קרן מעלה בעיה שפתרונה יתרום רבות לבטחון המדינה ולהגברת יעילות החיל",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "בנית כלי טיס בישראל",
+      "description": "משה רוזנטל חבר הועד המרכזי של קלוב התעופה לישראל סוקר בגליון זה את השלבים השונים בבנית כלי טיס בארץ ומונה את האפשרויות הצפונות בענף זה.",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "מטוס-סילון, מטוס-דחף, מטוס-הדף, מטוס תגובה, מטוס-מפלט",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "גיאופוליטיקה אוירית של אום",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "מלחמת האויר בקוריאה",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    }
+    ]
+}
