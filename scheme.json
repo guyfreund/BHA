@@ -17,19 +17,12 @@
       "type": "string"
     },
     "photographers": ["string"],
-    "graphic_designers": ["string"],
     "system": "string",
-    "print": {
-      "issue": "string",
-      "cover": "string",
-      "model": "string"
-    },
     "subscription_price": {
       "amount": "float",
       "type": "string"
     },
     "number_of_pages": "int",
-    "notes": ["string"],
     "subscription_only": "bool"
   },
   "index": [
