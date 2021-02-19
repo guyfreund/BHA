@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "year": 1948,
+    "month": {
+      "from": "ספטמבר",
+      "to": "ספטמבר"
+    },
+    "date_of_publish": "Mon Sep 20 12:18:32 UTC 1948\n",
+    "issue_number": "1",
+    "publisher": "חיל האויר",
+    "editor": "-",
+    "deputy_editor": "-",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": 50,
+      "type": "מיל ארץ ישראלי"
+    },
+    "photographers": [""],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 28,
+    "subscription_only": false
+  },
+  "index": [
+    {
+      "title": "דברי ראש הממשלה ושר הביטחון",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "דבר המפקד",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "החיל שלנו",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "כנפים לעם",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "טיסת ביקור לנגב",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "פעולת חרקירי",
+      "description": "סיפורו של טייס",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "המסלול בכפר עציון",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "הקרב על גואדאלאירה",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "מה דעתך על טיסה למאדים?",
+      "description": "",
+      "start_page": -1,
+      "author": "string"
+    },
+    {
+      "title": "הראדאר רוכב על כנפי הרוח",
+      "description": "",
+      "start_page": -1,
+      "author": ""
+    }
+  ]
+}
