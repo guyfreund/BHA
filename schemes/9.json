@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "year": 1950,
+    "month": {
+      "from": "יולי",
+      "to": "אוגוסט"
+    },
+    "date_of_publish": "Sat Jul 01 13:05:04 UTC 1950\n",
+    "issue_number": "9",
+    "publisher": "חיל האויר",
+    "editor": "-",
+    "deputy_editor": "-",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": -1,
+      "type": ""
+    },
+    "photographers": [],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 96,
+    "subscription_only": false
+  },
+  "index": [
+    {
+      "title": "מפלת הלופטוואפה",
+      "description": "הננו מביאים את וידויו של וילי מסרשמידט בונה המטוסים הידוע",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "באמפס",
+      "description": "אם מנסה אתה לתהות על קנקנה של כותרת זו סימן שאינך טייס, כי כל טייס יודע שבאמפס פירושו מכות-רוח",
+      "start_page": -1,
+      "author": ""
+    },
+    {
+      "title": "דואר אויר",
+      "description": "שימו לב למדורנו החדש, דאר איור",
+      "start_page": -1,
+      "author": ""
+    }]
+}
