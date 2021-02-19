@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "year": 1953,
+    "month": {
+      "from": "פברואר",
+      "to": "מרץ"
+    },
+    "date_of_publish": "Sun Feb 01 15:01:56 UTC 1953",
+    "issue_number": "22",
+    "publisher": "חיל האויר",
+    "editor": "רב סרן משה פומרנץ",
+    "deputy_editor": "-",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": 400,
+      "type": "פרוטה"
+    },
+    "photographers": [],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 164,
+    "subscription_only": false
+  },
+  "index": [
+    {
+      "title": "בגליון זה",
+      "description": "",
+      "start_page": 4,
+      "author": ""
+    },
+    {
+      "title": "דוקטור חיים וייצמן ז''ל וחיל האוויר",
+      "description": "",
+      "start_page": 6,
+      "author": ""
+    },
+    {
+      "title": "שליטה במרחב האוירי",
+      "description": "",
+      "start_page": 7,
+      "author": ""
+    },
+    {
+      "title": "2 אגרות",
+      "description": "",
+      "start_page": 9,
+      "author": ""
+    },
+    {
+      "title": "מנהיגות בחיי יום-יום",
+      "description": "",
+      "start_page": 13,
+      "author": ""
+    },
+    {
+      "title": "ניהול מהו?",
+      "description": "",
+      "start_page": 17,
+      "author": ""
+    },
+    {
+      "title": "באויר העולם",
+      "description": "",
+      "start_page": 24,
+      "author": ""
+    },
+    {
+      "title": "התוכל לזהות מטוסים אלה?",
+      "description": "",
+      "start_page": 38,
+      "author": ""
+    },
+    {
+      "title": "מנועי סילון בבריטניה",
+      "description": "",
+      "start_page": 42,
+      "author": ""
+    },
+    {
+      "title": "ח.א. הבריטי מחליף ציוד טייסותיו",
+      "description": "",
+      "start_page": 46,
+      "author": ""
+    },
+    {
+      "title": "אייזנהאור והכח האוירי",
+      "description": "",
+      "start_page": 48,
+      "author": ""
+    },
+    {
+      "title": "הנשק האטומי-חרב פיפיות",
+      "description": "",
+      "start_page": 50,
+      "author": ""
+    },
+    {
+      "title": "סיג-גובה אפס, ראיות אפס..",
+      "description": "",
+      "start_page": 52,
+      "author": ""
+    },
+    {
+      "title": "כאן התור לטיסות לירח",
+      "description": "",
+      "start_page": 56,
+      "author": ""
+    },
+    {
+      "title": "פנטלריה ולמפדוזה",
+      "description": "",
+      "start_page": 58,
+      "author": ""
+    },
+    {
+      "title": "מבצע וורסיטי",
+      "description": "",
+      "start_page":64,
+      "author": ""
+    },
+    {
+      "title": "מפגני פרנבורו 1952",
+      "description": "",
+      "start_page": 69,
+      "author": ""
+    },
+    {
+      "title": "אקדמיה לטיסה נמוכה",
+      "description": "",
+      "start_page": 82,
+      "author": ""
+    },
+    {
+      "title": "התעופה הצבאית בפינלנד",
+      "description": "",
+      "start_page": 86,
+      "author": ""
+    },
+    {
+      "title": "ח.א. הסיאמי הצעיר",
+      "description": "",
+      "start_page": 89,
+      "author": ""
+    },
+    {
+      "title": "התעופה האזרחית ברוסיה",
+      "description": "",
+      "start_page": 91,
+      "author": ""
+    },
+    {
+      "title": "דוסאב - להחדרת התעופה בקרב הנוער הרוסי",
+      "description": "",
+      "start_page": 97,
+      "author": ""
+    },
+  {
+      "title": "גדרות שכבת הגבול",
+      "description": "",
+      "start_page": 99,
+      "author": ""
+    },
+  {
+      "title": "המנוע הסילוני (2)",
+      "description": "רפוטאז'ה בתצלומים",
+      "start_page": 102,
+      "author": ""
+    },
+  {
+      "title": "הנווטון של דאלטון",
+      "description": "",
+      "start_page": 114,
+      "author": ""
+    },
+  {
+      "title": "למד לטוס (4)",
+      "description": "",
+      "start_page": 120,
+      "author": ""
+    },
+  {
+      "title": "תשובות לזיהוי מטוסים",
+      "description": "",
+      "start_page": 125,
+      "author": ""
+    },
+  {
+      "title": "תותח המאוזר מ.ג.-213",
+      "description": "",
+      "start_page": 127,
+      "author": ""
+    },
+  {
+      "title": "בטחון טיסה",
+      "description": "",
+      "start_page": 129,
+      "author": ""
+    },
+  {
+      "title": "נלחמתי בטייסי המיג",
+      "description": "",
+      "start_page": 131,
+      "author": ""
+    },
+      {
+      "title": "תהפוכת המאזנות",
+      "description": "",
+      "start_page": 134,
+      "author": ""
+    },
+      {
+      "title": "המערך הגדול",
+      "description": "",
+      "start_page": 136,
+      "author": ""
+    },
+      {
+      "title": "אם רוצים שהצבא יצעד כהלכה",
+      "description": "",
+      "start_page": 137,
+      "author": ""
+    },
+      {
+      "title": "דאר אויר",
+      "description": "",
+      "start_page": 144,
+      "author": ""
+    },
+      {
+      "title": "תעופה אזרחית",
+      "description": "",
+      "start_page": 147,
+      "author": ""
+    }
+  ]
+}
