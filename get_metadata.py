@@ -35,15 +35,15 @@ MONTHS_MAP = {
 ALL_DATA_FILE_PATH = 'all_data.json'
 
 
-def json_write(data):
-    with open(ALL_DATA_FILE_PATH, 'w') as f:
+def json_write(path, data):
+    with open(path, 'w') as f:
         f.write(json.dumps(data, indent=4, ensure_ascii=False).encode('utf8').decode())
 
 
-def json_read():
+def json_read(path):
     try:
-        if os.path.exists(ALL_DATA_FILE_PATH):
-            with open('all_data.json', 'r') as json_file:
+        if os.path.exists(path):
+            with open(path, 'r') as json_file:
                 result = json.load(json_file)
         else:
             result = {}
@@ -144,11 +144,11 @@ def get_metadata_from_library():
 
             all_data[book_ref] = data
 
-    json_write(all_data)
+    json_write(ALL_DATA_FILE_PATH, all_data)
 
 
 def get_metadata_from_iaf():
-    all_data = json_read()
+    all_data = json_read(ALL_DATA_FILE_PATH)
     # response = requests.get("https://www.iaf.org.il/52-he/IAF.aspx")
     soup = BeautifulSoup(open('IAF_content.txt', 'r').read(), "html.parser")
     refs = soup.findAll('a', {'href': True, 'id': True, 'target': True})
@@ -186,7 +186,7 @@ def get_metadata_from_iaf():
                 }
                 new_data.update({link: data})
     all_data.update(new_data)
-    json_write(all_data)
+    json_write(ALL_DATA_FILE_PATH, all_data)
 
 
 def main():
