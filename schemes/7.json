@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "year": 1950,
+    "month": {
+      "from": "פברואר",
+      "to": "פברואר"
+    },
+    "date_of_publish": "Wed Feb 01 12:50:45 UTC 1950\n",
+    "issue_number": "7",
+    "publisher": "חיל האויר",
+    "editor": "-",
+    "deputy_editor": "-",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": -1,
+      "type": ""
+    },
+    "photographers": [],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 60,
+    "subscription_only": false
+  },
+  "index": []
+}
