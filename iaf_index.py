@@ -1,4 +1,4 @@
-from get_metadata import json_read, json_write, ALL_DATA_FILE_PATH
+from get_metadata import json_read, json_write
 from bs4 import BeautifulSoup
 import requests
 import logging
