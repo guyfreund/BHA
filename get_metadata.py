@@ -9,6 +9,7 @@ REF_REGEX = r'open\(\'([^\']+\')'
 NUM_REGEX = r'^(.+)מס'
 BASE_URL = 'http://iaflibrary.org.il/Page.asp?CatID=2683'
 ISSUE = "גליון"
+ISSUE_TWO = "גיליון"
 IAF_PREFIX = 'www.iaf.org.il'
 
 MONTHS = ['ינואר', 'פברואר', 'פבואר', 'מרץ', 'מרס', 'מארס', 'אפריל', 'מאי', 'יוני', 'ינוי', 'יולי', 'אוגוסט', 'ספטמבר', 'ספטצבר', 'אוקטובר', 'נובמבר', 'דצמבר']
@@ -149,10 +150,10 @@ def get_metadata_from_library():
 
 def get_metadata_from_iaf():
     all_data = json_read(ALL_DATA_FILE_PATH)
-    # response = requests.get("https://www.iaf.org.il/52-he/IAF.aspx")
-    soup = BeautifulSoup(open('IAF_content.txt', 'r').read(), "html.parser")
+    response = requests.get("https://www.iaf.org.il/52-he/IAF.aspx")
+    soup = BeautifulSoup(response.content, "html.parser")
     refs = soup.findAll('a', {'href': True, 'id': True, 'target': True})
-    issue_refs = list(reversed([ref for ref in refs if ref.text.startswith(ISSUE)]))
+    issue_refs = list(reversed([ref for ref in refs if ref.text.startswith(ISSUE) or ref.text.startswith(ISSUE_TWO)]))
     new_data = {}
     for issue_ref in issue_refs:
         if issue_ref.text != "גליון נוכחי":
@@ -165,32 +166,33 @@ def get_metadata_from_iaf():
                     title_stripped.append(x)
             link = issue_ref.attrs['href'].strip('http://').strip('https://').strip('?')
             link = link if link.startswith(IAF_PREFIX) else os.path.join(IAF_PREFIX, link)
-            num = title_stripped[1].strip(',')
-            if '-' in num:
-                _, bigger_num = num.split('-')
-            else:
-                bigger_num = num
-            if int(bigger_num) > 118:
-                if not title_stripped[2]:
-                    month = title_stripped[3]
-                    year = title_stripped[4]
+            if link not in all_data:
+                num = title_stripped[1].strip(',')
+                if '-' in num:
+                    _, bigger_num = num.split('-')
                 else:
-                    month = title_stripped[2]
-                    year = title_stripped[3]
-                data = {
-                    "כותר": ' '.join(title),
-                    "מספר גיליון חדש": num,
-                    "לינק": link,
-                    "חודש": MONTHS_MAP[month],
-                    "שנת הוצאה": year
-                }
-                new_data.update({link: data})
+                    bigger_num = num
+                if int(bigger_num) > 118:
+                    if not title_stripped[2]:
+                        month = title_stripped[3]
+                        year = title_stripped[4]
+                    else:
+                        month = title_stripped[2]
+                        year = title_stripped[3]
+                    data = {
+                        "כותר": ' '.join(title),
+                        "מספר גיליון חדש": num,
+                        "לינק": link,
+                        "חודש": MONTHS_MAP[month],
+                        "שנת הוצאה": year
+                    }
+                    new_data.update({link: data})
     all_data.update(new_data)
     json_write(ALL_DATA_FILE_PATH, all_data)
 
 
 def main():
-    get_metadata_from_library()
+    # get_metadata_from_library()
     get_metadata_from_iaf()
 
 
