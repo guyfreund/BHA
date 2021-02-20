@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "year": 1955,
+    "month": {
+      "from": "יוני",
+      "to": "יולי"
+    },
+    "date_of_publish": "Fri Jul 01 16:50:12 UTC 1955",
+    "issue_number": "32",
+    "publisher": "חיל האויר",
+    "editor": "רב סרן משה פומרנץ",
+    "deputy_editor": "סגן יהודה עופר",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": 600,
+      "type": "פרוטה"
+    },
+    "photographers":  ["דוד מזרחי","יצחק כהן","יהודה ע.","יאן גרינברג"],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 178,
+    "subscription_only": false
+  },
+  "index": [
+    {
+      "title": "בגליון זה",
+      "description": "",
+      "start_page": 4,
+      "author": ""
+    },
+    {
+      "title": "אצלנו בחיל",
+      "description": "",
+      "start_page": 6,
+      "author": ""
+    },
+    {
+      "title": "על כנפי יתושים",
+      "description": "",
+      "start_page": 14,
+      "author": ""
+    },
+    {
+      "title": "צוק מצדה בסינרמה",
+      "description": "",
+      "start_page": 30,
+      "author": ""
+    },
+    {
+      "title": "פעולת הצלה אחת",
+      "description": "",
+      "start_page": 36,
+      "author": ""
+    },
+    {
+      "title": "מה נשתנה בין סילונים נוצצים",
+      "description": "",
+      "start_page": 41,
+      "author": ""
+    },
+    {
+      "title": "באויר העולם",
+      "description": "",
+      "start_page": 49,
+      "author": ""
+    },
+    {
+      "title": "מטוסי הראפ מעל קרית חיים",
+      "description": "",
+      "start_page": 60,
+      "author": ""
+    },
+    {
+      "title": "תצלומים מספרים",
+      "description": "",
+      "start_page": 61,
+      "author": ""
+    },
+    {
+      "title": "הגשרים בטוקו-רי",
+      "description": "",
+      "start_page": 66,
+      "author": ""
+    },
+    {
+      "title": "על מדפי ספריה ח'א",
+      "description": "",
+      "start_page": 77,
+      "author": ""
+    },
+    {
+      "title": "עליתו ונפילתו של נשק הנקם הגרמני",
+      "description": "",
+      "start_page": 78,
+      "author": ""
+    },
+    {
+      "title": "סילונים מעל האוקינוס השקט",
+      "description": "",
+      "start_page": 87,
+      "author": ""
+    },
+    {
+      "title": "לצצטל זירסר רנדסד",
+      "description": "",
+      "start_page": 90,
+      "author": ""
+    },
+    {
+      "title": "סוסי עבודה וסייחי מרוץ",
+      "description": "",
+      "start_page": 96,
+      "author": ""
+    },
+    {
+      "title": "כך מטאטאים את השחקים",
+      "description": "",
+      "start_page":98,
+      "author": ""
+    },
+    {
+      "title": "חמרי המטוס (2)",
+      "description": "",
+      "start_page": 102,
+      "author": ""
+    },
+    {
+      "title": "מבנה המטוס - חיקוי למבנה קליפת הביצה (2)",
+      "description": "",
+      "start_page": 116,
+      "author": ""
+    },
+    {
+      "title": "אוירודינמיקה (13)",
+      "description": "",
+      "start_page": 127,
+      "author": ""
+    },
+    {
+      "title": "נפל מגובה 18,000 רגל ללא מצנח",
+      "description": "",
+      "start_page": 143,
+      "author": ""
+    },
+    {
+      "title": "גג העולם נכבש",
+      "description": "",
+      "start_page": 144,
+      "author": ""
+    },
+    {
+      "title": "חיל האויר האדום",
+      "description": "",
+      "start_page": 149,
+      "author": ""
+    },
+  {
+      "title": "חידון אוירי",
+      "description": "",
+      "start_page": 152,
+      "author": ""
+    },
+  {
+      "title": "מחסום ברקיע",
+      "description": "",
+      "start_page": 154,
+      "author": ""
+    },
+  {
+      "title": "הפצצתי מכוניתו של היטלר",
+      "description": "",
+      "start_page": 155,
+      "author": ""
+    },
+  {
+      "title": "קולונל סטאפ ו-35 הג'י שלו",
+      "description": "",
+      "start_page": 157,
+      "author": ""
+    },
+  {
+      "title": "דאר אויר",
+      "description": "",
+      "start_page": 159,
+      "author": ""
+    },
+   {
+      "title": "בשמי המזרח התיכון",
+      "description": "",
+      "start_page": 161,
+      "author": ""
+    }
+  ]
+}

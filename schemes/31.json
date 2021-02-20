@@ -2,10 +2,10 @@
   "metadata": {
     "year": 1955,
     "month": {
-      "from": "ינואר",
-      "to": "פברואר"
+      "from": "מרץ",
+      "to": "אפריל"
     },
-    "date_of_publish": "Sat Jan 01 16:16:59 UTC 1955",
+    "date_of_publish": "Tue Mar 01 16:40:25 UTC 1955",
     "issue_number": "31",
     "publisher": "חיל האויר",
     "editor": "רב סרן משה פומרנץ",
@@ -16,13 +16,13 @@
       "amount": 600,
       "type": "פרוטה"
     },
-    "photographers":  ["דוד הלפמן","בן בסט","קייסטון"],
+    "photographers":  ["דוד מזרחי","יצחק כהן","יהודה ע.","יאן גרינברג"],
     "system": "-",
     "subscription_price": {
       "amount": -1,
       "type": ""
     },
-    "number_of_pages": 192,
+    "number_of_pages": 184,
     "subscription_only": false
   },
   "index": [
@@ -33,165 +33,141 @@
       "author": ""
     },
     {
-      "title": "תוצאות ולא תירוצים",
+      "title": "ציון לשבח",
       "description": "",
-      "start_page": 5,
+      "start_page": 6,
+      "author": ""
+    },
+    {
+      "title": "צו קריאה",
+      "description": "",
+      "start_page": 8,
       "author": ""
     },
     {
       "title": "באויר העולם",
       "description": "",
-      "start_page": 18,
+      "start_page": 23,
       "author": ""
     },
     {
-      "title": "התצלומים מספרים",
+      "title": "תצלומים מספרים",
       "description": "",
       "start_page": 32,
       "author": ""
     },
     {
-      "title": "השאיפה לרקיע",
+      "title": "הסייבר התחלק כמו על חמאה",
+      "description": "",
+      "start_page": 37,
+      "author": ""
+    },
+    {
+      "title": "תסריט ליום האטום?",
+      "description": "",
+      "start_page": 38,
+      "author": ""
+    },
+    {
+      "title": "הן מתחרות בצפורים",
       "description": "",
       "start_page": 40,
       "author": ""
     },
     {
-      "title": "בונז'ור, אמר מר נרסי",
+      "title": "אורות הגישה הגורליים",
+      "description": "",
+      "start_page": 44,
+      "author": ""
+    },
+    {
+      "title": "מטוסים מעל אידלווילד",
+      "description": "",
+      "start_page": 44,
+      "author": ""
+    },
+    {
+      "title": "צנחנים של סוף השבוע",
+      "description": "",
+      "start_page": 50,
+      "author": ""
+    },
+    {
+      "title": "נאצי נלהב - בראש ח.א. הגרמני החדש",
+      "description": "",
+      "start_page": 52,
+      "author": ""
+    },
+    {
+      "title": "חוזק המטוסים מהו?",
       "description": "",
       "start_page": 55,
       "author": ""
     },
     {
-      "title": "בלונים זורעי אש",
-      "description": "",
-      "start_page": 56,
-      "author": ""
-    },
-    {
-      "title": "קאמיקאזה, טיסות ההתאבדות",
-      "description": "",
-      "start_page": 57,
-      "author": ""
-    },
-    {
-      "title": "שביל החלב",
-      "description": "",
-      "start_page": 62,
-      "author": ""
-    },
-    {
-      "title": "טייס כושי לדרגת גנרל",
-      "description": "",
-      "start_page": 68,
-      "author": ""
-    },
-    {
-      "title": "אנו טסים בשמי הלילה",
-      "description": "",
-      "start_page": 70,
-      "author": ""
-    },
-    {
-      "title": "הוא ממריא אנכית",
+      "title": "אוירודינמיקה (12)",
       "description": "",
       "start_page": 76,
       "author": ""
     },
     {
-      "title": "המטוס הוא כוכב לכת",
-      "description": "",
-      "start_page": 78,
-      "author": ""
-    },
-    {
-      "title": "מבצע הקוטב הצפוני",
-      "description": "",
-      "start_page": 85,
-      "author": ""
-    },
-    {
-      "title": "ריקוד המצפן של הקוני",
-      "description": "",
-      "start_page": 90,
-      "author": ""
-    },
-    {
-      "title": "הסחרור",
-      "description": "",
-      "start_page":92,
-      "author": ""
-    },
-    {
-      "title": "דמויות בשמי העולם",
-      "description": "",
-      "start_page": 94,
-      "author": ""
-    },
-    {
-      "title": "אוירודינמיקה (11)",
+      "title": "מבנה המטוס - חיקוי לקליפת הביצה",
       "description": "",
       "start_page": 96,
       "author": ""
     },
     {
-      "title": "המנוע הסילוני (7)",
+      "title": "המנוע הסילוני (9)",
       "description": "",
-      "start_page": 120,
+      "start_page":104,
       "author": ""
     },
     {
-      "title": "תמרוני טיסה אסורים",
+      "title": "ניקבת הסופות",
       "description": "",
-      "start_page": 132,
+      "start_page": 119,
       "author": ""
     },
     {
-      "title": "המדע מכניע את האש",
+      "title": "צנחתי מ-400 רגל",
       "description": "",
-      "start_page": 139,
+      "start_page": 123,
       "author": ""
     },
     {
-      "title": "הקשב! תנדרבולט מאחורי!",
+      "title": "אחזקה אוירית",
       "description": "",
-      "start_page": 143,
+      "start_page": 125,
       "author": ""
     },
-  {
+    {
+      "title": "כך נבדקים צוותות האויר",
+      "description": "",
+      "start_page": 134,
+      "author": ""
+    },
+    {
+      "title": "העשרים וחמש שנות טיסה",
+      "description": "",
+      "start_page": 149,
+      "author": ""
+    },
+    {
       "title": "התשובה הנכונה",
       "description": "",
-      "start_page": 148,
-      "author": ""
-    },
-  {
-      "title": "כך עולים בסולם ההצלחה",
-      "description": "",
-      "start_page": 150,
-      "author": ""
-    },
-  {
-      "title": "צלמי החיל מתחרים",
-      "description": "",
-      "start_page": 158,
-      "author": ""
-    },
-  {
-      "title": "על כנפי דקוטה",
-      "description": "",
-      "start_page": 160,
+      "start_page": 154,
       "author": ""
     },
   {
       "title": "דאר אויר",
       "description": "",
-      "start_page": 170,
+      "start_page": 156,
       "author": ""
     },
   {
       "title": "בשמי המזרח התיכון",
       "description": "",
-      "start_page": 172,
+      "start_page": 159,
       "author": ""
     }
   ]
