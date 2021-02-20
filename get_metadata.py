@@ -93,7 +93,7 @@ def get_months(title, num):
 
 
 def get_metadata_from_library():
-    all_data = {}
+    iaf_library_data = {}
     for url in (BASE_URL, f'{BASE_URL}&page_n=2', f'{BASE_URL}&page_n=3'):
         response = requests.get(url)
         soup = BeautifulSoup(response.content, "html.parser")
@@ -143,13 +143,13 @@ def get_metadata_from_library():
                     "הורדה לקורא אלקטרוני": file_refs[1]
                 })
 
-            all_data[book_ref] = data
+            iaf_library_data[book_ref] = data
 
-    json_write(ALL_DATA_FILE_PATH, all_data)
+    json_write('iaf_library_data.json', iaf_library_data)
 
 
 def get_metadata_from_iaf():
-    all_data = json_read(ALL_DATA_FILE_PATH)
+    iaf_data = json_read('iaf_data.json')
     response = requests.get("https://www.iaf.org.il/52-he/IAF.aspx")
     soup = BeautifulSoup(response.content, "html.parser")
     refs = soup.findAll('a', {'href': True, 'id': True, 'target': True})
@@ -166,7 +166,7 @@ def get_metadata_from_iaf():
                     title_stripped.append(x)
             link = issue_ref.attrs['href'].strip('http://').strip('https://').strip('?')
             link = link if link.startswith(IAF_PREFIX) else os.path.join(IAF_PREFIX, link)
-            if link not in all_data:
+            if link not in iaf_data:
                 num = title_stripped[1].strip(',')
                 if '-' in num:
                     _, bigger_num = num.split('-')
@@ -187,12 +187,12 @@ def get_metadata_from_iaf():
                         "שנת הוצאה": year
                     }
                     new_data.update({link: data})
-    all_data.update(new_data)
-    json_write(ALL_DATA_FILE_PATH, all_data)
+    iaf_data.update(new_data)
+    json_write('iaf_data.json', iaf_data)
 
 
 def main():
-    # get_metadata_from_library()
+    get_metadata_from_library()
     get_metadata_from_iaf()
 
 

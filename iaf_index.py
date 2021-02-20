@@ -18,10 +18,10 @@ def create_index_entry(title, description, author, link, start_page=None):
 
 
 def get_iaf_index():
-    all_data = json_read(ALL_DATA_FILE_PATH)
+    iaf_data = json_read('iaf_data.json')
     try:
-        for k, v in all_data.items():
-            if k.startswith("www.iaf.org.il") and 'index' not in v:
+        for k, v in iaf_data.items():
+            if 'index' not in v:
                 index = {}
                 links = {}
                 response = requests.get(f'http://{k}')
@@ -63,12 +63,12 @@ def get_iaf_index():
                         soup = BeautifulSoup(response.content, "html.parser")
                         author = soup.find('div', {'class': 'line'}).text.strip()
                         index[name].append(create_index_entry(title, description, author, item_link))
-                all_data[k].update({'index': index})
+                iaf_data[k].update({'index': index})
                 logging.info(f' {datetime.datetime.now().strftime("%d/%m/%Y %H:%M:%S")} #{v["מספר גיליון חדש"]} {[f"{e}: {len(l)}" for e, l in v["index"].items()]}')
     except Exception as e:
         logging.exception(str(e))
     finally:
-        json_write(ALL_DATA_FILE_PATH, all_data)
+        json_write('iaf_data.json', iaf_data)
 
 
 def main():
