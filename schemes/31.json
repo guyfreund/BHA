@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "year": 1955,
+    "month": {
+      "from": "ינואר",
+      "to": "פברואר"
+    },
+    "date_of_publish": "Sat Jan 01 16:16:59 UTC 1955",
+    "issue_number": "31",
+    "publisher": "חיל האויר",
+    "editor": "רב סרן משה פומרנץ",
+    "deputy_editor": "סגן יהודה עופר",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": 600,
+      "type": "פרוטה"
+    },
+    "photographers":  ["דוד הלפמן","בן בסט","קייסטון"],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 192,
+    "subscription_only": false
+  },
+  "index": [
+    {
+      "title": "בגליון זה",
+      "description": "",
+      "start_page": 4,
+      "author": ""
+    },
+    {
+      "title": "תוצאות ולא תירוצים",
+      "description": "",
+      "start_page": 5,
+      "author": ""
+    },
+    {
+      "title": "באויר העולם",
+      "description": "",
+      "start_page": 18,
+      "author": ""
+    },
+    {
+      "title": "התצלומים מספרים",
+      "description": "",
+      "start_page": 32,
+      "author": ""
+    },
+    {
+      "title": "השאיפה לרקיע",
+      "description": "",
+      "start_page": 40,
+      "author": ""
+    },
+    {
+      "title": "בונז'ור, אמר מר נרסי",
+      "description": "",
+      "start_page": 55,
+      "author": ""
+    },
+    {
+      "title": "בלונים זורעי אש",
+      "description": "",
+      "start_page": 56,
+      "author": ""
+    },
+    {
+      "title": "קאמיקאזה, טיסות ההתאבדות",
+      "description": "",
+      "start_page": 57,
+      "author": ""
+    },
+    {
+      "title": "שביל החלב",
+      "description": "",
+      "start_page": 62,
+      "author": ""
+    },
+    {
+      "title": "טייס כושי לדרגת גנרל",
+      "description": "",
+      "start_page": 68,
+      "author": ""
+    },
+    {
+      "title": "אנו טסים בשמי הלילה",
+      "description": "",
+      "start_page": 70,
+      "author": ""
+    },
+    {
+      "title": "הוא ממריא אנכית",
+      "description": "",
+      "start_page": 76,
+      "author": ""
+    },
+    {
+      "title": "המטוס הוא כוכב לכת",
+      "description": "",
+      "start_page": 78,
+      "author": ""
+    },
+    {
+      "title": "מבצע הקוטב הצפוני",
+      "description": "",
+      "start_page": 85,
+      "author": ""
+    },
+    {
+      "title": "ריקוד המצפן של הקוני",
+      "description": "",
+      "start_page": 90,
+      "author": ""
+    },
+    {
+      "title": "הסחרור",
+      "description": "",
+      "start_page":92,
+      "author": ""
+    },
+    {
+      "title": "דמויות בשמי העולם",
+      "description": "",
+      "start_page": 94,
+      "author": ""
+    },
+    {
+      "title": "אוירודינמיקה (11)",
+      "description": "",
+      "start_page": 96,
+      "author": ""
+    },
+    {
+      "title": "המנוע הסילוני (7)",
+      "description": "",
+      "start_page": 120,
+      "author": ""
+    },
+    {
+      "title": "תמרוני טיסה אסורים",
+      "description": "",
+      "start_page": 132,
+      "author": ""
+    },
+    {
+      "title": "המדע מכניע את האש",
+      "description": "",
+      "start_page": 139,
+      "author": ""
+    },
+    {
+      "title": "הקשב! תנדרבולט מאחורי!",
+      "description": "",
+      "start_page": 143,
+      "author": ""
+    },
+  {
+      "title": "התשובה הנכונה",
+      "description": "",
+      "start_page": 148,
+      "author": ""
+    },
+  {
+      "title": "כך עולים בסולם ההצלחה",
+      "description": "",
+      "start_page": 150,
+      "author": ""
+    },
+  {
+      "title": "צלמי החיל מתחרים",
+      "description": "",
+      "start_page": 158,
+      "author": ""
+    },
+  {
+      "title": "על כנפי דקוטה",
+      "description": "",
+      "start_page": 160,
+      "author": ""
+    },
+  {
+      "title": "דאר אויר",
+      "description": "",
+      "start_page": 170,
+      "author": ""
+    },
+  {
+      "title": "בשמי המזרח התיכון",
+      "description": "",
+      "start_page": 172,
+      "author": ""
+    }
+  ]
+}

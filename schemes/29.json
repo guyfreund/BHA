@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "year": 1954,
+    "month": {
+      "from": "אוקטובר",
+      "to": "נובמבר"
+    },
+    "date_of_publish": "Fri Oct 01 16:04:25 UTC 1954",
+    "issue_number": "29",
+    "publisher": "חיל האויר",
+    "editor": "רב סרן משה פומרנץ",
+    "deputy_editor": "סגן יהודה עופר",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": 600,
+      "type": "פרוטה"
+    },
+    "photographers": ["דוד הלפמן","מרדכי שלום","סוכנות עתונות קייסטון","אברהם אלקבס","יצחק כהן","בן בסט","דוד מזרחי","יאן גרינברג"],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 188,
+    "subscription_only": false
+  },
+  "index": [
+    {
+      "title": "בגליון זה",
+      "description": "",
+      "start_page": 3,
+      "author": ""
+    },
+    {
+      "title": "זרוע האויר בעתיד",
+      "description": "",
+      "start_page": 5,
+      "author": ""
+    },
+    {
+      "title": "בתמרון חיל האויר",
+      "description": "",
+      "start_page": 10,
+      "author": ""
+    },
+    {
+      "title": "הנה הטייסים",
+      "description": "",
+      "start_page": 20,
+      "author": ""
+    },
+    {
+      "title": "באויר העולם",
+      "description": "",
+      "start_page": 27,
+      "author": ""
+    },
+    {
+      "title": "תצלומים מספרים",
+      "description": "",
+      "start_page": 34,
+      "author": ""
+    },
+    {
+      "title": "פרנבורו 1954",
+      "description": "",
+      "start_page": 40,
+      "author": ""
+    },
+    {
+      "title": "אמזונות האויר התורכיות",
+      "description": "",
+      "start_page": 44,
+      "author": ""
+    },
+    {
+      "title": "על גייסות מוטסים",
+      "description": "",
+      "start_page": 50,
+      "author": ""
+    },
+    {
+      "title": "היש גבול למהירות?",
+      "description": "",
+      "start_page": 62,
+      "author": ""
+    },
+    {
+      "title": "אוירודינמיקה (10)",
+      "description": "",
+      "start_page": 81,
+      "author": ""
+    },
+    {
+      "title": "בעיות המראה ופתרונן",
+      "description": "",
+      "start_page": 100,
+      "author": ""
+    },
+    {
+      "title": "כח האיש של מטוסי ירוט",
+      "description": "",
+      "start_page": 113,
+      "author": ""
+    },
+    {
+      "title": "כך מאמנים טייסי סילון",
+      "description": "",
+      "start_page": 120,
+      "author": ""
+    },
+    {
+      "title": "תיבת המטורף",
+      "description": "",
+      "start_page": 130,
+      "author": ""
+    },
+    {
+      "title": "התשובה הנכונה - חידון אוירי",
+      "description": "",
+      "start_page":132,
+      "author": ""
+    },
+    {
+      "title": "צריח כדורי",
+      "description": "",
+      "start_page": 134,
+      "author": ""
+    },
+    {
+      "title": "57 שעות בדאון",
+      "description": "",
+      "start_page": 138,
+      "author": ""
+    },
+    {
+      "title": "אצלנו בחיל",
+      "description": "",
+      "start_page": 141,
+      "author": ""
+    },
+    {
+      "title": "תובלה אוירית צבאית",
+      "description": "",
+      "start_page": 148,
+      "author": ""
+    },
+    {
+      "title": "כנפים לנוער",
+      "description": "",
+      "start_page": 156,
+      "author": ""
+    },
+    {
+      "title": "מועדון תעופה ראשון בארץ",
+      "description": "",
+      "start_page": 158,
+      "author": ""
+    },
+  {
+      "title": "דאר אויר",
+      "description": "",
+      "start_page": 168,
+      "author": ""
+    },
+  {
+      "title": "פרחי טייס מצריים מבריחים סמים",
+      "description": "",
+      "start_page": 172,
+      "author": ""
+    }
+  ]
+}

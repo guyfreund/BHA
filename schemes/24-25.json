@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "year": 1953,
+    "month": {
+      "from": "אוקטובר",
+      "to": "נובמבר"
+    },
+    "date_of_publish": "Thu Oct 01 15:11:07 UTC 1953",
+    "issue_number": "24-25",
+    "publisher": "חיל האויר",
+    "editor": "רב סרן משה פומרנץ",
+    "deputy_editor": "יהודה עופר",
+    "graphics_editor": "-",
+    "technical_editor": "-",
+    "price": {
+      "amount": 600,
+      "type": "פרוטה"
+    },
+    "photographers": [],
+    "system": "-",
+    "subscription_price": {
+      "amount": -1,
+      "type": ""
+    },
+    "number_of_pages": 196,
+    "subscription_only": false
+  },
+  "index": [
+    {
+      "title": "פקודת יום ליום השנה הששי לחיל",
+      "description": "",
+      "start_page": 2,
+      "author": ""
+    },
+    {
+      "title": "אגרת ברכה לישובי הספר הצעירים",
+      "description": "",
+      "start_page": 3,
+      "author": ""
+    },
+    {
+      "title": "בגליון זה",
+      "description": "",
+      "start_page": 4,
+      "author": ""
+    },
+    {
+      "title": "מטאורים כסופים באויר",
+      "description": "",
+      "start_page": 8,
+      "author": ""
+    },
+    {
+      "title": "תכונותיו של מטוס הקרב הסילוני",
+      "description": "",
+      "start_page": 17,
+      "author": ""
+    },
+    {
+      "title": "באויר העולם",
+      "description": "",
+      "start_page": 27,
+      "author": ""
+    },
+    {
+      "title": "תצלומים מספרים",
+      "description": "",
+      "start_page": 36,
+      "author": ""
+    },
+    {
+      "title": "התוכל לזהות מטוסים אלו?",
+      "description": "",
+      "start_page": 42,
+      "author": ""
+    },
+    {
+      "title": "שרה - להצלת טייסים אבודים",
+      "description": "",
+      "start_page": 44,
+      "author": ""
+    },
+    {
+      "title": "פורצי הסכרים",
+      "description": "",
+      "start_page": 45,
+      "author": ""
+    },
+    {
+      "title": "כיצד אומנו טייסי הלופטוופה",
+      "description": "",
+      "start_page": 52,
+      "author": ""
+    },
+    {
+      "title": "מפעלי ארליקון",
+      "description": "",
+      "start_page": 61,
+      "author": ""
+    },
+    {
+      "title": "המטוס המסורבל עם כל הנוחיות",
+      "description": "",
+      "start_page": 64,
+      "author": ""
+    },
+    {
+      "title": "המנוע הסילוני (4)",
+      "description": "",
+      "start_page": 71,
+      "author": ""
+    },
+    {
+      "title": "נווטות שמימית",
+      "description": "",
+      "start_page": 88,
+      "author": ""
+    },
+    {
+      "title": "ספיטפייר מעל האברסט",
+      "description": "",
+      "start_page":99,
+      "author": ""
+    },
+    {
+      "title": "מה פסול בתמונה זו?",
+      "description": "",
+      "start_page": 101,
+      "author": ""
+    },
+    {
+      "title": "הובי למבוגרים",
+      "description": "",
+      "start_page": 102,
+      "author": ""
+    },
+    {
+      "title": "ויכוח ממר על תקציב ח.א. האמריקני",
+      "description": "",
+      "start_page": 105,
+      "author": ""
+    },
+    {
+      "title": "גרמפ מטיף מוסר (בטחון טיסה)",
+      "description": "",
+      "start_page": 106,
+      "author": ""
+    },
+    {
+      "title": "בשמי המזרח הרחוק - תצלומים ממלחמת קוריאה",
+      "description": "",
+      "start_page": 109,
+      "author": ""
+    },
+    {
+      "title": "מחקר ופיתוח בח.א. האמריקני",
+      "description": "",
+      "start_page": 112,
+      "author": ""
+    },
+  {
+      "title": "בקרה טקטית בקוריאה",
+      "description": "",
+      "start_page": 115,
+      "author": ""
+    },
+  {
+      "title": "הטייס בחליפת-לחץ",
+      "description": "רפוטאז'ה בתצלומים",
+      "start_page": 120,
+      "author": ""
+    },
+  {
+      "title": "תוצאות חידון אוירי מס 1",
+      "description": "",
+      "start_page": 125,
+      "author": ""
+    },
+  {
+      "title": "אלה בעיני אלה",
+      "description": "",
+      "start_page": 130,
+      "author": ""
+    },
+  {
+      "title": "התשובה הנכונה",
+      "description": "",
+      "start_page": 144,
+      "author": ""
+    },
+  {
+      "title": "דאר אויר",
+      "description": "",
+      "start_page": 146,
+      "author": ""
+    },
+  {
+      "title": "עניבת פרפר בערב המפקד",
+      "description": "",
+      "start_page": 147,
+      "author": ""
+    },
+  {
+      "title": "בית חולים למכוניות",
+      "description": "",
+      "start_page": 150,
+      "author": ""
+    },
+      {
+      "title": "צוותות באבק",
+      "description": "",
+      "start_page": 154,
+      "author": ""
+    },
+      {
+      "title": "בשמי המזרח התיכון",
+      "description": "",
+      "start_page": 165,
+      "author": ""
+    }
+  ]
+}
