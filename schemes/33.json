@@ -2,11 +2,11 @@
   "metadata": {
     "year": 1955,
     "month": {
-      "from": "יוני",
-      "to": "יולי"
+      "from": "ספטמבר",
+      "to": "אוקטובר"
     },
     "date_of_publish": "Fri Jul 01 16:50:12 UTC 1955",
-    "issue_number": "32",
+    "issue_number": "33",
     "publisher": "חיל האויר",
     "editor": "רב סרן משה פומרנץ",
     "deputy_editor": "סגן יהודה עופר",
@@ -16,13 +16,24 @@
       "amount": 600,
       "type": "פרוטה"
     },
-    "photographers":  ["דוד מזרחי","יצחק כהן","יהודה ע.","יאן גרינברג"],
+    "photographers": [
+      "יסוף סקורטובסקי",
+      "מיכאל האן",
+      "שלמה כהנא",
+      "יאן גרינברג",
+      "יעקב בורנשטיין",
+      "ישראל בן שחר",
+      "ע. יהודה",
+      "מאיר שליפר",
+      "חיים ווינדהויז",
+      "בוריס רומן"
+    ],
     "system": "-",
     "subscription_price": {
       "amount": -1,
       "type": ""
     },
-    "number_of_pages": 178,
+    "number_of_pages": 154,
     "subscription_only": false
   },
   "index": [
@@ -33,165 +44,147 @@
       "author": ""
     },
     {
-      "title": "אצלנו בחיל",
+      "title": "מסליקים עד קונסטליישן",
       "description": "",
       "start_page": 6,
       "author": ""
     },
     {
-      "title": "על כנפי יתושים",
+      "title": "אצלנו בחיל",
       "description": "",
-      "start_page": 14,
+      "start_page": 11,
       "author": ""
     },
     {
-      "title": "צוק מצדה בסינרמה",
+      "title": "הדרך לשחקים",
+      "description": "",
+      "start_page": 18,
+      "author": ""
+    },
+    {
+      "title": "מפציצי מלחמת השחרור",
+      "description": "",
+      "start_page": 20,
+      "author": ""
+    },
+    {
+      "title": "האנשים המהירים ביותר בישראל",
+      "description": "",
+      "start_page": 25,
+      "author": ""
+    },
+    {
+      "title": "משחק המלכים מצמיח כנפיים",
       "description": "",
       "start_page": 30,
       "author": ""
     },
     {
-      "title": "פעולת הצלה אחת",
+      "title": "סלון פריז 55",
       "description": "",
-      "start_page": 36,
+      "start_page": 33,
       "author": ""
     },
     {
-      "title": "מה נשתנה בין סילונים נוצצים",
+      "title": "באוויר העולם",
       "description": "",
-      "start_page": 41,
-      "author": ""
-    },
-    {
-      "title": "באויר העולם",
-      "description": "",
-      "start_page": 49,
-      "author": ""
-    },
-    {
-      "title": "מטוסי הראפ מעל קרית חיים",
-      "description": "",
-      "start_page": 60,
+      "start_page": 48,
       "author": ""
     },
     {
       "title": "תצלומים מספרים",
       "description": "",
-      "start_page": 61,
+      "start_page": 60,
       "author": ""
     },
     {
-      "title": "הגשרים בטוקו-רי",
+      "title": "עלייתו ושקיעתו של נשק הנקם הגרמני (2)",
       "description": "",
       "start_page": 66,
       "author": ""
     },
     {
-      "title": "על מדפי ספריה ח'א",
+      "title": "כנפיים חדשות ברוסיה",
       "description": "",
-      "start_page": 77,
+      "start_page": 76,
       "author": ""
     },
     {
-      "title": "עליתו ונפילתו של נשק הנקם הגרמני",
+      "title": "אווירודינמיקה (14)",
       "description": "",
-      "start_page": 78,
+      "start_page": 82,
       "author": ""
     },
     {
-      "title": "סילונים מעל האוקינוס השקט",
+      "title": "חמרי המטוס (3)",
       "description": "",
-      "start_page": 87,
+      "start_page": 98,
       "author": ""
     },
     {
-      "title": "לצצטל זירסר רנדסד",
+      "title": "המנוע היסלוני (10)",
       "description": "",
-      "start_page": 90,
+      "start_page": 114,
       "author": ""
     },
     {
-      "title": "סוסי עבודה וסייחי מרוץ",
+      "title": "הבריטניה מופיעה",
       "description": "",
-      "start_page": 96,
+      "start_page": 121,
       "author": ""
     },
     {
-      "title": "כך מטאטאים את השחקים",
+      "title": "מחסום החום",
       "description": "",
-      "start_page":98,
+      "start_page": 124,
       "author": ""
     },
     {
-      "title": "חמרי המטוס (2)",
+      "title": "מר וון הו הנכבד",
       "description": "",
-      "start_page": 102,
+      "start_page": 128,
       "author": ""
     },
     {
-      "title": "מבנה המטוס - חיקוי למבנה קליפת הביצה (2)",
+      "title": "מטוסים בחיתולים",
       "description": "",
-      "start_page": 116,
+      "start_page": 130,
       "author": ""
     },
     {
-      "title": "אוירודינמיקה (13)",
+      "title": "בדרך לכוכבים",
       "description": "",
-      "start_page": 127,
+      "start_page": 132,
       "author": ""
     },
     {
-      "title": "נפל מגובה 18,000 רגל ללא מצנח",
+      "title": "עובדות על עישון",
+      "description": "",
+      "start_page": 135,
+      "author": ""
+    },
+    {
+      "title": "הצלח במדבר",
+      "description": "",
+      "start_page": 138,
+      "author": ""
+    },
+    {
+      "title": "בום קולי מהו",
       "description": "",
       "start_page": 143,
       "author": ""
     },
     {
-      "title": "גג העולם נכבש",
+      "title": "דאר אוויר",
       "description": "",
-      "start_page": 144,
+      "start_page": 150,
       "author": ""
     },
     {
-      "title": "חיל האויר האדום",
-      "description": "",
-      "start_page": 149,
-      "author": ""
-    },
-  {
-      "title": "חידון אוירי",
-      "description": "",
-      "start_page": 152,
-      "author": ""
-    },
-  {
-      "title": "מחסום ברקיע",
-      "description": "",
-      "start_page": 154,
-      "author": ""
-    },
-  {
-      "title": "הפצצתי מכוניתו של היטלר",
-      "description": "",
-      "start_page": 155,
-      "author": ""
-    },
-  {
-      "title": "קולונל סטאפ ו-35 הג'י שלו",
-      "description": "",
-      "start_page": 157,
-      "author": ""
-    },
-  {
-      "title": "דאר אויר",
-      "description": "",
-      "start_page": 159,
-      "author": ""
-    },
-   {
       "title": "בשמי המזרח התיכון",
       "description": "",
-      "start_page": 161,
+      "start_page": 154,
       "author": ""
     }
   ]
