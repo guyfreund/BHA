@@ -58,10 +58,12 @@ def main():
             from_month, to_month = handle_month()
             scheme["metadata"]["month"] = {"from": from_month, "to": to_month}
         elif field == "price":
+            print("price")
             scheme["metadata"]["price"] = {"amount": float(input("amount: ")), "type": input("type: ")}
         elif field == "photographers":
             scheme["metadata"]["photographers"] = handle_photographers()
         elif field == "subscription_price":
+            print("subscription_price")
             scheme["metadata"]["subscription_price"] = {"amount": float(input("amount: ")), "type": input("type: ")}
         elif field == "number_of_pages":
             scheme["metadata"]["number_of_pages"] = int(input("number_of_pages: "))
