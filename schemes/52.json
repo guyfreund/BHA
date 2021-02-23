@@ -1,0 +1,208 @@
+{
+    "metadata": {
+        "issue_number": "52",
+        "year": "1960",
+        "month": {
+            "from": "יולי",
+            "to": "אוגוסט"
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סרן יהודה עופר",
+        "price": {
+            "amount": "",
+            "type": ""
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "שעשוע אריה",
+            "הנדלמן חיים",
+            "אשנכזי צבי",
+            "טובל שמואל",
+            "ביו נסים",
+            "קרול דויטש"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 174,
+        "subscription_only": true
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "פקודת יום של מפקד חיל האויר",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "המבצע העלום של סיני",
+            "description": "",
+            "start_page": 6,
+            "author": "מץ הדר וי.עופר"
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 19,
+            "author": ""
+        },
+        {
+            "title": "הספיטים מגיעים!",
+            "description": "",
+            "start_page": 24,
+            "author": "אל״מ בנימין קגן"
+        },
+        {
+            "title": "כל הנ״ל ועוד משהו...",
+            "description": "",
+            "start_page": 37,
+            "author": "יעקב טרנר"
+        },
+        {
+            "title": "כוונת לשחקים",
+            "description": "",
+            "start_page": 45,
+            "author": "רענן לוריא"
+        },
+        {
+            "title": "פרקי יומן גאגאי",
+            "description": "",
+            "start_page": 56,
+            "author": "סגן ראובן אייל"
+        },
+        {
+            "title": "הינדוסטן ״ט-2״",
+            "description": "",
+            "start_page": 59,
+            "author": ""
+        },
+        {
+            "title": "דוגלס באדר בח״א של גאנה",
+            "description": "",
+            "start_page": 60,
+            "author": ""
+        },
+        {
+            "title": "האולפן החילי לקיבוץ גלויות",
+            "description": "",
+            "start_page": 62,
+            "author": "יעקב בן-אמיר"
+        },
+        {
+            "title": "כמה גיגה יש בטארה?",
+            "description": "",
+            "start_page": 66,
+            "author": ""
+        },
+        {
+            "title": "מה! גם זה טס?",
+            "description": "",
+            "start_page": 67,
+            "author": ""
+        },
+        {
+            "title": "ילדי דמיונו של מיסטר בנסן",
+            "description": "",
+            "start_page": 75,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 80,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "תעלומה ושמה ״יו-2״",
+            "description": "",
+            "start_page": 84,
+            "author": ""
+        },
+        {
+            "title": "החלל התמלא",
+            "description": "",
+            "start_page": 91,
+            "author": ""
+        },
+        {
+            "title": "כל טילי העולם",
+            "description": "",
+            "start_page": 100,
+            "author": ""
+        },
+        {
+            "title": "נא להכיר: ״מיסטר לינק״ איש הלינקים",
+            "description": "",
+            "start_page": 120,
+            "author": ""
+        },
+        {
+            "title": "קל ומשובח",
+            "description": "",
+            "start_page": 122,
+            "author": ""
+        },
+        {
+            "title": "סיפורה המופלא של ״הליידי הגדולה״",
+            "description": "",
+            "start_page": 127,
+            "author": "י. עופר"
+        },
+        {
+            "title": "אקס-15 - לקראת מהירות מאך 6",
+            "description": "",
+            "start_page": 144,
+            "author": ""
+        },
+        {
+            "title": "תצלומים מספרים",
+            "description": "",
+            "start_page": 148,
+            "author": ""
+        },
+        {
+            "title": "פרטים: ״נורמנדי-ניימן״",
+            "description": "",
+            "start_page": 154,
+            "author": ""
+        },
+        {
+            "title": "״סטירות בקו״ מונחתות ע״י ויקי",
+            "description": "",
+            "start_page": 157,
+            "author": ""
+        },
+        {
+            "title": "פוטיט והמפציץ הגדול",
+            "description": "",
+            "start_page": 161,
+            "author": ""
+        },
+        {
+            "title": "״לכלוך״ אוירודינמי",
+            "description": "",
+            "start_page": 164,
+            "author": "ד״ר יוסף זינגר"
+        },
+        {
+            "title": "לקראת כיבוש הירח",
+            "description": "",
+            "start_page": 169,
+            "author": ""
+        },
+        {
+            "title": "מיסראר מטיסה סילונים",
+            "description": "",
+            "start_page": 174,
+            "author": ""
+        }
+    ]
+}
