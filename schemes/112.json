@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "issue_number": "112",
+        "year": "1979",
+        "month": {
+            "from": "אוגוסט",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 15.0,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר"
+        ],
+        "subscription_price": {
+            "amount": 80.0,
+            "type": "ל״י"
+        },
+        "number_of_pages": 56,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "הערכות חדשות למניעת מלחמה",
+            "description": "ראיון עם מפקד חיל-האויר, אלוף דוד עברי",
+            "start_page": 3,
+            "author": ""
+        },
+        {
+            "title": "פרסום ראשון: הוקאיי, קוברה, הוק משופר, רד-איי",
+            "description": "",
+            "start_page": 6,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 11,
+            "author": ""
+        },
+        {
+            "title": "כך הופצץ המטכ״ל הסורי",
+            "description": "",
+            "start_page": 13,
+            "author": "רון הדר"
+        },
+        {
+            "title": "המבחן האמיתי הראשון שלי",
+            "description": "",
+            "start_page": 15,
+            "author": "סרן ע׳"
+        },
+        {
+            "title": "״אייס״ מארץ ה״אייסים״",
+            "description": "",
+            "start_page": 17,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "שתים-עשרה הנועזות",
+            "description": "",
+            "start_page": 20,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "דור חדש למטוסי-אימון (ב׳)",
+            "description": "",
+            "start_page": 26,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "כשהאוירונים היו מעץ",
+            "description": "",
+            "start_page": 29,
+            "author": ""
+        },
+        {
+            "title": "שלום לאל-עריש",
+            "description": "",
+            "start_page": 37,
+            "author": ""
+        },
+        {
+            "title": "מעבר למחיצות האיבה",
+            "description": "",
+            "start_page": 49,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "העיקר לנטרל את המרעום",
+            "description": "",
+            "start_page": 52,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "היה היו 4 פרחים...",
+            "description": "",
+            "start_page": 54,
+            "author": "סא״ל א׳"
+        },
+        {
+            "title": "שתי דקות לאחר תחילת הקרב הוריתי להפסיקו",
+            "description": "",
+            "start_page": 56,
+            "author": "אהרון לפידות"
+        }
+    ]
+}

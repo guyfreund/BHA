@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "issue_number": "115",
+        "year": "1980",
+        "month": {
+            "from": "פברואר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "סא״ל אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 30.0,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "מיכה בר-עם",
+            "יחידת צילום אוירי חיל האויר"
+        ],
+        "subscription_price": {
+            "amount": 150.0,
+            "type": "ל״י"
+        },
+        "number_of_pages": 57,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "מפילי המיגים ושות׳",
+            "description": "",
+            "start_page": 3,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "פרידה מרפידים:",
+            "description": "",
+            "start_page": "",
+            "author": ""
+        },
+        {
+            "title": "המבצע הלוגיסטי הגדול ביותר",
+            "description": "",
+            "start_page": 9,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "תריסר שנים לאחור",
+            "description": "",
+            "start_page": 11,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "״לא הרסנו - וויתרנו לשלום״",
+            "description": "",
+            "start_page": 14,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "הם היו חלוצים",
+            "description": "",
+            "start_page": 17,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "טייסי הקרב לא הותשו",
+            "description": "",
+            "start_page": 21,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "חמש שנים ראשונות",
+            "description": "",
+            "start_page": 24,
+            "author": ""
+        },
+        {
+            "title": "אפשר גם בלי קוויאר",
+            "description": "",
+            "start_page": 27,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "הזנקות תחת אש",
+            "description": "",
+            "start_page": 28,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "״פתאום היו השמיים נקיים לגמרי ממיגים״",
+            "description": "",
+            "start_page": 34,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "מפקדי רפידים מספרים (א׳)",
+            "description": "",
+            "start_page": 38,
+            "author": ""
+        },
+        {
+            "title": "אי-שם במדבר",
+            "description": "ֿ",
+            "start_page": 34,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "מפקדי רפידים מספרים (ב׳)",
+            "description": "",
+            "start_page": 46,
+            "author": ""
+        },
+        {
+            "title": "מיתוסים ב״מערב הפרוע״",
+            "description": "",
+            "start_page": 49,
+            "author": "סרן א׳"
+        },
+        {
+            "title": "התראות קצרות - פגיעות רבות",
+            "description": "",
+            "start_page": 52,
+            "author": "רון הדר"
+        },
+        {
+            "title": "האדם חשוב מהשטח",
+            "description": "",
+            "start_page": 54,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "המירוץ אל הנפט (ב׳)",
+            "description": "",
+            "start_page": 57,
+            "author": "יוסף בודנסקי"
+        }
+    ]
+}

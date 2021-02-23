@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "issue_number": "116",
+        "year": "1980",
+        "month": {
+            "from": "אפריל",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "סא״ל אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 3.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "יחידת צילום אוירי"
+        ],
+        "subscription_price": {
+            "amount": 15.0,
+            "type": "שקל"
+        },
+        "number_of_pages": 60,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "קיבוץ וותיק של כפירים",
+            "description": "",
+            "start_page": 3,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "לא מאבדים את הצפון",
+            "description": "",
+            "start_page": 8,
+            "author": "רון הדר"
+        },
+        {
+            "title": "חישולו של טייס-קרב",
+            "description": "",
+            "start_page": 12,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 17,
+            "author": ""
+        },
+        {
+            "title": "השוחרים את הטכני",
+            "description": "",
+            "start_page": 21,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "ניסוי מואץ לבדיקת כושר המנוע",
+            "description": "",
+            "start_page": 24,
+            "author": "זאב סגל"
+        },
+        {
+            "title": "אלף בעייה ובעייה",
+            "description": "",
+            "start_page": 27,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "לזכור חסד נעורים",
+            "description": "",
+            "start_page": 30,
+            "author": "מירב הלפרין / יוסף בודנסקי"
+        },
+        {
+            "title": "טווחים ארוכים - גבהים גדולים",
+            "description": "",
+            "start_page": 35,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "המשפחה התוקפנית של הפלוגר",
+            "description": "",
+            "start_page": 41,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 45,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "הנשמה היתירה של הלאנקאסטר",
+            "description": "",
+            "start_page": 48,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "עניין של מנטאליות",
+            "description": "",
+            "start_page": 52,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 54,
+            "author": ""
+        },
+        {
+            "title": "תעופה זה גם דבר מצחיק",
+            "description": "",
+            "start_page": 5,
+            "author": "אורי יפה"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 56,
+            "author": ""
+        },
+        {
+            "title": "מכתבים",
+            "description": "",
+            "start_page": 59,
+            "author": ""
+        },
+        {
+            "title": "מדור הדגמים",
+            "description": "",
+            "start_page": 60,
+            "author": "אשר רוט"
+        }
+    ]
+}

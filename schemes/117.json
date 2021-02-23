@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "issue_number": "117",
+        "year": "1980",
+        "month": {
+            "from": "יוני",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "סא״ל אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 3.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר"
+        ],
+        "subscription_price": {
+            "amount": 15.0,
+            "type": "שקל"
+        },
+        "number_of_pages": 57,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "כל משימה בכל שעה",
+            "description": "",
+            "start_page": 3,
+            "author": "אהרון לפידות ורון הדר"
+        },
+        {
+            "title": "חלוץ המבצעים המשולבים",
+            "description": "",
+            "start_page": 9,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "הכוח המניע של המנועים החדישים",
+            "description": "",
+            "start_page": 23,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "100 שנות היסטוריה אוירית",
+            "description": "",
+            "start_page": 29,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "הר.א.פ. לשנות השמונים",
+            "description": "",
+            "start_page": 32,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 35,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "הלופטוואפה - צי הבריטי 0:1",
+            "description": "",
+            "start_page": 39,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "המשפחה התוקפנית של הפלוגר (ב׳)",
+            "description": "",
+            "start_page": 42,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 47,
+            "author": ""
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 48,
+            "author": ""
+        },
+        {
+            "title": "מכתבים",
+            "description": "",
+            "start_page": 50,
+            "author": ""
+        },
+        {
+            "title": "מדור הדגמים",
+            "description": "",
+            "start_page": 51,
+            "author": "אשר רוט"
+        },
+        {
+            "title": "לא מפסיקים משימה באמצע",
+            "description": "",
+            "start_page": 52,
+            "author": ""
+        },
+        {
+            "title": "לשמור על הפתעה ודבקות במטרה",
+            "description": "",
+            "start_page": 54,
+            "author": "ד״ר מרטין ון קרפלד"
+        },
+        {
+            "title": "יום ששי אחד בירושלים",
+            "description": "",
+            "start_page": 57,
+            "author": "אבישי"
+        }
+    ]
+}
