@@ -1,0 +1,239 @@
+{
+    "metadata": {
+        "issue_number": "94",
+        "year": "1974",
+        "month": {
+            "from": "אוגוסט",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 5.5,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "נחום גוטמן"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 158,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "חתול השחקים",
+            "description": "",
+            "start_page": 5,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "בעד ונגד ה״טומקט״",
+            "description": "",
+            "start_page": 9,
+            "author": "עמוס עשת"
+        },
+        {
+            "title": "פ-15",
+            "description": "",
+            "start_page": 17,
+            "author": "דון קרסון"
+        },
+        {
+            "title": "פ-16",
+            "description": "",
+            "start_page": 22,
+            "author": ""
+        },
+        {
+            "title": "פ-17, יורש נאמן",
+            "description": "",
+            "start_page": 24,
+            "author": "ע. עמית"
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 28,
+            "author": ""
+        },
+        {
+            "title": "צ׳אפארל ותותח וולקן",
+            "description": "",
+            "start_page": 30,
+            "author": ""
+        },
+        {
+            "title": "הסימפוניה תגיע לסיומה",
+            "description": "",
+            "start_page": 32,
+            "author": ""
+        },
+        {
+            "title": "הציונות בשבילי היא שמים נקיים",
+            "description": "",
+            "start_page": 36,
+            "author": ""
+        },
+        {
+            "title": "להיות טייס ירוט",
+            "description": "",
+            "start_page": 38,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "הגב האלקטרוני של ח״א",
+            "description": "",
+            "start_page": 42,
+            "author": ""
+        },
+        {
+            "title": "האנשים ש״חתמו״ על חיל האויר",
+            "description": "",
+            "start_page": 50,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "הפייפר הפייטר",
+            "description": "",
+            "start_page": 54,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "איך להצליח כצוות הווי",
+            "description": "",
+            "start_page": 62,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "אנשים מול טילים",
+            "description": "",
+            "start_page": 65,
+            "author": "גיטה יפה"
+        },
+        {
+            "title": "ה״בל״ הקטן - הגדול",
+            "description": "",
+            "start_page": 74,
+            "author": ""
+        },
+        {
+            "title": "האגדה לבית פוקסבט",
+            "description": "",
+            "start_page": 76,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "טיל נגד פוקסבט",
+            "description": "",
+            "start_page": 79,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 82,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "מיג-23 בשמי סוריה",
+            "description": "",
+            "start_page": 101,
+            "author": ""
+        },
+        {
+            "title": "המסוק כאוייב הטנק",
+            "description": "",
+            "start_page": 104,
+            "author": ""
+        },
+        {
+            "title": "חידון זהוי: סוחוי 7",
+            "description": "",
+            "start_page": 106,
+            "author": ""
+        },
+        {
+            "title": "סי קינג ולינקס למצרים",
+            "description": "",
+            "start_page": 108,
+            "author": ""
+        },
+        {
+            "title": "חיל האויר של הממלכה ההאשמית",
+            "description": "",
+            "start_page": 112,
+            "author": ""
+        },
+        {
+            "title": "הענק הרוסי היה מחופש",
+            "description": "",
+            "start_page": 115,
+            "author": ""
+        },
+        {
+            "title": "עיני הלילה של הצי השישי",
+            "description": "",
+            "start_page": 118,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "כנפים משונות אלו - היטוסו?",
+            "description": "",
+            "start_page": 121,
+            "author": ""
+        },
+        {
+            "title": "עולם על גלים",
+            "description": "",
+            "start_page": 127,
+            "author": "מ. יוסף"
+        },
+        {
+            "title": "הסיגר המעופף",
+            "description": "",
+            "start_page": 131,
+            "author": "אבי אלדד"
+        },
+        {
+            "title": "טייסי השרירים",
+            "description": "",
+            "start_page": 136,
+            "author": "פאול וול"
+        },
+        {
+            "title": "ספורט חדש: גלישת דאייה",
+            "description": "",
+            "start_page": 140,
+            "author": ""
+        },
+        {
+            "title": "מלח יוצא לטיסה",
+            "description": "",
+            "start_page": 144,
+            "author": ""
+        },
+        {
+            "title": "המשימה: טיסה אל ״הבית״",
+            "description": "",
+            "start_page": 148,
+            "author": ""
+        },
+        {
+            "title": "האיש משנגרי-לה",
+            "description": "",
+            "start_page": 153,
+            "author": ""
+        },
+        {
+            "title": "טרגדיה ושמה סיציליה",
+            "description": "",
+            "start_page": 158,
+            "author": "דניס מק-קלנדון"
+        }
+    ]
+}

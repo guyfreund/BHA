@@ -1,0 +1,202 @@
+{
+    "metadata": {
+        "issue_number": "95",
+        "year": "1974",
+        "month": {
+            "from": "דצמבר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 7.0,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 158,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "מח״טים ישראליים בשמי ערב הנונממניקים",
+            "description": "",
+            "start_page": 4,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "הזחל״מים העוקצניים",
+            "description": "",
+            "start_page": 16,
+            "author": ""
+        },
+        {
+            "title": "הפלפלים הממולאים של שאול",
+            "description": "",
+            "start_page": 22,
+            "author": ""
+        },
+        {
+            "title": "מפילים מטוסים ומטביעים ספינות",
+            "description": "",
+            "start_page": 26,
+            "author": ""
+        },
+        {
+            "title": "ארבעה במחי בוחן",
+            "description": "",
+            "start_page": 30,
+            "author": ""
+        },
+        {
+            "title": "אירועים קטנים ואנשים גדולים",
+            "description": "",
+            "start_page": 32,
+            "author": ""
+        },
+        {
+            "title": "כאן אין מדי חורף",
+            "description": "",
+            "start_page": 35,
+            "author": "רזי גוטרמן"
+        },
+        {
+            "title": "מוכרחים להמשיך לנגן",
+            "description": "",
+            "start_page": 42,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "העינים של ישראל",
+            "description": "",
+            "start_page": 46,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "פנטום - סיכום ביניים",
+            "description": "",
+            "start_page": 53,
+            "author": "צבי טוב"
+        },
+        {
+            "title": "הנווט, אדריכל הגיחה",
+            "description": "",
+            "start_page": 58,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 66,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "ואלה שיאי העולם",
+            "description": "",
+            "start_page": 97,
+            "author": ""
+        },
+        {
+            "title": "גנרלים רוקדים הורה",
+            "description": "",
+            "start_page": 99,
+            "author": ""
+        },
+        {
+            "title": "שלושה ימים וטייסת",
+            "description": "",
+            "start_page": 102,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "זהוי מטוסים: חידון צמדים",
+            "description": "",
+            "start_page": 107,
+            "author": ""
+        },
+        {
+            "title": "מיג 21",
+            "description": "",
+            "start_page": 108,
+            "author": ""
+        },
+        {
+            "title": "חידון מעורב",
+            "description": "",
+            "start_page": 110,
+            "author": ""
+        },
+        {
+            "title": "חיה מעופפת ושמה קוברה",
+            "description": "",
+            "start_page": 111,
+            "author": "גיטה יפה"
+        },
+        {
+            "title": "בטלה לברכה",
+            "description": "",
+            "start_page": 118,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "ספינות האויר האטומיות",
+            "description": "",
+            "start_page": 125,
+            "author": ""
+        },
+        {
+            "title": "עינו של האח הגדול",
+            "description": "",
+            "start_page": 129,
+            "author": "גיטה יפה"
+        },
+        {
+            "title": "פ-14 נגד פ-15",
+            "description": "",
+            "start_page": 136,
+            "author": ""
+        },
+        {
+            "title": "טילי סא-6",
+            "description": "",
+            "start_page": 140,
+            "author": ""
+        },
+        {
+            "title": "מיראז׳ פ.1",
+            "description": "",
+            "start_page": 141,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "״הורמונים״ רוסיים בתעלת סואץ",
+            "description": "",
+            "start_page": 146,
+            "author": ""
+        },
+        {
+            "title": "פרנבורו 74",
+            "description": "",
+            "start_page": 149,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "״מוץ״ אינו תבן",
+            "description": "",
+            "start_page": 155,
+            "author": ""
+        },
+        {
+            "title": "VFAX - מי יבנה אותו?",
+            "description": "",
+            "start_page": 158,
+            "author": ""
+        }
+    ]
+}

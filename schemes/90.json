@@ -1,0 +1,166 @@
+{
+    "metadata": {
+        "issue_number": "90",
+        "year": "1973",
+        "month": {
+            "from": "אפריל",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 3.5,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 158,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "פנטום - ״רוח הרפאים״ הנוראה",
+            "description": "",
+            "start_page": 6,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "סיקורסקי - גם טייסת הליקופטרים היא טייסת קרב",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "סקייהוק - ״סוס עבודה״, אבל איזה סוס...",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 23,
+            "author": ""
+        },
+        {
+            "title": "״תופעה״ ושמה דודה לאה",
+            "description": "",
+            "start_page": 28,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "חיל האויר בעינים זרות",
+            "description": "",
+            "start_page": 33,
+            "author": "מרטין מילר"
+        },
+        {
+            "title": "טייס אמריקני על הפ-4אי",
+            "description": "",
+            "start_page": 42,
+            "author": "ה.א. ביאלונסקי"
+        },
+        {
+            "title": "מטוס נוסעים זה אינו נוחת לעולם",
+            "description": "",
+            "start_page": 49,
+            "author": ""
+        },
+        {
+            "title": "המאזן הצבאי במזה״ת",
+            "description": "",
+            "start_page": 50,
+            "author": ""
+        },
+        {
+            "title": "וויטנאם, השמים רגועים",
+            "description": "",
+            "start_page": 56,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "היורדים לקרב",
+            "description": "",
+            "start_page": 66,
+            "author": ""
+        },
+        {
+            "title": "מטוסים בשמי גליפולי",
+            "description": "",
+            "start_page": 78,
+            "author": "אבי אלדד"
+        },
+        {
+            "title": "רחוקים מתהילה",
+            "description": "",
+            "start_page": 82,
+            "author": ""
+        },
+        {
+            "title": "אפולו, תחנה סופית?",
+            "description": "",
+            "start_page": 97,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "השפעות עמוקות בנפשותיהם של האסטרונאוטים",
+            "description": "",
+            "start_page": 98,
+            "author": ""
+        },
+        {
+            "title": "הכל אודות הקונקורד",
+            "description": "",
+            "start_page": 108,
+            "author": ""
+        },
+        {
+            "title": "עיני המכ״ם של המיירטים הרוסיים",
+            "description": "",
+            "start_page": 116,
+            "author": ""
+        },
+        {
+            "title": "זהוי מטוסים",
+            "description": "",
+            "start_page": 118,
+            "author": ""
+        },
+        {
+            "title": "א-10, מטוס התקיפה של העתיד",
+            "description": "",
+            "start_page": 121,
+            "author": ""
+        },
+        {
+            "title": "שליחתו האוירית של הנשיא ג׳ונסון",
+            "description": "",
+            "start_page": 129,
+            "author": ""
+        },
+        {
+            "title": "ציור קיר המספר היסטוריה",
+            "description": "",
+            "start_page": 141,
+            "author": ""
+        },
+        {
+            "title": "רובינסון קרוזו מ״שדרות המיג״",
+            "description": "",
+            "start_page": 142,
+            "author": ""
+        },
+        {
+            "title": "מיני-קטנוע למטוס",
+            "description": "",
+            "start_page": 158,
+            "author": ""
+        }
+    ]
+}

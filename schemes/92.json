@@ -1,0 +1,245 @@
+{
+    "metadata": {
+        "issue_number": "92",
+        "year": "1974",
+        "month": {
+            "from": "ינואר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 6.0,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "נחום גוטמן"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 217,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "״בטאון חיל האויר בקרב״:",
+            "description": "",
+            "start_page": "",
+            "author": ""
+        },
+        {
+            "title": "גליון 1",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "גליון 2",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "גליון 3",
+            "description": "",
+            "start_page": 14,
+            "author": ""
+        },
+        {
+            "title": "גליון 4",
+            "description": "",
+            "start_page": 22,
+            "author": ""
+        },
+        {
+            "title": "גליון 5",
+            "description": "",
+            "start_page": 28,
+            "author": ""
+        },
+        {
+            "title": "גליון 6",
+            "description": "",
+            "start_page": 40,
+            "author": ""
+        },
+        {
+            "title": "גליון 7",
+            "description": "",
+            "start_page": 55,
+            "author": ""
+        },
+        {
+            "title": "גליון 8",
+            "description": "",
+            "start_page": 64,
+            "author": ""
+        },
+        {
+            "title": "גליון 9",
+            "description": "",
+            "start_page": 71,
+            "author": ""
+        },
+        {
+            "title": "גליון 10",
+            "description": "",
+            "start_page": 79,
+            "author": ""
+        },
+        {
+            "title": "גליון 11",
+            "description": "",
+            "start_page": 92,
+            "author": ""
+        },
+        {
+            "title": "גליון 12",
+            "description": "",
+            "start_page": 99,
+            "author": ""
+        },
+        {
+            "title": "גליון 13",
+            "description": "",
+            "start_page": 106,
+            "author": ""
+        },
+        {
+            "title": "גליון 14",
+            "description": "",
+            "start_page": 116,
+            "author": ""
+        },
+        {
+            "title": "גליון 15",
+            "description": "",
+            "start_page": 131,
+            "author": ""
+        },
+        {
+            "title": "גליון 16",
+            "description": "",
+            "start_page": 141,
+            "author": ""
+        },
+        {
+            "title": "גליון 17",
+            "description": "",
+            "start_page": 148,
+            "author": ""
+        },
+        {
+            "title": "גליון 18",
+            "description": "",
+            "start_page": 156,
+            "author": ""
+        },
+        {
+            "title": "גליון 19",
+            "description": "",
+            "start_page": 165,
+            "author": ""
+        },
+        {
+            "title": "גליון 20",
+            "description": "",
+            "start_page": 172,
+            "author": ""
+        },
+        {
+            "title": "הנשק של יום הדין",
+            "description": "",
+            "start_page": 182,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "ח״א לחץ במלוא עוצמתו",
+            "description": "",
+            "start_page": 188,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "השקט שאחרי",
+            "description": "",
+            "start_page": 189,
+            "author": "ארנון ברוך"
+        },
+        {
+            "title": "ושבו בנים לגבולם",
+            "description": "",
+            "start_page": 190,
+            "author": ""
+        },
+        {
+            "title": "בסערת רוחות הרפאים",
+            "description": "",
+            "start_page": 192,
+            "author": "מ. יוסף"
+        },
+        {
+            "title": "הנצים עטו על טרפם",
+            "description": "",
+            "start_page": 194,
+            "author": ""
+        },
+        {
+            "title": "המלחמה הראי עיתונות העולם",
+            "description": "",
+            "start_page": "",
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "סיוע סובייטי סיפק את הניצוץ",
+            "description": "",
+            "start_page": 196,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "מטוסים וטילים בקרב מפתח",
+            "description": "",
+            "start_page": 199,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "יחסי כוחות האויר",
+            "description": "",
+            "start_page": 201,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "מטוסים רוסיים ואמריקניים טסו באותו נתיב",
+            "description": "",
+            "start_page": 206,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "רכבות האויר הגדולות בהיסטוריה",
+            "description": "",
+            "start_page": 210,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "ארה״ב מציידת את ישראל",
+            "description": "",
+            "start_page": 212,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "ח״א - הכוח המכריח במלחמה",
+            "description": "",
+            "start_page": 214,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "הסא-6, פשוט ויעיל",
+            "description": "",
+            "start_page": 217,
+            "author": "יהודה עופר"
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "metadata": {
+        "issue_number": "93",
+        "year": "1974",
+        "month": {
+            "from": "אפריל",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 5.0,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "מיכה בר-עם"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 159,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "טייסת קרב במלחמה",
+            "description": "",
+            "start_page": 4,
+            "author": "יצחק זמיר"
+        },
+        {
+            "title": "רשמים אישיים",
+            "description": "",
+            "start_page": 13,
+            "author": "גד אולמן"
+        },
+        {
+            "title": "שלום לך, פאיד",
+            "description": "",
+            "start_page": 22,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "טייסים מספרים",
+            "description": "",
+            "start_page": 32,
+            "author": "ארנון ברוך"
+        },
+        {
+            "title": "ההרקולסים",
+            "description": "",
+            "start_page": 34,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "הסופר פרלונים",
+            "description": "",
+            "start_page": 40,
+            "author": ""
+        },
+        {
+            "title": "כזבים בכחול",
+            "description": "",
+            "start_page": 45,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "רכבת החופש",
+            "description": "",
+            "start_page": 48,
+            "author": ""
+        },
+        {
+            "title": "בחזרה לטייסת",
+            "description": "",
+            "start_page": 50,
+            "author": "רזי גוטרמן"
+        },
+        {
+            "title": "הסופרמרקט הזעיר להצלה",
+            "description": "",
+            "start_page": 52,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "המשימה: נטישה ופגישה",
+            "description": "",
+            "start_page": 55,
+            "author": ""
+        },
+        {
+            "title": "בדרך לקוממיות",
+            "description": "",
+            "start_page": 60,
+            "author": ""
+        },
+        {
+            "title": "מפציצי מלחמת השחרור",
+            "description": "",
+            "start_page": 63,
+            "author": "זאב סגל"
+        },
+        {
+            "title": "הקלף הערבי במלחמת 20 הימים",
+            "description": "",
+            "start_page": 74,
+            "author": ""
+        },
+        {
+            "title": "לך בעקבותי",
+            "description": "",
+            "start_page": 79,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 84,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "מה נשמע בנ״מ",
+            "description": "",
+            "start_page": 101,
+            "author": ""
+        },
+        {
+            "title": "פ-5אי, הנמר של ״נורתרופ״",
+            "description": "",
+            "start_page": 105,
+            "author": ""
+        },
+        {
+            "title": "קטרים חדשים לרכבת האויר",
+            "description": "",
+            "start_page": 110,
+            "author": ""
+        },
+        {
+            "title": "הכר את הגלאכסי - חידון זהוי מטוסים",
+            "description": "",
+            "start_page": 114,
+            "author": ""
+        },
+        {
+            "title": "חגור, מקלע ו...טיל אישי",
+            "description": "",
+            "start_page": 116,
+            "author": ""
+        },
+        {
+            "title": "השטיח המעופף שלך השח",
+            "description": "",
+            "start_page": 121,
+            "author": ""
+        },
+        {
+            "title": "אויבו הקטלני של הטנק",
+            "description": "",
+            "start_page": 127,
+            "author": ""
+        },
+        {
+            "title": "חיל האויר של דרום אפריקה",
+            "description": "",
+            "start_page": 131,
+            "author": "ע. עמית"
+        },
+        {
+            "title": "טילים להדברת מערכי נ״מ",
+            "description": "",
+            "start_page": 136,
+            "author": ""
+        },
+        {
+            "title": "מאזן טילי האימה",
+            "description": "",
+            "start_page": 142,
+            "author": ""
+        },
+        {
+            "title": "הניתן למנוע התקפות?",
+            "description": "",
+            "start_page": 146,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "חטיפות, פיצוצים והתקפות-רצח",
+            "description": "",
+            "start_page": 149,
+            "author": ""
+        },
+        {
+            "title": "פלויאשטי",
+            "description": "",
+            "start_page": 152,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "ההרקולס של הוורד יוז",
+            "description": "",
+            "start_page": 159,
+            "author": ""
+        }
+    ]
+}
