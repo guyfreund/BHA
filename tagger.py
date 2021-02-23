@@ -3,12 +3,12 @@ import os
 
 
 def handle_month():
-    one_month = input("\nOne month? Y/N ").lower()
+    one_month = input("One month? Y/N ").lower()
     if one_month:
-        return input("\nmonth: "), ""
+        return input("month: "), ""
     else:
-        from_month = input("\nfrom: ")
-        to_month = input("\nto: ")
+        from_month = input("from: ")
+        to_month = input("to: ")
         return from_month, to_month
 
 
@@ -46,22 +46,22 @@ def main():
     scheme = json_read("scheme.json")
     issue = {}
 
-    for field in scheme:
+    for field in scheme["metadata"]:
         if field == "month":
             from_month, to_month = handle_month()
-            scheme["month"] = {"from": from_month, "to": to_month}
+            scheme["metadata"]["month"] = {"from": from_month, "to": to_month}
         elif field == "price":
-            scheme["price"] = {"amount": float(input("\namount: ")), "type": input("\ntype: ")}
+            scheme["metadata"]["price"] = {"amount": float(input("amount: ")), "type": input("type: ")}
         elif field == "photographers":
-            scheme["photographers"] = handle_photographers()
+            scheme["metadata"]["photographers"] = handle_photographers()
         elif field == "subscription_price":
-            scheme["subscription_price"] = {"amount": float(input("\namount: ")), "type": input("\ntype: ")}
-        elif field == "index":
-            scheme["index"] = handle_index()
+            scheme["metadata"]["subscription_price"] = {"amount": float(input("amount: ")), "type": input("type: ")}
         elif field == "number_of_pages":
-            scheme["number_of_pages"] = int(input("number_of_pages: "))
+            scheme["metadata"]["number_of_pages"] = int(input("number_of_pages: "))
         else:
-            scheme[field] = input(f"{field}: ")
+            scheme["metadata"][field] = input(f"{field}: ")
+
+    scheme["index"] = handle_index()
 
     json_write(os.path.join("schemes", f"{issue['issue_number'].json}"), issue)
 
