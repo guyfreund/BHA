@@ -3,8 +3,8 @@ import os
 
 
 def handle_month():
-    one_month = input("One month? Y/N ").lower()
-    if one_month == 'y':
+    one_month = input("One month? כ/ל ").lower()
+    if one_month in ['כ', 'כן']:
         return input("month: "), ""
     else:
         from_month = input("from: ")
@@ -43,8 +43,8 @@ def handle_index():
 
 
 def handle_subscription_only():
-    ans = input("subscription only? T/F").lower()
-    if ans in ['t', 'true']:
+    ans = input("subscription only? כ/ל").lower()
+    if ans in ['כ', 'כן']:
         return True
     return False
 
