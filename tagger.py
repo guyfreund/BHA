@@ -61,33 +61,37 @@ def main():
     scheme = json_read("scheme.json")
     issue = {}
 
-    for field in scheme["metadata"]:
-        if field == "month":
-            from_month, to_month = handle_month()
-            scheme["metadata"]["month"] = {"from": from_month, "to": to_month}
-        elif field == "price":
-            print("price")
-            amount, coin_type = handle_price()
-            scheme["metadata"]["price"] = {"amount": amount, "type": coin_type}
-        elif field == "photographers":
-            scheme["metadata"]["photographers"] = handle_photographers()
-        elif field == "subscription_price":
-            print("subscription_price")
-            amount, coin_type = handle_price()
-            scheme["metadata"]["subscription_price"] = {"amount": amount, "type": coin_type}
-        elif field == "number_of_pages":
-            num = input("number_of_pages: ")
-            if num and num.isdigit():
-                num = int(num)
-            scheme["metadata"]["number_of_pages"] = num
-        elif field == "subscription_only":
-            scheme["metadata"]["subscription_only"] = handle_subscription_only()
-        else:
-            scheme["metadata"][field] = input(f"{field}: ")
+    try:
+        for field in scheme["metadata"]:
+            if field == "month":
+                from_month, to_month = handle_month()
+                scheme["metadata"]["month"] = {"from": from_month, "to": to_month}
+            elif field == "price":
+                print("price")
+                amount, coin_type = handle_price()
+                scheme["metadata"]["price"] = {"amount": amount, "type": coin_type}
+            elif field == "photographers":
+                scheme["metadata"]["photographers"] = handle_photographers()
+            elif field == "subscription_price":
+                print("subscription_price")
+                amount, coin_type = handle_price()
+                scheme["metadata"]["subscription_price"] = {"amount": amount, "type": coin_type}
+            elif field == "number_of_pages":
+                num = input("number_of_pages: ")
+                if num and num.isdigit():
+                    num = int(num)
+                scheme["metadata"]["number_of_pages"] = num
+            elif field == "subscription_only":
+                scheme["metadata"]["subscription_only"] = handle_subscription_only()
+            else:
+                scheme["metadata"][field] = input(f"{field}: ")
 
-    scheme["index"] = handle_index()
+        scheme["index"] = handle_index()
 
-    json_write(os.path.join("schemes", f"{issue['issue_number'].json}"), issue)
+    except Exception as e:
+        raise e
+    finally:
+        json_write(os.path.join("schemes", f"{issue['issue_number'].json}"), issue)
 
 
 if __name__ == "__main__":
