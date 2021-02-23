@@ -49,6 +49,14 @@ def handle_subscription_only():
     return False
 
 
+def handle_price():
+    amount = input("amount: ")
+    if amount:
+        amount = float(amount)
+    type = input("type: ")
+    return amount, type
+
+
 def main():
     scheme = json_read("scheme.json")
     issue = {}
@@ -59,14 +67,19 @@ def main():
             scheme["metadata"]["month"] = {"from": from_month, "to": to_month}
         elif field == "price":
             print("price")
-            scheme["metadata"]["price"] = {"amount": float(input("amount: ")), "type": input("type: ")}
+            amount, coin_type = handle_price()
+            scheme["metadata"]["price"] = {"amount": amount, "type": coin_type}
         elif field == "photographers":
             scheme["metadata"]["photographers"] = handle_photographers()
         elif field == "subscription_price":
             print("subscription_price")
-            scheme["metadata"]["subscription_price"] = {"amount": float(input("amount: ")), "type": input("type: ")}
+            amount, coin_type = handle_price()
+            scheme["metadata"]["subscription_price"] = {"amount": amount, "type": coin_type}
         elif field == "number_of_pages":
-            scheme["metadata"]["number_of_pages"] = int(input("number_of_pages: "))
+            num = input("number_of_pages: ")
+            if num and num.isdigit():
+                num = int(num)
+            scheme["metadata"]["number_of_pages"] = num
         elif field == "subscription_only":
             scheme["metadata"]["subscription_only"] = handle_subscription_only()
         else:
