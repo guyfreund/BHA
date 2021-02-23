@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "issue_number": "106-107",
+        "year": "1978",
+        "month": {
+            "from": "יולי",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 20.0,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": 62.0,
+            "type": "לירה ישראלית"
+        },
+        "number_of_pages": 100,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "המראה אל שנות ה-80",
+            "description": "",
+            "start_page": 3,
+            "author": "זאב שיף"
+        },
+        {
+            "title": "מלחמות האויר שלנו",
+            "description": "רב שיח עם האלופים(מיל.) דן טולקוסקי, מרדכי הוד ובנימין פלד, מפקדי חיל האויר לשעבר",
+            "start_page": 9,
+            "author": ""
+        },
+        {
+            "title": "האדם מאחורי הסרבל",
+            "description": "",
+            "start_page": 20,
+            "author": "אריה ברנע"
+        },
+        {
+            "title": "הם עשו היסטוריה",
+            "description": "",
+            "start_page": 21,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "המלך מת יחי המלך?",
+            "description": "",
+            "start_page": 30,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "פאנטומים במלחמת יום-הכיפורים",
+            "description": "",
+            "start_page": 34,
+            "author": ""
+        },
+        {
+            "title": "השורשים של שירות-האויר ",
+            "description": "",
+            "start_page": 36,
+            "author": "אלי איל"
+        },
+        {
+            "title": "כנס וותיקי ש\"א",
+            "description": "",
+            "start_page": 38,
+            "author": ""
+        },
+        {
+            "title": "תחזוקה עם כל הלב",
+            "description": "",
+            "start_page": 39,
+            "author": "אריה אבנרי"
+        },
+        {
+            "title": "ציונות מגובה אלפיים רגל",
+            "description": "",
+            "start_page": 41,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "נחתתי בקהיר לפני ביקור סאדאת",
+            "description": "",
+            "start_page": 56,
+            "author": ""
+        },
+        {
+            "title": "יונה עם עלה של זית",
+            "description": "",
+            "start_page": 57,
+            "author": ""
+        },
+        {
+            "title": "מאמץ אוירי מרוכז - יכריע!",
+            "description": "ראיון עם רא\"ל (מיל.) מוטה גור",
+            "start_page": 58,
+            "author": "סא\"ל אורי"
+        },
+        {
+            "title": "מזכרוני הארכיוני האוירי",
+            "description": "",
+            "start_page": 60,
+            "author": "אריה דיסצ'יק"
+        },
+        {
+            "title": "מה אומר לי חיל-האויר",
+            "description": "",
+            "start_page": 62,
+            "author": ""
+        },
+        {
+            "title": "לא השמים שמיהם...",
+            "description": "",
+            "start_page": 71,
+            "author": ""
+        },
+        {
+            "title": "על כנפי הכסף ",
+            "description": "",
+            "start_page": 78,
+            "author": "אריה ברנע"
+        },
+        {
+            "title": "המציל נפש אחת...",
+            "description": "",
+            "start_page": 78,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "יש לנו טייך",
+            "description": "",
+            "start_page": 82,
+            "author": "אריה ברנע"
+        },
+        {
+            "title": "\"נימיץ\" - כנף על המים",
+            "description": "",
+            "start_page": 84,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "ח\"א - גליון מספר 1",
+            "description": "",
+            "start_page": 90,
+            "author": ""
+        },
+        {
+            "title": "משמידי הטאנקים",
+            "description": "",
+            "start_page": 92,
+            "author": "אלי אייל"
+        }
+    ]
+}

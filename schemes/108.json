@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "issue_number": "108",
+        "year": "1978",
+        "month": {
+            "from": "ספטמבר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 12.0,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": 62.0,
+            "type": "לירה ישראלית"
+        },
+        "number_of_pages": 68,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "מהראפיד עד ה-F15",
+            "description": "",
+            "start_page": 3,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "טייסת קרב מס' 1",
+            "description": "",
+            "start_page": 7,
+            "author": " תמר זאבי"
+        },
+        {
+            "title": "הם עשו היסטוריה",
+            "description": "",
+            "start_page": 12,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "הסיוע ההתקפי הראשון",
+            "description": "",
+            "start_page": 17,
+            "author": "אלי אייל"
+        },
+        {
+            "title": "כאן צומחות כנפיים",
+            "description": "",
+            "start_page": 20,
+            "author": "שמחה אהרוני"
+        },
+        {
+            "title": "מעל הפסגה",
+            "description": "",
+            "start_page": 23,
+            "author": "אריה ברנע"
+        },
+        {
+            "title": "אגרוף מרחף רב-תחבולות",
+            "description": "",
+            "start_page": 25,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "עם הראש בעננים...",
+            "description": "",
+            "start_page": 28,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "האמנות שבטייס",
+            "description": "",
+            "start_page": 31,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "איזה מטוס טוב יותר?",
+            "description": "",
+            "start_page": 35,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "בת תחילה - סימן לטייס",
+            "description": "",
+            "start_page": 39,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "הזכות לחוש גאווה ",
+            "description": "",
+            "start_page": 43,
+            "author": "קולונל פראנסיס בלין"
+        },
+        {
+            "title": "באוי העולם הסובייטי",
+            "description": "",
+            "start_page": 45,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "באויר המזרח-התיכון",
+            "description": "",
+            "start_page": 49,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "להחזיר את צ-וויאטנם לתקופת האבן",
+            "description": "",
+            "start_page": 51,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 53,
+            "author": ""
+        }
+    ]
+}

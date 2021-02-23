@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "issue_number": "103",
+        "year": "1977",
+        "month": {
+            "from": "נובמבר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "נורית גורן",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 8.0,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [
+            "דוד הלפרין",
+            "ידגר"
+        ],
+        "subscription_price": {
+            "amount": 40.0,
+            "type": "לירה ישראלית"
+        },
+        "number_of_pages": 52,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "םקודת יום",
+            "description": "",
+            "start_page": 2,
+            "author": ""
+        },
+        {
+            "title": "גרעין של עליונות אוירית חדשה",
+            "description": "",
+            "start_page": 4,
+            "author": "דניאל מולד"
+        },
+        {
+            "title": "אין פשר בעמידהבמבחן הביצוע",
+            "description": "",
+            "start_page": 8,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "F-15",
+            "description": "",
+            "start_page": 11,
+            "author": ""
+        },
+        {
+            "title": "שיטות לאיכון מטרות קרקע",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "אבי לוחמת האויר המדברית",
+            "description": "",
+            "start_page": 18,
+            "author": "יוסף בונדנסקי"
+        },
+        {
+            "title": "פוגות במעלה-אדומים",
+            "description": "",
+            "start_page": 21,
+            "author": "אריה ברנע"
+        },
+        {
+            "title": "שיח פרחי-טיס",
+            "description": "",
+            "start_page": 28,
+            "author": "אהרן לפידות"
+        },
+        {
+            "title": "מצילה בכחול",
+            "description": "",
+            "start_page": 31,
+            "author": "תרצה שקדי"
+        },
+        {
+            "title": "בריחה בוייאטנם",
+            "description": "",
+            "start_page": 32,
+            "author": "קול' ג'ורג' דיי"
+        },
+        {
+            "title": "הם חוזרים ובאים",
+            "description": "",
+            "start_page": 36,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "כל הכבוד לכבודי",
+            "description": "",
+            "start_page": 38,
+            "author": "תרצה שקדי"
+        },
+        {
+            "title": "עננים מסביב לשעון",
+            "description": "",
+            "start_page": 40,
+            "author": "אריה ברנע"
+        },
+        {
+            "title": "פורצי הסכריםבמבטח נוסף",
+            "description": "",
+            "start_page": 42,
+            "author": "אלי אייל"
+        }
+    ]
+}
