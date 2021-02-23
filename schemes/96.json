@@ -1,0 +1,185 @@
+{
+    "metadata": {
+        "issue_number": "96",
+        "year": "1975",
+        "month": {
+            "from": "אפריל",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 7.0,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "מיכה בר-עם"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 156,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "המלאכים הרפואיים",
+            "description": "",
+            "start_page": 4,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "אני מאמין של טייס ישראלי",
+            "description": "",
+            "start_page": 9,
+            "author": ""
+        },
+        {
+            "title": "אנשי המסוקים הכבדים",
+            "description": "",
+            "start_page": 12,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "עולמו האישי של מפקד בכיר",
+            "description": "",
+            "start_page": 19,
+            "author": ""
+        },
+        {
+            "title": "כנפי הקסמים של ענת וארז",
+            "description": "",
+            "start_page": 22,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "תחקיר על גיחה",
+            "description": "",
+            "start_page": 25,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "פרקים מספרו של עזר ויצמן",
+            "description": "",
+            "start_page": 28,
+            "author": ""
+        },
+        {
+            "title": "יום הקרב שלא נסתיים",
+            "description": "",
+            "start_page": 40,
+            "author": "אריה אבנרי"
+        },
+        {
+            "title": "החובות, הזכויות וכל השאר",
+            "description": "",
+            "start_page": 46,
+            "author": "ר. שי"
+        },
+        {
+            "title": "טייס יהודי בסימטאות ירושלים",
+            "description": "",
+            "start_page": 49,
+            "author": "עמרם קליין"
+        },
+        {
+            "title": "הרכש הראשון מארצות הברית",
+            "description": "",
+            "start_page": 52,
+            "author": "אביגדור שחן"
+        },
+        {
+            "title": "אלף מטוס ומטוס",
+            "description": "",
+            "start_page": 61,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 70,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "המאזן הצבאי 1974-75",
+            "description": "",
+            "start_page": 86,
+            "author": ""
+        },
+        {
+            "title": "זהוי מטוסים - נורתרופ פ-5",
+            "description": "",
+            "start_page": 90,
+            "author": ""
+        },
+        {
+            "title": "מלחמת האלקטרונים",
+            "description": "",
+            "start_page": 92,
+            "author": "רוברט זלצמן"
+        },
+        {
+            "title": "ההתמודדות שאינה מסתיימת לעולם",
+            "description": "",
+            "start_page": 97,
+            "author": ""
+        },
+        {
+            "title": "הענק שסלל את הדרך",
+            "description": "",
+            "start_page": 111,
+            "author": ""
+        },
+        {
+            "title": "מעוף הציפור השחורה",
+            "description": "",
+            "start_page": 120,
+            "author": ""
+        },
+        {
+            "title": "הפור נפל: פ-16",
+            "description": "",
+            "start_page": 124,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "הפוקסבט מצלם והאיגל שובר שיאיו",
+            "description": "",
+            "start_page": 130,
+            "author": ""
+        },
+        {
+            "title": "א-10, המקצוע: סיוע קרוב",
+            "description": "",
+            "start_page": 132,
+            "author": ""
+        },
+        {
+            "title": "סלט בהסכם סאלט",
+            "description": "",
+            "start_page": 139,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "הדלק של המאה ה-20",
+            "description": "",
+            "start_page": 145,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "יגואר, המטוס שנולד לתקיפה",
+            "description": "",
+            "start_page": 149,
+            "author": ""
+        },
+        {
+            "title": "תעלומת מותו של הברון האדום",
+            "description": "",
+            "start_page": 156,
+            "author": ""
+        }
+    ]
+}
