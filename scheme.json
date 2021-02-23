@@ -1,11 +1,11 @@
 {
   "metadata": {
+    "issue_number": "int",
     "year": "int",
     "month": {
       "from": "string",
       "to": "string"
     },
-    "issue_number": "int",
     "publisher": "string",
     "editor": "string",
     "deputy_editor": "string",
