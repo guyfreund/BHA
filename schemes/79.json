@@ -1,0 +1,185 @@
+{
+    "metadata": {
+        "issue_number": "79",
+        "year": "1969",
+        "month": {
+            "from": "יולי",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": "",
+            "type": ""
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "דני שלום"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 160,
+        "subscription_only": true
+    },
+    "index": [
+        {
+            "title": "תשעה צעדים לירח ובחזרה",
+            "description": "",
+            "start_page": 4,
+            "author": "ד״ר ג׳ורג׳ מילר"
+        },
+        {
+            "title": "העכביש - ספינת-חלל אמיתית ראשונה",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "הרועש הזה... ה״סקייהוק״!",
+            "description": "",
+            "start_page": 18,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "בוני השלד של ח״ר",
+            "description": "",
+            "start_page": 25,
+            "author": "ד. שי"
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 32,
+            "author": ""
+        },
+        {
+            "title": "הטראפיקים האויריים שלנו",
+            "description": "",
+            "start_page": 34,
+            "author": "ארנון ברוך"
+        },
+        {
+            "title": "לקראת ה״קונקורד״",
+            "description": "",
+            "start_page": 38,
+            "author": ""
+        },
+        {
+            "title": "בחללית הפלא",
+            "description": "",
+            "start_page": 43,
+            "author": "זאב רב-גוף"
+        },
+        {
+            "title": "״הקרב על בריטניה״",
+            "description": "",
+            "start_page": 55,
+            "author": "גיטה יפה"
+        },
+        {
+            "title": "״אינמרודר״, המטוס לכל התנאים",
+            "description": "",
+            "start_page": 61,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "״פ-14״, המתקדם ממטוסי שנות ה-70",
+            "description": "",
+            "start_page": 66,
+            "author": "עמוס עשת"
+        },
+        {
+            "title": "החילוץ מקאם דוק",
+            "description": "",
+            "start_page": 73,
+            "author": ""
+        },
+        {
+            "title": "״פף דרקון הקסם״",
+            "description": "",
+            "start_page": 76,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "״מוריס״",
+            "description": "",
+            "start_page": 79,
+            "author": ""
+        },
+        {
+            "title": "מטוס העץ: ה״מוסקיטו״",
+            "description": "",
+            "start_page": 84,
+            "author": ""
+        },
+        {
+            "title": "מעללי ראשונים",
+            "description": "",
+            "start_page": 91,
+            "author": "ע. עמית"
+        },
+        {
+            "title": "דור הענקים",
+            "description": "",
+            "start_page": 100,
+            "author": ""
+        },
+        {
+            "title": "צוללת אחת פחות",
+            "description": "",
+            "start_page": 108,
+            "author": ""
+        },
+        {
+            "title": "״המבצרים המעופפים״ מעל גג העולם",
+            "description": "",
+            "start_page": 110,
+            "author": ""
+        },
+        {
+            "title": "שיבת ״הגברת הזקנה״",
+            "description": "",
+            "start_page": 114,
+            "author": "גיטה יפה"
+        },
+        {
+            "title": "״התרנגול מקולדיץ״",
+            "description": "",
+            "start_page": 119,
+            "author": ""
+        },
+        {
+            "title": "המרחפות, כלי הקרב של העתיד?",
+            "description": "",
+            "start_page": 127,
+            "author": ""
+        },
+        {
+            "title": "הם חצו את האוקינוס",
+            "description": "",
+            "start_page": 133,
+            "author": ""
+        },
+        {
+            "title": "במחיצת מעופפיו של אלנביו",
+            "description": "",
+            "start_page": 136,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "אמור זאת בציורים",
+            "description": "חידון",
+            "start_page": 159,
+            "author": ""
+        },
+        {
+            "title": "תשבץ תעופתי",
+            "description": "",
+            "start_page": 160,
+            "author": ""
+        }
+    ]
+}
