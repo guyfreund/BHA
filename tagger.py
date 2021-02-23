@@ -1,4 +1,5 @@
 from get_metadata import json_read, json_write
+import time
 import os
 
 
@@ -58,6 +59,7 @@ def handle_price():
 
 
 def main():
+    start = time.time()
     scheme = json_read("scheme.json")
     issue = {}
 
@@ -91,7 +93,9 @@ def main():
     except Exception as e:
         raise e
     finally:
+        end = time.time()
         json_write(os.path.join("schemes", f"{issue['issue_number'].json}"), issue)
+        print(f"{(end - start) / 60} minutes")
 
 
 if __name__ == "__main__":
