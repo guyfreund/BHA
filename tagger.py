@@ -94,7 +94,7 @@ def main():
         raise e
     finally:
         end = time.time()
-        json_write(os.path.join("schemes", f"{issue['issue_number'].json}"), issue)
+        json_write(os.path.join("schemes", f"{issue['metadata']['issue_number'].json}"), issue)
         print(f"{(end - start) / 60} minutes")
 
 
