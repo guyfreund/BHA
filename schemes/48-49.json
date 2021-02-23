@@ -1,0 +1,235 @@
+{
+    "metadata": {
+        "issue_number": "48-49",
+        "year": "1959",
+        "month": {
+            "from": "אוגוסט",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סרן יהודה עופר",
+        "price": {
+            "amount": 1200.0,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [
+            "אליהו קמינר",
+            "יוסף זיגל",
+            "חיים וידנהאוז",
+            "אריה שעשוע"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 241,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "4",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "ראיון עם אלוף עזר ויצמן",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "אלצנו בחיל",
+            "description": "",
+            "start_page": 7,
+            "author": ""
+        },
+        {
+            "title": "סופר מיסטר",
+            "description": "",
+            "start_page": 14,
+            "author": "י. אחיוסוף"
+        },
+        {
+            "title": "מגיסטר מוביל למיסטר",
+            "description": "",
+            "start_page": 27,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "חרגולי העתיד",
+            "description": "",
+            "start_page": 36,
+            "author": "רענן לוריא"
+        },
+        {
+            "title": "הפוגה ואני",
+            "description": "",
+            "start_page": 48,
+            "author": "רנה לוינסון"
+        },
+        {
+            "title": "כפי שנמסר על ידי החזאי",
+            "description": "",
+            "start_page": 56,
+            "author": "אריה אבנרי"
+        },
+        {
+            "title": "האגודה למען התעופה בישראל",
+            "description": "",
+            "start_page": 64,
+            "author": ""
+        },
+        {
+            "title": "ישראל סינרמה",
+            "description": "",
+            "start_page": 67,
+            "author": ""
+        },
+        {
+            "title": "22 חודשי חלל",
+            "description": "",
+            "start_page": 76,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "אל גבולות חדשים",
+            "description": "",
+            "start_page": 97,
+            "author": ""
+        },
+        {
+            "title": "חלוץ החלל ",
+            "description": "",
+            "start_page": 109,
+            "author": "ג'ופרי נוריס"
+        },
+        {
+            "title": "החלל המתמלא",
+            "description": "",
+            "start_page": 111,
+            "author": ""
+        },
+        {
+            "title": "ירח בנוי מלבנים",
+            "description": "",
+            "start_page": 117,
+            "author": "אנתוני בושר"
+        },
+        {
+            "title": "מבצע מרקורי",
+            "description": "",
+            "start_page": 121,
+            "author": ""
+        },
+        {
+            "title": "אדם תחת לחץ",
+            "description": "",
+            "start_page": 127,
+            "author": ""
+        },
+        {
+            "title": "למאדים ובחזרה - מתי?",
+            "description": "",
+            "start_page": 131,
+            "author": ""
+        },
+        {
+            "title": "אגרון לאסטרונוטיקה צבאית",
+            "description": "",
+            "start_page": 137,
+            "author": ""
+        },
+        {
+            "title": "המטרה : לונה",
+            "description": "",
+            "start_page": 144,
+            "author": ""
+        },
+        {
+            "title": "הטיל נגד טילים - חלום או חזון?",
+            "description": "",
+            "start_page": 148,
+            "author": ""
+        },
+        {
+            "title": "רקטת הנוסעים באופק",
+            "description": "",
+            "start_page": 158,
+            "author": ""
+        },
+        {
+            "title": "4 בחלל תוך 5 שנים",
+            "description": "",
+            "start_page": 162,
+            "author": ""
+        },
+        {
+            "title": "אש בפובוס",
+            "description": "",
+            "start_page": 170,
+            "author": "תמר לביא"
+        },
+        {
+            "title": "קולום-באשר - כף-קרברל הצרפתי",
+            "description": "",
+            "start_page": 178,
+            "author": ""
+        },
+        {
+            "title": "מבצע הסקי",
+            "description": "",
+            "start_page": 181,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "לס ווגס - קונגרס תעופה עולמי ראשון",
+            "description": "",
+            "start_page": 202,
+            "author": ""
+        },
+        {
+            "title": "קרבות אויר בין אלים",
+            "description": "",
+            "start_page": 206,
+            "author": ""
+        },
+        {
+            "title": "מטוס סובייטי חדש:מיג 21",
+            "description": "",
+            "start_page": 208,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 211,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "מטוס הרקוטה של 1907",
+            "description": "",
+            "start_page": 221,
+            "author": "הארי הארפר"
+        },
+        {
+            "title": "אחד ממפגשי הדרום",
+            "description": "",
+            "start_page": 224,
+            "author": ""
+        },
+        {
+            "title": "זהו שיא!",
+            "description": "",
+            "start_page": 231,
+            "author": ""
+        },
+        {
+            "title": "חידון תנכי-תעופתי",
+            "description": "",
+            "start_page": 232,
+            "author": "צפנת-פענח"
+        }
+    ]
+}

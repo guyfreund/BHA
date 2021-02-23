@@ -1,0 +1,186 @@
+{
+    "metadata": {
+        "issue_number": "61",
+        "year": "1963",
+        "month": {
+            "from": "מרץ",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "יהודה עופר",
+        "price": {
+            "amount": 1.5,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [
+            "שמואל תובל",
+            "אילן ברונר",
+            "אליהו קמינר",
+            "מתי הרצשטין",
+            "משה שטקל",
+            "גדעון כ\"ץ",
+            "אפרים בן חיר",
+            "יואל ברקאי",
+            "גדליהו שוורץ"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 164,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "הווטור, תפקידו מלחמה!",
+            "description": "",
+            "start_page": 5,
+            "author": "י. עופר"
+        },
+        {
+            "title": "כור ההיתוך לצוותות קרקע",
+            "description": "",
+            "start_page": 13,
+            "author": "י. בן אמיר"
+        },
+        {
+            "title": "אספקלריה אוורית",
+            "description": "",
+            "start_page": 21,
+            "author": ""
+        },
+        {
+            "title": "הרגשה שאתה מחזיק בכלי רציני",
+            "description": "",
+            "start_page": 26,
+            "author": ""
+        },
+        {
+            "title": "הפצוע חולץ ממרגלות המצדה",
+            "description": "",
+            "start_page": 32,
+            "author": "י. עופר"
+        },
+        {
+            "title": "לעזאזל החיים, העיקר הבריאות",
+            "description": "",
+            "start_page": 39,
+            "author": "יעקב טרנר"
+        },
+        {
+            "title": "אלצנו בחיל",
+            "description": "",
+            "start_page": 50,
+            "author": ""
+        },
+        {
+            "title": "חילהאויר הסורי",
+            "description": "",
+            "start_page": 54,
+            "author": ""
+        },
+        {
+            "title": "מיגים מצריים, שי לאלג'יריה",
+            "description": "",
+            "start_page": "56",
+            "author": ""
+        },
+        {
+            "title": "בלזאק - לקראת חיסול שדות התעופה?",
+            "description": "",
+            "start_page": "58",
+            "author": ""
+        },
+        {
+            "title": "סקייבולט",
+            "description": "",
+            "start_page": "68",
+            "author": "יהודה בן יוחנן"
+        },
+        {
+            "title": "מצחיק ומוזר בעולם התעופה",
+            "description": "",
+            "start_page": "74",
+            "author": ""
+        },
+        {
+            "title": "אני מטיס טיל",
+            "description": "",
+            "start_page": "82",
+            "author": "ג'וזף ווקר"
+        },
+        {
+            "title": "אני הכפולה",
+            "description": "",
+            "start_page": "95",
+            "author": ""
+        },
+        {
+            "title": "היכון להפצצה נמוכה!",
+            "description": "",
+            "start_page": "98",
+            "author": "ר. שרידן"
+        },
+                {
+            "title": "הדאונים גלשו בדממה",
+            "description": "",
+            "start_page": "107",
+            "author": ""
+        },
+                {
+            "title": "הקרקס האוירי בא העירה",
+            "description": "",
+            "start_page": "110",
+            "author": ""
+        },
+                {
+            "title": "תרגיל גק היי",
+            "description": "",
+            "start_page": "116",
+            "author": ""
+        },
+                {
+            "title": "היכון להפצצה נמוכה!",
+            "description": "",
+            "start_page": "98",
+            "author": "ר. שרידן"
+        },
+                {
+            "title": "דוח מיוחד ! טיסות בחלל לאיש הקטן",
+            "description": "",
+            "start_page": "123",
+            "author": ""
+        },
+                {
+            "title": "הקומנדו האוירי בבורמה",
+            "description": "",
+            "start_page": "128",
+            "author": ""
+        },
+                {
+            "title": "בבלון הישן",
+            "description": "",
+            "start_page": "139",
+            "author": ""
+        },
+                {
+            "title": "כך אומנו הקוסמונאוטים הסובייטים",
+            "description": "",
+            "start_page": "142",
+            "author": ""
+        },
+                {
+            "title": "פשוט : הברקוץ'",
+            "description": "",
+            "start_page": "160",
+            "author": ""
+        }
+    ]
+}
