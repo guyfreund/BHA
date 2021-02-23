@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "year":1957 ,
+    "month": {
+      "from": "אוגוסט",
+      "to": "ספטמבר"
+    },
+    "issue_number": "41",
+    "publisher": "מפקדת חיל האוויר",
+    "editor": "רב סרן משה הדר",
+    "deputy_editor": "סגן יהודה עופר",
+    "price": {
+      "amount": 850,
+      "type": "פרוטה"
+    },
+    "photographers": [
+      "דוד הלפמן"
+    ],
+    "subscription_price": {
+      "amount":-1 ,
+      "type": ""
+    },
+    "number_of_pages":186 ,
+    "subscription_only": false
+  },
+  "index": [
+    {
+      "title": "בגליון זה",
+      "description": "",
+      "start_page":4 ,
+      "author": ""
+    },
+    {
+      "title": "ראיון עם מפקד חיל האויר",
+      "description": "",
+      "start_page":6 ,
+      "author": ""
+    },
+    {
+      "title": "להק תובלה אוירית",
+      "description": "",
+      "start_page":8 ,
+      "author": "מ. (מוניה) מרדור"
+    },
+    {
+      "title": "חניכי החלל הכחול",
+      "description": "",
+      "start_page":44 ,
+      "author": "צבי קוהורן"
+    },
+    {
+      "title": "אי המטמון בעיר העתיד",
+      "description": "",
+      "start_page":60 ,
+      "author": "יעקב בן אמיר"
+    },
+    {
+      "title": "דאר אויר",
+      "description": "",
+      "start_page":67 ,
+      "author": ""
+    },
+    {
+      "title": "בהידום סילונים",
+      "description": "כתבה מצולמת",
+      "start_page":68 ,
+      "author": "אברהם בר-און"
+    },
+    {
+      "title": "גם חניבעל בא ללוד",
+      "description": "",
+      "start_page":72 ,
+      "author": "יצחק זמיר"
+    },
+    {
+      "title": "בלחץ גבוה",
+      "description": "",
+      "start_page":86 ,
+      "author": ""
+    },
+    {
+      "title": "המזרח הרחוק-מכרה זהב לתעופה",
+      "description": "",
+      "start_page":87 ,
+      "author": "תיאודור לויטה"
+    },
+    {
+      "title": "באויר העולם",
+      "description": "",
+      "start_page":94 ,
+      "author": "סרן יהודה עופר"
+    },
+    {
+      "title": "תצלומים מספרים",
+      "description": "",
+      "start_page":104 ,
+      "author": ""
+    },
+    {
+      "title": "בומרנג אטומי משחיר באופק",
+      "description": "",
+      "start_page":108 ,
+      "author": ""
+    },
+    {
+      "title": "סמלי כל חילות האויר בעולם",
+      "description": "",
+      "start_page":122 ,
+      "author": ""
+    },
+    {
+      "title": "מועדון הנהגים המעופפים",
+      "description": "",
+      "start_page":137 ,
+      "author": ""
+    },
+    {
+      "title": "לגיון הנשר בספרד",
+      "description": "",
+      "start_page":138 ,
+      "author": ""
+    },
+    {
+      "title": "חיסולו של חיל האויר ההונגרי",
+      "description": "",
+      "start_page":143 ,
+      "author": ""
+    },
+    {
+      "title": "רוצחי הצוללות צוללים על המים",
+      "description": "",
+      "start_page":146 ,
+      "author": ""
+    },
+    {
+      "title": "זהירות, עמעם האורות!",
+      "description": "",
+      "start_page":153 ,
+      "author": ""
+    },
+    {
+      "title": "נושאת מטוסים תת-מימית",
+      "description": "",
+      "start_page":154 ,
+      "author": ""
+    },
+    {
+      "title": "ביצועי המטוס (רשימה לטייסים)",
+      "description": "",
+      "start_page":157 ,
+      "author": "רב-סרן אריה הלל"
+    },
+    {
+      "title": "טסנו במבצע כריש",
+      "description": "",
+      "start_page":161 ,
+      "author": "קול. צ'רלז פ. בלייר"
+    },
+    {
+      "title": "הרובוט שברח",
+      "description": "",
+      "start_page":164 ,
+      "author": "מיכאל פרוסט"
+    },
+    {
+      "title": "מלכודת לצופי הקולנוע",
+      "description": "",
+      "start_page":168 ,
+      "author": ""
+    },
+    {
+      "title": "סיוט ליל קיץ",
+      "description": "",
+      "start_page":170 ,
+      "author": ""
+    },
+    {
+      "title": "בעלי כרטיס המנוי הנצחי",
+      "description": "",
+      "start_page":174 ,
+      "author": "יהודה עין"
+    }
+  ]
+}
