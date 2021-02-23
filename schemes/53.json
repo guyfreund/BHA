@@ -1,0 +1,202 @@
+{
+    "metadata": {
+        "issue_number": "53",
+        "year": "1960",
+        "month": {
+            "from": "נובמבר",
+            "to": "דצמבר"
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סרן יהודה עופר",
+        "price": {
+            "amount": 1.0,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "שמואל טובל",
+            "שלמה סגל",
+            "נסים ביו",
+            "אריה שעשוע",
+            "יוסי יינין",
+            "יעקב מחט"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 168,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "ה״ספיט השחור״",
+            "description": "",
+            "start_page": 6,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "הקיבוצים ״רוכשים״ מטוסי קרב",
+            "description": "",
+            "start_page": 17,
+            "author": "יעקב בן-אמיר"
+        },
+        {
+            "title": "כל יהודי - לצוות-אוויר",
+            "description": "",
+            "start_page": 23,
+            "author": "רענן לוריא"
+        },
+        {
+            "title": "הייתי חניך ב״פוגה״",
+            "description": "",
+            "start_page": 35,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "ה״כידונים״ שעשו היסטוריה",
+            "description": "",
+            "start_page": 44,
+            "author": ""
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 47,
+            "author": ""
+        },
+        {
+            "title": "כאשר הארי דה קאטר משתולל",
+            "description": "",
+            "start_page": 53,
+            "author": ""
+        },
+        {
+            "title": "נופש צוות אויר",
+            "description": "",
+            "start_page": 54,
+            "author": "יעקב טרנר"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 64,
+            "author": "י. עופר"
+        },
+        {
+            "title": "סילונים הופעים לפסלים",
+            "description": "",
+            "start_page": 76,
+            "author": ""
+        },
+        {
+            "title": "האיש, האי והמטוס שלא הוכנעו",
+            "description": "",
+            "start_page": 79,
+            "author": ""
+        },
+        {
+            "title": "תצלומים מספרים",
+            "description": "",
+            "start_page": 90,
+            "author": ""
+        },
+        {
+            "title": "טיסתו האחרונה של ריכטהופן",
+            "description": "",
+            "start_page": 100,
+            "author": "פלויד גיבונס"
+        },
+        {
+            "title": "החלל המתמלא",
+            "description": "",
+            "start_page": 110,
+            "author": ""
+        },
+        {
+            "title": "אדם בחלל - מתי?",
+            "description": "",
+            "start_page": 114,
+            "author": ""
+        },
+        {
+            "title": "מפציצי הוד מלכותה",
+            "description": "",
+            "start_page": 119,
+            "author": ""
+        },
+        {
+            "title": "ג׳רי - האסטרונוטית הראשונה",
+            "description": "",
+            "start_page": 125,
+            "author": ""
+        },
+        {
+            "title": "נמריו המעופפים של צ׳אנו",
+            "description": "",
+            "start_page": 126,
+            "author": ""
+        },
+        {
+            "title": "מבנה כלי הטיס למהירויות גבוהות",
+            "description": "",
+            "start_page": 138,
+            "author": "ד״ר דוד אביר"
+        },
+        {
+            "title": "״ג׳. 91״ - מפציץ הקרב של נאטו",
+            "description": "",
+            "start_page": 141,
+            "author": ""
+        },
+        {
+            "title": "איך לבצע תצלומים של מטוסים",
+            "description": "",
+            "start_page": 149,
+            "author": "רודי ארנולד"
+        },
+        {
+            "title": "סיפורו של תותח מטוסים",
+            "description": "",
+            "start_page": 152,
+            "author": "א. קיסרי"
+        },
+        {
+            "title": "״והרי החדשות מפי...״",
+            "description": "",
+            "start_page": 156,
+            "author": "ד. שמואל"
+        },
+        {
+            "title": "״רוסיה״, הקולסוס המעופף",
+            "description": "",
+            "start_page": 159,
+            "author": ""
+        },
+        {
+            "title": "בשנות השבעים העל-קוליות",
+            "description": "",
+            "start_page": 163,
+            "author": "פיטר מייספליד"
+        },
+        {
+            "title": "שריונית הירח הרוסית",
+            "description": "",
+            "start_page": 166,
+            "author": ""
+        },
+        {
+            "title": "אין חדש תחת השמש",
+            "description": "",
+            "start_page": 168,
+            "author": ""
+        }
+    ]
+}

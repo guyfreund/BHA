@@ -1,0 +1,311 @@
+{
+    "metadata": {
+        "issue_number": "74-75",
+        "year": "1967",
+        "month": {
+            "from": "דצמבר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": "",
+            "type": ""
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "יעקב מחט",
+            "שמואל תובל",
+            "אילן ברונר",
+            "אליהו קמינר",
+            "אברהם בר-און",
+            "יוסף ידגר",
+            "יהודה עופר"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 324,
+        "subscription_only": true
+    },
+    "index": [
+        {
+            "title": "חיל האויר במלחמה",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "אירועים עיקריים במהלך הלחימה",
+            "description": "",
+            "start_page": 16,
+            "author": ""
+        },
+        {
+            "title": "הצל״שים של 6 הימים",
+            "description": "",
+            "start_page": 29,
+            "author": "נ"
+        },
+        {
+            "title": "שמתה של טייסת ״אורגנים״ לוחמת",
+            "description": "",
+            "start_page": 35,
+            "author": "רס״נ יעקב"
+        },
+        {
+            "title": "מיומנה של טייסת ״מיסטרים״",
+            "description": "",
+            "start_page": 49,
+            "author": ""
+        },
+        {
+            "title": "משהו מוזר קרה לי בדרך הביתה",
+            "description": "",
+            "start_page": 52,
+            "author": "ד. בן-יחיאל"
+        },
+        {
+            "title": "ה״מיסטרים״ המשיכו מסורת ״קדש״",
+            "description": "",
+            "start_page": 55,
+            "author": ""
+        },
+        {
+            "title": "״סופר מיסטרים״",
+            "description": "",
+            "start_page": 58,
+            "author": "ע. אחיוסף"
+        },
+        {
+            "title": "אמא ואבא של הטייסים",
+            "description": "",
+            "start_page": 68,
+            "author": "רפאל סשן"
+        },
+        {
+            "title": "במללכת האחזקה",
+            "description": "",
+            "start_page": 71,
+            "author": "צ. בן-שלמה"
+        },
+        {
+            "title": "ה״ווטרים״ חדרו לעורף האויב",
+            "description": "",
+            "start_page": 78,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "מיומנה של טייסת :״ווטורים״",
+            "description": "",
+            "start_page": 86,
+            "author": "ארנון ברוך"
+        },
+        {
+            "title": "5 טיסות ביוני",
+            "description": "",
+            "start_page": 91,
+            "author": "רס״נ א."
+        },
+        {
+            "title": "נקודת הח״ן של ח״א",
+            "description": "",
+            "start_page": 98,
+            "author": ""
+        },
+        {
+            "title": "ה״פוגות״ ירקו אש",
+            "description": "",
+            "start_page": 103,
+            "author": "עמוס עשת"
+        },
+        {
+            "title": "ממעללי ה״מירז׳ים״",
+            "description": "",
+            "start_page": 114,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "״אני לוקח את המיג האחורי!״",
+            "description": "",
+            "start_page": 126,
+            "author": ""
+        },
+        {
+            "title": "ההליקופטר - סוס טרויאה של ימינו",
+            "description": "",
+            "start_page": 127,
+            "author": ""
+        },
+        {
+            "title": "הנחבאים אל הכלים",
+            "description": "",
+            "start_page": 133,
+            "author": ""
+        },
+        {
+            "title": "סופר פרלונים",
+            "description": "",
+            "start_page": 136,
+            "author": "ג. אחי-אפרים"
+        },
+        {
+            "title": "אנשי הבקרה שלנו",
+            "description": "",
+            "start_page": 140,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "ה״קלים״ של ימי יוני",
+            "description": "",
+            "start_page": 148,
+            "author": "צ. בן-שלמה"
+        },
+        {
+            "title": "הענקים",
+            "description": "",
+            "start_page": 156,
+            "author": ""
+        },
+        {
+            "title": "הנו״ן, המ״ם וההפלות",
+            "description": "",
+            "start_page": 165,
+            "author": ""
+        },
+        {
+            "title": "עוגות לב",
+            "description": "",
+            "start_page": 172,
+            "author": "דני מולד"
+        },
+        {
+            "title": "מלחמתם טרם נסתיימה",
+            "description": "",
+            "start_page": 173,
+            "author": ""
+        },
+        {
+            "title": "החרגולים הקלים",
+            "description": "",
+            "start_page": 178,
+            "author": ""
+        },
+        {
+            "title": "כך נסתיימה המלחמה",
+            "description": "",
+            "start_page": 181,
+            "author": ""
+        },
+        {
+            "title": "יועצי האויר - שגרירי ח״א",
+            "description": "",
+            "start_page": 184,
+            "author": ""
+        },
+        {
+            "title": "מסיבת עתונאים עם הדגמות",
+            "description": "",
+            "start_page": 185,
+            "author": "איתן הבר"
+        },
+        {
+            "title": "עדשות 6 הימים",
+            "description": "",
+            "start_page": 188,
+            "author": ""
+        },
+        {
+            "title": "סיור אוירי בסיני",
+            "description": "",
+            "start_page": 237,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "ה״שארם״ של א-שייך",
+            "description": "",
+            "start_page": 240,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "״מוסטנג״ שיש לו הופכין",
+            "description": "",
+            "start_page": 244,
+            "author": "א. בך"
+        },
+        {
+            "title": "הא 300",
+            "description": "",
+            "start_page": 249,
+            "author": ""
+        },
+        {
+            "title": "גומחוריה",
+            "description": "",
+            "start_page": 252,
+            "author": "ארנון ברוך"
+        },
+        {
+            "title": "ה״שיטה״: פשטות",
+            "description": "",
+            "start_page": 256,
+            "author": "ס.ל.א מרשל"
+        },
+        {
+            "title": "״נשיקה״ במדבר",
+            "description": "",
+            "start_page": 261,
+            "author": "קלוד וויטצה"
+        },
+        {
+            "title": "התיבה השחורה",
+            "description": "",
+            "start_page": 263,
+            "author": "רוברט רודוול"
+        },
+        {
+            "title": "ראיון מעופף עם חוסיין",
+            "description": "",
+            "start_page": 265,
+            "author": "ג׳ון בנטלי"
+        },
+        {
+            "title": "מצעד המיגים",
+            "description": "",
+            "start_page": 266,
+            "author": "ע. עמית"
+        },
+        {
+            "title": "הווי בבסיסי-האויר המצריים",
+            "description": "",
+            "start_page": 280,
+            "author": ""
+        },
+        {
+            "title": "תיקו בחלל",
+            "description": "",
+            "start_page": 288,
+            "author": ""
+        },
+        {
+            "title": "מרשל-אויר-ראשי משמיץ את ר.א.פ.?",
+            "description": "",
+            "start_page": 315,
+            "author": ""
+        },
+        {
+            "title": "אכסודוס, יוני 1967",
+            "description": "",
+            "start_page": 317,
+            "author": ""
+        },
+        {
+            "title": "שלש שעות ביוני",
+            "description": "",
+            "start_page": 324,
+            "author": ""
+        }
+    ]
+}

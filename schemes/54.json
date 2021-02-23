@@ -1,0 +1,248 @@
+{
+    "metadata": {
+        "issue_number": "54",
+        "year": "1961",
+        "month": {
+            "from": "אפריל",
+            "to": "מאי"
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סרן יהודה עופר",
+        "price": {
+            "amount": 1.0,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "ניצ׳ו ליאון",
+            "שמואל טובל",
+            "ארבהם חמי",
+            "דני פסט",
+            "שמואל פישטיין",
+            "א. בייג",
+            "אלי שבח",
+            "דניאל עשהאל",
+            "סלבדור אלמולי",
+            "ראובן קטן"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 178,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "דני קיי לשורות ״הטובים לטיס״",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "שים לב! לוין בשמי חיפה!",
+            "description": "",
+            "start_page": 12,
+            "author": "יהודה ע."
+        },
+        {
+            "title": "מפגשי האויר הסילוניים",
+            "description": "",
+            "start_page": 15,
+            "author": ""
+        },
+        {
+            "title": "״סאאטה״ - מטוס האימון הסילוני המיוצר בקע״מ?",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "יורי - טייס החלל הראשון",
+            "description": "",
+            "start_page": 20,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "כרזה ״אוירית״ לעידוד החסכון",
+            "description": "",
+            "start_page": 28,
+            "author": ""
+        },
+        {
+            "title": "סיכות זהב ל״אנשי הרוטור״",
+            "description": "",
+            "start_page": 29,
+            "author": ""
+        },
+        {
+            "title": "הפרופלר המכונף",
+            "description": "",
+            "start_page": 32,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "״נותרו עשר דקות האזנה...״",
+            "description": "",
+            "start_page": 39,
+            "author": ""
+        },
+        {
+            "title": "החברים הטובים שלנו",
+            "description": "",
+            "start_page": 42,
+            "author": "יעקב טרנר"
+        },
+        {
+            "title": "״הגובה - 40,000!״",
+            "description": "",
+            "start_page": 50,
+            "author": "משה הדר"
+        },
+        {
+            "title": "הטייסת מהקומה העליונה",
+            "description": "",
+            "start_page": 60,
+            "author": "רענן לוריא"
+        },
+        {
+            "title": "מטוסים לדירבון עננים",
+            "description": "",
+            "start_page": 72,
+            "author": "זאב ורבה"
+        },
+        {
+            "title": "בוכנות מול סילונים",
+            "description": "",
+            "start_page": 80,
+            "author": ""
+        },
+        {
+            "title": "תעלומת ה״קמיקזה״ הנאצי",
+            "description": "",
+            "start_page": 85,
+            "author": "עמנואל בן-גוריון"
+        },
+        {
+            "title": "כנפי ה״לופטוופה״ נפרשות מחדש",
+            "description": "",
+            "start_page": 93,
+            "author": "פ. רבה"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 106,
+            "author": "י. עופר"
+        },
+        {
+            "title": "היכן הם היום?",
+            "description": "",
+            "start_page": 109,
+            "author": ""
+        },
+        {
+            "title": "היכן הגז בספינת אויר זו?",
+            "description": "",
+            "start_page": 115,
+            "author": ""
+        },
+        {
+            "title": "מטוסים בלגיים בקונגו",
+            "description": "",
+            "start_page": 123,
+            "author": ""
+        },
+        {
+            "title": "החלל המתמלא",
+            "description": "",
+            "start_page": 126,
+            "author": ""
+        },
+        {
+            "title": "טיסת ניסוי מדברית",
+            "description": "",
+            "start_page": 133,
+            "author": ""
+        },
+        {
+            "title": "״103, איך המצב?״",
+            "description": "",
+            "start_page": 138,
+            "author": ""
+        },
+        {
+            "title": "תצלומים מספרים",
+            "description": "",
+            "start_page": 142,
+            "author": ""
+        },
+        {
+            "title": "מפציץ החלל המאויש",
+            "description": "",
+            "start_page": 155,
+            "author": ""
+        },
+        {
+            "title": "צנחתי במהירות על-קולית!",
+            "description": "",
+            "start_page": 160,
+            "author": "ארתור ריי הוקינס"
+        },
+        {
+            "title": "מה, גם זה מיטאור?...",
+            "description": "",
+            "start_page": 167,
+            "author": ""
+        },
+        {
+            "title": "דיילות המזרח החינניות",
+            "description": "",
+            "start_page": 170,
+            "author": ""
+        },
+        {
+            "title": "פלאי היקום",
+            "description": "",
+            "start_page": "",
+            "author": "ד״ר י. לויט"
+        },
+        {
+            "title": "בגד-חלל הופך מחזון למציאות",
+            "description": "",
+            "start_page": 172,
+            "author": ""
+        },
+        {
+            "title": "השלב הראשון חוזר לקרקע",
+            "description": "",
+            "start_page": 174,
+            "author": ""
+        },
+        {
+            "title": "״שקעים בשחקים״ כמקור כוח",
+            "description": "",
+            "start_page": 176,
+            "author": ""
+        },
+        {
+            "title": "החיים בתוך שפופרת רדיו",
+            "description": "",
+            "start_page": 178,
+            "author": ""
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "metadata": {
+        "issue_number": "77",
+        "year": "1968",
+        "month": {
+            "from": "נובמבר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 2.5,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "יוסף ידגר"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 156,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "ה״חרגולים״ בני אחת עשרה",
+            "description": "",
+            "start_page": 10,
+            "author": "ארנון ברוך"
+        },
+        {
+            "title": "הסבתא והמיג",
+            "description": "",
+            "start_page": 25,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "הטיסה למיתלה",
+            "description": "",
+            "start_page": 30,
+            "author": "יוסף עופר"
+        },
+        {
+            "title": "חיל-אוירנקים של המחר",
+            "description": "",
+            "start_page": 41,
+            "author": "ד. שי"
+        },
+        {
+            "title": "חיל האויר שבהאקי",
+            "description": "",
+            "start_page": 47,
+            "author": "ד. רוזנבלום"
+        },
+        {
+            "title": "סתם יום של החול בים החול",
+            "description": "",
+            "start_page": 52,
+            "author": "א. ברוך"
+        },
+        {
+            "title": "״הטובים לטיס״ של אתמוך",
+            "description": "",
+            "start_page": 61,
+            "author": "אלי פיינגרש"
+        },
+        {
+            "title": "מרו״ם ומג״ש",
+            "description": "",
+            "start_page": 74,
+            "author": ""
+        },
+        {
+            "title": "מבצע ״בלק״",
+            "description": "",
+            "start_page": 76,
+            "author": "מ. מרדור"
+        },
+        {
+            "title": "ראיון עם חוסיין",
+            "description": "",
+            "start_page": 89,
+            "author": ""
+        },
+        {
+            "title": "כך למו בשחקים לפני 50 שנה",
+            "description": "",
+            "start_page": 93,
+            "author": "ע. עמית"
+        },
+        {
+            "title": "התעופה מאז ועד היום",
+            "description": "",
+            "start_page": 102,
+            "author": "עמוס עשת"
+        },
+        {
+            "title": "מי אומר שאינך יכול להמריא?",
+            "description": "",
+            "start_page": 125,
+            "author": ""
+        },
+        {
+            "title": "אנטונוב אנ-22",
+            "description": "",
+            "start_page": 129,
+            "author": ""
+        },
+        {
+            "title": "כאויר העולם",
+            "description": "",
+            "start_page": 134,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "ההפצצה הראשונה על טוקיו",
+            "description": "",
+            "start_page": 156,
+            "author": ""
+        }
+    ]
+}

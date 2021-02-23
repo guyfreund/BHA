@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "issue_number": "78",
+        "year": "1969",
+        "month": {
+            "from": "מרץ",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 2.5,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "דני שלום"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 148,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 7,
+            "author": ""
+        },
+        {
+            "title": "לזכרו של רה״מ",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "״כל״ - המטוס האלגנטי",
+            "description": "",
+            "start_page": 10,
+            "author": "א. בך"
+        },
+        {
+            "title": "כך חולצו חיילי צה״ל",
+            "description": "",
+            "start_page": 16,
+            "author": "ארנוך ברוך"
+        },
+        {
+            "title": "״יציאת סיני״ ביוני 1955",
+            "description": "",
+            "start_page": 21,
+            "author": ""
+        },
+        {
+            "title": "החיים הקשים בטייסת קלה",
+            "description": "",
+            "start_page": 25,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "ילדי הפרחים של חיל האויר",
+            "description": "",
+            "start_page": 32,
+            "author": "ארנון ברוך"
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 42,
+            "author": ""
+        },
+        {
+            "title": "טייס החלל העברי הראשון",
+            "description": "",
+            "start_page": 48,
+            "author": "ד.שי."
+        },
+        {
+            "title": "קונצ׳רטו לטייך ולתזמורת",
+            "description": "",
+            "start_page": 50,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "הדפים שנתלשו מאלבומו של נשיא צרפת",
+            "description": "",
+            "start_page": 57,
+            "author": ""
+        },
+        {
+            "title": "הצניחה ה37.5",
+            "description": "",
+            "start_page": 64,
+            "author": "מ. נאור"
+        },
+        {
+            "title": "לאחר ביירות",
+            "description": "",
+            "start_page": 75,
+            "author": ""
+        },
+        {
+            "title": "שנתיים לאחר המלחמה",
+            "description": "",
+            "start_page": 86,
+            "author": "א. אייל"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 102,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "דמויות בעולם התעופה",
+            "description": "",
+            "start_page": 106,
+            "author": ""
+        },
+        {
+            "title": "מלחמת האויר הוויאטנם",
+            "description": "",
+            "start_page": 122,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "הטייס שסירב למות",
+            "description": "",
+            "start_page": 130,
+            "author": "ג. יפה"
+        },
+        {
+            "title": "אפולו - בעמדת זינוק לירח",
+            "description": "",
+            "start_page": 138,
+            "author": "מ. כהן"
+        },
+        {
+            "title": "המנוע הקטן שעמד במבחן",
+            "description": "",
+            "start_page": 142,
+            "author": ""
+        },
+        {
+            "title": "היהודה בעל ה״מקס הכחול״",
+            "description": "",
+            "start_page": 148,
+            "author": "א. פיינגרש"
+        }
+    ]
+}

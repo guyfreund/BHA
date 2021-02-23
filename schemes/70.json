@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "issue_number": "70",
+        "year": "1966",
+        "month": {
+            "from": "מרץ",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": "",
+            "type": ""
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 159,
+        "subscription_only": true
+    },
+    "index": [
+        {
+            "title": "משפחת האויר מספרת",
+            "description": "",
+            "start_page": 6,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "״קדימה למאך 2!״",
+            "description": "",
+            "start_page": 20,
+            "author": "אורי דן"
+        },
+        {
+            "title": "על כנפי החלוציות",
+            "description": "",
+            "start_page": 25,
+            "author": "איתן הבר"
+        },
+        {
+            "title": "רגעים בדרכו של אל״מ הוד",
+            "description": "",
+            "start_page": 28,
+            "author": ""
+        },
+        {
+            "title": "ממגליל דאונים ועד למשגר ״הוק״",
+            "description": "",
+            "start_page": 38,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "המטוסים לאויר!",
+            "description": "",
+            "start_page": 47,
+            "author": "צ. איש טוב"
+        },
+        {
+            "title": "״אל הצפור״ כצלו של ״מירז׳״",
+            "description": "",
+            "start_page": 58,
+            "author": ""
+        },
+        {
+            "title": "RAF - אחד ממעיינות ח״א",
+            "description": "",
+            "start_page": 61,
+            "author": "צ. בן שלמה"
+        },
+        {
+            "title": "המלחמה ״המצולמת״ ביותר בעולם",
+            "description": "",
+            "start_page": 70,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "ארבעה רגעים קטלניים",
+            "description": "",
+            "start_page": 80,
+            "author": ""
+        },
+        {
+            "title": "קולנוע במטוסים",
+            "description": "",
+            "start_page": 87,
+            "author": ""
+        },
+        {
+            "title": "הדרמה ליד השער",
+            "description": "",
+            "start_page": 93,
+            "author": "מרדכי נאור"
+        },
+        {
+            "title": "סיוט ״מלחמת הכפתורים״",
+            "description": "",
+            "start_page": 112,
+            "author": ""
+        },
+        {
+            "title": "הצלה ממעמקי בור השיגור",
+            "description": "",
+            "start_page": 131,
+            "author": ""
+        },
+        {
+            "title": "צניחות וצלילות",
+            "description": "",
+            "start_page": 135,
+            "author": ""
+        },
+        {
+            "title": "רקיטות לשיגור מכתבים",
+            "description": "",
+            "start_page": 143,
+            "author": "יורם לוין"
+        },
+        {
+            "title": "גשר אוירי למכה",
+            "description": "",
+            "start_page": 151,
+            "author": ""
+        },
+        {
+            "title": "״הדור החדש״ של התובלה הסובייטית",
+            "description": "",
+            "start_page": 155,
+            "author": ""
+        },
+        {
+            "title": "מטוסים מתוצרת בית",
+            "description": "",
+            "start_page": 159,
+            "author": ""
+        }
+    ]
+}

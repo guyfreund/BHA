@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "issue_number": "76",
+        "year": "1968",
+        "month": {
+            "from": "מאי",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": "",
+            "type": ""
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "שמואל תובל"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 156,
+        "subscription_only": true
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "פקודת יום של מפקד חיל האויר",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "שוב עלה הרעש המוכר",
+            "description": "",
+            "start_page": 6,
+            "author": "א. ברוך, ד. רוזנבלום"
+        },
+        {
+            "title": "טייס המירז׳: פגענו, יצאנו וחזרנו",
+            "description": "",
+            "start_page": 10,
+            "author": ""
+        },
+        {
+            "title": "מפקד טייסת אורגן",
+            "description": "",
+            "start_page": 11,
+            "author": ""
+        },
+        {
+            "title": "המלאכים הטובים של הפצועים",
+            "description": "",
+            "start_page": 13,
+            "author": ""
+        },
+        {
+            "title": "מירז׳ים - במלוא עוצמתם המבצעית",
+            "description": "",
+            "start_page": 17,
+            "author": ""
+        },
+        {
+            "title": "היי חבר׳ה, תשאירו לנו משהו...",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "מירדף בהרי אדום",
+            "description": "",
+            "start_page": 19,
+            "author": ""
+        },
+        {
+            "title": "עם ההליקופטרים מעבר לגבול",
+            "description": "",
+            "start_page": 21,
+            "author": ""
+        },
+        {
+            "title": "הסקייהוק מפציץ-הקרב החדש",
+            "description": "",
+            "start_page": 24,
+            "author": "צ. גוטמן"
+        },
+        {
+            "title": "הדודה שלנו לאה",
+            "description": "",
+            "start_page": 39,
+            "author": "ד. בן-יחיאל"
+        },
+        {
+            "title": "סרן ר.חזר",
+            "description": "",
+            "start_page": 42,
+            "author": "א. בך"
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 46,
+            "author": ""
+        },
+        {
+            "title": "חילות האויר הערביים היום",
+            "description": "",
+            "start_page": 51,
+            "author": "א. אייל"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 70,
+            "author": "י. עופר"
+        },
+        {
+            "title": "שלד אדם חוזר מן השבי",
+            "description": "",
+            "start_page": 103,
+            "author": ""
+        },
+        {
+            "title": "גלב הנ״מ של האנוי",
+            "description": "",
+            "start_page": 114,
+            "author": ""
+        },
+        {
+            "title": "פ-105 ״מנהיג הרעם״",
+            "description": "",
+            "start_page": 123,
+            "author": "ע. עשת"
+        },
+        {
+            "title": "ללא מצנח",
+            "description": "",
+            "start_page": 134,
+            "author": "רוד פק"
+        },
+        {
+            "title": "בעידן הסילון: עשה זאת מהר",
+            "description": "",
+            "start_page": 144,
+            "author": ""
+        },
+        {
+            "title": "סביב העולם ב-160 שעות",
+            "description": "",
+            "start_page": 152,
+            "author": ""
+        },
+        {
+            "title": "כך לחמו לפני 50 שנה",
+            "description": "",
+            "start_page": 156,
+            "author": ""
+        }
+    ]
+}
