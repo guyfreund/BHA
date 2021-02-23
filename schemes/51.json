@@ -1,0 +1,214 @@
+{
+    "metadata": {
+        "issue_number": "51",
+        "year": "1960",
+        "month": {
+            "from": "מרץ",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סרן יהודה עופר",
+        "price": {
+            "amount": 1.0,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "אלקבס אברהם",
+            "ביו נסים",
+            "חיאק דני",
+            "קמינר אליהו",
+            "שאשע אריה",
+            "יעקב מחט"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 168,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 3,
+            "author": ""
+        },
+        {
+            "title": "הרדיפה אחרי סילונים",
+            "description": "",
+            "start_page": 4,
+            "author": "אל״מ בנימין כגן"
+        },
+        {
+            "title": "״מיג-19״ מטוס הקרב של קע״מ",
+            "description": "",
+            "start_page": 19,
+            "author": ""
+        },
+        {
+            "title": "בכל עת - לכל מקום",
+            "description": "",
+            "start_page": 22,
+            "author": ""
+        },
+        {
+            "title": "איש המטח",
+            "description": "",
+            "start_page": 26,
+            "author": ""
+        },
+        {
+            "title": "קרבות אויר וטייסי קרב",
+            "description": "",
+            "start_page": 27,
+            "author": "יעקב טרנר"
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "36",
+            "start_page": 36,
+            "author": ""
+        },
+        {
+            "title": "בית הסיפר לטיסה בגאנה",
+            "description": "",
+            "start_page": 38,
+            "author": ""
+        },
+        {
+            "title": "״בצלו של כנף״",
+            "description": "",
+            "start_page": 40,
+            "author": ""
+        },
+        {
+            "title": "הפילים המעופפים",
+            "description": "",
+            "start_page": 42,
+            "author": "רענן לוריא"
+        },
+        {
+            "title": "מזימות בינלאומיות",
+            "description": "",
+            "start_page": 53,
+            "author": ""
+        },
+        {
+            "title": "בבט יוצאות למלחמה",
+            "description": "",
+            "start_page": 54,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 56,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "תצלומים מספרים",
+            "description": "",
+            "start_page": 70,
+            "author": ""
+        },
+        {
+            "title": "החלל התמלא",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        },
+        {
+            "title": "מה מעיף את לוניק?",
+            "description": "",
+            "start_page": 88,
+            "author": "י. עופר"
+        },
+        {
+            "title": "טבלת הרקיטות הסובייטיות ומנועיהן",
+            "description": "",
+            "start_page": 99,
+            "author": ""
+        },
+        {
+            "title": "ארי שטרנפלד - המוח מאחורי ה״לוניק״",
+            "description": "",
+            "start_page": 100,
+            "author": ""
+        },
+        {
+            "title": "10 שאלות",
+            "description": "",
+            "start_page": 105,
+            "author": ""
+        },
+        {
+            "title": "בני מאדים לאן",
+            "description": "",
+            "start_page": 110,
+            "author": ""
+        },
+        {
+            "title": "״פי-105״ - הצ׳יף העלקולי",
+            "description": "",
+            "start_page": 112,
+            "author": ""
+        },
+        {
+            "title": "״עפרונות״ עלקוליים״",
+            "description": "ראה ״בגליון זה״",
+            "start_page": 113,
+            "author": ""
+        },
+        {
+            "title": "להכות ברקיע",
+            "description": "",
+            "start_page": 115,
+            "author": "פייר קלסטרמן"
+        },
+        {
+            "title": "ה״שאמפיניון״ הראשון",
+            "description": "",
+            "start_page": 128,
+            "author": ""
+        },
+        {
+            "title": "רוחות הרפאים במטוסים הרופפים",
+            "description": "",
+            "start_page": 130,
+            "author": ""
+        },
+        {
+            "title": "לקראת הנשק הסופי?",
+            "description": "",
+            "start_page": 140,
+            "author": "א. קיסרי"
+        },
+        {
+            "title": "בעקבות הופעת ״המנוע הסילוני״",
+            "description": "",
+            "start_page": 150,
+            "author": ""
+        },
+        {
+            "title": "המיצנח",
+            "description": "",
+            "start_page": 152,
+            "author": "עמנואל בן-גוריון"
+        },
+        {
+            "title": "״קומטים״ לקע״מ",
+            "description": "",
+            "start_page": 167,
+            "author": ""
+        },
+        {
+            "title": "מדריך לחברות התעופה הערביות",
+            "description": "",
+            "start_page": 168,
+            "author": ""
+        }
+    ]
+}

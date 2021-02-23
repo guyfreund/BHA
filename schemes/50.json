@@ -1,0 +1,203 @@
+{
+    "metadata": {
+        "issue_number": "50",
+        "year": "1959",
+        "month": {
+            "from": "דצמבר",
+            "to": "ינואר"
+        },
+        "publisher": "מפקדת חיל האוויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סרן יהודה עופר",
+        "price": {
+            "amount": "",
+            "type": ""
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "אליהו קמינר"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 179,
+        "subscription_only": true
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "דבר מפקד חיל האויר",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "50 גליוניות ״חיל האויר״",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "קצת היסטוריה לא תזיק",
+            "description": "",
+            "start_page": 22,
+            "author": "רענן לוריא"
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 38,
+            "author": ""
+        },
+        {
+            "title": "ילדי הסילון",
+            "description": "",
+            "start_page": 39,
+            "author": ""
+        },
+        {
+            "title": "יובלו הפרטי של יוסי",
+            "description": "",
+            "start_page": 45,
+            "author": "גביראל שטרסמן"
+        },
+        {
+            "title": "בח״א מועסקים ״גם״ גברים",
+            "description": "",
+            "start_page": 52,
+            "author": "יעקב בן אמיר"
+        },
+        {
+            "title": "מכוניות, חתימות וחניכים",
+            "description": "",
+            "start_page": 57,
+            "author": "יעקב טרנר"
+        },
+        {
+            "title": "השליח",
+            "description": "",
+            "start_page": 66,
+            "author": "שמאי ויס"
+        },
+        {
+            "title": "תולדות מונחי התעופה בעברית",
+            "description": "",
+            "start_page": 67,
+            "author": "ד״ר דוד אביר"
+        },
+        {
+            "title": "1918 - קרב מעל מפקדת גנרל אלנבי",
+            "description": "",
+            "start_page": 70,
+            "author": ""
+        },
+        {
+            "title": "ממוסקבה לניו יורק",
+            "description": "",
+            "start_page": 72,
+            "author": "א.פ. יקימוב"
+        },
+        {
+            "title": "חידון תנכ״י-תעופתי",
+            "description": "",
+            "start_page": 76,
+            "author": "צפנת-פענח"
+        },
+        {
+            "title": "מעוללות עוללי השחקים",
+            "description": "",
+            "start_page": 77,
+            "author": ""
+        },
+        {
+            "title": "צניחה חופשית",
+            "description": "",
+            "start_page": 90,
+            "author": ""
+        },
+        {
+            "title": "הריחוף הפיוטי",
+            "description": "",
+            "start_page": 92,
+            "author": ""
+        },
+        {
+            "title": "״לוניקים״ תחנות הקוסמוס של בריה״מ",
+            "description": "",
+            "start_page": 96,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "מבצעי ה״לוניקים״ בעיני ציירי העולם",
+            "description": "",
+            "start_page": 100,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 107,
+            "author": ""
+        },
+        {
+            "title": "החלל המתמלא",
+            "description": "",
+            "start_page": 120,
+            "author": ""
+        },
+        {
+            "title": "מסעם של ג׳ון מיסון ולארי קרטר",
+            "description": "",
+            "start_page": 129,
+            "author": "וו. פון בראון"
+        },
+        {
+            "title": "דיילות הסילון",
+            "description": "",
+            "start_page": 150,
+            "author": ""
+        },
+        {
+            "title": "בסימן הרוח האלהית",
+            "description": "",
+            "start_page": 154,
+            "author": "פייר קלוסטרמן"
+        },
+        {
+            "title": "שקיעת האלים",
+            "description": "",
+            "start_page": 163,
+            "author": "פייר קלוסטרמן"
+        },
+        {
+            "title": "מסרשמיט ״262״",
+            "description": "",
+            "start_page": 168,
+            "author": "עמנואל בן-גוריון"
+        },
+        {
+            "title": "חדש וקריא",
+            "description": "",
+            "start_page": 173,
+            "author": "ח. קרו"
+        },
+        {
+            "title": "סעוד עורך מסע ב״סופר-ג׳י״",
+            "description": "",
+            "start_page": 174,
+            "author": ""
+        },
+        {
+            "title": "״מיג-17״ - מטוסה הקרבי של קע״מ",
+            "description": "",
+            "start_page": 179,
+            "author": ""
+        }
+    ]
+}
