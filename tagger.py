@@ -27,7 +27,9 @@ def handle_index():
     print("index")
     title = input("title: ")
     description = input("description: ")
-    start_page = int(input("start_page: "))
+    start_page = input("start_page: ")
+    if start_page and start_page.isdigit():
+        start_page = int(start_page)
     author = input("author: ")
     while any([title, description, start_page, author]):
         index.append({
@@ -38,7 +40,9 @@ def handle_index():
         })
         title = input("title: ")
         description = input("description: ")
-        start_page = int(input("start_page: "))
+        start_page = input("start_page: ")
+        if start_page and start_page.isdigit():
+            start_page = int(start_page)
         author = input("author: ")
     return index
 
@@ -54,47 +58,47 @@ def handle_price():
     amount = input("amount: ")
     if amount:
         amount = float(amount)
-    type = input("type: ")
-    return amount, type
+    coin_type = input("type: ")
+    return amount, coin_type
 
 
 def main():
     start = time.time()
     scheme = json_read("scheme.json")
-    issue = {}
+    issue = {"metadata": {}, "index": {}}
 
     try:
         for field in scheme["metadata"]:
             if field == "month":
                 from_month, to_month = handle_month()
-                scheme["metadata"]["month"] = {"from": from_month, "to": to_month}
+                issue["metadata"]["month"] = {"from": from_month, "to": to_month}
             elif field == "price":
                 print("price")
                 amount, coin_type = handle_price()
-                scheme["metadata"]["price"] = {"amount": amount, "type": coin_type}
+                issue["metadata"]["price"] = {"amount": amount, "type": coin_type}
             elif field == "photographers":
-                scheme["metadata"]["photographers"] = handle_photographers()
+                issue["metadata"]["photographers"] = handle_photographers()
             elif field == "subscription_price":
                 print("subscription_price")
                 amount, coin_type = handle_price()
-                scheme["metadata"]["subscription_price"] = {"amount": amount, "type": coin_type}
+                issue["metadata"]["subscription_price"] = {"amount": amount, "type": coin_type}
             elif field == "number_of_pages":
                 num = input("number_of_pages: ")
                 if num and num.isdigit():
                     num = int(num)
-                scheme["metadata"]["number_of_pages"] = num
+                issue["metadata"]["number_of_pages"] = num
             elif field == "subscription_only":
-                scheme["metadata"]["subscription_only"] = handle_subscription_only()
+                issue["metadata"]["subscription_only"] = handle_subscription_only()
             else:
-                scheme["metadata"][field] = input(f"{field}: ")
+                issue["metadata"][field] = input(f"{field}: ")
 
-        scheme["index"] = handle_index()
+        issue["index"] = handle_index()
 
     except Exception as e:
         raise e
     finally:
         end = time.time()
-        json_write(os.path.join("schemes", f"{issue['metadata']['issue_number'].json}"), issue)
+        json_write(os.path.join("schemes", f"{issue['metadata']['issue_number']}.json"), issue)
         print(f"{(end - start) / 60} minutes")
 
 
