@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "year":1958 ,
+    "month": {
+      "from": "יולי",
+      "to": "אוגוסט"
+    },
+    "issue_number": "45",
+    "publisher": "מפקדת חיל האוויר",
+    "editor": "רב סרן משה הדר",
+    "deputy_editor": "סגן יהודה עופר",
+    "price": {
+      "amount": -1,
+      "type":""
+    },
+    "photographers": [
+      "פ. בייג"
+    ],
+    "subscription_price": {
+      "amount":-1 ,
+      "type": ""
+    },
+    "number_of_pages": 189,
+    "subscription_only": true
+  },
+  "index": [
+    {
+      "title": "בגליון זה",
+      "description": "",
+      "start_page":6 ,
+      "author": ""
+    },
+    {
+      "title": "ווטור-המוסקיטו הסילוני",
+      "description": "",
+      "start_page":8 ,
+      "author": ""
+    },
+    {
+      "title": "מקלחת קרה ביום חמסין",
+      "description": "",
+      "start_page":12 ,
+      "author": ""
+    },
+    {
+      "title": "מצנח עצירה",
+      "description": "",
+      "start_page":14 ,
+      "author": ""
+    },
+    {
+      "title": "תולדות טיסה אחת",
+      "description": "",
+      "start_page":20 ,
+      "author": ""
+    },
+    {
+      "title": "ווטור - תיאור טכני",
+      "description": "",
+      "start_page":23 ,
+      "author": ""
+    },
+    {
+      "title": "תאור-חתך של המפציץ ווטור 2ב",
+      "description": "",
+      "start_page":29 ,
+      "author": ""
+    },
+    {
+      "title": "מדגרה סילונית לפרחי טיס",
+      "description": "",
+      "start_page":30 ,
+      "author": "ע. יהודה"
+    },
+    {
+      "title": "המראה, נחיתה - במאונך",
+      "description": "",
+      "start_page":40 ,
+      "author": "אחיוסף"
+    },
+    {
+      "title": "סוללי העצמאות באויר (חלק ב')",
+      "description": "",
+      "start_page":50 ,
+      "author": "אדם שתקאי"
+    },
+    {
+      "title": "מפציצי היום לפני עשר שנים",
+      "description": "",
+      "start_page":76 ,
+      "author": "זאב סגל"
+    },
+    {
+      "title": "הפצצת רבת עמון",
+      "description": "",
+      "start_page":78 ,
+      "author": ""
+    },
+    {
+      "title": "בצרפת - מטוסי המחר טסים היום",
+      "description": "",
+      "start_page":84 ,
+      "author": "יהודה עופר"
+    },
+    {
+      "title": "רוזנוף - רוזן התעופה",
+      "description": "",
+      "start_page":116 ,
+      "author": ""
+    },
+    {
+      "title": "קן הנשרים",
+      "description": "",
+      "start_page":122 ,
+      "author": ""
+    },
+    {
+      "title": "תצלומים מספרים",
+      "description": "",
+      "start_page":134 ,
+      "author": ""
+    },
+    {
+      "title": "מי-6 - הענק שבהליקופטרים",
+      "description": "",
+      "start_page":141 ,
+      "author": ""
+    },
+    {
+      "title": "מיל טס 250 מיל",
+      "description": "",
+      "start_page":142 ,
+      "author": ""
+    },
+    {
+      "title": "חייו הסודיים של המהנדס טופולב",
+      "description": "",
+      "start_page":144 ,
+      "author": ""
+    },
+    {
+      "title": "יאק-25 - הווטור הסובייטי",
+      "description": "",
+      "start_page":148 ,
+      "author": ""
+    },
+    {
+      "title": "המאבק על הנשק הסופי",
+      "description": "",
+      "start_page":149 ,
+      "author": "ראובן הלל"
+    },
+    {
+      "title": "טילים מודרכים מציפים את האויר",
+      "description": "",
+      "start_page":152 ,
+      "author": ""
+    },
+    {
+      "title": "הליקופטר הכיבוי",
+      "description": "",
+      "start_page":155 ,
+      "author": ""
+    },
+    {
+      "title": "עתידם של כלי יריה כחימוש מטוסים",
+      "description": "",
+      "start_page":158 ,
+      "author": "א.קיסרי"
+    },
+    {
+      "title": "ספארקי הטלה וכל השאר",
+      "description": "",
+      "start_page":161 ,
+      "author": ""
+    },
+    {
+      "title": "טילי התקפה שוודיים חדשים",
+      "description": "",
+      "start_page": 162,
+      "author": ""
+    },
+    {
+      "title": "דה גול וטייסי צרפת החופשית",
+      "description": "",
+      "start_page":163 ,
+      "author": ""
+    },
+    {
+      "title": "מהירות של 6000 קמ בשעה",
+      "description": "",
+      "start_page":164 ,
+      "author": ""
+    },
+    {
+      "title": "מ-0 עד 300 מיל בשעה",
+      "description": "",
+      "start_page":165 ,
+      "author": ""
+    },
+    {
+      "title": "הסילון שהתרסק בטרם המריא",
+      "description": "",
+      "start_page":166 ,
+      "author": "ברן ליי"
+    },
+    {
+      "title": "כיצד משיגים שיא מהירות עולמי",
+      "description": "",
+      "start_page":169 ,
+      "author": ""
+    },
+    {
+      "title": "קנדים באל-עריש",
+      "description": "",
+      "start_page":170 ,
+      "author": ""
+    },
+    {
+      "title": "לאן נעלמה הדקוטה",
+      "description": "",
+      "start_page":172 ,
+      "author": "גבריאל שטרסמן"
+    },
+    {
+      "title": "דאר אויר",
+      "description": "",
+      "start_page":177 ,
+      "author": ""
+    },
+    {
+      "title": "עוללות יעול",
+      "description": "",
+      "start_page":178 ,
+      "author": ""
+    },
+    {
+      "title": "קל-מן-האויר",
+      "description": "",
+      "start_page":180 ,
+      "author": ""
+    }
+  ]
+}
