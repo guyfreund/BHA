@@ -1,3 +1,0 @@
-index = """
-bla bla bla
-"""

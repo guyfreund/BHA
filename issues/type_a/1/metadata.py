@@ -1,3 +1,0 @@
-metadata = """
-bla bla bla
-"""
