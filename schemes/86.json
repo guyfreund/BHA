@@ -1,0 +1,184 @@
+{
+    "metadata": {
+        "issue_number": "86",
+        "year": "1971",
+        "month": {
+            "from": "דצמבר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 3.0,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [
+            "מיכה-בר עם"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 164,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "המשחק הקטלני של האלקטרוניקה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "דרונים - רובוטים מעופפים",
+            "description": "",
+            "start_page": 9,
+            "author": ""
+        },
+        {
+            "title": "פוקסבטט - מי אתה?",
+            "description": "",
+            "start_page": 17,
+            "author": ""
+        },
+        {
+            "title": "חץ אל עמק הטילים",
+            "description": "",
+            "start_page": 22,
+            "author": "איתן הבר"
+        },
+        {
+            "title": "הנאמנים",
+            "description": "",
+            "start_page": 28,
+            "author": "ליאונרד סלייטר"
+        },
+        {
+            "title": "חידון זהוי מטוסים",
+            "description": "",
+            "start_page": 48,
+            "author": ""
+        },
+        {
+            "title": "הטכני משנה את פניו",
+            "description": "",
+            "start_page": 50,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "נחשף מטמון האוסטרים",
+            "description": "",
+            "start_page": 62,
+            "author": "מ. אורן"
+        },
+        {
+            "title": "כך תידלקנו את הסקייהוקים",
+            "description": "",
+            "start_page": 72,
+            "author": "מ. עודד"
+        },
+        {
+            "title": "במצ\"\"ח נחושה",
+            "description": "",
+            "start_page": 75,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "חיל האויר של לוב",
+            "description": "",
+            "start_page": 79,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "רופא בכל הליקופטר",
+            "description": "",
+            "start_page": 84,
+            "author": ""
+        },
+        {
+            "title": "מחקר מיוחד",
+            "description": "",
+            "start_page": 86,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "ירוט ותקיפה בשנות השמונים",
+            "description": "",
+            "start_page": 94,
+            "author": ""
+        },
+        {
+            "title": "ארכיאולוגיה תעופתית",
+            "description": "",
+            "start_page": 103,
+            "author": ""
+        },
+        {
+            "title": "תצלומים מספרים",
+            "description": "",
+            "start_page": 104,
+            "author": ""
+        },
+        {
+            "title": "מערכת ניווט-תקיפה חדישה ליגואר",
+            "description": "",
+            "start_page": 109,
+            "author": ""
+        },
+        {
+            "title": "הקנגורו המעופף",
+            "description": "",
+            "start_page": 112,
+            "author": "עמוס עשת"
+        },
+        {
+            "title": "אפולו - הסוף?",
+            "description": "",
+            "start_page": 126,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "הרי האפנינים שעל הירח",
+            "description": "",
+            "start_page": 134,
+            "author": ""
+        },
+        {
+            "title": "האוטומטוס",
+            "description": "",
+            "start_page": 138,
+            "author": ""
+        },
+        {
+            "title": "המסע הגדול במערכת השמש",
+            "description": "",
+            "start_page": 140,
+            "author": ""
+        },
+        {
+            "title": "הדאיה זוקפת קומתה",
+            "description": "",
+            "start_page": 146,
+            "author": ""
+        },
+        {
+            "title": "מלכודת בלב האוקינוס",
+            "description": "",
+            "start_page": 149,
+            "author": ""
+        },
+        {
+            "title": "מבצרים מעופפים יפניים",
+            "description": "",
+            "start_page": 154,
+            "author": "רוברט מוקאש"
+        },
+        {
+            "title": "היכלות פורחים באויר",
+            "description": "",
+            "start_page": 159,
+            "author": ""
+        }
+    ]
+}

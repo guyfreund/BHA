@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "issue_number": "68",
+        "year": "1965",
+        "month": {
+            "from": "יולי",
+            "to": "אוגוסט"
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 1.7,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 164,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "המטס הגדול",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "נץ אלקטרוני משחר לטרף",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "זה מול זה",
+            "description": "",
+            "start_page": 28,
+            "author": ""
+        },
+        {
+            "title": "הסכינים",
+            "description": "",
+            "start_page": 33,
+            "author": ""
+        },
+        {
+            "title": "סיפורה של טייסת",
+            "description": "",
+            "start_page": 38,
+            "author": ""
+        },
+        {
+            "title": "תותחני הנ\"מ",
+            "description": "",
+            "start_page": 42,
+            "author": "צבי גוטן"
+        },
+        {
+            "title": "אנשי הענן",
+            "description": "",
+            "start_page": 51,
+            "author": "י. בן אמיר"
+        },
+        {
+            "title": "קריאת המחר",
+            "description": "",
+            "start_page": 56,
+            "author": ""
+        },
+        {
+            "title": "איך להיות טייס",
+            "description": "",
+            "start_page": 61,
+            "author": "יעקב טרנר"
+        },
+        {
+            "title": "האותיות שמאחורי המטוס",
+            "description": "",
+            "start_page": 66,
+            "author": "י. אמריליו"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 70,
+            "author": "י. עופר"
+        },
+        {
+            "title": "הירושימה בשעה 6 מתחת!",
+            "description": "",
+            "start_page": 98,
+            "author": ""
+        },
+        {
+            "title": "אתה חזק משהנך סבור",
+            "description": "",
+            "start_page": 115,
+            "author": ""
+        },
+        {
+            "title": "וואט-נאם - מלחמת האויר",
+            "description": "",
+            "start_page": 118,
+            "author": ""
+        },
+        {
+            "title": "כוחה האוירי של סין",
+            "description": "",
+            "start_page": 125,
+            "author": ""
+        },
+        {
+            "title": "7 בפיקוד אחד",
+            "description": "",
+            "start_page": 127,
+            "author": ""
+        },
+        {
+            "title": "הצפור השחורה ואני",
+            "description": "",
+            "start_page": 130,
+            "author": "סקוט קרוספילד"
+        },
+        {
+            "title": "",
+            "description": "",
+            "start_page": "",
+            "author": "כ"
+        },
+        {
+            "title": "זה מול זה",
+            "description": "",
+            "start_page": 156,
+            "author": ""
+        },
+        {
+            "title": "המסע למאדים יתחיל בשנת",
+            "description": "",
+            "start_page": 158,
+            "author": ""
+        },
+        {
+            "title": "מירז' שכולו קרטון",
+            "description": "",
+            "start_page": 160,
+            "author": ""
+        }
+    ]
+}

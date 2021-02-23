@@ -1,0 +1,176 @@
+{
+    "metadata": {
+        "issue_number": "89",
+        "year": "1972",
+        "month": {
+            "from": "נובמבר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 3.5,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 164,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "הצרפתים של ח\"א",
+            "description": "",
+            "start_page": 4,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "אורגן",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "סופר מיסטר",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "מירז' ",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "סופר פרלון",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "טייסי המחר",
+            "description": "",
+            "start_page": 27,
+            "author": ""
+        },
+        {
+            "title": "איך מגיעים לקורס טיס",
+            "description": "",
+            "start_page": 30,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "מאובקים, מאובקים",
+            "description": "",
+            "start_page": 41,
+            "author": "ד. שי"
+        },
+        {
+            "title": "המילואימניקים של ח\"א",
+            "description": "",
+            "start_page": 46,
+            "author": "עדנה שקורי"
+        },
+        {
+            "title": "הכך ייראה חיל האויר של המחר?",
+            "description": "",
+            "start_page": 48,
+            "author": ""
+        },
+        {
+            "title": "הפצצות היודעות הכל",
+            "description": "",
+            "start_page": 66,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "א-4 נגד א-7",
+            "description": "",
+            "start_page": 73,
+            "author": ""
+        },
+        {
+            "title": "הסקייהוק תוקע יתד",
+            "description": "",
+            "start_page": 74,
+            "author": ""
+        },
+        {
+            "title": "הגוץ התוקפני",
+            "description": "",
+            "start_page": 79,
+            "author": "תומאס רייאן"
+        },
+        {
+            "title": "",
+            "description": "מרקא",
+            "start_page": "",
+            "author": "86"
+        },
+        {
+            "title": "",
+            "description": "אוואקס",
+            "start_page": "",
+            "author": "88"
+        },
+        {
+            "title": "",
+            "description": "חליפת החלל כמיני חללית",
+            "start_page": "",
+            "author": "93"
+        },
+        {
+            "title": "",
+            "description": "רשימת הקניות ל-1980",
+            "start_page": "",
+            "author": ""
+        },
+        {
+            "title": "נשק מערבי לערב",
+            "description": "",
+            "start_page": 102,
+            "author": ""
+        },
+        {
+            "title": "ג'יימס בונד בחלל",
+            "description": "",
+            "start_page": 106,
+            "author": "מ. כהן"
+        },
+        {
+            "title": "מבט מרענן על הקלים",
+            "description": "",
+            "start_page": 111,
+            "author": ""
+        },
+        {
+            "title": "דקוטות בקוטב הדרומי",
+            "description": "",
+            "start_page": 114,
+            "author": ""
+        },
+        {
+            "title": "היורדים לקרב",
+            "description": "",
+            "start_page": 118,
+            "author": "לויט-קול ג. גאלבין"
+        },
+        {
+            "title": "זהוי מטוסים",
+            "description": "",
+            "start_page": 148,
+            "author": ""
+        },
+        {
+            "title": "תצלומים מספרים",
+            "description": "",
+            "start_page": 150,
+            "author": ""
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "issue_number": "85",
+        "year": "1971",
+        "month": {
+            "from": "אוגוסט",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 2.45,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 164,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "כך נלקח המכ\"ם המצרי",
+            "description": "",
+            "start_page": 6,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "גולת הכותרת של גולת הכותרת",
+            "description": "",
+            "start_page": 16,
+            "author": "ר. שי"
+        },
+        {
+            "title": "לילות של יום מפרך",
+            "description": "",
+            "start_page": 21,
+            "author": "ג. צבי"
+        },
+        {
+            "title": "המלה האחרונה של סיקורסקי",
+            "description": "",
+            "start_page": 29,
+            "author": ""
+        },
+        {
+            "title": "המילואים הממושכים של ה-20 ק\"מ",
+            "description": "",
+            "start_page": 32,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "במרז' - מתחת לפני המים",
+            "description": "",
+            "start_page": 38,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "אנטומיה של טייסת פנטומים - 1971",
+            "description": "",
+            "start_page": 45,
+            "author": "ד. רוזנבלום"
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 51,
+            "author": ""
+        },
+        {
+            "title": "מסדר כנפיםבאוגדה",
+            "description": "",
+            "start_page": 54,
+            "author": ""
+        },
+        {
+            "title": "ה\"מוזים\" ",
+            "description": "",
+            "start_page": 56,
+            "author": "אלי פיינגרש"
+        },
+        {
+            "title": "הלו לוין - כאן ישראל!",
+            "description": "",
+            "start_page": 77,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "מפסיד מלידה",
+            "description": "",
+            "start_page": "",
+            "author": "79"
+        },
+        {
+            "title": "",
+            "description": "מטוסים חדשים בשמי מצרים",
+            "start_page": "",
+            "author": "85"
+        },
+        {
+            "title": "י. מיכאלי",
+            "description": "מיג-23 למצרים",
+            "start_page": "",
+            "author": "90"
+        },
+        {
+            "title": "מאיר כהן",
+            "description": "המכ\"ם הסובייטי כיום",
+            "start_page": "",
+            "author": "94"
+        },
+        {
+            "title": "מטס רוסי בעיניים ישראליות",
+            "description": "",
+            "start_page": 104,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "כוח האויר של המערב בים התיכוחן",
+            "description": "",
+            "start_page": 108,
+            "author": "עמוס עשת"
+        },
+        {
+            "title": "עיני הנץ של חצי השישי",
+            "description": "",
+            "start_page": 118,
+            "author": ""
+        },
+        {
+            "title": "מלחמתו הקטנה של חצי הגדול",
+            "description": "",
+            "start_page": 122,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "פ-5 - מטוס הקרב העממי",
+            "description": "",
+            "start_page": 128,
+            "author": "ע. עמית"
+        },
+        {
+            "title": "הסופר גאפי",
+            "description": "",
+            "start_page": 140,
+            "author": "פ.ג. סמית"
+        },
+        {
+            "title": "בריחה!",
+            "description": "",
+            "start_page": 144,
+            "author": "ט.ד. קלנן"
+        },
+        {
+            "title": "ז'ורז' גינמר, האביר השברירי",
+            "description": "",
+            "start_page": 153,
+            "author": ""
+        }
+    ]
+}

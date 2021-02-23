@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "issue_number": "81",
+        "year": "1970",
+        "month": {
+            "from": "מרץ",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 2.5,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [
+            "שמואל תובל"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 164,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "מכות מכאיבות לעומק",
+            "description": "",
+            "start_page": 4,
+            "author": "אלי פיינגרש"
+        },
+        {
+            "title": "ביקור בטייסת סקייהוקים",
+            "description": "",
+            "start_page": 12,
+            "author": "ב. ארנון"
+        },
+        {
+            "title": "גם הם מפילים מטוסי אויב",
+            "description": "",
+            "start_page": 19,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 27,
+            "author": ""
+        },
+        {
+            "title": "סיפור קרב אחד",
+            "description": "",
+            "start_page": 30,
+            "author": "א. ברוך"
+        },
+        {
+            "title": "מטוס התקיפה המעולה ביותר בעולם",
+            "description": "",
+            "start_page": 34,
+            "author": "גיטה יפה"
+        },
+        {
+            "title": "רוח הרפאים",
+            "description": "",
+            "start_page": 50,
+            "author": "עמוס עשת"
+        },
+        {
+            "title": "יום הרעייה",
+            "description": "",
+            "start_page": 66,
+            "author": "נתן גרוס"
+        },
+        {
+            "title": "המירז' המשופם",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        },
+        {
+            "title": "דאסו שונא לטוס!ץץץ",
+            "description": "",
+            "start_page": 85,
+            "author": "ג. צבי"
+        },
+        {
+            "title": "שערוריית המירז'ים",
+            "description": "",
+            "start_page": 87,
+            "author": ""
+        },
+        {
+            "title": "ערבה הצבר המעופף",
+            "description": "",
+            "start_page": 90,
+            "author": "ג. אליעזר"
+        },
+        {
+            "title": "הטובים והבולים",
+            "description": "",
+            "start_page": 99,
+            "author": "גולדי"
+        },
+        {
+            "title": "מוסקנה - מי את?",
+            "description": "",
+            "start_page": 104,
+            "author": "גולדי"
+        },
+        {
+            "title": "התעשיה האוירונוטית במערב אירופה",
+            "description": "",
+            "start_page": 107,
+            "author": "י. צ'צ'יק"
+        },
+        {
+            "title": "ח\"א של דרום וויאטנם",
+            "description": "",
+            "start_page": 113,
+            "author": "ע. עמית"
+        },
+        {
+            "title": "ברית המועצות מחדשת פני חיל האויר שלה",
+            "description": "",
+            "start_page": 126,
+            "author": ""
+        },
+        {
+            "title": "א-7, יורשו של הסקייהוק?",
+            "description": "",
+            "start_page": 130,
+            "author": "מאיר כהו"
+        },
+        {
+            "title": "חייו ומותו של הברון האדום",
+            "description": "",
+            "start_page": 137,
+            "author": ""
+        },
+        {
+            "title": "מדרגות, מדרגות",
+            "description": "",
+            "start_page": 144,
+            "author": ""
+        },
+        {
+            "title": "האיש שסרב למות",
+            "description": "",
+            "start_page": 146,
+            "author": ""
+        },
+        {
+            "title": "הנשר מהים האגאי",
+            "description": "",
+            "start_page": 148,
+            "author": ""
+        },
+        {
+            "title": "הזקן והקרחון",
+            "description": "",
+            "start_page": 150,
+            "author": "ג'ים ליסטון"
+        },
+        {
+            "title": "האנחה האחרונה של אווז-הפח",
+            "description": "",
+            "start_page": 154,
+            "author": "אן צ'מברלין"
+        },
+        {
+            "title": "תשבץ תעופתי מספר 3",
+            "description": "",
+            "start_page": 160,
+            "author": ""
+        }
+    ]
+}

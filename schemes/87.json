@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "issue_number": "87",
+        "year": "1972",
+        "month": {
+            "from": "מרץ",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 3.5,
+            "type": "לירהישראלית"
+        },
+        "photographers": [
+            "מיכה בר-עם"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 164,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 5,
+            "author": "אין גמדים קטנים..."
+        },
+        {
+            "title": "",
+            "description": "16",
+            "start_page": "דורון רוזנבלום",
+            "author": "שדה אברהם"
+        },
+        {
+            "title": "",
+            "description": "20",
+            "start_page": "צבי גוטמן",
+            "author": "האמנים, חלק ב'"
+        },
+        {
+            "title": "",
+            "description": "26",
+            "start_page": 26,
+            "author": "ליאונרד סלייטר"
+        },
+        {
+            "title": "איך להצליח בלי להתאמץ",
+            "description": "",
+            "start_page": 40,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 43,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "חיל האויר של סין העממית",
+            "description": "",
+            "start_page": 58,
+            "author": "גיטה יפה"
+        },
+        {
+            "title": "פ-14",
+            "description": "",
+            "start_page": 62,
+            "author": ""
+        },
+        {
+            "title": "להבות בשמי המזרח הרחוק",
+            "description": "",
+            "start_page": 65,
+            "author": "ע. יהודה"
+        },
+        {
+            "title": "שיוט במאך 3",
+            "description": "",
+            "start_page": 77,
+            "author": "פטריק האלורן"
+        },
+        {
+            "title": "ציידי הצוללות",
+            "description": "",
+            "start_page": 84,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "קרבות האויר של התעופה האזרחית",
+            "description": "",
+            "start_page": 90,
+            "author": ""
+        },
+        {
+            "title": "מושב זקנים למטוסים",
+            "description": "",
+            "start_page": 97,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "ואלה תולדות ג'יינס",
+            "description": "",
+            "start_page": 100,
+            "author": ""
+        },
+        {
+            "title": "פריץ והארגז המעופף",
+            "description": "",
+            "start_page": 103,
+            "author": "הרולד זוסקינד"
+        },
+        {
+            "title": "נחיתה על דיסקית",
+            "description": "",
+            "start_page": 108,
+            "author": ""
+        },
+        {
+            "title": "זהוי מטוסים",
+            "description": "",
+            "start_page": 111,
+            "author": ""
+        },
+        {
+            "title": "חיל האויר הדמיוני שלי",
+            "description": "",
+            "start_page": 116,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "סקיילאב",
+            "description": "",
+            "start_page": 122,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "המטהר: מאך 10",
+            "description": "",
+            "start_page": 131,
+            "author": ""
+        },
+        {
+            "title": "כסא המפלט המעופף",
+            "description": "",
+            "start_page": 135,
+            "author": ""
+        },
+        {
+            "title": "כך קוצצו כנפי ה-יו-2",
+            "description": "",
+            "start_page": 142,
+            "author": "דה-גרמון"
+        }
+    ]
+}

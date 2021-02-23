@@ -1,0 +1,182 @@
+{
+    "metadata": {
+        "issue_number": "88",
+        "year": "1972",
+        "month": {
+            "from": "יולי",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 3.5,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 164,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "הרקולס - הפנטם של התוכלה ",
+            "description": "",
+            "start_page": 5,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "בוגרי הטכני, היכן הם היום?",
+            "description": "",
+            "start_page": 15,
+            "author": ""
+        },
+        {
+            "title": "סיפורים קטנים מהדבר הגדול",
+            "description": "",
+            "start_page": 19,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "הסולו הראשון וכל השאר",
+            "description": "",
+            "start_page": 27,
+            "author": "ג. צבי"
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 39,
+            "author": ""
+        },
+        {
+            "title": "הטייסת שמכונאיה עמוסים 6 ג'י",
+            "description": "",
+            "start_page": 43,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "צרות צרורות",
+            "description": "",
+            "start_page": 50,
+            "author": "זאב"
+        },
+        {
+            "title": "ספורטנגד מטוסים",
+            "description": "",
+            "start_page": 56,
+            "author": ""
+        },
+        {
+            "title": "ערבה וקומודר ג'ט",
+            "description": "",
+            "start_page": 59,
+            "author": "דני שלום"
+        },
+        {
+            "title": "מטוסם של הרוסים במצרים",
+            "description": "",
+            "start_page": 64,
+            "author": ""
+        },
+        {
+            "title": "אוייב הטיסה מספר 1",
+            "description": "",
+            "start_page": 70,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "הכל-בו המעופף",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        },
+        {
+            "title": "עולמם המופלא שלהמל\"טים",
+            "description": "",
+            "start_page": 82,
+            "author": ""
+        },
+        {
+            "title": "בי-52, הענק שלא נס ליחו",
+            "description": "",
+            "start_page": 88,
+            "author": ""
+        },
+        {
+            "title": "ציפורי הטרף שעל פיו",
+            "description": "",
+            "start_page": 93,
+            "author": ""
+        },
+        {
+            "title": "החרגולים בויאט-נאם",
+            "description": "",
+            "start_page": 98,
+            "author": ""
+        },
+        {
+            "title": "שליחות בקאטם",
+            "description": "",
+            "start_page": 114,
+            "author": "קרטיס מסקס"
+        },
+        {
+            "title": "זהוי מטוסים",
+            "description": "120",
+            "start_page": 120,
+            "author": ""
+        },
+        {
+            "title": "כולם פרט לארבעה",
+            "description": "",
+            "start_page": 126,
+            "author": ""
+        },
+        {
+            "title": "שיריון אישי לאבירי השחקים",
+            "description": "",
+            "start_page": 132,
+            "author": "וויליאם כהן"
+        },
+        {
+            "title": "לאט, אבל בטוח?",
+            "description": "",
+            "start_page": 137,
+            "author": ""
+        },
+        {
+            "title": "מייבריק ומצלמתו הנסתרת",
+            "description": "",
+            "start_page": 140,
+            "author": ""
+        },
+        {
+            "title": "חיל האויר של השולטן",
+            "description": "",
+            "start_page": 142,
+            "author": ""
+        },
+        {
+            "title": "נטישה ממסוקים - כיצד?",
+            "description": "",
+            "start_page": 145,
+            "author": ""
+        },
+        {
+            "title": "רעם בשמי ויאט-נאם",
+            "description": "",
+            "start_page": 149,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "בי-1, מפציץ העתיד",
+            "description": "",
+            "start_page": 156,
+            "author": ""
+        }
+    ]
+}
