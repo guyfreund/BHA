@@ -4,7 +4,7 @@ import os
 
 def handle_month():
     one_month = input("One month? Y/N ").lower()
-    if one_month == 'n':
+    if one_month == 'y':
         return input("month: "), ""
     else:
         from_month = input("from: ")
