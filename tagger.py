@@ -42,6 +42,13 @@ def handle_index():
     return index
 
 
+def handle_subscription_only():
+    ans = input("subscription only? T/F").lower()
+    if ans in ['t', 'true']:
+        return True
+    return False
+
+
 def main():
     scheme = json_read("scheme.json")
     issue = {}
@@ -58,6 +65,8 @@ def main():
             scheme["metadata"]["subscription_price"] = {"amount": float(input("amount: ")), "type": input("type: ")}
         elif field == "number_of_pages":
             scheme["metadata"]["number_of_pages"] = int(input("number_of_pages: "))
+        elif field == "subscription_only":
+            scheme["metadata"]["subscription_only"] = handle_subscription_only()
         else:
             scheme["metadata"][field] = input(f"{field}: ")
 
