@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "issue_number": "123",
+        "year": "1981",
+        "month": {
+            "from": "יוני",
+            "to": "יוני"
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "סא\"ל אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 9.0,
+            "type": "שקל"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": 50.0,
+            "type": "שקל"
+        },
+        "number_of_pages": 84,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "אש בארזי הלבנון",
+            "description": "",
+            "start_page": 2,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "בכל זאת - פאנטום !",
+            "description": "",
+            "start_page": 6,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "עיניים מעבר לאופק",
+            "description": "",
+            "start_page": 11,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "המוקד של 1967",
+            "description": "",
+            "start_page": 15,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "עמוד עשן בקאהיר-מערב",
+            "description": "",
+            "start_page": 18,
+            "author": "עודד מרום"
+        },
+        {
+            "title": "הם לא יעברו",
+            "description": "",
+            "start_page": 22,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 24,
+            "author": ""
+        },
+        {
+            "title": "הסורקים מהמערב",
+            "description": "",
+            "start_page": 28,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "דרוש: מיתוס לסוסים האפורים",
+            "description": "",
+            "start_page": 32,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "אירובאטיקה ג'",
+            "description": "",
+            "start_page": 35,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "כל מה שרצית לדעת על ניווט",
+            "description": "",
+            "start_page": 39,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "מטוסים כאנדרטות חיות",
+            "description": "",
+            "start_page": 43,
+            "author": "סא\"ל אורי"
+        },
+        {
+            "title": "חדוות הטיסה של מרום",
+            "description": "",
+            "start_page": 46,
+            "author": ""
+        },
+        {
+            "title": "להיאחז בחיים בציפורניים",
+            "description": "",
+            "start_page": 49,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 54,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 57,
+            "author": ""
+        },
+        {
+            "title": "מכתבים",
+            "description": "",
+            "start_page": 60,
+            "author": ""
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 61,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 62,
+            "author": ""
+        }
+    ]
+}

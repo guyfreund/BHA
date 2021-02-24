@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "issue_number": "124",
+        "year": "1981",
+        "month": {
+            "from": "אוגוסט",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "סא\"ל אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 12.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "משה מילנר"
+        ],
+        "subscription_price": {
+            "amount": 70.0,
+            "type": "שקל"
+        },
+        "number_of_pages": 84,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "הכשירות המבצעית תישמר בכל עת",
+            "description": "",
+            "start_page": 3,
+            "author": ""
+        },
+        {
+            "title": "אירועי חיל-האויר בשנה ה-33",
+            "description": "",
+            "start_page": 7,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "הסקייהוקים נותנים הכל",
+            "description": "",
+            "start_page": 11,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "מזל\"ט בעקבות מל\"ט",
+            "description": "",
+            "start_page": 16,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "הראשונות של מספר 2",
+            "description": "",
+            "start_page": 21,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "המסוק נע למרכז הזירה",
+            "description": "",
+            "start_page": 27,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "הבריאות ברום דאגתנו",
+            "description": "",
+            "start_page": 30,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "פוטנציאל טוב לטייס יירוט",
+            "description": "",
+            "start_page": 34,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "לא סתם ג'ובניקים",
+            "description": "",
+            "start_page": 38,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "כל כנפי הכסף",
+            "description": "",
+            "start_page": 41,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "שבוע חם ביולי",
+            "description": "",
+            "start_page": 46,
+            "author": "עודד מרום"
+        },
+        {
+            "title": "שיק צרפתי, תנופה אמריקנית",
+            "description": "",
+            "start_page": 48,
+            "author": "אהרון לפידות ואורי עמית"
+        },
+        {
+            "title": "שפע העיטורים של ג'ורג'",
+            "description": "",
+            "start_page": 54,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 56,
+            "author": ""
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 57,
+            "author": ""
+        },
+        {
+            "title": "בית חולים למטוסים",
+            "description": "",
+            "start_page": 61,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 64,
+            "author": ""
+        }
+    ]
+}

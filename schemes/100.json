@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "issue_number": "100",
+        "year": "1976",
+        "month": {
+            "from": "אוקטובר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "",
+        "price": {
+            "amount": 13.0,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": 164,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "הגדרת מאה הבטאונים",
+            "description": "",
+            "start_page": 4,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "לוחמת האויר בראי הבטאון",
+            "description": "",
+            "start_page": 36,
+            "author": "אבי אלדד"
+        },
+        {
+            "title": "עסקי האויר של עמנואל צור",
+            "description": "",
+            "start_page": 60,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "איפה הם היום? בוריס סניור",
+            "description": "",
+            "start_page": 76,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "צילומי האויר הוחבאו ב...גרביים...",
+            "description": "",
+            "start_page": 84,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "רענן לוריא הקריקטוריסט שצמח אצלנו",
+            "description": "",
+            "start_page": 94,
+            "author": "צ. אחיטוב"
+        },
+        {
+            "title": "הכל למען החברים",
+            "description": "",
+            "start_page": 110,
+            "author": "יעקב בן אמיר"
+        },
+        {
+            "title": "הסופרפרלונים פשטו",
+            "description": "",
+            "start_page": 114,
+            "author": "צ. נמטוג"
+        },
+        {
+            "title": "סקייהוק מול מיג-17",
+            "description": "",
+            "start_page": 120,
+            "author": "גיל ארבל"
+        },
+        {
+            "title": "המיראז'ים המצריים שקעו בים",
+            "description": "",
+            "start_page": 126,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "החובש שלקח טייס מצריבשבי",
+            "description": "",
+            "start_page": 132,
+            "author": ""
+        },
+        {
+            "title": "עם טייסי כוננות בעמדת ירוט",
+            "description": "",
+            "start_page": 136,
+            "author": "גיל ארבל"
+        },
+        {
+            "title": "דני שפירא מטיס מיגים",
+            "description": "",
+            "start_page": 140,
+            "author": "גיל ארבל"
+        },
+        {
+            "title": "איך נבנה מחדש מטוס סיקורסקי?",
+            "description": "",
+            "start_page": 148,
+            "author": ""
+        },
+        {
+            "title": "יעל רום - ממשימות הקרב לטכניון",
+            "description": "",
+            "start_page": 156,
+            "author": ""
+        },
+        {
+            "title": "איפה הם היום? רינה לוינסון",
+            "description": "",
+            "start_page": 159,
+            "author": ""
+        },
+        {
+            "title": "ילקוט הכזבים האוירי",
+            "description": "",
+            "start_page": 162,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "\"הצבר המשופם\" של חיל האויר",
+            "description": "",
+            "start_page": 172,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "בשמי המזרח התיכון",
+            "description": "",
+            "start_page": 176,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 190,
+            "author": "מאיר כהן"
+        }
+    ]
+}

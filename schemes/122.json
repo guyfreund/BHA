@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "issue_number": "122",
+        "year": "1981",
+        "month": {
+            "from": "אפריל",
+            "to": ""
+        },
+        "publisher": "מפקדת חילהאויר",
+        "editor": "סא\"ל אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 8.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "גיל ארבל"
+        ],
+        "subscription_price": {
+            "amount": 50.0,
+            "type": "שקל חדש"
+        },
+        "number_of_pages": 84,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "המפיל הלאומי",
+            "description": "",
+            "start_page": 5,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "על כנפי הכסף",
+            "description": "",
+            "start_page": 8,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "הפער האיכותי חשוב מתמיד",
+            "description": "ראיון עם מפקד חיל-האויר, האלוף דוד עברי",
+            "start_page": 10,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "פטרול בגובה נמוך",
+            "description": "",
+            "start_page": 14,
+            "author": "עודד מרום"
+        },
+        {
+            "title": "בסיס טוב לאופטימיות",
+            "description": "",
+            "start_page": 18,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "אירובאטיקה ב'",
+            "description": "",
+            "start_page": 21,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "שש פנים למערך הבקרה ",
+            "description": "",
+            "start_page": 26,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "היכן הדשא ירוק יותר?",
+            "description": "",
+            "start_page": 29,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "סריקה אלקטרונית למניעת התאונות",
+            "description": "",
+            "start_page": 32,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "ארבע שנים בחמש מדינות",
+            "description": "",
+            "start_page": 34,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "מדוע לא הופצצו מחנות ההשמדה?",
+            "description": "",
+            "start_page": 37,
+            "author": "סא\"ל אורי"
+        },
+        {
+            "title": "הטל צק ענק",
+            "description": "",
+            "start_page": 44,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 48,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 52,
+            "author": ""
+        },
+        {
+            "title": "נמר צרפתי בשחקים",
+            "description": "",
+            "start_page": 56,
+            "author": "עמנואל בן-גוריון"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 59,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 62,
+            "author": ""
+        }
+    ]
+}

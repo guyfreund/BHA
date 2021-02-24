@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "issue_number": "120",
+        "year": "1980",
+        "month": {
+            "from": "דצמבר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "סא\"ל אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 6.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "גיל ארבל"
+        ],
+        "subscription_price": {
+            "amount": 35.0,
+            "type": "שקל חדש"
+        },
+        "number_of_pages": 68,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "לטוס ב-F16",
+            "description": "",
+            "start_page": 3,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "יותר משהעגל רוצה לינוק...",
+            "description": "",
+            "start_page": 6,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "בשאיפה למאה אחוז",
+            "description": "",
+            "start_page": 9,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "הלם במטרת-נקודה",
+            "description": "",
+            "start_page": 12,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 15,
+            "author": ""
+        },
+        {
+            "title": "יכולנו להשיג יותר",
+            "description": "",
+            "start_page": 19,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "סיפורהשל סופר-טייסת",
+            "description": "",
+            "start_page": 25,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "ראשונים באימונים - ראשונים בקרב",
+            "description": "",
+            "start_page": 29,
+            "author": "רון הדר"
+        },
+        {
+            "title": "לוחמת האויר הארוכה ביותר (ב')",
+            "description": "",
+            "start_page": 33,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "יום קרב ",
+            "description": "",
+            "start_page": 38,
+            "author": "סרן א'"
+        },
+        {
+            "title": "עדיפות על הנייר",
+            "description": "",
+            "start_page": 40,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 42,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "המכונות הנפלאות",
+            "description": "",
+            "start_page": 45,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "הטיסה הנשיאותית של ISRAEL AIR FORCE ",
+            "description": "",
+            "start_page": 48,
+            "author": "דניאל מולד"
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 51,
+            "author": ""
+        },
+        {
+            "title": "כוח אוירי וכוח יבשתי",
+            "description": "",
+            "start_page": 52,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 54,
+            "author": ""
+        },
+        {
+            "title": "קח אותנו למרום",
+            "description": "",
+            "start_page": 58,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 62,
+            "author": ""
+        }
+    ]
+}
