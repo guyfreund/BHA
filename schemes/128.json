@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "issue_number": "128",
+        "year": "1982",
+        "month": {
+            "from": "מאי",
+            "to": "מאי"
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "סא\"ל אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 25.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "גיל ארבל"
+        ],
+        "subscription_price": {
+            "amount": 130.0,
+            "type": "שקל"
+        },
+        "number_of_pages": 184,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "סיני - המראה אחרונה",
+            "description": "ראיון עם מפקד חיל-האויר, אלוף דוד עברי",
+            "start_page": "",
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "זריחה בבקעת הירדן",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "הטייסת ששברה את שיא ההפלות",
+            "description": "",
+            "start_page": 17,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "משפחת בריינס עקרה מכאן",
+            "description": "",
+            "start_page": 21,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "נ\"מ נגד מדבר",
+            "description": "",
+            "start_page": 26,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "עובדות חדשות בשטח",
+            "description": "",
+            "start_page": 32,
+            "author": "תמרזאבי"
+        },
+        {
+            "title": "קסם של חיים בישימון",
+            "description": "",
+            "start_page": 41,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "מפינוי לבינוי",
+            "description": "",
+            "start_page": 48,
+            "author": ""
+        },
+        {
+            "title": "בסיס גדול ואנשים בו מעט",
+            "description": "",
+            "start_page": 52,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "חמש שנים ועוד יום",
+            "description": "",
+            "start_page": 56,
+            "author": "סרן י'"
+        },
+        {
+            "title": "בסיס המראה לאנטבה",
+            "description": "",
+            "start_page": 58,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "טיהור השמים בשארם",
+            "description": "",
+            "start_page": 64,
+            "author": ""
+        },
+        {
+            "title": "פריסה במרחבים",
+            "description": "",
+            "start_page": 66,
+            "author": "סרן ע'"
+        },
+        {
+            "title": "גיורא איש אופיר",
+            "description": "",
+            "start_page": 69,
+            "author": ""
+        },
+        {
+            "title": "יסעור קובע גבול",
+            "description": "",
+            "start_page": 70,
+            "author": "אהרון לפידות"
+        }
+    ]
+}
