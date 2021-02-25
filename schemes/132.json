@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "issue_number": "132",
+        "year": "1983",
+        "month": {
+            "from": "פברואר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 45.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "כפיר",
+            "גיל ארבל"
+        ],
+        "subscription_price": {
+            "amount": 250.0,
+            "type": "שקל"
+        },
+        "number_of_pages": 76,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "נמצה מעצמנו את המאקסימום",
+            "description": "ראיון מיוחד עם מפקד חיל-האויר, האלוף עמוס לפידות",
+            "start_page": 6,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "מחכים לאתגר הבא",
+            "description": "",
+            "start_page": 10,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "פאנטם מס' 133 חזר לחיים",
+            "description": "",
+            "start_page": 14,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "תומ\"ת דוד",
+            "description": "",
+            "start_page": 18,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 22,
+            "author": ""
+        },
+        {
+            "title": "לילה בלבנון",
+            "description": "",
+            "start_page": 24,
+            "author": "סרן ד'"
+        },
+        {
+            "title": "כנפיים ישראליות בלב אפריקה",
+            "description": "",
+            "start_page": 27,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "בכל מזג-אויר",
+            "description": "",
+            "start_page": 33,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "לוחמה אלקטרונית",
+            "description": "",
+            "start_page": 41,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "ברווזון מכוער ושמו מוהוק",
+            "description": "",
+            "start_page": 44,
+            "author": ""
+        },
+        {
+            "title": "המתאימים לטיס",
+            "description": "",
+            "start_page": 46,
+            "author": "מיכל איל"
+        },
+        {
+            "title": "הנחתה מבוקרת",
+            "description": "",
+            "start_page": 49,
+            "author": "ערן שטוירמן"
+        },
+        {
+            "title": "על כנפי התהילה",
+            "description": "",
+            "start_page": 51,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 55,
+            "author": ""
+        },
+        {
+            "title": "מ-B-1 ל-B 1-B ול-STEALTH",
+            "description": "",
+            "start_page": 57,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "דף מספר ההשמצות",
+            "description": "",
+            "start_page": 60,
+            "author": "מיכל איל"
+        },
+        {
+            "title": "הסטירמן חי ונושם במוזאון",
+            "description": "",
+            "start_page": 62,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 66,
+            "author": ""
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 69,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 72,
+            "author": ""
+        }
+    ]
+}
