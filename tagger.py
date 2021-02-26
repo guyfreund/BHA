@@ -95,7 +95,7 @@ def main():
                 elif field == "editor":
                     issue["metadata"]["editor"] = input("editor: ") or "מירב הלפרין"
                 elif field == "deputy_editor":
-                    issue["metadata"]["deputy_editor"] = input("deputy_editor: ") or "צחי שן"
+                    issue["metadata"]["deputy_editor"] = input("deputy_editor: ") or "אודי עציון"
                 else:
                     issue["metadata"][field] = input(f"{field}: ")
 
