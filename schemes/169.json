@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "issue_number": "169",
+        "year": "1989",
+        "month": {
+            "from": "מאי",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 6.5,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 36.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר",
+            "שלמה וולקוביץ"
+        ],
+        "number_of_pages": 99,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "author": "דחו מחם",
+            "start_page": 4,
+            "title": "קורנס 2000 חתו למרוץ - טיסה מבצעית ראשונה בטייסת",
+            "description": ""
+        },
+        {
+            "author": "ענו מבחן",
+            "start_page": 10,
+            "title": "עסקי אויר - על אנשים וארועים",
+            "description": ""
+        },
+        {
+            "author": "אהרון לפידות",
+            "start_page": 14,
+            "title": "יותר משוס ממסוק - ראיון עם מפקד חיל־האויר",
+            "description": ""
+        },
+        {
+            "author": "דוור מרום",
+            "start_page": 16,
+            "title": "המאיים ביותה השריד ביותר - מסוק הקרב העתידי של חיל־האויר־ אפאצ׳י",
+            "description": ""
+        },
+        {
+            "author": "גיא רימון",
+            "start_page": 18,
+            "title": "חדיש אוירי עמוק - על ״אייס״ עם ו 1 הפלות",
+            "description": ""
+        },
+        {
+            "author": "יואב ויגוגרד",
+            "start_page": 24,
+            "title": "כוכבים נופלים ואש מכסחת ־ על מארב לילי של וולקנים",
+            "description": ""
+        },
+        {
+            "author": "גיא רימון",
+            "start_page": 26,
+            "title": "משביח עם הגיל ־ בר מצווה לכפיר",
+            "description": ""
+        },
+        {
+            "author": "שוון שדה",
+            "start_page": 33,
+            "title": "התצוגה הישראלית בלה־בוח׳ה ־ מדריך הבטאון",
+            "description": ""
+        },
+        {
+            "author": "ישגב נקדימון",
+            "start_page": 36,
+            "title": "סקייהוק 2000 ־ דם חדש בעורקי המטוס הותיק",
+            "description": ""
+        },
+        {
+            "author": "ישגב נקדימון",
+            "start_page": 40,
+            "title": "העין השלישית - על תצלומי אויר ומודיעין",
+            "description": ""
+        },
+        {
+            "author": "אהרון לפידות",
+            "start_page": 44,
+            "title": "בואינג הולכים בגדול - דו״ח סיור במפעל המטוסים הענק בארה״ב",
+            "description": ""
+        },
+        {
+            "author": "שרון אהוב",
+            "start_page": 50,
+            "title": "נחיתה קשה - על קרקוע טייסים",
+            "description": ""
+        },
+        {
+            "author": "דרור מחם",
+            "start_page": 54,
+            "title": "פנו מימין פגז משמאל - על חילוץ תחת אש",
+            "description": ""
+        },
+        {
+            "author": "דפי וישלה",
+            "start_page": 58,
+            "title": "יחסים מהסוג המורכב - בקרים וטייסים",
+            "description": ""
+        },
+        {
+            "author": "שרון שדה",
+            "start_page": 62,
+            "title": "באויר העולם ־ טיסת הבכורה של 2271-¥",
+            "description": ""
+        },
+        {
+            "author": "הציפור השתווה: דוח. סוף. - הטיסות האחרונות של המטוס שובר השיאים דוור מרום",
+            "start_page": 66,
+            "title": "",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 77,
+            "title": "מצנחים ממונעים ־ על סגנון טיסה חדש",
+            "description": ""
+        },
+        {
+            "author": "שרון שדה",
+            "start_page": 78,
+            "title": "קשנים אבל גדולים ־ על דגמי מטוסים ובוניהם",
+            "description": ""
+        },
+        {
+            "author": "שוון אוגוב",
+            "start_page": 86,
+            "title": "הפייפר נח״ת ־ כך נרכש הפייפר הראשון לחיל־האויר",
+            "description": ""
+        },
+        {
+            "author": "חאוקיו",
+            "start_page": 90,
+            "title": "אנו מעיפים אוידונים הצונחים בעזה ־ על קו תעופה יחיד במינו",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 94,
+            "title": "בין הבסיסים",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 99,
+            "title": "מדף אווירי",
+            "description": ""
+        }
+    ]
+}

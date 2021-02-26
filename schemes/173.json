@@ -1,0 +1,218 @@
+{
+    "metadata": {
+        "issue_number": "173",
+        "year": "1990",
+        "month": {
+            "from": "מרץ",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 7.5,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 40.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר",
+            "שלמה וולקוביץ"
+        ],
+        "number_of_pages": 106,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "author": "ישגב נקדימון",
+            "start_page": 8,
+            "title": "23 פנים למיג ־ מנחיתה עד המראה, הסיפור המלא",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 14,
+            "title": "האפאצ׳י עושה זאת טוב יותר ־ תהליך הקליטה כבר החל",
+            "description": ""
+        },
+        {
+            "author": "גיא רימון",
+            "start_page": 20,
+            "title": "שם המשחק: איכות ־־ ס16-ק, יורש המיתוסים",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 26,
+            "title": "נוער 15? ־ הצעירים שבטייסי 1571-? בעולם",
+            "description": ""
+        },
+        {
+            "author": "ענר גוברין",
+            "start_page": 32,
+            "title": "עסקי אויר ־ על אנשים, ארועים ואקטואליה",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד, עמיר חדד",
+            "start_page": 35,
+            "title": "פינוי מאוטובוס הדמים לקהיר - המטוסים, היחידה ורשמים אישיים",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 36,
+            "title": "לבנון, פעם בשבוע ־ תקיפות חיל־האויר, ביום ובלילה באויר המזרח התיכון",
+            "description": ""
+        },
+        {
+            "author": "פיטר אלן פהסט",
+            "start_page": 38,
+            "title": "• ירדן: אין כסף - אין טורנאדו - ראיון עם מפקד חיל־האויר הירדני",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 40,
+            "title": "• צעד עיראקי ראשון בחלל",
+            "description": ""
+        },
+        {
+            "author": "דן איקין",
+            "start_page": 42,
+            "title": "מהפך בהתהוות ־ העוצמה האוירית של ברית ורשה, תמונת־מצב",
+            "description": ""
+        },
+        {
+            "author": "אייל ארליך",
+            "start_page": 46,
+            "title": "עבודה עברית בעזה ־ אנשי יחידת הבינוי של חיל־האויר בונים ברצועה",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 49,
+            "title": "25 שנה למערך ההוק",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 50,
+            "title": "• המחסום האמריקני נפרץ",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 52,
+            "title": "• מבחני מלחמות",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 57,
+            "title": "• אחוז פגיעה מכריע",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 60,
+            "title": "• מתנייע, משופר, איכותי",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 61,
+            "title": "• ההפלה המתוכננת ביותר",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 62,
+            "title": "• שנות האלפיים",
+            "description": ""
+        },
+        {
+            "author": "שרון שדה",
+            "start_page": 66,
+            "title": "באויר העולם - המכ״ם שמגלה את 8-271",
+            "description": ""
+        },
+        {
+            "author": "דן ארקין",
+            "start_page": 69,
+            "title": "• מאילת עד מאסטריך - 40 שנה לארקיע",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 72,
+            "title": "• קולומביה לכדה לוויין בחלל",
+            "description": ""
+        },
+        {
+            "author": "שרון שדה",
+            "start_page": 75,
+            "title": "• שחל - תפיסה ישראלית חדשה למטוס קרב",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 76,
+            "title": "חולף עם רוח המערב ־ מטוס הווסטווינד, סייר ימי",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 79,
+            "title": "טיסות נוסעים בשמי הארץ - מדריך הבטאון",
+            "description": ""
+        },
+        {
+            "author": "דהר מרום",
+            "start_page": 82,
+            "title": "תמונות מעולם אחר - שרק מעטים מאוד יכולים לראותן",
+            "description": ""
+        },
+        {
+            "author": "עמיר חדד",
+            "start_page": 92,
+            "title": "תשע נשמות ומסוק ־ כך עושים מחלץ",
+            "description": ""
+        },
+        {
+            "author": "גיא רימון",
+            "start_page": 98,
+            "title": "• 160-? בעבודת־יד - הסבה לדגם",
+            "description": ""
+        },
+        {
+            "author": "דהר מהם",
+            "start_page": 101,
+            "title": "• הפאלקון מוכן לציד - דגם הפרס",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 102,
+            "title": "ח״א 800^0 - על מטענים ופקחי העמסה",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 104,
+            "title": "בין הבסיסים",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 106,
+            "title": "מדף אוירי",
+            "description": ""
+        }
+    ]
+}

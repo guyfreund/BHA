@@ -13,11 +13,11 @@
       "amount": "float",
       "type": "string"
     },
-    "photographers": [],
     "subscription_price": {
       "amount": "float",
       "type": "string"
     },
+    "photographers": [],
     "number_of_pages": "int",
     "subscription_only": "bool"
   },

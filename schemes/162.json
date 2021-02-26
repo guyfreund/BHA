@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "issue_number": "162",
+        "year": "1988",
+        "month": {
+            "from": "ינואר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 4.5,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר"
+        ],
+        "subscription_price": {
+            "amount": 22.0,
+            "type": "ש״ח"
+        },
+        "number_of_pages": 78,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "עסקי אויר.",
+            "description": "אנשים, ארועים, אקטואליה",
+            "start_page": 6,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "ראש מחלקת מבצעים:",
+            "description": "חיל-האויר - האמצעי היעיל והמדויק ביותר למלחמה במחבלים",
+            "start_page": 10,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "הנץ השחור.",
+            "description": "מסוק הסער המתקדם בעולם - פרופיל",
+            "start_page": 14,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "רווח אסטרטגי אפשרי לישראל.",
+            "description": "על הסכם צימצום הנשק הגרעיני",
+            "start_page": 18,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "כחול, ירוק, סגול.",
+            "description": "יחידות הנ״מ בגבול הצפון",
+            "start_page": 20,
+            "author": "יואב וינוגרד"
+        },
+        {
+            "title": "בסטנדרד גבוה.",
+            "description": "F-16D ראשון נחת בחיל-האויר",
+            "start_page": 22,
+            "author": "גיא רימון"
+        },
+        {
+            "title": "הכיוון גיוון.",
+            "description": "על התעצמותם של חילות האויר של ירדן, סוריה ומצרים",
+            "start_page": 26,
+            "author": "דריה מעוז"
+        },
+        {
+            "title": "חורף קטלני.",
+            "description": "תאונות-אויר - במטוסי נוסעים",
+            "start_page": 34,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "טייס המיגים שנידון למוות.",
+            "description": "מארק דימשיץ קיבל כנפיים בישראל",
+            "start_page": 38,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "10 שניות מהמטוס.",
+            "description": "טייסת F-15 בפעולה",
+            "start_page": 42,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "פיקוד במלחמה.",
+            "description": "בעיניו של תא״י (מיל) רן רונן (פקר)",
+            "start_page": 48,
+            "author": "רוני אלרואי"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "מטוס תקיפה בריטי חדש",
+            "start_page": 52,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "כתם שחור, אימתני על המים.",
+            "description": "חילוץ ניצולי ״אילת״",
+            "start_page": 55,
+            "author": "רוני אלרואי"
+        },
+        {
+            "title": "החיים אחרי הלביא.",
+            "description": "״אלביט״ מפתחת מערכות",
+            "start_page": 58,
+            "author": "יקיר אלקריב ושרון ארגוב"
+        },
+        {
+            "title": "עסקים מעל הקוטב הצפוני.",
+            "description": "S.A.S. - נתיבי אויר סקנדינביים",
+            "start_page": 60,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "מעבורת החלל הסובייטית.",
+            "description": "מתכוננת לשיגור",
+            "start_page": 62,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "בהוראה מלמעלה.",
+            "description": "גם המשטרה מפעילה מסוקים",
+            "start_page": 70,
+            "author": "גיא רימון"
+        },
+        {
+            "title": "בנה ביתך במודיעין.",
+            "description": "הבתים שישאירו את אנשי הקבע בשרות",
+            "start_page": 70,
+            "author": "משה פרל"
+        },
+        {
+            "title": "באויר אחר באוירה אחרת.",
+            "description": "אהרון יואלי, עיטור העוז, קריירה",
+            "start_page": 72,
+            "author": "גיא רימון"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "גדנ״ע אויר",
+            "start_page": 76,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        }
+    ]
+}

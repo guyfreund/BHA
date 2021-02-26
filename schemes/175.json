@@ -1,0 +1,170 @@
+{
+    "metadata": {
+        "issue_number": "175",
+        "year": "1990",
+        "month": {
+            "from": "יולי",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 7.5,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 40.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר",
+            "שלמה וולקוביץ"
+        ],
+        "number_of_pages": 109,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "author": "ישגב נקדימון, דרור מרום וקרן קרפ",
+            "start_page": 12,
+            "title": "טייס וג׳נטלמן. סימפוזיון 40 שנה לבית־הספר לטיסה",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 24,
+            "title": "במקום הראשון, בדיוק. להרקולסים של ח״א ברודיאו בארה״ב",
+            "description": ""
+        },
+        {
+            "author": "עודד גלובדמן",
+            "start_page": 27,
+            "title": "״טסתי נמוך, כדי להפחיד אותם״. צל׳׳ש לטייסי העגור מניצנים",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 28,
+            "title": "״נלחמנו ממש ליד הבית״. פרסום ראשון: ניצנים מבעד לכוונת הקוברה",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 31,
+            "title": "ללא חניית ביניים. יסעורים מתדלקים וטסים ללא גבול",
+            "description": ""
+        },
+        {
+            "author": "עגר גוברין",
+            "start_page": 33,
+            "title": "עסקי אויר. על אנשים, אירועים ואקטואליה",
+            "description": ""
+        },
+        {
+            "author": "ישגב נקדימון",
+            "start_page": 37,
+            "title": "החשבון נסגר. מטוסי חיל־האויר נגד מפקדות ג׳יבריל",
+            "description": ""
+        },
+        {
+            "author": "ישגב נקדימון",
+            "start_page": 40,
+            "title": "אפרים חוזר ומתרסק. נווט אחד, תשע התרסקויות",
+            "description": ""
+        },
+        {
+            "author": "יו ארקיו",
+            "start_page": 47,
+            "title": "קורס חמש חמש. קורס הטיס האחרון של סירקין",
+            "description": ""
+        },
+        {
+            "author": "קרן קרפ",
+            "start_page": 50,
+            "title": "מקורקעוח. הנשים במשפחת חיל־האויר",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 58,
+            "title": "יסעורים עכשיו. טייסת יסעורים אחרי תאונה קטלנית",
+            "description": ""
+        },
+        {
+            "author": "שרון שדה",
+            "start_page": 65,
+            "title": "באויר העולם. ק1\\<, חשיפה ראשונה",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 68,
+            "title": "באויר המזה״ח. ראיון עם שר התעשייה העיראקי",
+            "description": ""
+        },
+        {
+            "author": "ישגב נקדימון",
+            "start_page": 72,
+            "title": "זכרונות מאנטבה. 14 שנים למבצע יהונתן",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 81,
+            "title": "הלכו לעזה. צוות הבטאון עם כוחות ח״א ברצועה",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 84,
+            "title": "משטרה בשלושה ממדים. כוח מסוקים במשטרת ישראל",
+            "description": ""
+        },
+        {
+            "author": "ברק אטקין",
+            "start_page": 88,
+            "title": "רואים עולם. ״קו־האופק״, ספר צילומים ממעוף המסוק",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 94,
+            "title": "אירובאטיקה בשדה תימן. אוירוע 90",
+            "description": ""
+        },
+        {
+            "author": "אור קשתי",
+            "start_page": 96,
+            "title": "אל תוך האש בניווט ישיר. יום־הולדת לקורס הנווטים הראשון",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 102,
+            "title": "בין הבסיסים",
+            "description": ""
+        },
+        {
+            "author": "אורי דרומי",
+            "start_page": 105,
+            "title": "טיסה קרבית. ספר חדש",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 106,
+            "title": "מדף אוירי",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 109,
+            "title": "אנגלית",
+            "description": ""
+        }
+    ]
+}

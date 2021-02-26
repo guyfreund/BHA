@@ -27,10 +27,10 @@ def handle_index():
     print("index")
     title = input("title: ")
     description = input("description: ")
+    author = input("author: ")
     start_page = input("start_page: ")
     if start_page and start_page.isdigit():
         start_page = int(start_page)
-    author = input("author: ")
     while any([title, description, start_page, author]):
         index.append({
             "title": title,
@@ -40,10 +40,10 @@ def handle_index():
         })
         title = input("title: ")
         description = input("description: ")
+        author = input("author: ")
         start_page = input("start_page: ")
         if start_page and start_page.isdigit():
             start_page = int(start_page)
-        author = input("author: ")
     return index
 
 
@@ -58,7 +58,7 @@ def handle_price():
     amount = input("amount: ")
     if amount:
         amount = float(amount)
-    coin_type = input("type: ")
+    coin_type = input("type: ") or "ש״ח"
     return amount, coin_type
 
 
@@ -69,28 +69,35 @@ def main():
 
     try:
         for field in scheme["metadata"]:
-            if field == "month":
-                from_month, to_month = handle_month()
-                issue["metadata"]["month"] = {"from": from_month, "to": to_month}
-            elif field == "price":
-                print("price")
-                amount, coin_type = handle_price()
-                issue["metadata"]["price"] = {"amount": amount, "type": coin_type}
-            elif field == "photographers":
-                issue["metadata"]["photographers"] = handle_photographers()
-            elif field == "subscription_price":
-                print("subscription_price")
-                amount, coin_type = handle_price()
-                issue["metadata"]["subscription_price"] = {"amount": amount, "type": coin_type}
-            elif field == "number_of_pages":
-                num = input("number_of_pages: ")
-                if num and num.isdigit():
-                    num = int(num)
-                issue["metadata"]["number_of_pages"] = num
-            elif field == "subscription_only":
-                issue["metadata"]["subscription_only"] = handle_subscription_only()
-            else:
-                issue["metadata"][field] = input(f"{field}: ")
+            if field != "index":
+                if field == "month":
+                    from_month, to_month = handle_month()
+                    issue["metadata"]["month"] = {"from": from_month, "to": to_month}
+                elif field == "price":
+                    print("price")
+                    amount, coin_type = handle_price()
+                    issue["metadata"]["price"] = {"amount": amount, "type": coin_type}
+                elif field == "photographers":
+                    issue["metadata"]["photographers"] = handle_photographers()
+                elif field == "subscription_price":
+                    print("subscription_price")
+                    amount, coin_type = handle_price()
+                    issue["metadata"]["subscription_price"] = {"amount": amount, "type": coin_type}
+                elif field == "number_of_pages":
+                    num = input("number_of_pages: ")
+                    if num and num.isdigit():
+                        num = int(num)
+                    issue["metadata"]["number_of_pages"] = num
+                elif field == "subscription_only":
+                    issue["metadata"]["subscription_only"] = handle_subscription_only()
+                elif field == "publisher":
+                    issue["metadata"]["publisher"] = input("publisher: ") or "מפקדת חיל האויר"
+                elif field == "editor":
+                    issue["metadata"]["editor"] = input("editor: ") or "אהרון לפידות"
+                elif field == "deputy_editor":
+                    issue["metadata"]["deputy_editor"] = input("deputy_editor: ") or "דניאל מולד"
+                else:
+                    issue["metadata"][field] = input(f"{field}: ")
 
         issue["index"] = handle_index()
 

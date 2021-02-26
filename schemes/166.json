@@ -1,0 +1,182 @@
+{
+    "metadata": {
+        "issue_number": "166",
+        "year": "1988",
+        "month": {
+            "from": "אוקטובר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 6.5,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 29.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר",
+            "שלמה וולקוביץ"
+        ],
+        "number_of_pages": 90,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "author": "גיא רימון",
+            "start_page": 4,
+            "title": "יירוטי לילה, בטייסת 160-?",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 6,
+            "title": "הצמיגים בוערים והשיירה עוברת, הנ״מ יוצא מעזה",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 9,
+            "title": "עסקי אויר",
+            "description": ""
+        },
+        {
+            "author": "אהרון לפידות",
+            "start_page": 13,
+            "title": "טילים בהתראה קצרה, ראיון מיוחד עם הרמטכ׳׳ל רא״ל דן שומרון",
+            "description": ""
+        },
+        {
+            "author": "גיא רימון",
+            "start_page": 16,
+            "title": "\"ה־15־? שלי בועה״,פרסום ראשון על היפגעות 15־? בטיל",
+            "description": ""
+        },
+        {
+            "author": "ישגב נקדימון",
+            "start_page": 19,
+            "title": "המלך חוסיין ביקש סיוע מחיל־האויד הישראלי, האינתיפאדה של חוסיין",
+            "description": ""
+        },
+        {
+            "author": "דו איקיו",
+            "start_page": 22,
+            "title": "אופקים חדשים במרומים, הלווין הישראלי הראשון",
+            "description": ""
+        },
+        {
+            "author": "יוסי מלמן",
+            "start_page": 24,
+            "title": "התקפת טילי קרקע־קרקע, ראיון מיוחד עם ראש הג״א",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 25,
+            "title": "הקדם תרופה לטק״ק, בסיס חיל־האויר תחת התקפה",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום ויואב וינוגרד",
+            "start_page": 30,
+            "title": "הגבול הצהוב, מטאבה ועד רפיח",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 32,
+            "title": "אויב סינתטי, הסימולטור שחוסך עשרות־אלפי דולרים ביום",
+            "description": ""
+        },
+        {
+            "author": "צבי גוטמן",
+            "start_page": 34,
+            "title": "המטוס שנחת ללא טייס, רן פקר על טיסה מיוחדת במינה",
+            "description": ""
+        },
+        {
+            "author": "ישגב נקדימון",
+            "start_page": 40,
+            "title": "בפאנטום מווייטנאם עד יום־הכיפורים, על טייס שהשתתף ב־2 המלחמות",
+            "description": ""
+        },
+        {
+            "author": "אהרון לפידות",
+            "start_page": 50,
+            "title": "מיג 29 כבר אמרגוז, הסלון האוירי בפארנבורו",
+            "description": ""
+        },
+        {
+            "author": "ישגב גקדימון",
+            "start_page": 57,
+            "title": "איש גבוה עם חוש־הומור גדול, אל״מ שבתאי בן־שוע ז״ל",
+            "description": ""
+        },
+        {
+            "author": "דודי גולדמן",
+            "start_page": 60,
+            "title": "תכנון במהירות האור, על מחשבים ובינה מלאכותית בחיל־האויר",
+            "description": ""
+        },
+        {
+            "author": "ברק אטקין",
+            "start_page": 64,
+            "title": "ג׳ט סקוואלוס, מטוס אימון מדור חדש",
+            "description": ""
+        },
+        {
+            "author": "שרון ארגוב",
+            "start_page": 66,
+            "title": "ואלה תולדות, על מגמה חדשה בבית־הספר הטכני",
+            "description": ""
+        },
+        {
+            "author": "אריאל גולר",
+            "start_page": 68,
+            "title": "ווטורים מעל עיראק, גדעון מגן היה שם",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 74,
+            "title": "בלונים פורחים בנגב, בעיקר בצבע",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 76,
+            "title": "עמיחי הדאון, אפשר לטוס בשקט",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 78,
+            "title": "הנגנב מבגדד, סרט חדש על עריקת המיג־ 21 העיראקי",
+            "description": ""
+        },
+        {
+            "author": "יקיר אלקריב",
+            "start_page": 82,
+            "title": "מעולם לא נטש מטוס באויר, דני שפירא, טייס ניסוי",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 88,
+            "title": "בין הבסיסים",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 90,
+            "title": "מדף אוירי",
+            "description": ""
+        }
+    ]
+}

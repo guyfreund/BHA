@@ -1,0 +1,242 @@
+{
+    "metadata": {
+        "issue_number": "171",
+        "year": "1989",
+        "month": {
+            "from": "ספטמבר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 6.5,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 36.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר",
+            "שלמה וולקוביץ"
+        ],
+        "number_of_pages": 106,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "author": "יסעורים נאש ובמים. כיבוי השריפה בכרמל דהר מרום",
+            "start_page": 8,
+            "title": "",
+            "description": ""
+        },
+        {
+            "author": "שרון ארגוב",
+            "start_page": 10,
+            "title": "אפרוחי הכפיר. טייסי קרב, שנה ראשונה",
+            "description": ""
+        },
+        {
+            "author": "דן ארקין וגיא רימון",
+            "start_page": 14,
+            "title": "לביא 3 מדגים סכנולוגיות - טיסת הבכורה של המטוס החדש",
+            "description": ""
+        },
+        {
+            "author": "ישגב נקדימון",
+            "start_page": 18,
+            "title": "20 שנה לפאנסום.",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 18,
+            "title": "• 116 וחצי הפלות",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 20,
+            "title": "• פאנטום זה אופרה אחרת",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 24,
+            "title": "• מאבק על הבכורה",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 26,
+            "title": "• המטוס של יום הכיפורים",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 32,
+            "title": "• בין המלחמות",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 34,
+            "title": "• המטוס כופף את כנף הטיל",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 38,
+            "title": "• אל שנות ה־2000",
+            "description": ""
+        },
+        {
+            "author": "ענר גוברין",
+            "start_page": 41,
+            "title": "עסקי אויר. על אנשים ארועים ואקטואליה.",
+            "description": ""
+        },
+        {
+            "author": "יגאל סרנה",
+            "start_page": 44,
+            "title": "אנשים נאנקים בכאב. על ספרה של עמיה ליבליך ״חוץ מציפורים״",
+            "description": ""
+        },
+        {
+            "author": "דפי ויסלה",
+            "start_page": 46,
+            "title": "משקלה של רצינות. מפקד בסיס, פרופיל",
+            "description": ""
+        },
+        {
+            "author": "תרגם: דניאל ססוקלין",
+            "start_page": 48,
+            "title": "מדוע יש לסייס הרוסי אולקוס. על מצבם העגום של טייסי קרב סובייטים",
+            "description": ""
+        },
+        {
+            "author": "שרון ארגוב",
+            "start_page": 52,
+            "title": "אין קיצורי־דרך סכניים. ״נס אליהו״ קרה בבית הספר הטכני של ח״א",
+            "description": ""
+        },
+        {
+            "author": "שרון שדה",
+            "start_page": 54,
+            "title": "באויר העולם ^117־ז צובר שעות טיסה",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 56,
+            "title": "חיסול מפקדות. תקיפות חיל־האויר",
+            "description": ""
+        },
+        {
+            "author": "גיא רימון",
+            "start_page": 59,
+            "title": "דגמים סובייסיים. מדריך הבטאון",
+            "description": ""
+        },
+        {
+            "author": "אריה אגוזי",
+            "start_page": 63,
+            "title": "ועכשיו המסל״ס. על מסוק זעיר ללא טייס",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 64,
+            "title": "שמשון ודלילה. 2 גופי הטעיה מתוצרת ישראל",
+            "description": ""
+        },
+        {
+            "author": "דן ארקין",
+            "start_page": 66,
+            "title": "יסעורים ראשונים ממזרח. חברות תעופה מזרודארופיות בישראל",
+            "description": ""
+        },
+        {
+            "author": "גורדון לויס",
+            "start_page": 68,
+            "title": "גוי של שבח. חלק ב׳",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 74,
+            "title": "דרך ארוכה להפלה. על סוללת נ״מ רחוקה",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 78,
+            "title": "תרגילים בחילוץ. כך מתכוננות יחידות החילוץ לחורף",
+            "description": ""
+        },
+        {
+            "author": "דן ארקין",
+            "start_page": 82,
+            "title": "החושיה של הקברניס היינס. על התאונה המחרידה של מטוס הידי.סי. 10",
+            "description": ""
+        },
+        {
+            "author": "שרון שדה",
+            "start_page": 86,
+            "title": "8-2. רואים את הסודות",
+            "description": ""
+        },
+        {
+            "author": "יואב ויגוגרד",
+            "start_page": 91,
+            "title": "ממריאים על גרוש. שדה תעופה מיניאטורי",
+            "description": ""
+        },
+        {
+            "author": "לסלו אנגיאל",
+            "start_page": 92,
+            "title": "רכיבה שמיימית, איסית. כדורים פורחים בערד",
+            "description": ""
+        },
+        {
+            "author": "דפי ויסלה",
+            "start_page": 94,
+            "title": "כולם רוצים למעלה. להקת חיל האויר ממריאה בתוכנית חדשה",
+            "description": ""
+        },
+        {
+            "author": "שרון ארגוב",
+            "start_page": 97,
+            "title": "הציפור והנפש. התנגשות מטוס־ציפור -",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 98,
+            "title": "צפריות נגד ציפורים.",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 100,
+            "title": "הגשר נחת. 20 שנה לנחיתה על הירח",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 105,
+            "title": "מדף אוירי.",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 106,
+            "title": "בין הבסיסים",
+            "description": ""
+        }
+    ]
+}
