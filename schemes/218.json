@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "issue_number": "218",
+        "year": "1997",
+        "month": {
+            "from": "אוקטובר",
+            "to": "נובמבר"
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "אודי עציון",
+        "price": {
+            "amount": 21.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 105.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "אמיר מודן",
+            "יעל חביליו",
+            "רובי קסטרו",
+            "גיורא נוימן"
+        ],
+        "number_of_pages": 84,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "עסקי אוויר",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "בעקבוץ החץ",
+            "description": "",
+            "start_page": 20,
+            "author": "נועם אופיר וליעד ברקת"
+        },
+        {
+            "title": "״לפעמים אני שואל את עצמי אם באמת הייתי שם״",
+            "description": "",
+            "start_page": 24,
+            "author": "דן פישל"
+        },
+        {
+            "title": "אנשי הרעם",
+            "description": "",
+            "start_page": 32,
+            "author": "ליד ברקת"
+        },
+        {
+            "title": "מבקרת המדינה",
+            "description": "",
+            "start_page": 36,
+            "author": "רונה תמיר"
+        },
+        {
+            "title": "חרדת נטישה",
+            "description": "",
+            "start_page": 42,
+            "author": "רונה תמיר"
+        },
+        {
+            "title": "לבד",
+            "description": "",
+            "start_page": 48,
+            "author": "ליעד ברקת"
+        },
+        {
+            "title": "חייו הכפולים של הטאו",
+            "description": "",
+            "start_page": 52,
+            "author": "ארבל רום"
+        },
+        {
+            "title": "מגה טק",
+            "description": "",
+            "start_page": 56,
+            "author": ""
+        },
+        {
+            "title": "אדון עולם",
+            "description": "",
+            "start_page": 64,
+            "author": "נועם אופיר"
+        },
+        {
+            "title": "בוגר קייטנת החלל של נאס״א",
+            "description": "",
+            "start_page": 72,
+            "author": "נועם קרן"
+        },
+        {
+            "title": "מלחמות של נייר",
+            "description": "",
+            "start_page": 76,
+            "author": "הילה שרון"
+        },
+        {
+            "title": "עולם הולך ונעלם",
+            "description": "",
+            "start_page": 80,
+            "author": "נועם אופיר"
+        },
+        {
+            "title": "באוויר העולם",
+            "description": "",
+            "start_page": 84,
+            "author": ""
+        }
+    ]
+}

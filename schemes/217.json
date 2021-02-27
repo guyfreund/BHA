@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "issue_number": "217",
+        "year": "1997",
+        "month": {
+            "from": "אוגוסט",
+            "to": "ספטמבר"
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "אודי עציון",
+        "price": {
+            "amount": 21.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 106.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "אמיר מודן",
+            "יעל חביליו",
+            "רובי קסטרו",
+            "גיורא נוימן"
+        ],
+        "number_of_pages": 110,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "6",
+            "description": "",
+            "start_page": "עסקי אויר",
+            "author": ""
+        },
+        {
+            "title": "ניפגש בסיבוב",
+            "description": "",
+            "start_page": 16,
+            "author": "נועם אופיר"
+        },
+        {
+            "title": "תורת לחימה",
+            "description": "",
+            "start_page": 22,
+            "author": "חגי לוי"
+        },
+        {
+            "title": "רגע האמת",
+            "description": "",
+            "start_page": 28,
+            "author": "חגי לוי ומיכל פלד-פליישר"
+        },
+        {
+            "title": "אש מעבר לים",
+            "description": "",
+            "start_page": 32,
+            "author": "חגי לוי"
+        },
+        {
+            "title": "המאבק הכפול",
+            "description": "",
+            "start_page": 36,
+            "author": "הילה שרון ומיכל פלד-פליישר"
+        },
+        {
+            "title": "בין שמיים וארץ",
+            "description": "",
+            "start_page": 40,
+            "author": "ליעד ברקת וחגי לוי"
+        },
+        {
+            "title": "במלחמה כמו במלחמה",
+            "description": "",
+            "start_page": 46,
+            "author": "נדב נוקד ומיכל פלד-פליישר"
+        },
+        {
+            "title": "טיסה נעימה",
+            "description": "",
+            "start_page": 50,
+            "author": "גיורא נוימן"
+        },
+        {
+            "title": "טייס אוניברסלי",
+            "description": "",
+            "start_page": 54,
+            "author": "דרור גלוברמן"
+        },
+        {
+            "title": "מגה טק",
+            "description": "",
+            "start_page": 58,
+            "author": ""
+        },
+        {
+            "title": "שנות ה-40 | הטייסים של אלינור",
+            "description": "",
+            "start_page": 66,
+            "author": "דן פישל"
+        },
+        {
+            "title": "שנות ה-60 | נחיתה בדמשק",
+            "description": "",
+            "start_page": 72,
+            "author": "דן פישל"
+        },
+        {
+            "title": "שנות ה-70 | המשימה: אתיופיה. המטרה: ערודים",
+            "description": "",
+            "start_page": 76,
+            "author": "דן פישל"
+        },
+        {
+            "title": "ונעבור לפרסומות",
+            "description": "",
+            "start_page": 82,
+            "author": ""
+        },
+        {
+            "title": "הפלישה למאדים",
+            "description": "",
+            "start_page": 90,
+            "author": "נועם קרן"
+        },
+        {
+            "title": "הכוכב האדום הזועם",
+            "description": "",
+            "start_page": 95,
+            "author": "ראם בר"
+        },
+        {
+            "title": "מקורקעות",
+            "description": "",
+            "start_page": 96,
+            "author": "מיכל פלד-פליישר"
+        },
+        {
+            "title": "נגד הרוח",
+            "description": "",
+            "start_page": 100,
+            "author": "נדב נוקד"
+        },
+        {
+            "title": "רגליים קרות",
+            "description": "",
+            "start_page": 106,
+            "author": "נוען אופיר"
+        },
+        {
+            "title": "באוויר העולם",
+            "description": "",
+            "start_page": 110,
+            "author": ""
+        }
+    ]
+}
