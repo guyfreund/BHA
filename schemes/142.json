@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "issue_number": "142",
+        "year": "1984",
+        "month": {
+            "from": "ספטמבר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 350.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "גיל ארבל"
+        ],
+        "subscription_price": {
+            "amount": 1000.0,
+            "type": "שקל"
+        },
+        "number_of_pages": 77,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "בעולם יאמרו שזאת חוצפה ישראלית",
+            "description": "",
+            "start_page": 6,
+            "author": "צפי גוטמן"
+        },
+        {
+            "title": "הבלים לא זעקו",
+            "description": "",
+            "start_page": 10,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "תמונות בשחור-לבן",
+            "description": "",
+            "start_page": 13,
+            "author": ""
+        },
+        {
+            "title": "מחשב משימה ל-F16",
+            "description": "",
+            "start_page": 18,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "אחריות אופטית מקצה אל קצה",
+            "description": "",
+            "start_page": 20,
+            "author": ""
+        },
+        {
+            "title": "לייזר קורא להרי ירושלים, עבור",
+            "description": "",
+            "start_page": 23,
+            "author": "ערן שטוירמן"
+        },
+        {
+            "title": "טיסה בצעצוע מסוכן",
+            "description": "",
+            "start_page": 24,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "מצוד באור אחרון",
+            "description": "",
+            "start_page": 29,
+            "author": "ירון כץ"
+        },
+        {
+            "title": "אולימפיאדה ללא שיאים",
+            "description": "",
+            "start_page": 33,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "אח, טייסת שכזאת!",
+            "description": "",
+            "start_page": 41,
+            "author": "אלי אייל"
+        },
+        {
+            "title": "מבחינה טכנית ואישית",
+            "description": "",
+            "start_page": 46,
+            "author": "ריקי ריבלין"
+        },
+        {
+            "title": "הקשר הנורדי",
+            "description": "",
+            "start_page": 50,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "הענק בכבלים",
+            "description": "",
+            "start_page": 53,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "תנועת הנוער הטובה ביותר",
+            "description": "",
+            "start_page": 58,
+            "author": "ליאת גולדשטיין"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 62,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "בטווח הנ\"מ",
+            "description": "",
+            "start_page": 66,
+            "author": "גולדי"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 68,
+            "author": ""
+        },
+        {
+            "title": "תגובות",
+            "description": "",
+            "start_page": 70,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 71,
+            "author": ""
+        }
+    ]
+}

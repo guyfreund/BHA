@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "issue_number": "143",
+        "year": "1984",
+        "month": {
+            "from": "נובמבר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 500.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "גיל ארבל"
+        ],
+        "subscription_price": {
+            "amount": 2500.0,
+            "type": "שקל"
+        },
+        "number_of_pages": 84,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "15 שנות פאנטום:מטוסים וותיקים אינם מתים",
+            "description": "",
+            "start_page": 6,
+            "author": "רזי גוטרמן וירון כץ"
+        },
+        {
+            "title": "חמישים רועמים",
+            "description": "",
+            "start_page": 12,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "לנטוש או לא לנטוש",
+            "description": "",
+            "start_page": 16,
+            "author": "ירון כץ"
+        },
+        {
+            "title": "סופר-פאנטם לשנות האלפיים",
+            "description": "",
+            "start_page": 19,
+            "author": "רמי אברהמי"
+        },
+        {
+            "title": "מחיר בחיים",
+            "description": "",
+            "start_page": 20,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "מצרים מעל ומתחת ל-50 רגל",
+            "description": "",
+            "start_page": 25,
+            "author": "ד'"
+        },
+        {
+            "title": "נבטים של חלוציות",
+            "description": "",
+            "start_page": 28,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "רוח הפאנטום ",
+            "description": "",
+            "start_page": 34,
+            "author": ""
+        },
+        {
+            "title": "מהפיכה במאה השניה",
+            "description": "",
+            "start_page": 39,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "צבי-צגים לתא הלביא",
+            "description": "",
+            "start_page": 41,
+            "author": ""
+        },
+        {
+            "title": "איך להשיג ממכפלת-כוח אלקטרונית?",
+            "description": "",
+            "start_page": 44,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 47,
+            "author": "רמי אברהמי"
+        },
+        {
+            "title": "\tASTRA - COAST-TO-COAST",
+            "description": "",
+            "start_page": 50,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "מדוע נכשלו הפצצות האסטטראטגיות הבריטיות?",
+            "description": "",
+            "start_page": 52,
+            "author": "שמואל גורדון"
+        },
+        {
+            "title": "תפילה על טייסים",
+            "description": "",
+            "start_page": 58,
+            "author": "משה דור"
+        },
+        {
+            "title": "אח, טייסת שכזאת! (ב')",
+            "description": "",
+            "start_page": 62,
+            "author": "אלי אייל"
+        },
+        {
+            "title": "הציפורים",
+            "description": "",
+            "start_page": 66,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 68,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 71,
+            "author": ""
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "issue_number": "137",
+        "year": "1983",
+        "month": {
+            "from": "נובמבר",
+            "to": "נובמבר"
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאלמולד",
+        "price": {
+            "amount": 90.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "גיל ארבל"
+        ],
+        "subscription_price": {
+            "amount": 500.0,
+            "type": "שקל"
+        },
+        "number_of_pages": 77,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "הביתה על כנפי נשרים",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "חיל-האויר תוקף מחבלים בלבנון",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "עם הפנים דרומה",
+            "description": "",
+            "start_page": 12,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "נבט נוסף במדבר",
+            "description": "",
+            "start_page": 15,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "נקודהישראלית בחלל",
+            "description": "",
+            "start_page": 19,
+            "author": "ערן שטוירמן"
+        },
+        {
+            "title": "מדוע הופל הג'מבו הקוריאני?",
+            "description": "",
+            "start_page": 22,
+            "author": "גולדי"
+        },
+        {
+            "title": "בין צה\"ל לירושלים",
+            "description": "",
+            "start_page": 26,
+            "author": "ליאת גולדשטיין"
+        },
+        {
+            "title": "הדרך לשמיים בטוחים",
+            "description": "",
+            "start_page": 30,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "לנו שמיים - לנו נגב",
+            "description": "",
+            "start_page": 33,
+            "author": "ליאת גולדשטיין"
+        },
+        {
+            "title": "כל מה שרצית לדעת על סימולאטורים (ב')",
+            "description": "",
+            "start_page": 41,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "טייס בעל דם כחול",
+            "description": "",
+            "start_page": 47,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "42 שנים ברמת-דוד",
+            "description": "",
+            "start_page": 65,
+            "author": "ירון כץ"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 68,
+            "author": ""
+        }
+    ]
+}

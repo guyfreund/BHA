@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "issue_number": "139",
+        "year": "1984",
+        "month": {
+            "from": "אפריל",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 150.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "גיל ארבל"
+        ],
+        "subscription_price": {
+            "amount": 700.0,
+            "type": "שקך"
+        },
+        "number_of_pages": 76,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "על הרמה של חיל-האויר",
+            "description": "",
+            "start_page": 6,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "נבטים על המפה הצבאית",
+            "description": "",
+            "start_page": 10,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "בית קבע לנ\"מ",
+            "description": "",
+            "start_page": 12,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "מי נשבר בהתשה?",
+            "description": "",
+            "start_page": 16,
+            "author": "יקיר אלקריב וירון כץ"
+        },
+        {
+            "title": "הטורים הגבוהים של הווטורים",
+            "description": "",
+            "start_page": 22,
+            "author": "ריקי ריבלין"
+        },
+        {
+            "title": "והרי התחזית...",
+            "description": "",
+            "start_page": 26,
+            "author": "ערן שטוירמן"
+        },
+        {
+            "title": "האיש המופלא המכונות המעופפות",
+            "description": "",
+            "start_page": 30,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "הטובים לחלל",
+            "description": "",
+            "start_page": 39,
+            "author": "דניאל מולדד"
+        },
+        {
+            "title": "חיל-האוי האמריקני",
+            "description": "",
+            "start_page": 44,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "במלחמה הזאת אין מנצחים",
+            "description": "",
+            "start_page": 49,
+            "author": "אהרון לפידות ואורי עמית"
+        },
+        {
+            "title": "בשאיפה לגדולות",
+            "description": "",
+            "start_page": 53,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "דגל אדום נישא במרום",
+            "description": "",
+            "start_page": 57,
+            "author": "גולדי"
+        },
+        {
+            "title": "מהפכת סיבי הזכוכית האופטיים",
+            "description": "",
+            "start_page": 60,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 64,
+            "author": ""
+        },
+        {
+            "title": "מצב הח\"ן",
+            "description": "",
+            "start_page": 67,
+            "author": "ריקי ריבלין"
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 69,
+            "author": ""
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 70,
+            "author": ""
+        }
+    ]
+}

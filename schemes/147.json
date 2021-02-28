@@ -1,0 +1,205 @@
+{
+    "metadata": {
+        "issue_number": "147",
+        "year": "1985",
+        "month": {
+            "from": "יולי",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 850.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "ראובן קסטרו",
+            "אורי שנקר",
+            "בנצי בר"
+        ],
+        "subscription_price": {
+            "amount": 4800.0,
+            "type": "שקל"
+        },
+        "number_of_pages": 104,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "הקיצוץ ייעצר באיכות",
+            "description": "",
+            "start_page": 10,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "לטוס עם מפקד חיל האויר",
+            "description": "",
+            "start_page": 13,
+            "author": ""
+        },
+        {
+            "title": "אירועי חיל-האויר בשנה ה-37",
+            "description": "",
+            "start_page": 16,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "הם יורים גם במסוקים",
+            "description": "",
+            "start_page": 16,
+            "author": "גיל ברטל"
+        },
+        {
+            "title": "לנחות בביירות - או להתרסק!",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "קו אדום על הקו הסגול",
+            "description": "",
+            "start_page": 20,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "F-12A - כפיר !",
+            "description": "",
+            "start_page": 22,
+            "author": "גיל בר-טל"
+        },
+        {
+            "title": "על הגובה בכל המערכות",
+            "description": "",
+            "start_page": 26,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "\"כריש לבן\" משחר לטרף",
+            "description": "",
+            "start_page": 28,
+            "author": "דורון דנאי"
+        },
+        {
+            "title": "הרמטכ\"ל: על כתפיהם מונח עתידה של מדינת ישראל",
+            "description": "",
+            "start_page": 30,
+            "author": ""
+        },
+        {
+            "title": "כאילו לטוס",
+            "description": "",
+            "start_page": 32,
+            "author": "גיל בר-טל"
+        },
+        {
+            "title": "",
+            "description": "",
+            "start_page": "",
+            "author": "כ"
+        },
+        {
+            "title": "קשרים סאלוניים",
+            "description": "",
+            "start_page": 34,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "אין \"שטחים מתים\"",
+            "description": "",
+            "start_page": 36,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "צל\"ש או עונש?",
+            "description": "",
+            "start_page": 38,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "עד הוק",
+            "description": "",
+            "start_page": 42,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "מרגישים קצת טייסים",
+            "description": "",
+            "start_page": 44,
+            "author": "מירי חנוך"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 46,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "הסאלון הל\"ו",
+            "description": "",
+            "start_page": 49,
+            "author": "אהרון לפידות ויקיר אלקריב"
+        },
+        {
+            "title": "בושם מטוסים",
+            "description": "",
+            "start_page": 50,
+            "author": "אלכס אנסקי"
+        },
+        {
+            "title": "המהפיכה הרוסית",
+            "description": "",
+            "start_page": 57,
+            "author": "אודי צופף"
+        },
+        {
+            "title": "חייםחדשים לתותח",
+            "description": "",
+            "start_page": 62,
+            "author": "שמואל גורדון"
+        },
+        {
+            "title": "טייס ושמו ג'ו",
+            "description": "",
+            "start_page": 66,
+            "author": "ריקי ריבלין"
+        },
+        {
+            "title": "יפות עד השמיים",
+            "description": "",
+            "start_page": "",
+            "author": "74"
+        },
+        {
+            "title": "תא טייס מקש",
+            "description": "",
+            "start_page": 79,
+            "author": ""
+        },
+        {
+            "title": "כדורים פורחים לנצח",
+            "description": "",
+            "start_page": 81,
+            "author": "משה דור"
+        },
+        {
+            "title": "למעלה - עם שרירים ומוח",
+            "description": "",
+            "start_page": 91,
+            "author": "גיל בר-טל"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 94,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 96,
+            "author": ""
+        }
+    ]
+}

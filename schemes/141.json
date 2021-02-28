@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "issue_number": "141",
+        "year": "1984",
+        "month": {
+            "from": "יולי",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 300.0,
+            "type": "שקל"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": 1500.0,
+            "type": "שקל"
+        },
+        "number_of_pages": 80,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "לא להילחם את המלחמה הקודמת",
+            "description": "ראיון מיוחד עם מפקיד חיל-האויר, האלוף עמוס לפידות",
+            "start_page": 6,
+            "author": "אהרון לפידות ואורי עמית"
+        },
+        {
+            "title": "שנתיים בשבי בדמשק",
+            "description": "",
+            "start_page": 10,
+            "author": "יקיר אלקריב ואהרון לפידות"
+        },
+        {
+            "title": "אירועי חיל האויר בשנה ה-36",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "עם PW-1120 לשנת 2000",
+            "description": "",
+            "start_page": 15,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "מזל\"ט טס בכיוון ההפוך",
+            "description": "",
+            "start_page": 19,
+            "author": ""
+        },
+        {
+            "title": "הנשים במשפחת ח\"א",
+            "description": "",
+            "start_page": 20,
+            "author": "ריקי ריבלין"
+        },
+        {
+            "title": "חברים מספרים על זוריק (ב')",
+            "description": "",
+            "start_page": 25,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 30,
+            "author": "ירון כץ"
+        },
+        {
+            "title": "כנפים למוזיאון",
+            "description": "",
+            "start_page": 33,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "הרעב לאור כוכבים",
+            "description": "",
+            "start_page": 30,
+            "author": "משה דור"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 44,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "המגדל",
+            "description": "",
+            "start_page": 66,
+            "author": "שמואל וייס"
+        },
+        {
+            "title": "לחיות עם השכול",
+            "description": "",
+            "start_page": 68,
+            "author": "ירון כץ"
+        },
+        {
+            "title": "תגובה: לא היה אולטימאטום",
+            "description": "",
+            "start_page": 70,
+            "author": "שמואל מאיר"
+        },
+        {
+            "title": "קל, אזרחי ומתקדם",
+            "description": "",
+            "start_page": 47,
+            "author": "גדעון רשף"
+        },
+        {
+            "title": "היו ימים, חבר",
+            "description": "",
+            "start_page": 48,
+            "author": "גיל ארבל"
+        },
+        {
+            "title": "המקצוע מדריכה",
+            "description": "",
+            "start_page": 52,
+            "author": "ליאת גולדשטיין"
+        },
+        {
+            "title": "מסוקי קרב מעולם אחר",
+            "description": "",
+            "start_page": 54,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "איך להפוך כמות לאיכות",
+            "description": "",
+            "start_page": 59,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "חס\"ן: לחינוך, ספורט ונופש",
+            "description": "",
+            "start_page": 63,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 65,
+            "author": ""
+        }
+    ]
+}
