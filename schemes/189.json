@@ -1,0 +1,153 @@
+{
+    "metadata": {
+        "issue_number": "189",
+        "year": "1992",
+        "month": {
+            "from": "דצמבר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 12.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 65.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רביב גנשרוא",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר",
+            "שלמה וולקוביץ"
+        ],
+        "number_of_pages": 87,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "32 תקיפות, 27 חילוצים - סיכום שנת 92׳ מההיבט המבצעי",
+            "description": "",
+            "start_page": 3,
+            "author": ""
+        },
+        {
+            "title": "״פרשת דותן תמשיך עוד זמן רב להעיק על חיל האוויר״",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "שנתיים למלחמת המפרץ: האמריקנים עורכים שיפורים בפאטריוט, בשיתוף עם ישראל",
+            "description": "",
+            "start_page": 10,
+            "author": ""
+        },
+        {
+            "title": "הספיט השחור חוזר לטוס",
+            "description": "",
+            "start_page": 14,
+            "author": ""
+        },
+        {
+            "title": "לטוס בגובה אפס",
+            "description": "",
+            "start_page": 16,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "על הקרקע, כמו באוויר",
+            "description": "",
+            "start_page": 20,
+            "author": "רועי צהר וקובי מרינקו"
+        },
+        {
+            "title": "כאילו טסתי כזה",
+            "description": "",
+            "start_page": 24,
+            "author": "ליאורה שוסטר"
+        },
+        {
+            "title": "מקורקעים",
+            "description": "",
+            "start_page": 30,
+            "author": "ענר גוברין ושרון גבע"
+        },
+        {
+            "title": "דוגמן צמרת",
+            "description": "",
+            "start_page": 34,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "פער דורות",
+            "description": "",
+            "start_page": 38,
+            "author": "קובי מרינקו"
+        },
+        {
+            "title": "נווט, שני מכונאים וטייס",
+            "description": "",
+            "start_page": 42,
+            "author": "ליאורה שוסטר"
+        },
+        {
+            "title": "הים היה סוער עד גבה-גלי",
+            "description": "",
+            "start_page": 46,
+            "author": "שרון גבע"
+        },
+        {
+            "title": "ביום בהיר אפשר לראות את דמשק",
+            "description": "",
+            "start_page": 52,
+            "author": "אסף שילה ודרור מרום"
+        },
+        {
+            "title": "עלו על המסלול",
+            "description": "",
+            "start_page": 60,
+            "author": "שרון גבע"
+        },
+        {
+            "title": "ע׳ תחת ע׳",
+            "description": "",
+            "start_page": 66,
+            "author": "עינת אהרונוב"
+        },
+        {
+            "title": "העיקר התרגיל",
+            "description": "",
+            "start_page": 72,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "מדף אווירי",
+            "description": "",
+            "start_page": 77,
+            "author": ""
+        },
+        {
+            "title": "״לוקהיד״ רכשה את חטיבת הקרב של ״ג׳נרל דיינמיקס״",
+            "description": "",
+            "start_page": 80,
+            "author": ""
+        },
+        {
+            "title": "״חמקנות״ כמושג מפתח",
+            "description": "",
+            "start_page": 82,
+            "author": ""
+        },
+        {
+            "title": "המדינות הערביות משקיעות מאמצים להשיג לווינים",
+            "description": "",
+            "start_page": 87,
+            "author": ""
+        }
+    ]
+}
