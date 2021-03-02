@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "issue_number": "203",
+        "year": "1995",
+        "month": {
+            "from": "אפריל",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "צחי שן",
+        "price": {
+            "amount": 18.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 90.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "שאול שורץ",
+            "רוני הרמן",
+            "רובי קסטרו",
+            "גיורא נוימן",
+            "אסף שילה"
+        ],
+        "number_of_pages": "",
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "מפקד חיל האוויר ההולנדי: ״שיתוף הפעולה בין חילות האוויר של ישראל והולנד הולך ומעמיק״",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "חליפת אב״כ חדשה לטייסי קרב",
+            "description": "",
+            "start_page": 10,
+            "author": ""
+        },
+        {
+            "title": "מאמן אוויוניקה חדש ליסעור 2000",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "סולו - חיל האוויר במחשב שלך",
+            "description": "",
+            "start_page": 16,
+            "author": ""
+        },
+        {
+            "title": "כל החיים בחמש דקות",
+            "description": "",
+            "start_page": 20,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "סופה במדבר",
+            "description": "",
+            "start_page": 26,
+            "author": "עמיר רגב"
+        },
+        {
+            "title": "נושאת מטוסים מחפשת אתגר",
+            "description": "",
+            "start_page": 36,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "נחש קרב",
+            "description": "",
+            "start_page": 42,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "צעירים חסרי מנוח",
+            "description": "",
+            "start_page": 50,
+            "author": "יולי חרומצ׳נקו ונועם אופיר"
+        },
+        {
+            "title": "עוברים כל גבול",
+            "description": "",
+            "start_page": 54,
+            "author": "דן פישל"
+        },
+        {
+            "title": "טייסת מטכ״ל",
+            "description": "",
+            "start_page": 60,
+            "author": "נועם אופיר"
+        },
+        {
+            "title": "מגה טק",
+            "description": "",
+            "start_page": 64,
+            "author": ""
+        },
+        {
+            "title": "כולם אמרו שיהיה בסדר",
+            "description": "",
+            "start_page": 70,
+            "author": ""
+        },
+        {
+            "title": "עסקי אוויר אוויר",
+            "description": "",
+            "start_page": 74,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "לא הספיקו להמריא",
+            "description": "",
+            "start_page": 80,
+            "author": "דן סלע ועמיר רגב"
+        },
+        {
+            "title": "ממריאים מבסיסים ריקים",
+            "description": "",
+            "start_page": 84,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "הציפורים השחורות",
+            "description": "",
+            "start_page": 88,
+            "author": ""
+        },
+        {
+            "title": "ה F-16 ניצח בטורניר קרבות האוויר האמריקאי",
+            "description": "",
+            "start_page": 90,
+            "author": ""
+        },
+        {
+            "title": "כפיר הפיל צסנה",
+            "description": "",
+            "start_page": 92,
+            "author": ""
+        },
+        {
+            "title": "הרוסים יוצאים, הרוסים יוצאים",
+            "description": "",
+            "start_page": 93,
+            "author": ""
+        }
+    ]
+}

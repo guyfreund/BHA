@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "issue_number": "202",
+        "year": "1995",
+        "month": {
+            "from": "פברואר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "צחי שן",
+        "price": {
+            "amount": 14.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 75.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "שאול שורץ",
+            "רוני הרמן",
+            "רובי קסטרו",
+            "גיורא נוימן",
+            "אסף שילה"
+        ],
+        "number_of_pages": 86,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "״במשך שעה וחצי חיכינו בשמיים של דאמור״",
+            "description": "",
+            "start_page": 2,
+            "author": ""
+        },
+        {
+            "title": "עשרות תותחי וולקן הגיעו ארצה",
+            "description": "",
+            "start_page": 3,
+            "author": ""
+        },
+        {
+            "title": "״יתכן שהמפח״ש וחיל האוויר יממנו במשותף רכישת מסוקי בלק הוק נוספים״ - אומר קצין צנחנים וחי״ר ראשי",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "נחיתה בטרמיל הפרטי של שולטן עומאן",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "פתור",
+            "description": "",
+            "start_page": 12,
+            "author": "רועי צהר"
+        },
+        {
+            "title": "הבלק הוק הולך לעבודה",
+            "description": "",
+            "start_page": 16,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "באטמן",
+            "description": "",
+            "start_page": 24,
+            "author": "שאול שורץ"
+        },
+        {
+            "title": "כך ניצחנו את אמריקה",
+            "description": "",
+            "start_page": 28,
+            "author": "רביב גנשרוא"
+        },
+        {
+            "title": "חלמיש והמטוס האבוד",
+            "description": "",
+            "start_page": 36,
+            "author": "יולי חרומצ׳נקו"
+        },
+        {
+            "title": "מגה טק",
+            "description": "",
+            "start_page": 40,
+            "author": ""
+        },
+                {
+            "title": "שברו את מחסום הקור",
+            "description": "",
+            "start_page": 48,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "תשלום במזומן בלבד",
+            "description": "",
+            "start_page": 52,
+            "author": "דן סלע וענר גוברין"
+        },
+        {
+            "title": "אזרה: עמדה זו תופצץ מהאוויר מחר",
+            "description": "",
+            "start_page": 56,
+            "author": "טל אלון"
+        },
+        {
+            "title": "מרגל בחצי משרה",
+            "description": "",
+            "start_page": 64,
+            "author": "יולי חרומצ׳נקו"
+        },
+        {
+            "title": "חדירה בלתי חוקית",
+            "description": "",
+            "start_page": 68,
+            "author": "עמיר רגב"
+        },
+        {
+            "title": "צ׳ארלס הראשון",
+            "description": "",
+            "start_page": 72,
+            "author": "דן סלע"
+        },
+        {
+            "title": "תבוסה מתוכננת היטב",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        },
+        {
+            "title": "מסק״ר יפאני",
+            "description": "",
+            "start_page": 79,
+            "author": ""
+        },
+        {
+            "title": "הלו מיר, כאן נאס״א",
+            "description": "",
+            "start_page": 86,
+            "author": ""
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "issue_number": "201",
+        "year": "1994",
+        "month": {
+            "from": "דצמבר",
+            "to": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 14.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 75.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "שאול שורץ",
+            "רוני הרמן",
+            "רובי קסטרו",
+            "גיורא נוימן",
+            "אסף שילה"
+        ],
+        "number_of_pages": 98,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "עוזי רובין, ראש מינהלת ״חומה״: מדינת ישראל משקיעה כיום בפרויקט החץ יותר מאשר ארה״ב",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "מפקד יחידת הנעדרים: עדי ראייה עשויים לפתור את תעלומת נדרי הבופייטר",
+            "description": "",
+            "start_page": 11,
+            "author": ""
+        },
+        {
+            "title": "קברניט האנפה: ידעתי שחיתוך הכבל כלול לגרום למותו של הלוחים, אך זה גם היה הדבר היחידי שהיה יכול להציל את חייו",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "בשידור חי עם טייסת קרב",
+            "description": "",
+            "start_page": 18,
+            "author": "טל אלון"
+        },
+        {
+            "title": "שתיקת הסירנה",
+            "description": "",
+            "start_page": 26,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "סוגרים את הים",
+            "description": "",
+            "start_page": 32,
+            "author": "עמיר רגב"
+        },
+        {
+            "title": "כוח 17",
+            "description": "",
+            "start_page": 38,
+            "author": "רועי צהר"
+        },
+        {
+            "title": "כנגד כל הסיכויים",
+            "description": "",
+            "start_page": 44,
+            "author": "דן סלע"
+        },
+        {
+            "title": "ישיבה בבור",
+            "description": "",
+            "start_page": 50,
+            "author": "דן סלע"
+        },
+        {
+            "title": "האחים קוברה",
+            "description": "",
+            "start_page": 54,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "שלי תמיד היה שם",
+            "description": "",
+            "start_page": 60,
+            "author": "רועי צהר"
+        },
+        {
+            "title": "זכרונות מאפריקה",
+            "description": "",
+            "start_page": 64,
+            "author": "יולי חרומצ׳נקו"
+        },
+        {
+            "title": "רכבת אווירית של איש אחד",
+            "description": "",
+            "start_page": 68,
+            "author": "יולי חרומצ׳נקו"
+        },
+        {
+            "title": "הציל את המיג-9",
+            "description": "",
+            "start_page": 72,
+            "author": "יולי חרומצ׳נקו"
+        },
+        {
+            "title": "מגה טק",
+            "description": "",
+            "start_page": 76,
+            "author": ""
+        },
+        {
+            "title": "מדף אווירי",
+            "description": "",
+            "start_page": 81,
+            "author": ""
+        },
+        {
+            "title": "מסדר כנפיים",
+            "description": "",
+            "start_page": 81,
+            "author": ""
+        },
+        {
+            "title": "הקומנצ׳י האחרון",
+            "description": "",
+            "start_page": 94,
+            "author": ""
+        },
+        {
+            "title": "סגן נשיא ״מארטין מארייטה״: הפסקתי כבר לנסות לנחש איזה פרוייקטים יבוטלו",
+            "description": "",
+            "start_page": 96,
+            "author": ""
+        },
+        {
+            "title": "מטוס יום הדין",
+            "description": "",
+            "start_page": 98,
+            "author": ""
+        }
+    ]
+}
