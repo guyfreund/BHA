@@ -21,8 +21,6 @@ HEB_TO_ENG = {
 
 
 def handle_month(issue):
-    if issue['metadata']['issue_number'] == '18':
-        print('x')
     metadata = issue.get('metadata')
     month = metadata.get('month', {})
     month_to = month.get('to')
