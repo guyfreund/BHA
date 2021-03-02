@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "year": "1951",
+        "month": {
+            "from": "",
+            "to": ""
+        },
+        "date_of_publish": "Mon Jan 01 13:47:26 UTC 1951",
+        "issue_number": "16-17",
+        "publisher": "חיל האויר",
+        "editor": "משה פומרנץ",
+        "deputy_editor": "-",
+        "graphics_editor": "-",
+        "technical_editor": "-",
+        "price": {
+            "amount": -1,
+            "type": ""
+        },
+        "photographers": [
+            "ריטה גרינפלדר",
+            "ברגמן"
+        ],
+        "system": "-",
+        "subscription_price": {
+            "amount": -1,
+            "type": ""
+        },
+        "number_of_pages": "154",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=1037",
+        "title": "בטאון חיל האויר מס' 16/17 1951",
+        "new_issue_number": "-1"
+    },
+    "index": []
+}

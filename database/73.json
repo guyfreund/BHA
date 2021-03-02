@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "issue_number": "73",
+        "year": "1966",
+        "month": {
+            "to": "מרץ",
+            "from": "פברואר"
+        },
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": "",
+            "type": ""
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "157",
+        "subscription_only": true,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=917",
+        "title": "בטאון חיל האויר פברואר-מרץ 1967 מס' 73",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC73.pdf&page=Body&ProdID=917"
+    },
+    "index": [
+        {
+            "title": "ווטורים",
+            "description": "",
+            "start_page": 5,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "ראשונים על הקרקע",
+            "description": "",
+            "start_page": 22,
+            "author": "צ. גן"
+        },
+        {
+            "title": "אגרת משמי אוגנדה",
+            "description": "״רשף״",
+            "start_page": "",
+            "author": ""
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 36,
+            "author": ""
+        },
+        {
+            "title": "הישראלי שחזר לכפור",
+            "description": "",
+            "start_page": 41,
+            "author": ""
+        },
+        {
+            "title": "אבות האבטיפוס",
+            "description": "",
+            "start_page": 44,
+            "author": "ג. צבי"
+        },
+        {
+            "title": "הר.א.פ. במפרץ הפרסי",
+            "description": "",
+            "start_page": 52,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 56,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "טילי אויר-אויר",
+            "description": "",
+            "start_page": 68,
+            "author": "י. בן-יוחנן"
+        },
+        {
+            "title": "סיפורו של ה״פנטום״",
+            "description": "",
+            "start_page": 101,
+            "author": ""
+        },
+        {
+            "title": "SST",
+            "description": "",
+            "start_page": 116,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "תעודת זהות: בי-2707",
+            "description": "",
+            "start_page": 122,
+            "author": ""
+        },
+        {
+            "title": "צפלינים בבולים",
+            "description": "",
+            "start_page": 126,
+            "author": "י. לוין וי. בורק"
+        },
+        {
+            "title": "צלב הדרום",
+            "description": "",
+            "start_page": 133,
+            "author": ""
+        },
+        {
+            "title": "תיבת זכוכית במוסיאון",
+            "description": "",
+            "start_page": 141,
+            "author": ""
+        },
+        {
+            "title": "לחיצת היד ״השמימית״",
+            "description": "",
+            "start_page": 147,
+            "author": ""
+        },
+        {
+            "title": "המכונות המעופפות... מעופפות שוב",
+            "description": "",
+            "start_page": 151,
+            "author": ""
+        },
+        {
+            "title": "הסיכוי הנוסף",
+            "description": "",
+            "start_page": 158,
+            "author": ""
+        },
+        {
+            "title": "ה״פנטגון״",
+            "description": "",
+            "start_page": 162,
+            "author": ""
+        }
+    ]
+}

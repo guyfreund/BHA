@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "year": "1950",
+        "month": {
+            "from": "",
+            "to": ""
+        },
+        "date_of_publish": "Sun Jan 01 13:16:46 UTC 1950\n",
+        "issue_number": "11",
+        "publisher": "חיל האויר",
+        "editor": "משה פומרנץ",
+        "deputy_editor": "-",
+        "graphics_editor": "-",
+        "technical_editor": "-",
+        "price": {
+            "amount": -1,
+            "type": ""
+        },
+        "photographers": [],
+        "system": "-",
+        "subscription_price": {
+            "amount": -1,
+            "type": ""
+        },
+        "number_of_pages": "103",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=1033",
+        "title": "בטאון חיל האויר מספר 11",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC11.pdf&page=Body&ProdID=1033"
+    },
+    "index": [
+        {
+            "title": "התישבות תעופתית",
+            "description": "ראש כנף יוסף קרן מעלה בעיה שפתרונה יתרום רבות לבטחון המדינה ולהגברת יעילות החיל",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "בנית כלי טיס בישראל",
+            "description": "משה רוזנטל חבר הועד המרכזי של קלוב התעופה לישראל סוקר בגליון זה את השלבים השונים בבנית כלי טיס בארץ ומונה את האפשרויות הצפונות בענף זה.",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "מטוס-סילון, מטוס-דחף, מטוס-הדף, מטוס תגובה, מטוס-מפלט",
+            "description": "",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "גיאופוליטיקה אוירית של אום",
+            "description": "",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "מלחמת האויר בקוריאה",
+            "description": "",
+            "start_page": -1,
+            "author": ""
+        }
+    ]
+}

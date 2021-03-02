@@ -1,0 +1,198 @@
+{
+    "metadata": {
+        "issue_number": "65",
+        "year": "1964",
+        "month": {
+            "to": "יולי",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סגן יהודה עופר",
+        "price": {
+            "amount": 1.5,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "164",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=858",
+        "title": "בטאון חיל האויר יולי 1964 מס' 65",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC65.pdf&page=Body&ProdID=858"
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "כך התבשל המטס הענק",
+            "description": "",
+            "start_page": 6,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "מבצעי אבק-1948",
+            "description": "",
+            "start_page": 14,
+            "author": "ע. יהודה"
+        },
+        {
+            "title": "על מה התבססו תשובות המאזינים?",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "גוזליק הוא שקרן!",
+            "description": "",
+            "start_page": 22,
+            "author": ""
+        },
+        {
+            "title": "נתיבי האויר היו עבריים",
+            "description": "",
+            "start_page": 28,
+            "author": "דינה ב."
+        },
+        {
+            "title": "המכונאים שלנו",
+            "description": "",
+            "start_page": 34,
+            "author": "י. בן אמיר"
+        },
+        {
+            "title": "מבער אחורי ושמו מורל",
+            "description": "",
+            "start_page": 41,
+            "author": "יעקב טרנר"
+        },
+        {
+            "title": "עבודה ושמה נופש",
+            "description": "",
+            "start_page": 45,
+            "author": ""
+        },
+        {
+            "title": "ספיטים לבורמה!",
+            "description": "",
+            "start_page": 54,
+            "author": "ג'קי מוגרידג'"
+        },
+        {
+            "title": "צרעות",
+            "description": "",
+            "start_page": 60,
+            "author": ""
+        },
+        {
+            "title": "מפת הנתיבים",
+            "description": "",
+            "start_page": 64,
+            "author": ""
+        },
+        {
+            "title": "טובים גם לטיס",
+            "description": "",
+            "start_page": 72,
+            "author": "מ. שלח"
+        },
+        {
+            "title": "משפחת האויר",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        },
+        {
+            "title": "האזרחים מה הם אומרים",
+            "description": "",
+            "start_page": 83,
+            "author": ""
+        },
+        {
+            "title": "הארזים המעופפים של לבנון",
+            "description": "",
+            "start_page": 84,
+            "author": ""
+        },
+        {
+            "title": "האבטיפוס התת-קולי של מצרים",
+            "description": "",
+            "start_page": 81,
+            "author": ""
+        },
+        {
+            "title": "חידון 101",
+            "description": "",
+            "start_page": 94,
+            "author": ""
+        },
+        {
+            "title": "א-11 בעיני עתונות התעופה",
+            "description": "",
+            "start_page": 97,
+            "author": ""
+        },
+        {
+            "title": "סודות המילוט",
+            "description": "",
+            "start_page": 107,
+            "author": ""
+        },
+        {
+            "title": "על מה התבססו התשובות (המשך)",
+            "description": "",
+            "start_page": 111,
+            "author": ""
+        },
+        {
+            "title": "מלון החיות המעופף",
+            "description": "",
+            "start_page": 116,
+            "author": ""
+        },
+        {
+            "title": "מבצע ברק משומן",
+            "description": "",
+            "start_page": 119,
+            "author": ""
+        },
+        {
+            "title": "תשובות לחידון 101",
+            "description": "",
+            "start_page": 125,
+            "author": ""
+        },
+        {
+            "title": "סערת הרוחות סביב ד\"ר סטריינג'לב",
+            "description": "",
+            "start_page": 127,
+            "author": ""
+        },
+        {
+            "title": "לוס אנג'לס-חלל-פריז",
+            "description": "",
+            "start_page": 130,
+            "author": ""
+        },
+        {
+            "title": "מטוסים בתחפושת",
+            "description": "",
+            "start_page": 142,
+            "author": ""
+        },
+        {
+            "title": "קשה עורף",
+            "description": "",
+            "start_page": 146,
+            "author": ""
+        }
+    ]
+}

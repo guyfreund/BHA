@@ -1,0 +1,232 @@
+{
+    "metadata": {
+        "year": "1953",
+        "month": {
+            "to": "יולי",
+            "from": "יוני"
+        },
+        "date_of_publish": "Wed Jul 01 14:59:14 UTC 1953",
+        "issue_number": "23",
+        "publisher": "חיל האויר",
+        "editor": "משה פומרנץ",
+        "deputy_editor": "-",
+        "graphics_editor": "-",
+        "technical_editor": "-",
+        "price": {
+            "amount": 400,
+            "type": "פרוטה"
+        },
+        "photographers": [],
+        "system": "-",
+        "subscription_price": {
+            "amount": -1,
+            "type": ""
+        },
+        "number_of_pages": "196",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=606",
+        "title": "בטאון חיל האויר יוני - יולי 1953 מס' 23",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC23.pdf&page=Body&ProdID=606"
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "מאחורי הקלעים של המפגן האוירי",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "התיקונים בחזקת השיפוט תשח",
+            "description": "",
+            "start_page": 21,
+            "author": ""
+        },
+        {
+            "title": "אויר טוב הוא אויב מקורקע",
+            "description": "",
+            "start_page": 24,
+            "author": ""
+        },
+        {
+            "title": "ניהול מהו?",
+            "description": "",
+            "start_page": 26,
+            "author": ""
+        },
+        {
+            "title": "מלחמת האויר בהודו-סין",
+            "description": "",
+            "start_page": 32,
+            "author": ""
+        },
+        {
+            "title": "ההגנה האוירית על גרמניה",
+            "description": "",
+            "start_page": 41,
+            "author": ""
+        },
+        {
+            "title": "הכוח האוירי של הברית הצפון-אטלנטית",
+            "description": "",
+            "start_page": 51,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 59,
+            "author": ""
+        },
+        {
+            "title": "תצלומים מספרים",
+            "description": "",
+            "start_page": 72,
+            "author": ""
+        },
+        {
+            "title": "המטוסים הצבאיים בעולם",
+            "description": "",
+            "start_page": 77,
+            "author": ""
+        },
+        {
+            "title": "התוכל לזהות מטוסים אלה?",
+            "description": "",
+            "start_page": 88,
+            "author": ""
+        },
+        {
+            "title": "מטוסים ללא טייסים",
+            "description": "",
+            "start_page": 90,
+            "author": ""
+        },
+        {
+            "title": "ההליקופטר-מראשיתו ועד היום",
+            "description": "",
+            "start_page": 94,
+            "author": ""
+        },
+        {
+            "title": "המנוע הסילוני (3)",
+            "description": "",
+            "start_page": 98,
+            "author": ""
+        },
+        {
+            "title": "נווטות אלחוטית",
+            "description": "",
+            "start_page": 111,
+            "author": ""
+        },
+        {
+            "title": "למד לטוס (5)",
+            "description": "",
+            "start_page": 123,
+            "author": ""
+        },
+        {
+            "title": "קטלינה - החתול השחור",
+            "description": "",
+            "start_page": 128,
+            "author": ""
+        },
+        {
+            "title": "בנה לך קטלינה",
+            "description": "",
+            "start_page": 132,
+            "author": ""
+        },
+        {
+            "title": "חיל האויר הצ'כוסלובקי",
+            "description": "",
+            "start_page": 136,
+            "author": ""
+        },
+        {
+            "title": "מה תהיה עצמתה האוירית של יפן?",
+            "description": "",
+            "start_page": 138,
+            "author": ""
+        },
+        {
+            "title": "בעלי צואר סביבון מאריכים ימים",
+            "description": "",
+            "start_page": 142,
+            "author": ""
+        },
+        {
+            "title": "היפנוזה בתא הטייס",
+            "description": "",
+            "start_page": 144,
+            "author": ""
+        },
+        {
+            "title": "תשובות לזיהוי מטוסים",
+            "description": "רפוטאז'ה בתצלומים",
+            "start_page": 149,
+            "author": ""
+        },
+        {
+            "title": "הפעולה ה-11",
+            "description": "",
+            "start_page": 151,
+            "author": ""
+        },
+        {
+            "title": "התשובה הנכונה-חידון אוירי",
+            "description": "",
+            "start_page": 154,
+            "author": ""
+        },
+        {
+            "title": "לנו המחר בשחקים/גדנע-אויר",
+            "description": "",
+            "start_page": 156,
+            "author": ""
+        },
+        {
+            "title": "צוותות מכבי-האש",
+            "description": "",
+            "start_page": 160,
+            "author": ""
+        },
+        {
+            "title": "כך רואים הטייסים",
+            "description": "",
+            "start_page": 162,
+            "author": ""
+        },
+        {
+            "title": "מפעל השוליות מתגשם",
+            "description": "",
+            "start_page": 164,
+            "author": ""
+        },
+        {
+            "title": "כנפים סובבות מעל הראש",
+            "description": "",
+            "start_page": 167,
+            "author": ""
+        },
+        {
+            "title": "דאר אויר",
+            "description": "",
+            "start_page": 175,
+            "author": ""
+        },
+        {
+            "title": "בשמי המזרח התיכון",
+            "description": "",
+            "start_page": 177,
+            "author": ""
+        }
+    ]
+}

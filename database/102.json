@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "issue_number": "102",
+        "year": "1977",
+        "month": {
+            "to": "ספטמבר",
+            "from": ""
+        },
+        "publisher": "מפקדת חילהאויר",
+        "editor": "נורית גורן",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 8.0,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [
+            "דוד הלפרין",
+            "ידגר"
+        ],
+        "subscription_price": {
+            "amount": 40.0,
+            "type": "לירה ישראלית"
+        },
+        "number_of_pages": "53",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=938",
+        "title": "בטאון חיל האויר ספטמבר 1977 מס' 102",
+        "new_issue_number": 1,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC102.pdf&page=Body&ProdID=938"
+    },
+    "index": [
+        {
+            "title": "פקודת יום",
+            "description": "",
+            "start_page": 2,
+            "author": ""
+        },
+        {
+            "title": "גרעין של עליונות אווירית חדשה ",
+            "description": "",
+            "start_page": 4,
+            "author": "דניאל מולד"
+        },
+        {
+            "title": "אין פשרות בעמידה במבחן הביצוע",
+            "description": "",
+            "start_page": 8,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "F-15",
+            "description": "",
+            "start_page": 11,
+            "author": ""
+        },
+        {
+            "title": "שיטות לאיכון מטרות קרקע",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "אבי לוחמת האויר המדברית",
+            "description": "",
+            "start_page": 18,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "פוגות במעלה-אדומים",
+            "description": "",
+            "start_page": 21,
+            "author": "אריה ברנע"
+        },
+        {
+            "title": "שיח פרחי טיס",
+            "description": "",
+            "start_page": 28,
+            "author": "אהרן לפידות"
+        },
+        {
+            "title": "מצילה בכחול",
+            "description": "",
+            "start_page": 31,
+            "author": "תרצה שקדי"
+        },
+        {
+            "title": "בריחה בוייאטנם",
+            "description": "",
+            "start_page": 32,
+            "author": "קול' ג'ורג' דיי"
+        },
+        {
+            "title": "הם חוזרים ובאים",
+            "description": "",
+            "start_page": 36,
+            "author": "אהרן לפידות"
+        },
+        {
+            "title": "כל הכבוד לכבודי",
+            "description": "",
+            "start_page": 38,
+            "author": "תרצה שקדי"
+        },
+        {
+            "title": "עננים מסביב לשעון",
+            "description": "",
+            "start_page": 40,
+            "author": "אריה ברנע"
+        },
+        {
+            "title": "פורצי הסכרים - במבטח נוסף",
+            "description": "",
+            "start_page": 42,
+            "author": "אלי אייל"
+        }
+    ]
+}

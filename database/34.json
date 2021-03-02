@@ -1,0 +1,191 @@
+{
+    "metadata": {
+        "year": "1955",
+        "month": {
+            "from": "דצמבר",
+            "to": "ינואר"
+        },
+        "date_of_publish": "timestamp",
+        "issue_number": "34",
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סגן יהודה עופר",
+        "price": {
+            "amount": 600,
+            "type": "פרוטה"
+        },
+        "photographers": [
+            "תמר קלוזנר",
+            "אברהם אלקבס",
+            "יצחק כהן",
+            "פול גולדמן",
+            "חיים קציר",
+            "ברוך בן בסט",
+            "רפי ריפר"
+        ],
+        "number_of_pages": "168",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=834",
+        "title": "בטאון חיל האויר דצמבר 1955 ינואר 1956 מס' 34",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC34.pdf&page=Body&ProdID=834"
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 7,
+            "author": ""
+        },
+        {
+            "title": "המטוס בעל אלף השימושים",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "דקוטות קוטלות מיליוני חללים",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "מקצועות חזקים למין החלש",
+            "description": "",
+            "start_page": 20,
+            "author": ""
+        },
+        {
+            "title": "צלחות מעופפות בשמי ישראל",
+            "description": "",
+            "start_page": 26,
+            "author": ""
+        },
+        {
+            "title": "ישראל מברכת אותך",
+            "description": "",
+            "start_page": 33,
+            "author": ""
+        },
+        {
+            "title": "באוויר העולם",
+            "description": "",
+            "start_page": 37,
+            "author": ""
+        },
+        {
+            "title": "תצלומים מספרים",
+            "description": "",
+            "start_page": 48,
+            "author": ""
+        },
+        {
+            "title": "פרנבורו 1955",
+            "description": "",
+            "start_page": 52,
+            "author": ""
+        },
+        {
+            "title": "קליעים מודרכים",
+            "description": "",
+            "start_page": 65,
+            "author": ""
+        },
+        {
+            "title": "אווירודינמיקה (15)",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        },
+        {
+            "title": "המנוע הסילוני (11)",
+            "description": "",
+            "start_page": 95,
+            "author": ""
+        },
+        {
+            "title": "חומרי המטוס (4)",
+            "description": "",
+            "start_page": 107,
+            "author": ""
+        },
+        {
+            "title": "הרקיע הערירי",
+            "description": "",
+            "start_page": 118,
+            "author": ""
+        },
+        {
+            "title": "נא להכיר: גוף האדם",
+            "description": "",
+            "start_page": 132,
+            "author": ""
+        },
+        {
+            "title": "סנטוס-דומונט - האיש בתכלת",
+            "description": "",
+            "start_page": 134,
+            "author": ""
+        },
+        {
+            "title": "באיזה גובה אתה נמצא?",
+            "description": "",
+            "start_page": 141,
+            "author": ""
+        },
+        {
+            "title": "ז׳נבייב חוצה את התעלה",
+            "description": "",
+            "start_page": 142,
+            "author": ""
+        },
+        {
+            "title": "צנחניות בברית המועצות",
+            "description": "",
+            "start_page": 144,
+            "author": ""
+        },
+        {
+            "title": "מידווי - ניצחון המודיעין",
+            "description": "",
+            "start_page": 145,
+            "author": ""
+        },
+        {
+            "title": "נגיחה - הברירה האחרונה?",
+            "description": "",
+            "start_page": 147,
+            "author": ""
+        },
+        {
+            "title": "הרקולס - בית הבליעה הלוויתני",
+            "description": "",
+            "start_page": 150,
+            "author": ""
+        },
+        {
+            "title": "בום על קולי - נשק חדש?",
+            "description": "",
+            "start_page": 152,
+            "author": ""
+        },
+        {
+            "title": "עוצמת אוויר במלחמה",
+            "description": "",
+            "start_page": 155,
+            "author": ""
+        },
+        {
+            "title": "דאר אוויר",
+            "description": "",
+            "start_page": 157,
+            "author": ""
+        },
+        {
+            "title": "בשמי המזרח התיכון",
+            "description": "",
+            "start_page": 159,
+            "author": ""
+        }
+    ]
+}

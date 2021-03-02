@@ -1,0 +1,198 @@
+{
+    "metadata": {
+        "issue_number": "168",
+        "year": "1989",
+        "month": {
+            "to": "מרץ",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 6.5,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 36.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר",
+            "שלמה וולקוביץ"
+        ],
+        "number_of_pages": "98",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=824",
+        "title": "בטאון חיל האויר מרץ 1989 מס' 67 (168)",
+        "new_issue_number": 67,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC168.pdf&page=Body&ProdID=824"
+    },
+    "index": [
+        {
+            "author": "דפי ויטלה",
+            "start_page": 4,
+            "title": "שאלה של פיקוח נפש. יום אחד במגדל הפיקוח",
+            "description": ""
+        },
+        {
+            "author": "ענו גונרין",
+            "start_page": 9,
+            "title": "עסקי אויר. על אנשים ואירועים",
+            "description": ""
+        },
+        {
+            "author": "ח ארקיו",
+            "start_page": 12,
+            "title": "50 שיטות לנטול את הטרור באויו. כנס בינלאומי שנערך בישראל",
+            "description": ""
+        },
+        {
+            "author": "דרום מחם",
+            "start_page": 14,
+            "title": "מסוקים נגד הפגנות המוניות. גילויים ראשונים על פעילות חיל־האויר בשטחים",
+            "description": ""
+        },
+        {
+            "author": "ישגב נקדימון",
+            "start_page": 16,
+            "title": "43 הפלות מכסא הבקר נזקפות לזכותו של אל׳׳ם כ׳",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 21,
+            "title": "מעבר להרי אררט. הפן החיל־אוירי של הסיוע לארמניה",
+            "description": ""
+        },
+        {
+            "author": "ישגב נקדימון",
+            "start_page": 26,
+            "title": "יש עתיד! על טייסת סקייהוק בעלת עבר מפואר",
+            "description": ""
+        },
+        {
+            "author": "דפי ויטלה",
+            "start_page": 34,
+            "title": "ניפגש באויו. 24 שעות בחיי מפקד טייסת",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 36,
+            "title": "פאטויוט גדול. טיל הנ״מ הטוב בעולם",
+            "description": ""
+        },
+        {
+            "author": "ח ארקיו",
+            "start_page": 39,
+            "title": "למה הם נופלים. תאונות קטלניות במטוסי נוסעים",
+            "description": ""
+        },
+        {
+            "author": "גיא רימון",
+            "start_page": 42,
+            "title": "חייו ומוחו של סא״ל אבי לגיד. חלק ב׳",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 50,
+            "title": "פרשים קלים. על טייסת מסוקי בל 206",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 54,
+            "title": "מסק״רים בלוע הוולקן. תרגיל שת״פ על טהרת ח״א",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 58,
+            "title": "״ביתי״. מעבורת חלל סובייטית חדשה",
+            "description": ""
+        },
+        {
+            "author": "אווי דרומי",
+            "start_page": 60,
+            "title": "הזוהר והמצוקה. מבט חדש על נושאות מטוסים",
+            "description": ""
+        },
+        {
+            "author": "שוון שדה",
+            "start_page": 66,
+            "title": "באויר העולם. 15£-?",
+            "description": ""
+        },
+        {
+            "author": "גיא רימון",
+            "start_page": 69,
+            "title": "לא משאירים מיג באויר. דף בספר הטיסות",
+            "description": ""
+        },
+        {
+            "author": "ג׳ון ג׳ולי",
+            "start_page": 70,
+            "title": "האריקיינים מעל רוסיה. שת״פ בריטי־רוסי במלחמת העולם ה־2",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 73,
+            "title": "הוק ננעל על מל״ט. שיגורים מוצלחים באימונים",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגדד",
+            "start_page": 74,
+            "title": "אימון נ״מ בכיוון הנכון",
+            "description": ""
+        },
+        {
+            "author": "דוור מרום",
+            "start_page": 76,
+            "title": "חילוץ ממעבה הג׳ונגל הוייטנאמי",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 78,
+            "title": "טיסות סאלוניות. על סימולאטורים ביתיים לטיסה",
+            "description": ""
+        },
+        {
+            "author": "דפי ויטלה",
+            "start_page": 81,
+            "title": "העמותה ממריאה. עמותת חיל־האויר יוצאת לדרך",
+            "description": ""
+        },
+        {
+            "author": "דפי ויטלה",
+            "start_page": 83,
+            "title": "רשיון טיס פרטי. מדריך הבטאון להשגת הרשיון הנכסף",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 86,
+            "title": "לאורך גדר מערכת בסיסית. על הגנה קרקעית בחיל־האויר",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 88,
+            "title": "בין הבסיסים",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 90,
+            "title": "מדף אוירי",
+            "description": ""
+        }
+    ]
+}

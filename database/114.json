@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "issue_number": "114",
+        "year": "1979",
+        "month": {
+            "to": "דצמבר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 20.0,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "יחידת צילום אוירי חיל האויר"
+        ],
+        "subscription_price": {
+            "amount": 100.0,
+            "type": "ל״י"
+        },
+        "number_of_pages": "68",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=944",
+        "title": "בטאון חיל האויר דצמבר 1979 מס' 13 (114)",
+        "new_issue_number": 13,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC114.pdf&page=Body&ProdID=944"
+    },
+    "index": [
+        {
+            "title": "פאנטום זה אופי",
+            "description": "",
+            "start_page": 3,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "לסער נולד",
+            "description": "",
+            "start_page": 7,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "הצלה מפיסגת החרמון",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "להיות טייס מסוקים",
+            "description": "",
+            "start_page": 17,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "הטיסות לא נפסקו",
+            "description": "",
+            "start_page": 18,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 20,
+            "author": ""
+        },
+        {
+            "title": "אין דרך חזרה",
+            "description": "",
+            "start_page": 23,
+            "author": "אל״מ י׳"
+        },
+        {
+            "title": "רס״ר לוי - ראש צוות",
+            "description": "",
+            "start_page": 26,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "לקאשים אין קשיים",
+            "description": "",
+            "start_page": 29,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "אילליין: רב-חמשית",
+            "description": "",
+            "start_page": 31,
+            "author": ""
+        },
+        {
+            "title": "מכת שמש",
+            "description": "",
+            "start_page": 32,
+            "author": "רון הדר"
+        },
+        {
+            "title": "מותו ותחייתו של מס׳ 755",
+            "description": "",
+            "start_page": 34,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "מערכת לפיקוד, שליטה וקשר",
+            "description": "",
+            "start_page": 37,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "C.A.F. - ח״א האמריקני האחר",
+            "description": "",
+            "start_page": 40,
+            "author": "אורי יפה"
+        },
+        {
+            "title": "המירוץ אל הנפט",
+            "description": "",
+            "start_page": 42,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "לחדור ללב ישראל השנייה",
+            "description": "",
+            "start_page": 48,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 51,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 52,
+            "author": ""
+        },
+        {
+            "title": "מכתבים",
+            "description": "",
+            "start_page": 54,
+            "author": ""
+        }
+    ]
+}

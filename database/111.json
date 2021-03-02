@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "issue_number": "111",
+        "year": "1979",
+        "month": {
+            "to": "יוני",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 15.0,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "ד. רונזבלום, סטארפוט"
+        ],
+        "subscription_price": {
+            "amount": 80.0,
+            "type": "ל״י"
+        },
+        "number_of_pages": "68",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=946",
+        "title": "בטאון חיל האויר יוני 1979 מס' 10 (111)",
+        "new_issue_number": 10,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC111.pdf&page=Body&ProdID=946"
+    },
+    "index": [
+        {
+            "title": "בית-יוצר לטייסי-קרב",
+            "description": "",
+            "start_page": 3,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "סקייהוק - סוף הייצור",
+            "description": "",
+            "start_page": 6,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "סוס-העבודה הזקן שלי...",
+            "description": "",
+            "start_page": 9,
+            "author": ""
+        },
+        {
+            "title": "חימוש עם גאווה מקצועית",
+            "description": "",
+            "start_page": 10,
+            "author": "רון הדר"
+        },
+        {
+            "title": "נושא שלום בכנפיו",
+            "description": "",
+            "start_page": 11,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "הקשר האוירי לגוש-עציון",
+            "description": "",
+            "start_page": 14,
+            "author": "אלי אייל"
+        },
+        {
+            "title": "המעגל נסגר",
+            "description": "",
+            "start_page": 17,
+            "author": "סא״י א׳"
+        },
+        {
+            "title": "דאקוטות מעל לעזה",
+            "description": "",
+            "start_page": 19,
+            "author": "יעקב בן-אמיר"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 21,
+            "author": ""
+        },
+        {
+            "title": "דור חדש למטוסי-אימון",
+            "description": "",
+            "start_page": 25,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "״בול״ בלבנון",
+            "description": "",
+            "start_page": 28,
+            "author": ""
+        },
+        {
+            "title": "עוד נשמע עליו...",
+            "description": "",
+            "start_page": 29,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "פרידה אישית מסיני",
+            "description": "",
+            "start_page": 32,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "טיוטות מהמדבר",
+            "description": "",
+            "start_page": 34,
+            "author": "רון הדר"
+        },
+        {
+            "title": "לטוס... על הקרקע",
+            "description": "",
+            "start_page": 36,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "שנטל על הגובה",
+            "description": "",
+            "start_page": 38,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "אזרח - יותר קבע מקבע",
+            "description": "",
+            "start_page": 30,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "לדאות כציפור",
+            "description": "",
+            "start_page": 42,
+            "author": "אריה ברנע"
+        },
+        {
+            "title": "מכתבים",
+            "description": "",
+            "start_page": 45,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 46,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "הלקח האוירי שלא הופק בסיני ובא״י",
+            "description": "",
+            "start_page": 49,
+            "author": "רון בודנר"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 52,
+            "author": ""
+        }
+    ]
+}

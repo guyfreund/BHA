@@ -1,0 +1,159 @@
+{
+    "metadata": {
+        "issue_number": "97",
+        "year": "1975",
+        "month": {
+            "to": "אוגוסט",
+            "from": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": "",
+            "type": ""
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "שמואל רחמני"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "164",
+        "subscription_only": true,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=954",
+        "title": "בטאון חיל האויר אוגוסט 1975 מס' 97",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC97.pdf&page=Body&ProdID=954"
+    },
+    "index": [
+        {
+            "title": "עיתונות העולם על הכפיר",
+            "description": "",
+            "start_page": 5,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "עיטור המופת של ג׳אג׳",
+            "description": "",
+            "start_page": 14,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "סיירת המת״ש של ח״א",
+            "description": "",
+            "start_page": 17,
+            "author": "יעקב בן-אמיר"
+        },
+        {
+            "title": "חמישה בקבוקי שמפניה",
+            "description": "",
+            "start_page": 21,
+            "author": "עמרם קליין"
+        },
+        {
+            "title": "אלה היו הימים שהיו",
+            "description": "",
+            "start_page": 28,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 36,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "אנשים בשמי העולם",
+            "description": "",
+            "start_page": 42,
+            "author": ""
+        },
+        {
+            "title": "חיל האויר המצרי - 1975",
+            "description": "",
+            "start_page": 63,
+            "author": ""
+        },
+        {
+            "title": "חילות האויר של הסולטן והאמיר",
+            "description": "",
+            "start_page": 72,
+            "author": ""
+        },
+        {
+            "title": "זהוי מטוסים: פ-14 סטרפייטר",
+            "description": "",
+            "start_page": 84,
+            "author": ""
+        },
+        {
+            "title": "בלימות וזינוקים בתעופה הסובייטית",
+            "description": "",
+            "start_page": 87,
+            "author": "י. מיכאלי"
+        },
+        {
+            "title": "כך זכה הפ-16 ב״עיסקת המאה״",
+            "description": "",
+            "start_page": 97,
+            "author": ""
+        },
+        {
+            "title": "הרואה ואינו נראה",
+            "description": "",
+            "start_page": 103,
+            "author": ""
+        },
+        {
+            "title": "פ-18",
+            "description": "",
+            "start_page": 108,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "״נץ״ חדש באופק",
+            "description": "",
+            "start_page": 113,
+            "author": "ע. עמית"
+        },
+        {
+            "title": "טוס-על-חוט",
+            "description": "",
+            "start_page": 121,
+            "author": ""
+        },
+        {
+            "title": "״החזירו את המטוס לטייס!״",
+            "description": "",
+            "start_page": 126,
+            "author": ""
+        },
+        {
+            "title": "״מרינר״ חושף את סודות היקום",
+            "description": "",
+            "start_page": 134,
+            "author": ""
+        },
+        {
+            "title": "מעבורת החלל",
+            "description": "",
+            "start_page": 146,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "אוירונים, אויריות, מעופפים וכל השאר",
+            "description": "",
+            "start_page": 155,
+            "author": "ע. זעירא"
+        }
+    ]
+}

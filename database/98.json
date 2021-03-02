@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "issue_number": "98",
+        "year": "1976",
+        "month": {
+            "to": "ינואר",
+            "from": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 7.5,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "אילן ברונר"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "164",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=930",
+        "title": "בטאון חיל האויר ינואר 1976 מס' 98",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC98.pdf&page=Body&ProdID=930"
+    },
+    "index": [
+        {
+            "title": "בומרנג אל מטוסי האוייב",
+            "description": "",
+            "start_page": 6,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "20 המילימטרים של הגולן",
+            "description": "",
+            "start_page": 13,
+            "author": "צ. נמטוג"
+        },
+        {
+            "title": "100,000 רגל... על הקרקע",
+            "description": "",
+            "start_page": 18,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "עם יחדות חיל האויר בקו",
+            "description": "",
+            "start_page": 24,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "המצ״ח הנחושה של ח״א",
+            "description": "",
+            "start_page": 30,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "המקצוענים של חוסיין",
+            "description": "",
+            "start_page": 36,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 46,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "אא״מ - אתראה אוירית מוקדמת",
+            "description": "",
+            "start_page": 84,
+            "author": ""
+        },
+        {
+            "title": "מוזיאון הר.א.פ. האנדון",
+            "description": "",
+            "start_page": 90,
+            "author": "אביטל בר-גפן"
+        },
+        {
+            "title": "הרוסים מפירים ״סאלט״",
+            "description": "",
+            "start_page": 104,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "כך טסתי במיג-21",
+            "description": "",
+            "start_page": 108,
+            "author": ""
+        },
+        {
+            "title": "הטכני של חיל האויר המצרי",
+            "description": "",
+            "start_page": 112,
+            "author": ""
+        },
+        {
+            "title": "קוברה",
+            "description": "",
+            "start_page": 118,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "קונדור",
+            "description": "",
+            "start_page": 126,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "אלברט בול",
+            "description": "",
+            "start_page": 130,
+            "author": ""
+        },
+        {
+            "title": "איבן קוז׳רוב",
+            "description": "",
+            "start_page": 135,
+            "author": ""
+        },
+        {
+            "title": "אלופי-אויר סובייטים במלחה״ע ה-2",
+            "description": "",
+            "start_page": 137,
+            "author": ""
+        },
+        {
+            "title": "ה.פ.42, מטוס הנוסעים האמיתי הראשון",
+            "description": "",
+            "start_page": 142,
+            "author": ""
+        },
+        {
+            "title": "ה״וולקירי״ המופלא",
+            "description": "",
+            "start_page": 150,
+            "author": "ביל גנסטון"
+        },
+        {
+            "title": "תשובות לשעשועים אויריים",
+            "description": "",
+            "start_page": 155,
+            "author": ""
+        },
+        {
+            "title": "שעשועים אויריים",
+            "description": "",
+            "start_page": 158,
+            "author": ""
+        }
+    ]
+}

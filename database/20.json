@@ -1,0 +1,235 @@
+{
+    "metadata": {
+        "year": "1952",
+        "month": {
+            "to": "אוגוסט",
+            "from": "יולי"
+        },
+        "date_of_publish": "Tue Jul 01 14:36:37 UTC 1952",
+        "issue_number": "20",
+        "publisher": "חיל האויר",
+        "editor": "משה פומרנץ",
+        "deputy_editor": "-",
+        "graphics_editor": "-",
+        "technical_editor": "-",
+        "price": {
+            "amount": 350,
+            "type": "פרוטה"
+        },
+        "photographers": [
+            "ריטה גרינפלדר",
+            "ברגמן"
+        ],
+        "system": "-",
+        "subscription_price": {
+            "amount": -1,
+            "type": ""
+        },
+        "number_of_pages": "172",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=923",
+        "title": "בטאון חיל האויר יולי-אוגוסט 1952 מס' 20",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC20.pdf&page=Body&ProdID=923"
+    },
+    "index": [
+        {
+            "title": "ארבע שנים לטייסת הקרב הראשונה",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "התישבות תעופתית",
+            "description": "",
+            "start_page": 7,
+            "author": ""
+        },
+        {
+            "title": "הרחבת החינוך הגופני בחיל",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "בדרך האויר לסואץ",
+            "description": "",
+            "start_page": 9,
+            "author": ""
+        },
+        {
+            "title": "הרדיפה אחרי המהירות",
+            "description": "",
+            "start_page": 16,
+            "author": ""
+        },
+        {
+            "title": "מטוסי סיוע לכוחות היבשה",
+            "description": "",
+            "start_page": 24,
+            "author": ""
+        },
+        {
+            "title": "לאונרדו דה וינצ'י והתעופה",
+            "description": "",
+            "start_page": 29,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 32,
+            "author": ""
+        },
+        {
+            "title": "תחנות יקום להזנת רקיטות בין כוכביות",
+            "description": "",
+            "start_page": 41,
+            "author": ""
+        },
+        {
+            "title": "על מעוף יתושים",
+            "description": "",
+            "start_page": 47,
+            "author": ""
+        },
+        {
+            "title": "מצלמות אויר ענקיות",
+            "description": "",
+            "start_page": 48,
+            "author": ""
+        },
+        {
+            "title": "זיהוי מטוסים",
+            "description": "",
+            "start_page": 50,
+            "author": ""
+        },
+        {
+            "title": "חיל האויר האירלנדי",
+            "description": "",
+            "start_page": 52,
+            "author": ""
+        },
+        {
+            "title": "פוקר S-11",
+            "description": "",
+            "start_page": 52,
+            "author": ""
+        },
+        {
+            "title": "מיג 19 - מטוס סילון רוסי",
+            "description": "",
+            "start_page": 58,
+            "author": ""
+        },
+        {
+            "title": "המחזה הגדול",
+            "description": "ספר תעופתי מאת פייר קליסטרמן",
+            "start_page": 60,
+            "author": ""
+        },
+        {
+            "title": "אוירודינמיקה מספר 6",
+            "description": "",
+            "start_page": 66,
+            "author": ""
+        },
+        {
+            "title": "למד לטוס - מספר 2",
+            "description": "מעובד בידי רב-סרן טוביה סיני",
+            "start_page": 73,
+            "author": ""
+        },
+        {
+            "title": "מפה טובה-תמונה ברורה של נתיב המטוס",
+            "description": "",
+            "start_page": 82,
+            "author": ""
+        },
+        {
+            "title": "מכם מהו?",
+            "description": "",
+            "start_page": 95,
+            "author": ""
+        },
+        {
+            "title": "בשמי המזרח הרחוק",
+            "description": "עובד בידי י.נכט וי. עופר",
+            "start_page": 111,
+            "author": ""
+        },
+        {
+            "title": "שיחות בצילו של הפרופלר/מקדמי העומס",
+            "description": "",
+            "start_page": 115,
+            "author": ""
+        },
+        {
+            "title": "מהווי הבסיסים/האלחוטאית טובה",
+            "description": "",
+            "start_page": 117,
+            "author": ""
+        },
+        {
+            "title": "ספורט בחיל",
+            "description": "רפוטאז'ה בתצלומים",
+            "start_page": 119,
+            "author": ""
+        },
+        {
+            "title": "ניהול/תכנון - קודם לביצוע",
+            "description": "",
+            "start_page": 107,
+            "author": ""
+        },
+        {
+            "title": "כנפים ליעל/ גדנע אויר החדיר בי את הרצון לטוס",
+            "description": "",
+            "start_page": 122,
+            "author": ""
+        },
+        {
+            "title": "הגיע טרנספורט חדש",
+            "description": "",
+            "start_page": 127,
+            "author": ""
+        },
+        {
+            "title": "ארבע שנים לטייסת הקרב הראשונה",
+            "description": "",
+            "start_page": 136,
+            "author": ""
+        },
+        {
+            "title": "אני יורד מהסטרטוספירה",
+            "description": "",
+            "start_page": 143,
+            "author": ""
+        },
+        {
+            "title": "תשובות לזיהוי מטוסים",
+            "description": "",
+            "start_page": 145,
+            "author": ""
+        },
+        {
+            "title": "ס/אלוף ב.בונה - הנספח האוירי הראשון בצירות ישראל בלונדון",
+            "description": "",
+            "start_page": 147,
+            "author": ""
+        },
+        {
+            "title": "דאר אויר",
+            "description": "",
+            "start_page": 152,
+            "author": ""
+        },
+        {
+            "title": "בשמי המזרח התיכון",
+            "description": "",
+            "start_page": 153,
+            "author": ""
+        }
+    ]
+}

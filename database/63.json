@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "issue_number": "63",
+        "year": "1963",
+        "month": {
+            "to": "דצמבר",
+            "from": "נובמבר"
+        },
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סרן יהודה עופר",
+        "price": {
+            "amount": 1.5,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "164",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=851",
+        "title": "בטאון חיל האויר נובמבר-דצמבר 1963 מס' 63",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC63.pdf&page=Body&ProdID=851"
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "ואלה תולדות...",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "המח\"לניקים",
+            "description": "",
+            "start_page": 80,
+            "author": ""
+        },
+        {
+            "title": "ארכיון הזכרונות",
+            "description": "",
+            "start_page": 83,
+            "author": ""
+        },
+        {
+            "title": "מבני מטוסים רושמים שנים",
+            "description": "",
+            "start_page": 99,
+            "author": ""
+        },
+        {
+            "title": "מטוסי העליה השניה",
+            "description": "",
+            "start_page": 100,
+            "author": "יעקב טרנר"
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 107,
+            "author": ""
+        },
+        {
+            "title": "שמונה מונגוסטים שעטו",
+            "description": "",
+            "start_page": 114,
+            "author": ""
+        },
+        {
+            "title": "הקוו החדש במטוסי-קרב בברית המועצות",
+            "description": "",
+            "start_page": 125,
+            "author": "גולדי"
+        },
+        {
+            "title": "החדישים במטוסי הקרב הרוסיים",
+            "description": "",
+            "start_page": 126,
+            "author": ""
+        },
+        {
+            "title": "חילות אויר של מדינות ערב",
+            "description": "",
+            "start_page": 131,
+            "author": ""
+        },
+        {
+            "title": "סיכום עוצמת חילות באויר הערביים",
+            "description": "",
+            "start_page": 136,
+            "author": ""
+        },
+        {
+            "title": "זוטות משמי המזרח התיכון",
+            "description": "",
+            "start_page": 137,
+            "author": ""
+        },
+        {
+            "title": "79 אקס-ריי נחת בשלום",
+            "description": "",
+            "start_page": 142,
+            "author": ""
+        },
+        {
+            "title": "מרגלים בעלי נוצה",
+            "description": "",
+            "start_page": 146,
+            "author": ""
+        },
+        {
+            "title": "עולמו המסתחרר של טייס הלהטוטים",
+            "description": "",
+            "start_page": 148,
+            "author": ""
+        },
+        {
+            "title": "21 שאלות טפשייות אודות החלל",
+            "description": "",
+            "start_page": 155,
+            "author": ""
+        },
+        {
+            "title": "צוללי הטלויזיה",
+            "description": "",
+            "start_page": 159,
+            "author": ""
+        }
+    ]
+}

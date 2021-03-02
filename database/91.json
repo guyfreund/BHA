@@ -1,0 +1,176 @@
+{
+    "metadata": {
+        "issue_number": "91",
+        "year": "1973",
+        "month": {
+            "to": "יולי",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 4.5,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "212",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=1018",
+        "title": "בטאון חיל האויר יולי 1973 מס' 91",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://www.fisher.org.il//DigitalLibrary/BITEONIM/TOC91.pdf&page=Body&ProdID=1018"
+    },
+    "index": [
+        {
+            "title": "אלופים מספרים",
+            "description": "",
+            "start_page": 6,
+            "author": "צבי אלגת"
+        },
+        {
+            "title": "כנפי פלד",
+            "description": "",
+            "start_page": 19,
+            "author": ""
+        },
+        {
+            "title": "מפגש חילי 73",
+            "description": "",
+            "start_page": 30,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "מסמכים מספרים",
+            "description": "",
+            "start_page": 55,
+            "author": ""
+        },
+        {
+            "title": "מעוללות תש״ח",
+            "description": "",
+            "start_page": 62,
+            "author": ""
+        },
+        {
+            "title": "הבריחה הגדולה",
+            "description": "",
+            "start_page": 66,
+            "author": "ארנון ברוך"
+        },
+        {
+            "title": "ירושלים של ח״א",
+            "description": "",
+            "start_page": 74,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "השלדג",
+            "description": "",
+            "start_page": 77,
+            "author": "עודד אברבנאל"
+        },
+        {
+            "title": "השפיפון המעופף",
+            "description": "",
+            "start_page": 88,
+            "author": "אורי דן"
+        },
+        {
+            "title": "החילוץ",
+            "description": "",
+            "start_page": 94,
+            "author": ""
+        },
+        {
+            "title": "מוסטנגים דוהרים במדבר",
+            "description": "",
+            "start_page": 98,
+            "author": "צבי קוהורן"
+        },
+        {
+            "title": "3 שעות ביוני",
+            "description": "",
+            "start_page": 108,
+            "author": ""
+        },
+        {
+            "title": "ההתשה",
+            "description": "",
+            "start_page": 120,
+            "author": "זאב שיף"
+        },
+        {
+            "title": "ראשונים באויר תמיד אנחנו",
+            "description": "",
+            "start_page": 145,
+            "author": ""
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 154,
+            "author": ""
+        },
+        {
+            "title": "הטכני",
+            "description": "",
+            "start_page": 156,
+            "author": ""
+        },
+        {
+            "title": "האיש אשר על הפרחים",
+            "description": "",
+            "start_page": 161,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "עשן-לך!",
+            "description": "",
+            "start_page": 169,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "שפריר - הטיל הצבר",
+            "description": "",
+            "start_page": 174,
+            "author": ""
+        },
+        {
+            "title": "שיקל - הרס״ר השקול",
+            "description": "",
+            "start_page": 175,
+            "author": ""
+        },
+        {
+            "title": "הסופרמרקט העלקולי של דני",
+            "description": "",
+            "start_page": 178,
+            "author": ""
+        },
+        {
+            "title": "חידון תנכי-תעופתי",
+            "description": "",
+            "start_page": 186,
+            "author": "זאב סגל"
+        },
+        {
+            "title": "מרגלים בשחקים",
+            "description": "",
+            "start_page": 197,
+            "author": ""
+        },
+        {
+            "title": "חידון זהוי מטוסים",
+            "description": "",
+            "start_page": 202,
+            "author": ""
+        }
+    ]
+}

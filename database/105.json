@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "issue_number": "105",
+        "year": "1978",
+        "month": {
+            "to": "מרץ",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "דניאל מולד",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 8.0,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": 41.0,
+            "type": "לירה ישראלית"
+        },
+        "number_of_pages": "52",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=1019",
+        "title": "בטאון חיל האויר מרס 1978 מס' 4 (105)",
+        "new_issue_number": 4,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC105.pdf&page=Body&ProdID=1019"
+    },
+    "index": [
+        {
+            "title": "מה שלום שמורת הטבע האנושית?",
+            "description": "",
+            "start_page": 2,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "סאלכם עלייכום",
+            "description": "",
+            "start_page": 5,
+            "author": "אריה ברנע"
+        },
+        {
+            "title": "",
+            "description": "",
+            "start_page": "",
+            "author": "ק"
+        },
+        {
+            "title": "חיל האוויר 004 מבקש רשות נחיתה...",
+            "description": "",
+            "start_page": 6,
+            "author": "אהרן לפידות"
+        },
+        {
+            "title": "ליווי צמוד ליזמת השלום",
+            "description": "",
+            "start_page": 7,
+            "author": ""
+        },
+        {
+            "title": "תותחים או טילים?",
+            "description": "",
+            "start_page": 8,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "שיטת מקדונלנד ",
+            "description": "",
+            "start_page": 10,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "עולמו של טייס קרב",
+            "description": "",
+            "start_page": 14,
+            "author": "פנחס עידן"
+        },
+        {
+            "title": "לוחמת מסוקים - עידן חדש בתורת הלחימה",
+            "description": "",
+            "start_page": 17,
+            "author": "אלי אייל"
+        },
+        {
+            "title": "פרופיל:מיג 23",
+            "description": "",
+            "start_page": 21,
+            "author": ""
+        },
+        {
+            "title": "חיל-האויר במעבר",
+            "description": "",
+            "start_page": 28,
+            "author": "אהרן לפידות"
+        },
+        {
+            "title": "מפקדי בסיס שכאלה",
+            "description": "",
+            "start_page": 32,
+            "author": "רזי גוטרמן"
+        },
+        {
+            "title": "במו ידיהם",
+            "description": "",
+            "start_page": 35,
+            "author": "אריה ברנע"
+        },
+        {
+            "title": "כנפונים-כנף צרה",
+            "description": "",
+            "start_page": 36,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "במידה התפורה למטוסי סילון",
+            "description": "40",
+            "start_page": "יעקב בן-אמיר",
+            "author": ""
+        }
+    ]
+}

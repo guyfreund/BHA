@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "issue_number": "219",
+        "year": "1998",
+        "month": {
+            "from": "דצמבר",
+            "to": "ינואר"
+        },
+        "publisher": "חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "אודי עציון",
+        "price": {
+            "amount": 21.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 105.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "אמיר מודן",
+            "יעל חביליו",
+            "רובי קסטרו",
+            "גיורא נוימן"
+        ],
+        "number_of_pages": "116",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=795",
+        "title": "בטאון חיל האויר דצמבר 97 ינואר 1998 118 (219)",
+        "new_issue_number": 118,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://www.fisher.org.il/DigitalLibrary/BITEONIM/TOC219.pdf&page=Body&ProdID=795"
+    },
+    "index": [
+        {
+            "title": "עסקי אוויר",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "בחירות 74׳: F-14 או F-15?",
+            "description": "",
+            "start_page": 18,
+            "author": "נועם אופיר"
+        },
+        {
+            "title": "זוהר ראשון",
+            "description": "",
+            "start_page": 26,
+            "author": "ליעד ברקת"
+        },
+        {
+            "title": "למערב אין גבול",
+            "description": "",
+            "start_page": 30,
+            "author": "רונה תמיר"
+        },
+        {
+            "title": "כל אחד רוצה להיות אפרוח",
+            "description": "",
+            "start_page": 34,
+            "author": "מיכל פלד-פליישר וחגי לוי"
+        },
+        {
+            "title": "המוביל הארצי",
+            "description": "",
+            "start_page": 38,
+            "author": "אמיר מודן"
+        },
+        {
+            "title": "מגה טק",
+            "description": "",
+            "start_page": 44,
+            "author": ""
+        },
+        {
+            "title": "שמיניות באוויר",
+            "description": "",
+            "start_page": 52,
+            "author": "נדב נוקד"
+        },
+        {
+            "title": "פעם ביובל",
+            "description": "",
+            "start_page": 58,
+            "author": ""
+        },
+        {
+            "title": "מסדר כנפיים",
+            "description": "",
+            "start_page": 76,
+            "author": "דרור גלורבמן"
+        },
+        {
+            "title": "2 הפיל 3 ב-45",
+            "description": "",
+            "start_page": 80,
+            "author": "חגי לוי"
+        },
+        {
+            "title": "טייס במתנה",
+            "description": "",
+            "start_page": 84,
+            "author": "מיכל פלד-פליישר"
+        },
+        {
+            "title": "איך שם נולד",
+            "description": "",
+            "start_page": 88,
+            "author": "יהודה זיו, הילה שרון ואבי משה"
+        },
+        {
+            "title": "אורי, שוליק והג׳ינג׳י",
+            "description": "",
+            "start_page": 94,
+            "author": "רונה תמיר"
+        }
+    ]
+}

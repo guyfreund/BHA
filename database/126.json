@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "issue_number": "126",
+        "year": "1981",
+        "month": {
+            "to": "דצמבר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 18.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "גיל ארבל"
+        ],
+        "subscription_price": {
+            "amount": 100.0,
+            "type": "שקל"
+        },
+        "number_of_pages": "66",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=937",
+        "title": "בטאון חיל האויר דצמבר 1981 מס' 25 (126)",
+        "new_issue_number": 25,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC126.pdf&page=Body&ProdID=937"
+    },
+    "index": [
+        {
+            "title": "רמון ועובדה - עובדות",
+            "description": "",
+            "start_page": 3,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "סעד מסוקי",
+            "description": "",
+            "start_page": 5,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "מבצעי עד הרגע האחרון",
+            "description": "",
+            "start_page": 7,
+            "author": ""
+        },
+        {
+            "title": "מיג-21 עם מגן-דוד כחול",
+            "description": "",
+            "start_page": 10,
+            "author": "עודד מרום"
+        },
+        {
+            "title": "\"קדש\" - 25 שנה אחרי",
+            "description": "",
+            "start_page": 15,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 23,
+            "author": ""
+        },
+        {
+            "title": "הטייס שהמריא לנשיאות",
+            "description": "",
+            "start_page": 27,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "חשופים בקוקפיט",
+            "description": "",
+            "start_page": 30,
+            "author": "נפתלי ארבל"
+        },
+        {
+            "title": "נ:מ על יבש ועל רטוב",
+            "description": "",
+            "start_page": 35,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "טיסה בסקייהוק לשם עידכון",
+            "description": "",
+            "start_page": 37,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "F-18 - דבור שפגיעתו קשה (ב')",
+            "description": "",
+            "start_page": 41,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "מדוע אין טייס בראש-העין?",
+            "description": "",
+            "start_page": 44,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 48,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 54,
+            "author": ""
+        },
+        {
+            "title": "מכתבים",
+            "description": "",
+            "start_page": 56,
+            "author": ""
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 57,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 62,
+            "author": ""
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "issue_number": "206",
+        "year": "1995",
+        "month": {
+            "to": "אוקטובר",
+            "from": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "צחי שן",
+        "price": {
+            "amount": 18.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 90.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "שאוך שורץ",
+            "רוני הרמן",
+            "רובי קסטרו",
+            "גיורא נוימן",
+            "אסף שילה"
+        ],
+        "number_of_pages": "100",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=784",
+        "title": "בטאון חיל האויר אוקטובר 1995 105 (206)",
+        "new_issue_number": 105,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC206.pdf&page=Body&ProdID=784"
+    },
+    "index": [
+        {
+            "title": "חשיפה ראשונה: בלוט בגבול הצפון",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "חטיפת המטוס האיראני: תמליל השיחה בין הבקר הישראלי לטייס הבואינג החטוף",
+            "description": "",
+            "start_page": 7,
+            "author": ""
+        },
+        {
+            "title": "רון ארד: תשע שנים חלפו",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "הטייסים דיווחו על פגיעות מודייקות",
+            "description": "",
+            "start_page": 20,
+            "author": "נועם אופיר"
+        },
+        {
+            "title": "תקופת בניה",
+            "description": "",
+            "start_page": 24,
+            "author": "דן פישל"
+        },
+        {
+            "title": "כל החיים לפניו",
+            "description": "אודי עציון ועמיר רגב",
+            "start_page": "המפקד, אמא על הקו",
+            "author": "28"
+        },
+        {
+            "title": "",
+            "description": "חגי לוי",
+            "start_page": "חוצה ישראל",
+            "author": "34"
+        },
+        {
+            "title": "",
+            "description": "",
+            "start_page": "סיפורו של אלוף",
+            "author": "36"
+        },
+        {
+            "title": "",
+            "description": "אודי עציון",
+            "start_page": "מגה טק",
+            "author": "60"
+        },
+        {
+            "title": "",
+            "description": "",
+            "start_page": 66,
+            "author": "66"
+        },
+        {
+            "title": "הטובים לנאס״א",
+            "description": "",
+            "start_page": 72,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "ספינת תותחים מעופפת",
+            "description": "",
+            "start_page": 78,
+            "author": "נועם אופיר"
+        },
+        {
+            "title": "עידן המל״טים: ראיון מיוחד עם קנת׳ ישראל, הממונה על תחום הסיור האווירי בפנטגון",
+            "description": "",
+            "start_page": 84,
+            "author": ""
+        },
+        {
+            "title": "טווח בלתי מוגבל: מטוסי מיג-29 איראניים מתדלקים באוויר",
+            "description": "",
+            "start_page": 87,
+            "author": ""
+        },
+        {
+            "title": "מבצעי סוף העונה: כך הידרדר ייצוא הנשק הרוסי מ-15 מיליארד דולר בשנה ל1.7 בלבד",
+            "description": "",
+            "start_page": 90,
+            "author": ""
+        }
+    ]
+}

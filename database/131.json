@@ -1,0 +1,159 @@
+{
+    "metadata": {
+        "issue_number": "131",
+        "year": "1982",
+        "month": {
+            "to": "דצמבר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 40.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "200"
+        ],
+        "subscription_price": {
+            "amount": 200.0,
+            "type": "שקל"
+        },
+        "number_of_pages": "76",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=994",
+        "title": "בטאון חיל האויר דצמבר 1982 מס' 30 (131)",
+        "new_issue_number": 30,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC131.pdf&page=Body&ProdID=994"
+    },
+    "index": [
+        {
+            "title": "שליטה מוחלטת בשמים",
+            "description": "ראיון מיוחד עם הרמטכ\"ל, רב אלוף רפאל איתן",
+            "start_page": 6,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "כל יון - מבחן",
+            "description": "שיחה עם מפקד חיל האויר, האלוף דוד עברי",
+            "start_page": 9,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "הפיקוד על חיל-האויר - האתגר העליון",
+            "description": "",
+            "start_page": 13,
+            "author": ""
+        },
+        {
+            "title": "רכבת המסוקים לצור",
+            "description": "",
+            "start_page": 14,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "ביטחון מלא בכשירות הציוד",
+            "description": "",
+            "start_page": 16,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "הכפיר בכל הדרו",
+            "description": "",
+            "start_page": 18,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "להציל בכל מחיר",
+            "description": "",
+            "start_page": 22,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "אלואט: רות, סוף",
+            "description": "",
+            "start_page": 26,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "אחוות מטוס-טייס",
+            "description": "",
+            "start_page": 30,
+            "author": ""
+        },
+        {
+            "title": "בגוף ובנפש",
+            "description": "",
+            "start_page": 36,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "מיראז'-2000 - מטוס לשנות האלפיים",
+            "description": "",
+            "start_page": 41,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "בבן יש רק אחד",
+            "description": "",
+            "start_page": 45,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "מבט מבטיח לעתיד",
+            "description": "",
+            "start_page": 50,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "יתוש (מוסקיטו) בראש",
+            "description": "",
+            "start_page": 53,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 57,
+            "author": ""
+        },
+        {
+            "title": "פארנבורו-25",
+            "description": "",
+            "start_page": 58,
+            "author": ""
+        },
+        {
+            "title": "חיל-האויר הסובייטי - איום \"הדור הרביעי\"",
+            "description": "",
+            "start_page": 60,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "לחשוב מעבר ללביא",
+            "description": "",
+            "start_page": 64,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "איש הרוח והאויר",
+            "description": "",
+            "start_page": 66,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "בין בסיסים",
+            "description": "",
+            "start_page": 68,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 71,
+            "author": ""
+        }
+    ]
+}

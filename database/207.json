@@ -1,0 +1,174 @@
+{
+    "metadata": {
+        "issue_number": "207",
+        "year": "1995",
+        "month": {
+            "to": "דצמבר",
+            "from": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "צחי שן",
+        "price": {
+            "amount": 18.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 90.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "שאול שורץ",
+            "רוני הרמן",
+            "רובי קסטרו",
+            "גיורא נוימן",
+            "אסף שילה"
+        ],
+        "number_of_pages": "100",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=786",
+        "title": "בטאון חיל האויר דצמבר 1995 106 (207)",
+        "new_issue_number": 106,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC207.pdf&page=Body&ProdID=786"
+    },
+    "index": [
+        {
+            "title": "מתנה מארה״ב: 14 מסוקי קוברה",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "בפעם הראשונה: מסוק דולפים חילץ פצוע מצוללת",
+            "description": "",
+            "start_page": 7,
+            "author": ""
+        },
+        {
+            "title": "צ׳ילה שוקלת לרכוש פוד לייטנינג מתוצרת רפא״ל",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "דוד עברי: מלחמת המפרץ חשפה את האפשרות לפתוח במלחמת פתע באמצעות שיגור טילים",
+            "description": "",
+            "start_page": 14,
+            "author": ""
+        },
+        {
+            "title": "הפצצה שתוכננה לחסל את סדאם חוסיין",
+            "description": "",
+            "start_page": 16,
+            "author": ""
+        },
+        {
+            "title": "אברהם בן שושן: בוושינגטון העריכו שתגובה ישראלית היא בלתי נמנעת",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "מפקד כוחות הנ״מ: בתקופה הקרובה נתחיל בהיערכות לקליטת החץ",
+            "description": "",
+            "start_page": 20,
+            "author": ""
+        },
+        {
+            "title": "סוללות הפטריוט הגיעו ארצה כמה חודשים לפני המלחמה",
+            "description": "",
+            "start_page": 22,
+            "author": ""
+        },
+        {
+            "title": "סולו - חיל האוויר אצלך במחשב",
+            "description": "",
+            "start_page": 26,
+            "author": ""
+        },
+        {
+            "title": "משדרים מהשטח",
+            "description": "",
+            "start_page": 28,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "עד הוק",
+            "description": "",
+            "start_page": 32,
+            "author": "חגי לוי"
+        },
+        {
+            "title": "מ-M-16 ל-F-16",
+            "description": "",
+            "start_page": 38,
+            "author": "חגי לוי"
+        },
+        {
+            "title": "עקבות בבטון",
+            "description": "",
+            "start_page": 42,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "מקום טוב באמצע",
+            "description": "",
+            "start_page": 46,
+            "author": "רוני קורן"
+        },
+        {
+            "title": "ככה הייתי רוצה לזכור אותו",
+            "description": "",
+            "start_page": 52,
+            "author": ""
+        },
+        {
+            "title": "מגה טק",
+            "description": "",
+            "start_page": 64,
+            "author": ""
+        },
+        {
+            "title": "תרגיל אש",
+            "description": "",
+            "start_page": 70,
+            "author": "שאול שורץ"
+        },
+        {
+            "title": "כל הקווים תפוסים",
+            "description": "",
+            "start_page": 74,
+            "author": "חגי לוי"
+        },
+        {
+            "title": "מרגלים מעולם אחר",
+            "description": "",
+            "start_page": 82,
+            "author": "נועם אופיר"
+        },
+        {
+            "title": "הסאלון האווירי בדובאי תופס גובה",
+            "description": "",
+            "start_page": 86,
+            "author": ""
+        },
+        {
+            "title": "האם צפוי מיזוג בין ״בואינג״ ל״מקדונל דאגלס״?",
+            "description": "",
+            "start_page": 87,
+            "author": ""
+        },
+        {
+            "title": "ספרד עשויה לוותר על היורופייטר",
+            "description": "",
+            "start_page": 91,
+            "author": ""
+        },
+        {
+            "title": "הפלישה היפנית לחלל",
+            "description": "",
+            "start_page": 96,
+            "author": ""
+        }
+    ]
+}

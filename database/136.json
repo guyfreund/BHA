@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "issue_number": "136",
+        "year": "1983",
+        "month": {
+            "to": "ספטמבר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 75.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "בנצי בר",
+            "350",
+            "שקל"
+        ],
+        "subscription_price": {
+            "amount": 350.0,
+            "type": "שקל"
+        },
+        "number_of_pages": "84",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=934",
+        "title": "בטאון חיל האויר ספטמבר 1983 מס' 35 (136)",
+        "new_issue_number": 35,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC136.pdf&page=Body&ProdID=934"
+    },
+    "index": [
+        {
+            "title": "אוקטובר 1973-אוקטובר 1983 - 10 שנים למלחמת יום הכיפורים",
+            "description": "",
+            "start_page": 6,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "אלוף (מיל.) בני פלד: \"העליונות האוירית הושגה בדקה הראשונה של המלחמה\"",
+            "description": "",
+            "start_page": 7,
+            "author": ""
+        },
+        {
+            "title": "אלוף דוד עברי: \"בראייה צבאית-לאומית - ניצחון בלתי רגיל. בראייה יהודית - כשלון\"",
+            "description": "",
+            "start_page": 10,
+            "author": ""
+        },
+        {
+            "title": "אלוף (מיל.) מוטי הוד:\"שמיניית פאנטומים אחת שינתה לחלוטין את מאזמן הכוחות ברמת-הגולן\"",
+            "description": "",
+            "start_page": 13,
+            "author": ""
+        },
+        {
+            "title": "דבקות במטרה עד הסוף",
+            "description": "",
+            "start_page": 15,
+            "author": ""
+        },
+        {
+            "title": "קפיצת-הדרך של כפיר C-7",
+            "description": "",
+            "start_page": 18,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "מסוקים מספרים",
+            "description": "",
+            "start_page": 21,
+            "author": "ברק אטקין וירון כץ"
+        },
+        {
+            "title": "העתיד שייך למסוקי התקיפה",
+            "description": "",
+            "start_page": 26,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "מבט חודר מעל",
+            "description": "",
+            "start_page": "30 ערן שטוימן",
+            "author": "ערן שטוירמן"
+        },
+        {
+            "title": "דוד נגד גוליית",
+            "description": "",
+            "start_page": 35,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "שלום לך, דאמור",
+            "description": "",
+            "start_page": 42,
+            "author": "ערן שטוירמן"
+        },
+        {
+            "title": "יסעור שולף חתול-שלג",
+            "description": "",
+            "start_page": 46,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "כל מה שרצית לדעת על סימולאטורים",
+            "description": "",
+            "start_page": 49,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "רס\"ר זה לא מה שהיה",
+            "description": "",
+            "start_page": 56,
+            "author": "ליאת גולדשטיין"
+        },
+        {
+            "title": "חילוץ בלב-ים",
+            "description": "",
+            "start_page": 60,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 62,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "עם קולומביה לחלל ובחזרה",
+            "description": "",
+            "start_page": 66,
+            "author": "ערן שטוירמן"
+        },
+        {
+            "title": "מה אתה אומר",
+            "description": "",
+            "start_page": 72,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "הכל מתחיל מהתשתית",
+            "description": "",
+            "start_page": 73,
+            "author": "ירון כץ"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 76,
+            "author": ""
+        }
+    ]
+}

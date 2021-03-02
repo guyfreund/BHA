@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "issue_number": "127",
+        "year": "1982",
+        "month": {
+            "to": "מרץ",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 21.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "גיל ארבל"
+        ],
+        "subscription_price": {
+            "amount": 115.0,
+            "type": "שקל"
+        },
+        "number_of_pages": "73",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=936",
+        "title": "בטאון חיל האויר מרץ 1982 מס' 26 (127)",
+        "new_issue_number": 26,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC127.pdf&page=Body&ProdID=936"
+    },
+    "index": [
+        {
+            "title": "עיניים פקוחות 24 שעות ביממה",
+            "description": "",
+            "start_page": 3,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "תחושת שליחות במאך-2",
+            "description": "",
+            "start_page": 7,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "טיסה אל הבלתי-נודע",
+            "description": "",
+            "start_page": 11,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 17,
+            "author": ""
+        },
+        {
+            "title": "איךימריא הלביא?",
+            "description": "",
+            "start_page": 21,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "אלוהים שומע? מקום וגובה !",
+            "description": "",
+            "start_page": 27,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "דפים מאלבום משפחתי",
+            "description": "",
+            "start_page": 30,
+            "author": "עודד מרום"
+        },
+        {
+            "title": "המטרה - טוקיו !",
+            "description": "",
+            "start_page": 37,
+            "author": "סא\"ל א'"
+        },
+        {
+            "title": "ששה בקאדנציות לכל החיים",
+            "description": "",
+            "start_page": 40,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "מעוף המסוק",
+            "description": "",
+            "start_page": 45,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 48,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "נשק העתיד - לייזר וחלקיקים",
+            "description": "",
+            "start_page": 52,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 56,
+            "author": ""
+        },
+        {
+            "title": "מכתבים",
+            "description": "",
+            "start_page": 60,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 62,
+            "author": ""
+        }
+    ]
+}

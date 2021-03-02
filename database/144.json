@@ -1,0 +1,180 @@
+{
+    "metadata": {
+        "issue_number": "144",
+        "year": "1985",
+        "month": {
+            "to": "ינואר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 500.0,
+            "type": "שקל"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": 2500.0,
+            "type": "שקל"
+        },
+        "number_of_pages": "88",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=987",
+        "title": "בטאון חיל האויר ינואר 1985 מס' 43 (144)",
+        "new_issue_number": 43,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC144.pdf&page=Body&ProdID=987"
+    },
+    "index": [
+        {
+            "title": "לביא - אבטיפוס ב-1986",
+            "description": "",
+            "start_page": 6,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "הטייסים ירצו לטוס על הלביא",
+            "description": "",
+            "start_page": 7,
+            "author": ""
+        },
+        {
+            "title": "טייסים מהנדסים טייסים",
+            "description": "",
+            "start_page": 9,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "עדיף מימון הלביא על רכש מטוס מארה\"ב",
+            "description": "",
+            "start_page": 12,
+            "author": "יקיר אלקריב וצבי גוטמן"
+        },
+        {
+            "title": "על עולים מרוכבים ואחרים",
+            "description": "",
+            "start_page": 14,
+            "author": ""
+        },
+        {
+            "title": "עסקת חבילה של ביטחון וטכנולוגיה",
+            "description": "",
+            "start_page": 16,
+            "author": ""
+        },
+        {
+            "title": "קטן ככפיר, חזק כפנטום",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "\"ראדא\" - ראש החוץ של בית-שאן",
+            "description": "",
+            "start_page": 20,
+            "author": ""
+        },
+        {
+            "title": "לשמור על צלם-אדם",
+            "description": "",
+            "start_page": 21,
+            "author": "גיל בר-טל"
+        },
+        {
+            "title": "כך חושל הלהב",
+            "description": "",
+            "start_page": 24,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "בקרים עומדים בביקורת",
+            "description": "",
+            "start_page": 26,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "התותח כפף את כנף המטוס",
+            "description": "",
+            "start_page": 30,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "בבשר החי",
+            "description": "",
+            "start_page": 32,
+            "author": "ריקי ריבלין"
+        },
+        {
+            "title": "קרובים קרובים",
+            "description": "",
+            "start_page": 33,
+            "author": "ריקי ריבלין וענר גוברין"
+        },
+        {
+            "title": "כמטאורים בלילה",
+            "description": "",
+            "start_page": 38,
+            "author": ""
+        },
+        {
+            "title": "החוויה שבגלישה",
+            "description": "",
+            "start_page": 40,
+            "author": ""
+        },
+        {
+            "title": "תרומת עוז",
+            "description": "",
+            "start_page": 45,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 46,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "מטוס, דבי אלי!",
+            "description": "",
+            "start_page": 49,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "סי-הארייר בלתי-מנוצח",
+            "description": "",
+            "start_page": 53,
+            "author": ""
+        },
+        {
+            "title": "מסע במרחבי מערכת השמש",
+            "description": "",
+            "start_page": 62,
+            "author": "ריקי ריבלין"
+        },
+        {
+            "title": "לגלות אמריקה בנבטים",
+            "description": "",
+            "start_page": 65,
+            "author": "גיל בר-טל"
+        },
+        {
+            "title": "הילדים לטיס",
+            "description": "",
+            "start_page": 68,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 74,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 79,
+            "author": ""
+        }
+    ]
+}

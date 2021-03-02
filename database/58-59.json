@@ -1,0 +1,202 @@
+{
+    "metadata": {
+        "issue_number": "58-59",
+        "year": "1962",
+        "month": {
+            "to": "ספטמבר",
+            "from": "אוגוסט"
+        },
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סרן יהודה עופר",
+        "price": {
+            "amount": 1.0,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "ז׳ק פרבר",
+            "כרמל כהן",
+            "יהודה עופר",
+            "בוריס כרמי",
+            "שלום צדוק",
+            "אליהו קמינר",
+            "סלבדור אלמולי",
+            "שמעון הדסי"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "232",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=925",
+        "title": "בטאון חיל האויר אוגוסט-ספטמבר 1962 מס' 58-59",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC58-59.pdf&page=Body&ProdID=925"
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "כנפי צבר ראשונות",
+            "description": "",
+            "start_page": 6,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "ג׳ורג׳ - מדריכם של הראשונים",
+            "description": "",
+            "start_page": 14,
+            "author": ""
+        },
+        {
+            "title": "מטוסים מספרים - אבני דרך מעופפות",
+            "description": "",
+            "start_page": 20,
+            "author": ""
+        },
+        {
+            "title": "״יחדות הפרדות של שחקי תש״ח״",
+            "description": "",
+            "start_page": 50,
+            "author": "עודד אברבנאל"
+        },
+        {
+            "title": "אצלינו בחיל",
+            "description": "",
+            "start_page": 60,
+            "author": ""
+        },
+        {
+            "title": "גדנעי-אויר לחמש מדינות",
+            "description": "",
+            "start_page": 61,
+            "author": ""
+        },
+        {
+            "title": "כנפים חדשות בחיל האויר",
+            "description": "",
+            "start_page": 63,
+            "author": ""
+        },
+        {
+            "title": "הגבועים והעלקוליים",
+            "description": "",
+            "start_page": 67,
+            "author": "ע. שמואל"
+        },
+        {
+            "title": "רגע של אמת",
+            "description": "",
+            "start_page": 78,
+            "author": "יעקב טרנר"
+        },
+        {
+            "title": "מחתונה ועד חיתולים",
+            "description": "",
+            "start_page": 90,
+            "author": "ע. יהודה"
+        },
+        {
+            "title": "בשמי המזרח התיכון",
+            "description": "",
+            "start_page": 96,
+            "author": ""
+        },
+        {
+            "title": "נתיבי אויר ערביים מאוחדים",
+            "description": "",
+            "start_page": 106,
+            "author": ""
+        },
+        {
+            "title": "הר.א.פ. באיו של רובינזון קרוזו",
+            "description": "",
+            "start_page": 110,
+            "author": ""
+        },
+        {
+            "title": "סילונים מעל הנילוס הכחול",
+            "description": "",
+            "start_page": 111,
+            "author": ""
+        },
+        {
+            "title": "100 שנות צילום מהאויר",
+            "description": "",
+            "start_page": 114,
+            "author": "עמנואל בן-גוריון"
+        },
+        {
+            "title": "תצלומים מספרים",
+            "description": "",
+            "start_page": 130,
+            "author": ""
+        },
+        {
+            "title": "דקירות המחץ של ״המזלג הכפול״",
+            "description": "",
+            "start_page": 140,
+            "author": ""
+        },
+        {
+            "title": "תעשיית המטוסים הצפרתית - מטוסי גליה בעליה",
+            "description": "",
+            "start_page": 156,
+            "author": ""
+        },
+        {
+            "title": "אלופי השחקים",
+            "description": "",
+            "start_page": 167,
+            "author": "עמנואל בן-גוריון"
+        },
+        {
+            "title": "פ-110 - החדיש במטוסי הקרב המערביים",
+            "description": "",
+            "start_page": 184,
+            "author": ""
+        },
+        {
+            "title": "בולי החלל",
+            "description": "",
+            "start_page": 192,
+            "author": "יורם לוין"
+        },
+        {
+            "title": "״הצפלינים״ 25 שנה לאסון ״הינדנבורג״",
+            "description": "",
+            "start_page": 202,
+            "author": ""
+        },
+        {
+            "title": "אויראים מפורסמים ומטוסיהם",
+            "description": "",
+            "start_page": 212,
+            "author": ""
+        },
+        {
+            "title": "עניבות מספרות",
+            "description": "",
+            "start_page": 222,
+            "author": ""
+        },
+        {
+            "title": "בוינג-בוינג",
+            "description": "",
+            "start_page": 229,
+            "author": ""
+        },
+        {
+            "title": "רובוטים מוזרים יחקרו את פני הירח",
+            "description": "",
+            "start_page": 230,
+            "author": ""
+        }
+    ]
+}

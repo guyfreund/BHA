@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "issue_number": "205",
+        "year": "1995",
+        "month": {
+            "to": "אוגוסט",
+            "from": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "צחי שן",
+        "price": {
+            "amount": 18.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 90.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "שאול שורץ",
+            "רוני הרמן",
+            "רובי קסטרו",
+            "גיורא נוימן",
+            "אסף שילה"
+        ],
+        "number_of_pages": "92",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=785",
+        "title": "בטאון חיל האויר אוגוסט 1995 104 (205)",
+        "new_issue_number": 104,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC205.pdf&page=Body&ProdID=785"
+    },
+    "index": [
+        {
+            "title": "מפקד חיל האוויר הירדני בראיון ראשון: ״כל השנים ידעתי שיום אחד ייחתם שלום בין ירדן לישראל״",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "מספר שלוש לא חזר",
+            "description": "",
+            "start_page": 10,
+            "author": ""
+        },
+        {
+            "title": "מסוק היעסור החנית את אבני הגבול בין ישראל לירדן",
+            "description": "",
+            "start_page": 14,
+            "author": ""
+        },
+        {
+            "title": "מלך הלילה",
+            "description": "",
+            "start_page": 20,
+            "author": "עמיר רגב ונועם אופיר"
+        },
+        {
+            "title": "לבושין נחת בשלום",
+            "description": "",
+            "start_page": 30,
+            "author": "דן סלע"
+        },
+        {
+            "title": "שטח אש",
+            "description": "",
+            "start_page": 36,
+            "author": "עמיר רגב"
+        },
+        {
+            "title": "בדיקת סוללות",
+            "description": "",
+            "start_page": 42,
+            "author": "דן סלע"
+        },
+        {
+            "title": "סולו - חיל האוויר אצלך במחשב",
+            "description": "",
+            "start_page": 46,
+            "author": ""
+        },
+        {
+            "title": "חכם על טילים",
+            "description": "",
+            "start_page": 48,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "החמקן הראשון",
+            "description": "",
+            "start_page": 54,
+            "author": "נועם אופיר"
+        },
+        {
+            "title": "מגה טק",
+            "description": "",
+            "start_page": 58,
+            "author": ""
+        },
+        {
+            "title": "מלאכים בשמי בוסניה",
+            "description": "",
+            "start_page": 64,
+            "author": "נועם אופיר"
+        },
+        {
+            "title": "פחד אטומי",
+            "description": "",
+            "start_page": 68,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "טייסי הקאמיקזה",
+            "description": "",
+            "start_page": 74,
+            "author": "דן סלע ועמיר רגב"
+        },
+        {
+            "title": "ראיון מיוחד עם נשיא ״נורת׳רופ-גרומן״ על ה-JAST מטוס התקיפה האמריקאי העתידי",
+            "description": "",
+            "start_page": 80,
+            "author": ""
+        },
+        {
+            "title": "רואים מעבר להורייזן: מערכות ביון מוטסות ומוסקות",
+            "description": "",
+            "start_page": 84,
+            "author": ""
+        },
+        {
+            "title": "סוריה מחפשת מטוס נוסעים חדש",
+            "description": "",
+            "start_page": 85,
+            "author": ""
+        }
+    ]
+}

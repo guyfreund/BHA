@@ -1,0 +1,193 @@
+{
+    "metadata": {
+        "issue_number": "183",
+        "year": "1991",
+        "month": {
+            "to": "דצמבר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 12.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 65.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רביב גנשרוא",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנדר",
+            "שלמה וולקוביץ"
+        ],
+        "number_of_pages": "100",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=828",
+        "title": "בטאון חיל האויר דצמבר 1991 מס' 82 (183)",
+        "new_issue_number": 82,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC183.pdf&page=Body&ProdID=828"
+    },
+    "index": [
+        {
+            "title": "מפקד חיל האוויר האלוף אביהו בן נון: גזרתי על עצמי להפסיק לטוס",
+            "description": "",
+            "start_page": 2,
+            "author": ""
+        },
+        {
+            "title": "כך התנהל הקשר עם האמריקנים",
+            "description": "",
+            "start_page": 10,
+            "author": ""
+        },
+        {
+            "title": "״חיל האויר הסעודי צבר ניסיון מבצעי עשיר״",
+            "description": "",
+            "start_page": 11,
+            "author": ""
+        },
+        {
+            "title": "יותר ממבצע, פחות ממלחמה",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "נשק חכם, נשק מונחה וכל מה שביניהם",
+            "description": "",
+            "start_page": 13,
+            "author": ""
+        },
+        {
+            "title": "המחשבים עשו את העבודה",
+            "description": "",
+            "start_page": 15,
+            "author": ""
+        },
+        {
+            "title": "״הכוח בקרב״",
+            "description": "",
+            "start_page": 16,
+            "author": ""
+        },
+        {
+            "title": "השבחת מטוסי F-16/A/B",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "״עמוס״ - סימולאטור חדש לפרחי טיס",
+            "description": "",
+            "start_page": 19,
+            "author": ""
+        },
+        {
+            "title": "איך הופכים ״בואינג״ רגיל ל״בואינג״ מלכותי?",
+            "description": "",
+            "start_page": 21,
+            "author": ""
+        },
+        {
+            "title": "בקרוב, קסדה לראיית לילה",
+            "description": "",
+            "start_page": 22,
+            "author": ""
+        },
+        {
+            "title": "״בז״",
+            "description": "",
+            "start_page": 23,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "תרבות של תחקיר",
+            "description": "",
+            "start_page": 36,
+            "author": "קובי מרינקו"
+        },
+        {
+            "title": "נותנים את הטון",
+            "description": "",
+            "start_page": 42,
+            "author": "ליאורה שוסטר"
+        },
+        {
+            "title": "משתפי פעולה",
+            "description": "",
+            "start_page": 48,
+            "author": "קרן קרפ"
+        },
+        {
+            "title": "חכם בלילה",
+            "description": "",
+            "start_page": 54,
+            "author": "קובי מרינקו"
+        },
+        {
+            "title": "בעיה אטומית",
+            "description": "",
+            "start_page": 60,
+            "author": "שרון שדה"
+        },
+        {
+            "title": "הנטישה השלישית של דוד יאיר",
+            "description": "",
+            "start_page": 68,
+            "author": "ליאורה שוסטר"
+        },
+        {
+            "title": "פוחדים לטוס",
+            "description": "",
+            "start_page": 74,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "F-16 של שנות האלפיים קווים לדמותו",
+            "description": "",
+            "start_page": 80,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "מדף אווירי",
+            "description": "",
+            "start_page": 85,
+            "author": ""
+        },
+        {
+            "title": "חיל האוויר האיראני קם לתחייה",
+            "description": "",
+            "start_page": 86,
+            "author": ""
+        },
+        {
+            "title": "האם שוק מטוסי המנהלים נמצא באמת במיתון",
+            "description": "",
+            "start_page": 88,
+            "author": ""
+        },
+        {
+            "title": "הבריטים רוצים להיות ״חמקנים״",
+            "description": "",
+            "start_page": 90,
+            "author": ""
+        },
+        {
+            "title": "מפקד חיל האוויר המצרי היה בעבר רמ״ח לקחים",
+            "description": "",
+            "start_page": 91,
+            "author": ""
+        },
+        {
+            "title": "אנגלית",
+            "description": "",
+            "start_page": 94,
+            "author": ""
+        }
+    ]
+}

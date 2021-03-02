@@ -1,0 +1,156 @@
+{
+    "metadata": {
+        "issue_number": "204",
+        "year": "1995",
+        "month": {
+            "to": "יוני",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "צחי שן",
+        "price": {
+            "amount": 18.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 90.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "שאול שורץ",
+            "רוני הרמן",
+            "רובי קסטרו",
+            "גיורא נוימן",
+            "אסף שילה"
+        ],
+        "number_of_pages": "102",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=773",
+        "title": "בטאון חיל האויר יוני 1995 מס' 103 (204)",
+        "new_issue_number": 103,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://www.fisher.org.il/DigitalLibrary/BITEONIM/TOC204.pdf&page=Body&ProdID=773"
+    },
+    "index": [
+        {
+            "title": "מפקד חיל האוויר: בפעילות בחלל יש מענה לאיום הטילים",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "בוגרי קורס הטיס: 77 אחוז עירוניים, 19 אחוז קיבוצניקים, 4 אחוז מושבניקים",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "צל״ש ללוחם יחידת החילוץ",
+            "description": "",
+            "start_page": 10,
+            "author": ""
+        },
+        {
+            "title": "הטייס שניצל בהתנגשות מטוסי הF-16: ״המטוס נכנס לסיחרור, כשהוא בוער כולו״",
+            "description": "",
+            "start_page": 14,
+            "author": ""
+        },
+        {
+            "title": "סולו - חיל האוויר אצלך במחשב",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "הטיסות החשאיות שקדמו להסכם השלום",
+            "description": "",
+            "start_page": 20,
+            "author": "דן סלע"
+        },
+        {
+            "title": "״ברגע האחרון חששנו שהאיראנים לא יתנו לנו להמריא״",
+            "description": "",
+            "start_page": 26,
+            "author": "דן פישל"
+        },
+        {
+            "title": "האמריקאים כבשו את פאריס",
+            "description": "",
+            "start_page": 34,
+            "author": "אהרון לפידות ועודי עציון"
+        },
+        {
+            "title": "הכיוון מארב",
+            "description": "",
+            "start_page": 42,
+            "author": "דן סלע"
+        },
+        {
+            "title": "כביש הטייסים",
+            "description": "",
+            "start_page": 48,
+            "author": "דן סלע"
+        },
+        {
+            "title": "איך שהזמן טס",
+            "description": "",
+            "start_page": 54,
+            "author": "עמיר רגב"
+        },
+        {
+            "title": "מגה טק",
+            "description": "",
+            "start_page": 60,
+            "author": ""
+        },
+        {
+            "title": "דילגו על הסקייהוק",
+            "description": "",
+            "start_page": 66,
+            "author": "עמיר רגב"
+        },
+        {
+            "title": "למה לא הפציצו את גבעת התחמושת",
+            "description": "",
+            "start_page": 70,
+            "author": "חגי לוי"
+        },
+        {
+            "title": "ויצמן חוזר לטייסת",
+            "description": "",
+            "start_page": 74,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "אלוהים, נצור את הר.א.פ.",
+            "description": "",
+            "start_page": 78,
+            "author": "אודי אציון"
+        },
+        {
+            "title": "גבירותי ורבותי, כאן הקברניט",
+            "description": "",
+            "start_page": 82,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "הטיל שכופף את האמריקאים והרוסים",
+            "description": "",
+            "start_page": 86,
+            "author": ""
+        },
+        {
+            "title": "מכרז מטוסי האימון עשוי להפתיע",
+            "description": "",
+            "start_page": 80,
+            "author": ""
+        },
+        {
+            "title": "תופרים מטוס ל״אל-על״",
+            "description": "",
+            "start_page": 90,
+            "author": ""
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "issue_number": "104",
+        "year": "1978",
+        "month": {
+            "to": "ינואר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "נורית גורן",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 8.0,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [
+            "התעשייה האוירית"
+        ],
+        "subscription_price": {
+            "amount": 40.0,
+            "type": "לירה ישראלית"
+        },
+        "number_of_pages": "50",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=952",
+        "title": "בטאון חיל האויר ינואר 1978 מס' 3 (104)",
+        "new_issue_number": 3,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC104.pdf&page=Body&ProdID=952"
+    },
+    "index": [
+        {
+            "title": "לבטי טייס בן עשרים",
+            "description": "",
+            "start_page": 2,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "פרופיל:כפיר C-2",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "חומרים חדישים במנועי סילון ",
+            "description": "",
+            "start_page": 6,
+            "author": "פרופ' בנימין גל-אור"
+        },
+        {
+            "title": "טובים השניים",
+            "description": "",
+            "start_page": 10,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "אש במטוס",
+            "description": "",
+            "start_page": 14,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "בעד ונגדL המפציץ B-1",
+            "description": "",
+            "start_page": 16,
+            "author": "רס\"ן א'"
+        },
+        {
+            "title": "העומדים בהעמסה",
+            "description": "",
+            "start_page": 20,
+            "author": "דניאל מולד"
+        },
+        {
+            "title": "שיעור בסיסי בקליטה",
+            "description": "",
+            "start_page": 28,
+            "author": "יעקב בן-אמיר"
+        },
+        {
+            "title": "לוחמת מסוקים",
+            "description": "",
+            "start_page": 30,
+            "author": "אלי אייל"
+        },
+        {
+            "title": "כל נולד הנ\"מ",
+            "description": "",
+            "start_page": 34,
+            "author": "אריה ברנע"
+        },
+        {
+            "title": "מבצעים אויריים סובייטים",
+            "description": "",
+            "start_page": 37,
+            "author": "אל\"מ א,"
+        },
+        {
+            "title": "כנפונים",
+            "description": "",
+            "start_page": 39,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "פרופ' תיאודור פון קארמאן",
+            "description": "",
+            "start_page": 44,
+            "author": "עמנואל בן-גוריון"
+        }
+    ]
+}

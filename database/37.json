@@ -1,0 +1,210 @@
+{
+    "metadata": {
+        "year": "1956",
+        "month": {
+            "to": "דצמבר",
+            "from": "ינואר"
+        },
+        "issue_number": "37",
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סגן יהודה עופר",
+        "price": {
+            "amount": 850,
+            "type": "פרוטה"
+        },
+        "photographers": [
+            "דוד הלפמן",
+            "גרינברג אדם",
+            "וינדנהויז חיים",
+            "זאבי דור",
+            "כהן אלחנן",
+            "כהן יצחק",
+            "כהן פריץ",
+            "מחט יעקב",
+            "נמדר ציון",
+            "פרידמן משה",
+            "רומן בוריס"
+        ],
+        "subscription_price": {
+            "amount": -1,
+            "type": ""
+        },
+        "number_of_pages": "151",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=847",
+        "title": "בטאון חיל האויר דצמבר 56 - ינואר 1957 מס' 37",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC37.pdf&page=Body&ProdID=847"
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "לזכר החללים",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "מפקד החיל על קרבות סיני",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "מיג-17 איננו",
+            "description": "",
+            "start_page": 9,
+            "author": ""
+        },
+        {
+            "title": "פלדה מהלכת על שתים",
+            "description": "",
+            "start_page": 17,
+            "author": ""
+        },
+        {
+            "title": "מה מסתתר מאחורי המיסטר",
+            "description": "",
+            "start_page": 20,
+            "author": ""
+        },
+        {
+            "title": "יומן הקרבות של טיים מוסטינג",
+            "description": "",
+            "start_page": 26,
+            "author": "צ.ק"
+        },
+        {
+            "title": "מטאור מנציח גיחתו הקרבית",
+            "description": "",
+            "start_page": 42,
+            "author": ""
+        },
+        {
+            "title": "פייפרים באבק",
+            "description": "",
+            "start_page": 45,
+            "author": "ש. טירה"
+        },
+        {
+            "title": "מיג אמפיבי ועוד אחד",
+            "description": "",
+            "start_page": 50,
+            "author": ""
+        },
+        {
+            "title": "רכבת אוירית לעורף האויב",
+            "description": "",
+            "start_page": 54,
+            "author": "יעל"
+        },
+        {
+            "title": "סוסי-עבודה מעופפים",
+            "description": "",
+            "start_page": 64,
+            "author": "גבריאל שטרסמן"
+        },
+        {
+            "title": "פטריות חול מסמנות בול",
+            "description": "",
+            "start_page": 72,
+            "author": "שאול הון"
+        },
+        {
+            "title": "סיור ביחידות ח.א. במדבר",
+            "description": "",
+            "start_page": 73,
+            "author": "יהודא ע."
+        },
+        {
+            "title": "העתונות ואנחנו",
+            "description": "",
+            "start_page": 83,
+            "author": ""
+        },
+        {
+            "title": "המטוס שהוכנע בסיני",
+            "description": "",
+            "start_page": 92,
+            "author": ""
+        },
+        {
+            "title": "כך הגיעו הצרפתים לקפריסין",
+            "description": "",
+            "start_page": 98,
+            "author": "רענן לוריא"
+        },
+        {
+            "title": "ההצגה הגדולה ביותר בתבל",
+            "description": "",
+            "start_page": 106,
+            "author": "רב-סרן משה הדר"
+        },
+        {
+            "title": "הלקוח לעולם צודק",
+            "description": "",
+            "start_page": 116,
+            "author": "פאנץ'"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 134,
+            "author": ""
+        },
+        {
+            "title": "תצלומים מספרים",
+            "description": "",
+            "start_page": 144,
+            "author": ""
+        },
+        {
+            "title": "המטאור שלא נעזב",
+            "description": "",
+            "start_page": 147,
+            "author": ""
+        },
+        {
+            "title": "מטוסי רוברט אוסבורן (העפרון החייכן)",
+            "description": "",
+            "start_page": 152,
+            "author": ""
+        },
+        {
+            "title": "סופו של מטוס המחקר הלבן",
+            "description": "",
+            "start_page": 154,
+            "author": ""
+        },
+        {
+            "title": "כך קפצתי ממטוס בוער",
+            "description": "",
+            "start_page": 159,
+            "author": "אדם צבעוני"
+        },
+        {
+            "title": "מרפאה למדי-מאך",
+            "description": "",
+            "start_page": 161,
+            "author": ""
+        },
+        {
+            "title": "מטוס רוסי בידיים ישראליות",
+            "description": "",
+            "start_page": 166,
+            "author": "יעקב בן אמיר"
+        },
+        {
+            "title": "דאהרן-הבסיס הגרוע ביותר בעולם",
+            "description": "",
+            "start_page": 175,
+            "author": ""
+        }
+    ]
+}

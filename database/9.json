@@ -1,0 +1,52 @@
+{
+    "metadata": {
+        "year": "1950",
+        "month": {
+            "to": "אוגוסט",
+            "from": "יולי"
+        },
+        "date_of_publish": "Sat Jul 01 13:05:04 UTC 1950\n",
+        "issue_number": "9",
+        "publisher": "חיל האויר",
+        "editor": "משה פומרנץ",
+        "deputy_editor": "-",
+        "graphics_editor": "-",
+        "technical_editor": "-",
+        "price": {
+            "amount": -1,
+            "type": ""
+        },
+        "photographers": [],
+        "system": "-",
+        "subscription_price": {
+            "amount": -1,
+            "type": ""
+        },
+        "number_of_pages": "96",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=1031",
+        "title": "בטאון חיל האויר יולי-אוגוסט 1950 מס' 9",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://www.files.iaflibrary.org.il/DigitalLibrary/BITEONIM/TOC9.pdf&page=Body&ProdID=1031"
+    },
+    "index": [
+        {
+            "title": "מפלת הלופטוואפה",
+            "description": "הננו מביאים את וידויו של וילי מסרשמידט בונה המטוסים הידוע",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "באמפס",
+            "description": "אם מנסה אתה לתהות על קנקנה של כותרת זו סימן שאינך טייס, כי כל טייס יודע שבאמפס פירושו מכות-רוח",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "דואר אויר",
+            "description": "שימו לב למדורנו החדש, דאר איור",
+            "start_page": -1,
+            "author": ""
+        }
+    ]
+}

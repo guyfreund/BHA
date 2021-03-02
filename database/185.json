@@ -1,0 +1,145 @@
+{
+    "metadata": {
+        "issue_number": "185",
+        "year": "1992",
+        "month": {
+            "to": "אפריל",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 12.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 65.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רביב גנשרוא",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר",
+            "שלמה וולקוביץ"
+        ],
+        "number_of_pages": "92",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=829",
+        "title": "בטאון חיל האויר אפריל 1992 מס' 84 (185)",
+        "new_issue_number": 84,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC185.pdf&page=Body&ProdID=829"
+    },
+    "index": [
+        {
+            "title": "שינויים במגמת המסוקים בבית הספר לטיסה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "מהחדר האדום משגרים את הטילים",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "סד עינויים למטוסים חדשים",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "כך יוכשרו בעלי תפקידים במערך המיבצעים",
+            "description": "",
+            "start_page": 11,
+            "author": ""
+        },
+        {
+            "title": "המרחב האווירי של מדינת ישראל - הצפוף, הדחוס והתוסס ביותר בעולם. כל ההיבטים והזוויות האפשריים: אימונים, בקרה, הדרכה, פיקוח, תיאום, תעופה אזרחית",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "פרויקט ״ארץ הצבע״ - עשור לצמצום המרחב האווירי. דוד עברי, אז מפקד חיל האוויר, על היתרונות והחרוסונות של המרחב המצומצם",
+            "description": "",
+            "start_page": 16,
+            "author": ""
+        },
+        {
+            "title": "כך מסדרים את השמיים - כיצד שולטים בתוכנית האימונים של חיל האוויר במסגרת אילוצי המרחב האווירי",
+            "description": "",
+            "start_page": 24,
+            "author": ""
+        },
+        {
+            "title": "כמעט ונפגע",
+            "description": "",
+            "start_page": 28,
+            "author": "ענר גורברין ושרון גבע"
+        },
+        {
+            "title": "מפקד/מנהל הטייסת",
+            "description": "",
+            "start_page": 36,
+            "author": "קובי מרינקו"
+        },
+        {
+            "title": "פרסה לדרום",
+            "description": "",
+            "start_page": "",
+            "author": "ליאורה שוסטר"
+        },
+        {
+            "title": "הסתגלות",
+            "description": "",
+            "start_page": 48,
+            "author": "עינת אהרונוב"
+        },
+        {
+            "title": "נפלו שלל",
+            "description": "",
+            "start_page": 54,
+            "author": "עודד גלוברמן"
+        },
+        {
+            "title": "ניסויי תערובת",
+            "description": "",
+            "start_page": 62,
+            "author": "הילי מודריק"
+        },
+        {
+            "title": "טעות תיקון",
+            "description": "",
+            "start_page": 68,
+            "author": "קובי מרינקו"
+        },
+        {
+            "title": "מדף אווירי",
+            "description": "",
+            "start_page": 75,
+            "author": ""
+        },
+        {
+            "title": "בן ריץ׳ ממפתחתי החמקן, על סימולאטורים ו״תוכניות שחורות״",
+            "description": "",
+            "start_page": 76,
+            "author": ""
+        },
+        {
+            "title": "הסאלון האווירי בסינגאפור",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        },
+        {
+            "title": "אנגלית",
+            "description": "",
+            "start_page": 86,
+            "author": ""
+        }
+    ]
+}

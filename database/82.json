@@ -1,0 +1,207 @@
+{
+    "metadata": {
+        "issue_number": "82",
+        "year": "1970",
+        "month": {
+            "to": "יולי",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": "",
+            "type": ""
+        },
+        "photographers": [
+            "מיכה בר-עם",
+            "יוסף ידגר"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "164",
+        "subscription_only": true,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=904",
+        "title": "בטאון חיל האויר יולי 1970 מס' 82",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC82.pdf&page=Body&ProdID=904"
+    },
+    "index": [
+        {
+            "title": "פנטומים בכחול-לבן",
+            "description": "",
+            "start_page": 4,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "תאריכים מספרים",
+            "description": "",
+            "start_page": 18,
+            "author": "ארנון ברוך"
+        },
+        {
+            "title": "זה המיראז' 9 סמלים לו...",
+            "description": "",
+            "start_page": 26,
+            "author": "ע"
+        },
+        {
+            "title": "צוות חן-אויר",
+            "description": "",
+            "start_page": 31,
+            "author": "ליאורה כפיר"
+        },
+        {
+            "title": "ויבזא הים אל האויר",
+            "description": "",
+            "start_page": 34,
+            "author": "זאב"
+        },
+        {
+            "title": "לכל פצצה יש כתובת",
+            "description": "",
+            "start_page": 38,
+            "author": "צ. איש-טוב"
+        },
+        {
+            "title": "אדם ניכר במטוסו, בטייסתו וב..כובעו",
+            "description": "",
+            "start_page": 46,
+            "author": "א. בך"
+        },
+        {
+            "title": "הפקחיות חזרו אל המגדל",
+            "description": "",
+            "start_page": 48,
+            "author": "ג. אליעזר"
+        },
+        {
+            "title": "כאן מחדשים נעורי המטוס",
+            "description": "",
+            "start_page": 52,
+            "author": "ג. צבי"
+        },
+        {
+            "title": "אלצנו בחיל",
+            "description": "",
+            "start_page": 63,
+            "author": ""
+        },
+        {
+            "title": "פיטר פאונסנד עם טייסי ישראל",
+            "description": "",
+            "start_page": 64,
+            "author": ""
+        },
+        {
+            "title": "ג'ון בנטלי בתוככי ח\"א הישראלי ",
+            "description": "",
+            "start_page": 70,
+            "author": ""
+        },
+        {
+            "title": "כוחות האויר של בריה\"מ",
+            "description": "",
+            "start_page": 74,
+            "author": "אלי פיינגרש"
+        },
+        {
+            "title": "הכוחות המוטסים של בריה\"מ",
+            "description": "",
+            "start_page": 74,
+            "author": "אלי פייינגרש"
+        },
+        {
+            "title": "הכוחות המוטסים של בריה\"מ",
+            "description": "",
+            "start_page": 88,
+            "author": "א. כרמלי"
+        },
+        {
+            "title": "סאם-3 גואה - מהו?",
+            "description": "",
+            "start_page": 94,
+            "author": "גולדי"
+        },
+        {
+            "title": "אפולו 13",
+            "description": "",
+            "start_page": 96,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "המלאך המעופף של ביאפרה",
+            "description": "",
+            "start_page": 107,
+            "author": "גיטה יפה"
+        },
+        {
+            "title": "לקראת תחנות חלל",
+            "description": "",
+            "start_page": 114,
+            "author": "אבי אלדד"
+        },
+        {
+            "title": "המוזיאון המעופף של טכסס",
+            "description": "",
+            "start_page": 121,
+            "author": ""
+        },
+        {
+            "title": "ס ח י פ ו ל, רשמי ביקור",
+            "description": "",
+            "start_page": 125,
+            "author": "א. הייט"
+        },
+        {
+            "title": "חיל האויר האיראני",
+            "description": "",
+            "start_page": 130,
+            "author": "עמוס עשת"
+        },
+        {
+            "title": "המוסטאנג חוזר לאויר",
+            "description": "",
+            "start_page": 138,
+            "author": "מ. כהן"
+        },
+        {
+            "title": "בחזרה לבוגיינוויל",
+            "description": "",
+            "start_page": 140,
+            "author": ""
+        },
+        {
+            "title": "האסון החלף 300 מטר מתחתי",
+            "description": "",
+            "start_page": 142,
+            "author": ""
+        },
+        {
+            "title": "מירוץ החלל נמשך על הבולים",
+            "description": "",
+            "start_page": 146,
+            "author": ""
+        },
+        {
+            "title": "הכומר המעופף",
+            "description": "",
+            "start_page": 150,
+            "author": "ע. עמית"
+        },
+        {
+            "title": "מעללי ראשונים",
+            "description": "",
+            "start_page": 154,
+            "author": ""
+        },
+        {
+            "title": "תשבץ תעופתי מספר 4",
+            "description": "",
+            "start_page": 160,
+            "author": ""
+        }
+    ]
+}

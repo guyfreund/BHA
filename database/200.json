@@ -1,0 +1,161 @@
+{
+    "metadata": {
+        "issue_number": "200",
+        "year": "1994",
+        "month": {
+            "to": "אוקטובר",
+            "from": ""
+        },
+        "publisher": "מפקדת חיל האוויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 14.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 75.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "שאול שורץ",
+            "רובי קסטרו",
+            "גיורא נוימן",
+            "אסף שילה"
+        ],
+        "number_of_pages": "100",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=850",
+        "title": "בטאון חיל האויר אוקטובר 1994 מס' 99 (200)",
+        "new_issue_number": 99,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC200.pdf&page=Body&ProdID=850"
+    },
+    "index": [
+        {
+            "title": "מפקד חיל האויר: יש לי יסוד חק להניח שרון ארד חי, ושבסופו של דבר גם נגיע אליו",
+            "description": "",
+            "start_page": 7,
+            "author": ""
+        },
+        {
+            "title": "חברים מחכים לרון",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "עשרות תותחי נ״מ נמסרו לצד״ל",
+            "description": "",
+            "start_page": 14,
+            "author": ""
+        },
+        {
+            "title": "שני מסוקי מי-8 מעיראק ישמשו את המימשל העצמי הפלשתינאי",
+            "description": "",
+            "start_page": 15,
+            "author": ""
+        },
+        {
+            "title": "שחור ואלגנטי",
+            "description": "",
+            "start_page": 20,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "מסוק דיגיטלי בעולם אנאלוגי",
+            "description": "",
+            "start_page": 26,
+            "author": "רועי צהר"
+        },
+        {
+            "title": "מסייף לטייס",
+            "description": "",
+            "start_page": 32,
+            "author": "יולי חרומצ׳נקו"
+        },
+        {
+            "title": "הסבה לפתן",
+            "description": "",
+            "start_page": 36,
+            "author": "עמיר רגב"
+        },
+        {
+            "title": "אף פעם לא לבד",
+            "description": "",
+            "start_page": 40,
+            "author": "טל אלון"
+        },
+        {
+            "title": "ת׳יפנדיילס",
+            "description": "",
+            "start_page": 46,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "מטוס כיסוי",
+            "description": "",
+            "start_page": 50,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "מגה טק",
+            "description": "",
+            "start_page": 56,
+            "author": ""
+        },
+        {
+            "title": "לאן נעלם ליונל בלוך",
+            "description": "",
+            "start_page": 62,
+            "author": "יולי חרומצ׳נקו ועדו נתיב"
+        },
+        {
+            "title": "ללא חניית ביניים",
+            "description": "",
+            "start_page": 66,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "פרידריך, בכובע אוזניות, צולף מהאוויר על המטוס האנגלי",
+            "description": "",
+            "start_page": 73,
+            "author": "יולי חרומצ׳נקו ועדו נתיב"
+        },
+        {
+            "title": "דור ה-X",
+            "description": "",
+            "start_page": 76,
+            "author": "עמיר רגב"
+        },
+        {
+            "title": "כוח רב לאומי",
+            "description": "",
+            "start_page": 80,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "מדף אווירי",
+            "description": "",
+            "start_page": 85,
+            "author": ""
+        },
+        {
+            "title": "מטוס ה-JAST האמריקני: זול או בכלל לא",
+            "description": "",
+            "start_page": 86,
+            "author": ""
+        },
+        {
+            "title": "שלוש+שש = אחד: האיחוד של ״לוקהיד״ ו״מארטין מרייטה״",
+            "description": "",
+            "start_page": 88,
+            "author": ""
+        },
+        {
+            "title": "אירופה נגד אמריקה: הסאלון האווירי בפארנבורו",
+            "description": "",
+            "start_page": 90,
+            "author": ""
+        }
+    ]
+}

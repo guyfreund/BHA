@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "issue_number": "208",
+        "year": "1996",
+        "month": {
+            "to": "פברואר",
+            "from": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "צחי שן",
+        "price": {
+            "amount": 18.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 90.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "שאול שורץ",
+            "רוני הרמן",
+            "אמיר מודן",
+            "רובי קסטרו",
+            "גיורא נוימן",
+            "אסף שילה"
+        ],
+        "number_of_pages": "100",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=787",
+        "title": "בטאון חיל האויר פברואר 1996 107 (208)",
+        "new_issue_number": 107,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC208.pdf&page=Body&ProdID=787"
+    },
+    "index": [
+        {
+            "title": "תוזל עיסקת הרכש של ה F-15I",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "14 מסוקי הקוברה יגיעו באפריל",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "מי יהיה האסטרונאוט הישראל הראשון?",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "סולו - חיל האוויר אצלך במחשב",
+            "description": "",
+            "start_page": 14,
+            "author": ""
+        },
+        {
+            "title": "עיניים ירוקות",
+            "description": "",
+            "start_page": 16,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "רום סרוויס",
+            "description": "",
+            "start_page": 20,
+            "author": "רועי צהר"
+        },
+        {
+            "title": "איזה מזל שזה רק סימולאטור",
+            "description": "",
+            "start_page": 26,
+            "author": "עמיר רגב"
+        },
+        {
+            "title": "קפטן עטאוט חזר הביתה",
+            "description": "",
+            "start_page": 32,
+            "author": "עמיר רגב"
+        },
+        {
+            "title": "מים שקטים חודרים עמוק",
+            "description": "",
+            "start_page": 36,
+            "author": "שאול שורץ ואמיר מודן"
+        },
+        {
+            "title": "הרופאים הגיעו בטיסה",
+            "description": "",
+            "start_page": 42,
+            "author": "רוני קורן"
+        },
+        {
+            "title": "השיבה מהודו",
+            "description": "",
+            "start_page": 48,
+            "author": "רוני קורן"
+        },
+        {
+            "title": "מלכת הצי",
+            "description": "",
+            "start_page": 52,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "מגה טק",
+            "description": "",
+            "start_page": 56,
+            "author": ""
+        },
+        {
+            "title": "הנעלם הבא",
+            "description": "",
+            "start_page": "",
+            "author": "אודי עציון ונועם אופיר"
+        },
+        {
+            "title": "תיקים באפלה",
+            "description": "",
+            "start_page": 68,
+            "author": "נועם אופיר"
+        },
+        {
+            "title": "40 שנה מסביב לעולם",
+            "description": "",
+            "start_page": 72,
+            "author": "נועם אופיר"
+        },
+        {
+            "title": "הכנפיים של ברוך",
+            "description": "",
+            "start_page": 78,
+            "author": "עמיר רגב"
+        },
+        {
+            "title": "שוק מטוסי הקרב מתעורר",
+            "description": "",
+            "start_page": 82,
+            "author": ""
+        },
+        {
+            "title": "הג׳י-סטארס בראש כוחות האו״ם בבוסניה",
+            "description": "",
+            "start_page": 86,
+            "author": ""
+        },
+        {
+            "title": "עיראק המשיכה לפתח טק״ק לאחר מלחמת המפרץ",
+            "description": "",
+            "start_page": 88,
+            "author": ""
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "issue_number": "101",
+        "year": "1977",
+        "month": {
+            "to": "יוני",
+            "from": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "",
+        "price": {
+            "amount": 12.0,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "164",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=933",
+        "title": "בטאון חיל האויר יוני 1977 מס' 101",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC101.pdf&page=Body&ProdID=933"
+    },
+    "index": [
+        {
+            "title": "כמה מילות פרידה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "כך מצמיחים כנפיים",
+            "description": "",
+            "start_page": 6,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "אלואט - הג'יפ האוירי",
+            "description": "",
+            "start_page": 24,
+            "author": "צ. גוטמן"
+        },
+        {
+            "title": "המיג' ההוא לא יפיל אותי",
+            "description": "",
+            "start_page": 32,
+            "author": "גיל ארבל"
+        },
+        {
+            "title": "",
+            "description": "",
+            "start_page": "",
+            "author": "1"
+        },
+        {
+            "title": "אידי אמין האיש שרצה להיות מלך",
+            "description": "",
+            "start_page": 40,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "נשיקת המוות של הטיל מטרא-530",
+            "description": "",
+            "start_page": 46,
+            "author": "גיל ארבל"
+        },
+        {
+            "title": "להכשיר טייסים צעירים",
+            "description": "",
+            "start_page": 52,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "פיליפ מתקן המסלולים",
+            "description": "",
+            "start_page": 60,
+            "author": "גיל ארבל"
+        },
+        {
+            "title": "חסידה אשר על המכר",
+            "description": "",
+            "start_page": 64,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "נביאשקר או בעל חזון",
+            "description": "",
+            "start_page": 78,
+            "author": "אורי דרומי"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 92,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "נשים בחיל האויר האמריקני",
+            "description": "",
+            "start_page": 106,
+            "author": ""
+        },
+        {
+            "title": "בשמי המזרח התיכון",
+            "description": "",
+            "start_page": 111,
+            "author": ""
+        },
+        {
+            "title": "מעבר ל-פ-16",
+            "description": "",
+            "start_page": 118,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "האם ממלכת מרסל דאסו שוקעת?",
+            "description": "",
+            "start_page": 124,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "גלגוליו של גלגל",
+            "description": "",
+            "start_page": 134,
+            "author": ""
+        },
+        {
+            "title": "הוארד יוז - אגדה שגוועה",
+            "description": "",
+            "start_page": 140,
+            "author": "מ. כהן"
+        },
+        {
+            "title": "יפאן בלהבות",
+            "description": "",
+            "start_page": 145,
+            "author": ""
+        },
+        {
+            "title": "שעשועים אויריים",
+            "description": "",
+            "start_page": 157,
+            "author": ""
+        }
+    ]
+}

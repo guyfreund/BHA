@@ -1,0 +1,234 @@
+{
+    "metadata": {
+        "issue_number": "164-165",
+        "year": "1988",
+        "month": {
+            "to": "יולי",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 10.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 22.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר",
+            "שלמה וולקוביץ"
+        ],
+        "number_of_pages": "188",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=968",
+        "title": "בטאון חיל האויר יולי 1988 מס' 63-64 (164-165)",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC164-165.pdf&page=Body&ProdID=968"
+    },
+    "index": [
+        {
+            "title": "זרוע העילית",
+            "description": "ראיון מיוחד עם ראש הממשלה יצחק שמיר",
+            "start_page": 6,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "יישום לקחים",
+            "description": "ראיון מיוחד עם שר הביטחון יצחק רבין",
+            "start_page": 8,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "טייס עם מצלמה",
+            "description": "סא״ל ציון בר אור ז״ל",
+            "start_page": 10,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "40 שנות הרתעה",
+            "description": "סימפוזיון בהשתתפות מפקדי חיל האוויר 1948-1988",
+            "start_page": 20,
+            "author": "רון בן ישי ואלינוער בן עקיבא"
+        },
+        {
+            "title": "יסעור 2000",
+            "description": "פרסום ראשון של פרוייקט השבחת המסוק",
+            "start_page": 35,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "ללכת על מכפילי כוח",
+            "description": "ראיון מיוחד עם ראש המט, תא״ל ר",
+            "start_page": 41,
+            "author": "אייל ארליך"
+        },
+        {
+            "title": "לטוס בקצה גבול המגבלות",
+            "description": "תא״ל א׳ על פיקוד תחת אש",
+            "start_page": 44,
+            "author": "רוני אלרואי"
+        },
+        {
+            "title": "שאלה של טכניקה",
+            "description": "נוריקה הראל על טכנאים מסוג אחר",
+            "start_page": 50,
+            "author": "רוני אלרואי"
+        },
+        {
+            "title": "בסיס על רמה",
+            "description": "רמת דוד, פרופיל בסיס",
+            "start_page": 52,
+            "author": "שרון ארגוב"
+        },
+        {
+            "title": "הקוקטייל הנכון",
+            "description": "שיתוף פעולה קרקע-אויר",
+            "start_page": 60,
+            "author": "יואב וינוגרד"
+        },
+        {
+            "title": "לצאת מהסחרור",
+            "description": "אימון מסוג חדש למדריכי טיסה",
+            "start_page": 64,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "מטוסי חיל האויר 1948-1988",
+            "description": "",
+            "start_page": 67,
+            "author": "אודי צופף"
+        },
+        {
+            "title": "זכות-ראשונים",
+            "description": "כל ההפלות הראשונות בקרבות אויר",
+            "start_page": 90,
+            "author": "גיא רימון"
+        },
+        {
+            "title": "החטיפה הראשונה",
+            "description": "אלג׳יר 1968",
+            "start_page": 100,
+            "author": "שרון ארגוב"
+        },
+        {
+            "title": "נמל תעופה 88",
+            "description": "24 שעות בחיי נתבג",
+            "start_page": 104,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "הפלה על אף המכם",
+            "description": "דף בספר הטיסות",
+            "start_page": 115,
+            "author": "גיא רימון"
+        },
+        {
+            "title": "מחט בערימה אפילה של שחת",
+            "description": "צ׳אטו על טיסות אל ראות",
+            "start_page": 116,
+            "author": "שרון ארגוב"
+        },
+        {
+            "title": "40 דקות מעל דמשק",
+            "description": "עזר ויצמן על גיחת צילום בסוריה",
+            "start_page": 120,
+            "author": "ישגב נקדימון"
+        },
+        {
+            "title": "דולפין מעבר לאופק",
+            "description": "המסוק הימי החדש",
+            "start_page": 124,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "נ״מ, הפלות ראשונות",
+            "description": "ההפלות הראשונות של כל כלי הנ״מ",
+            "start_page": 132,
+            "author": "יואב וינוגרד"
+        },
+        {
+            "title": "טייסת אל״ף אל״ף",
+            "description": "10 השניות הראשונות של הטייסת הקלה",
+            "start_page": 138,
+            "author": "ישגב נקדימון"
+        },
+        {
+            "title": "וטרנר מטיס אותם",
+            "description": "מטוסי מוזיאון חיל האויר",
+            "start_page": 147,
+            "author": "גיא רימון"
+        },
+        {
+            "title": "לכידת הדרקון",
+            "description": "דף בספר הטיסות",
+            "start_page": 154,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "לכידת הדרקון",
+            "description": "דף בספר הטיסות",
+            "start_page": 153,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "חידה בחליפת לחץ",
+            "description": "יורם רוזוב, על טייסים וציור טייסים",
+            "start_page": 154,
+            "author": "יגאל סרנה"
+        },
+        {
+            "title": "הטובים לטיס",
+            "description": "חקירת הסיסמה המזוהה ביותר עם חיל האויר",
+            "start_page": 156,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "שורשי אויר",
+            "description": "טיבי בן שחר על הקמת הצוות האירובאטי",
+            "start_page": 164,
+            "author": "שרון ארגוב"
+        },
+        {
+            "title": "סאנדרלנד בים תל אביב",
+            "description": "דף בספר הטיסות",
+            "start_page": 166,
+            "author": "משה פרל"
+        },
+        {
+            "title": "טיפת הדלק האחרונה",
+            "description": "רוביק רוזן על נחיתה בת מזל",
+            "start_page": 168,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "הרתעה בעיני אסאד",
+            "description": "",
+            "start_page": "",
+            "author": "170"
+        },
+        {
+            "title": "מעגל אינדיאני",
+            "description": "היסעור שהמיגים לא הצליחו להפיל",
+            "start_page": 172,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "״שניים הפיל 2״ - ועוד אחד",
+            "description": "דף בספר הטיסות",
+            "start_page": 174,
+            "author": "גיא רימון"
+        },
+        {
+            "title": "״אחד, כל הכבוד!״",
+            "description": "דף בספר הטיסות",
+            "start_page": 176,
+            "author": "גיא רימון"
+        }
+    ]
+}
