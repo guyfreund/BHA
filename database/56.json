@@ -1,0 +1,218 @@
+{
+    "metadata": {
+        "issue_number": "56",
+        "year": "1962",
+        "month": {
+            "from": "דצמבר",
+            "to": "ינואר"
+        },
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סרן יהודה עופר",
+        "price": {
+            "amount": 1.0,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "182",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=911",
+        "title": "בטאון חיל האויר דצמבר 1961 ינואר 1962 מס' 56",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC56.pdf&page=Body&ProdID=911"
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "ימי ״קדש״ הגדולים",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "שעתיים אחרי הקרב הראשון",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "מתוך יומנה של טייסת קרבית",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "״אורגן״ בודד מול ״מיגים״",
+            "description": "",
+            "start_page": 11,
+            "author": ""
+        },
+        {
+            "title": "כל כביש - שדה-נחיתה ל״פייפרים״",
+            "description": "",
+            "start_page": 14,
+            "author": ""
+        },
+        {
+            "title": "״פילקו 2000״",
+            "description": "",
+            "start_page": 17,
+            "author": "יעקב בן אמיר"
+        },
+        {
+            "title": "במחיצת ה״סי. אי. פי.״",
+            "description": "",
+            "start_page": 21,
+            "author": "יעקב אמריליו"
+        },
+        {
+            "title": "יענק׳לה איש הווטורים",
+            "description": "",
+            "start_page": 26,
+            "author": "אהרון דולב"
+        },
+        {
+            "title": "מסעות יעקב השני",
+            "description": "",
+            "start_page": 33,
+            "author": "יעקב טרנר"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 48,
+            "author": "י. עופר"
+        },
+        {
+            "title": "הרפתקה בחלל",
+            "description": "",
+            "start_page": 53,
+            "author": "מאיר סיון"
+        },
+        {
+            "title": "הצנחנים בצוותא",
+            "description": "",
+            "start_page": 64,
+            "author": ""
+        },
+        {
+            "title": "ב-132 דקות - מאירופה לארה״ב",
+            "description": "",
+            "start_page": 68,
+            "author": ""
+        },
+        {
+            "title": "תולדותיהם החייכניות של מטוסי הקרב",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        },
+        {
+            "title": "תולדותיהן החייכניות של הרקיטות",
+            "description": "",
+            "start_page": 80,
+            "author": ""
+        },
+        {
+            "title": "״טורפדו 8״ לא הושמדה לריק",
+            "description": "",
+            "start_page": 82,
+            "author": ""
+        },
+        {
+            "title": "נכישת המוות של נחש המדבר",
+            "description": "",
+            "start_page": 92,
+            "author": ""
+        },
+        {
+            "title": "אזרח החלל מס׳ 2",
+            "description": "",
+            "start_page": 101,
+            "author": ""
+        },
+        {
+            "title": "פישבד",
+            "description": "״גולדי״",
+            "start_page": 106,
+            "author": ""
+        },
+        {
+            "title": "הצלחת הגדולה ביותר בעולם",
+            "description": "",
+            "start_page": 109,
+            "author": ""
+        },
+        {
+            "title": "חידון זיהוי מטוסים",
+            "description": "",
+            "start_page": 114,
+            "author": ""
+        },
+        {
+            "title": "אסטרונוטים מתחרים בגבורי ה״קומיקס״",
+            "description": "",
+            "start_page": 116,
+            "author": ""
+        },
+        {
+            "title": "ד״ר אויגן זנגר - משרתם של חמישה אדונים",
+            "description": "",
+            "start_page": 117,
+            "author": ""
+        },
+        {
+            "title": "האיש בעל חילות האויר הפרטיים",
+            "description": "",
+            "start_page": 126,
+            "author": "נפתלי קדמון"
+        },
+        {
+            "title": "מטוסי קרב רקיטיים",
+            "description": "",
+            "start_page": 129,
+            "author": "יהודה מנור"
+        },
+        {
+            "title": "חמישים שנה מהים לאויר",
+            "description": "",
+            "start_page": 145,
+            "author": ""
+        },
+        {
+            "title": "״די אירופליין״ 1961-1911",
+            "description": "",
+            "start_page": 148,
+            "author": "וורן"
+        },
+        {
+            "title": "בממלכת הטילים של צרפת",
+            "description": "",
+            "start_page": 150,
+            "author": "עמנואל בן-גוריון"
+        },
+        {
+            "title": "פינוי נפגעים בדרך האויר",
+            "description": "",
+            "start_page": 167,
+            "author": "זאב רוה (ורבה)"
+        },
+        {
+            "title": "נא להדק",
+            "description": "",
+            "start_page": 172,
+            "author": ""
+        }
+    ]
+}

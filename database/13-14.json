@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "year": "1951",
+        "month": {
+            "to": "מאי",
+            "from": "אפריל"
+        },
+        "date_of_publish": "Sun Apr 01 13:29:48 UTC 1951",
+        "issue_number": "13-14",
+        "publisher": "חיל האויר",
+        "editor": "משה פומרנץ",
+        "deputy_editor": "-",
+        "graphics_editor": "-",
+        "technical_editor": "-",
+        "price": {
+            "amount": 200,
+            "type": "פרוטה"
+        },
+        "photographers": [
+            "סגן/מ דוד הלפמן"
+        ],
+        "system": "-",
+        "subscription_price": {
+            "amount": -1,
+            "type": ""
+        },
+        "number_of_pages": "170",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=1008",
+        "title": "בטאון חיל האויר אפריל-מאי 1951 מס' 13-14",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC13-14.pdf&page=Body&ProdID=1008"
+    },
+    "index": [
+        {
+            "title": "מבחן הכוחות בקוריאה",
+            "description": "",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "הכח האוירי האסטרטגי הוכיח קלות תנועה",
+            "description": "",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "טייס אמריקני מפיל מיג בקרב הראשון בין מטוסי סילון",
+            "description": "",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "כוחו של חיל האויר הסוואטי במזרח הרחוק",
+            "description": "",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "הגשר האוירי לקוריאה",
+            "description": "",
+            "start_page": -1,
+            "author": ""
+        }
+    ]
+}

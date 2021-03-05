@@ -1,0 +1,170 @@
+{
+    "metadata": {
+        "issue_number": "193",
+        "year": "1993",
+        "month": {
+            "from": "אוגוסט",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 12.0,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": 65.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "רביב גנשרוא",
+            "שאול שוורץ",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר"
+        ],
+        "number_of_pages": 108,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "תא\"ל איתן בן-אליהו, ראש מטה חיל-האויר: \"בזכות השליטה שלנו בשמי לבנון, נמנע עימות עם הסורים\"",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "אש הנ\"מ נורתה לעברנו מתוך בית הספר המקומי",
+            "description": "",
+            "start_page": 9,
+            "author": ""
+        },
+        {
+            "title": "רמ\"ח מבצעים: הורינו לטייסים לחזור הביתה ולהשליך את הפצצות מעל הים",
+            "description": "",
+            "start_page": 10,
+            "author": ""
+        },
+        {
+            "title": "F-15 תוקף, לראשונה מאז 1985",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "ראש להק מודיעין:\"החיזבאללה ספג פגיעה מוראלית ואירגונית, לאו דווקא צבאית\"",
+            "description": "",
+            "start_page": 14,
+            "author": ""
+        },
+        {
+            "title": "ביצוע המשימה הוא רק בעדיפות השלישית. קודמים לו שני איסורים: אסור להיפגע ואסור לפגוע באזרחים\"",
+            "description": "",
+            "start_page": 16,
+            "author": ""
+        },
+        {
+            "title": "תקיפת בכורה למערכת ראיית הלילה של הקוברה",
+            "description": "",
+            "start_page": 19,
+            "author": ""
+        },
+        {
+            "title": "מפקד הבור: הטייסים הכירו היטב את המדיניות שמאחורי המבצע",
+            "description": "",
+            "start_page": 20,
+            "author": ""
+        },
+        {
+            "title": "רמ\"ח חימוש: \"למטרות רבות נגרם נזק בלתי הפיך\"",
+            "description": "",
+            "start_page": 26,
+            "author": ""
+        },
+        {
+            "title": "מבצע פיקניק",
+            "description": "",
+            "start_page": 30,
+            "author": "דן סלע"
+        },
+        {
+            "title": "העונה הבוערת",
+            "description": "",
+            "start_page": 34,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "חייו הכפולים של העייט",
+            "description": "",
+            "start_page": 40,
+            "author": "דן סלע"
+        },
+        {
+            "title": "מאזן-הנחת של רמי הרפז",
+            "description": "",
+            "start_page": 44,
+            "author": "דן הרקין"
+        },
+        {
+            "title": "ובמקום השני",
+            "description": "",
+            "start_page": 50,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "מבנה משפחתי",
+            "description": "",
+            "start_page": 56,
+            "author": "שרון גבע"
+        },
+        {
+            "title": "הגיע רחוק",
+            "description": "",
+            "start_page": 60,
+            "author": "שרון גבע"
+        },
+        {
+            "title": "משבר גיל הארבעים",
+            "description": "",
+            "start_page": 64,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "מונחה למטרה",
+            "description": "",
+            "start_page": 70,
+            "author": "קובי מרינקו"
+        },
+        {
+            "title": "מצב הרוח",
+            "description": "",
+            "start_page": 76,
+            "author": "עינת אהרונוב"
+        },
+        {
+            "title": "אדרנלין",
+            "description": "",
+            "start_page": 82,
+            "author": "עינת אהרונוב ורעי צהר"
+        },
+        {
+            "title": "טוס גוזל",
+            "description": "",
+            "start_page": 90,
+            "author": "שרון גבע"
+        },
+        {
+            "title": "מדף אויירי",
+            "description": "",
+            "start_page": 95,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 96,
+            "author": ""
+        }
+    ]
+}

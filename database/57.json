@@ -1,0 +1,236 @@
+{
+    "metadata": {
+        "issue_number": "57",
+        "year": "1962",
+        "month": {
+            "to": "אפריל",
+            "from": "מרץ"
+        },
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סרן יהודה עופר",
+        "price": {
+            "amount": 1.0,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילם אוירי חיל האויר"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "186",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=912",
+        "title": "בטאון חיל האויר מרץ-אפריל 1962 מס' 57",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC57.pdf&page=Body&ProdID=912"
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "נערת הלינק",
+            "description": "",
+            "start_page": 5,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "בימי הסבתא",
+            "description": "",
+            "start_page": 11,
+            "author": ""
+        },
+        {
+            "title": "זה קרה לפני 14 שנה",
+            "description": "",
+            "start_page": 12,
+            "author": "אל״מ ב. קגן"
+        },
+        {
+            "title": "מסיפורי הרוטוראים",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "כל אנשי טייך",
+            "description": "",
+            "start_page": 22,
+            "author": "ע. יהודה"
+        },
+        {
+            "title": "כתב צבאי מסייר בטייסת קרב",
+            "description": "",
+            "start_page": 29,
+            "author": "יהושע שגיא"
+        },
+        {
+            "title": "מטוס באויר - פירושו מכונאי טוב",
+            "description": "",
+            "start_page": 31,
+            "author": "יעקב בן-אמיר"
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 40,
+            "author": ""
+        },
+        {
+            "title": "לא על הטיס לבדו יחיה טייס",
+            "description": "",
+            "start_page": 44,
+            "author": "יעקב טרנר"
+        },
+        {
+            "title": "הרגע המרומם ביותר בחיי",
+            "description": "",
+            "start_page": 57,
+            "author": ""
+        },
+        {
+            "title": "החלל המתמלא",
+            "description": "",
+            "start_page": 58,
+            "author": ""
+        },
+        {
+            "title": "פלאי היקום",
+            "description": "",
+            "start_page": 67,
+            "author": "ד״ר י. לויט"
+        },
+        {
+            "title": "כך התפתח התידלוק-תוך-טיסה",
+            "description": "",
+            "start_page": 73,
+            "author": "עמנואל בן-גוריון"
+        },
+        {
+            "title": "טיסה טרנסאטלנטית ניו-יורק - פריס",
+            "description": "",
+            "start_page": 85,
+            "author": ""
+        },
+        {
+            "title": "סילוניו של צ׳ומבה נאלצו להכנע",
+            "description": "",
+            "start_page": 87,
+            "author": ""
+        },
+        {
+            "title": "ענני מלחמה מעל גיניאה החדשה",
+            "description": "",
+            "start_page": 92,
+            "author": ""
+        },
+        {
+            "title": "״התעופף באוירון - מלה-האג ועד לונדון!״",
+            "description": "",
+            "start_page": 97,
+            "author": ""
+        },
+        {
+            "title": "עייפות",
+            "description": "",
+            "start_page": 103,
+            "author": ""
+        },
+        {
+            "title": "המסוגלת גם מדינה קטנה לפתח טילים?",
+            "description": "",
+            "start_page": 108,
+            "author": "י. בר יוחנן"
+        },
+        {
+            "title": "עזר-אימון ראייתי חדיש",
+            "description": "",
+            "start_page": 116,
+            "author": ""
+        },
+        {
+            "title": "תושבי היקום הנכונים",
+            "description": "",
+            "start_page": 118,
+            "author": ""
+        },
+        {
+            "title": "ספינת הטיס האחרונה ליפאן",
+            "description": "",
+            "start_page": 127,
+            "author": ""
+        },
+        {
+            "title": "חגורת הרקיטה המקפצת",
+            "description": "",
+            "start_page": 130,
+            "author": ""
+        },
+        {
+            "title": "טייס הלהטוטים",
+            "description": "",
+            "start_page": 134,
+            "author": ""
+        },
+        {
+            "title": "עשרת המתכננים הגדולים של רוסיה",
+            "description": "",
+            "start_page": 136,
+            "author": ""
+        },
+        {
+            "title": "החדישים שבמטוסים הסובייטיים",
+            "description": "",
+            "start_page": 141,
+            "author": ""
+        },
+        {
+            "title": "מתיוסון-בלי-מנוע",
+            "description": "",
+            "start_page": 142,
+            "author": ""
+        },
+        {
+            "title": "יום השנה החמישים",
+            "description": "",
+            "start_page": 147,
+            "author": "יהושע מושלי"
+        },
+        {
+            "title": "הרוכבות בשחקים",
+            "description": "",
+            "start_page": 153,
+            "author": "עמנואל בן-גוריון"
+        },
+        {
+            "title": "האמת שמאחורי ה״שטוקה״!",
+            "description": "",
+            "start_page": 164,
+            "author": ""
+        },
+        {
+            "title": "תולדותיהם החייכניות של המפציצים",
+            "description": "",
+            "start_page": 170,
+            "author": ""
+        },
+        {
+            "title": "תולדותיה החייכניות של בטיחות האויר",
+            "description": "",
+            "start_page": 172,
+            "author": ""
+        },
+        {
+            "title": "״דוג פייט״ בין מפציצים",
+            "description": "",
+            "start_page": 174,
+            "author": ""
+        }
+    ]
+}

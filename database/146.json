@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "issue_number": "146",
+        "year": "1985",
+        "month": {
+            "to": "יוני",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 700.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "ראובן קסטרו",
+            "אורי שנקר",
+            "בנצי בר"
+        ],
+        "subscription_price": {
+            "amount": 4000.0,
+            "type": "שקל"
+        },
+        "number_of_pages": "96",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=841",
+        "title": "בטאון חיל האויר יוני 1985 מס' 45 (146)",
+        "new_issue_number": 45,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC146.pdf&page=Body&ProdID=841"
+    },
+    "index": [
+        {
+            "title": "שלוש שנות מלחמת לבנון",
+            "description": "ההישג העיקרי - סיוע לכוחות הקרקע",
+            "start_page": 4,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "ראיון עם ראש מטה חיל-האויר",
+            "description": "היערכות חדשה - ומשופרת",
+            "start_page": 8,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "יורדים מהג'אבל",
+            "description": "",
+            "start_page": 10,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "שמיניות באויר לבנון",
+            "description": "",
+            "start_page": 12,
+            "author": "דורון דנאי"
+        },
+        {
+            "title": "טוס נמוך, טוס טוב",
+            "description": "",
+            "start_page": 18,
+            "author": "ריקי ריבלין"
+        },
+        {
+            "title": "הוכח בקרב",
+            "description": "",
+            "start_page": 22,
+            "author": "רזי גוטמן וענר גוברין"
+        },
+        {
+            "title": "כחול לבן בלה-בורז'ה",
+            "description": "",
+            "start_page": 26,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "\"מלחמת הכוכבים\" מלחמת מגן",
+            "description": "",
+            "start_page": 30,
+            "author": ""
+        },
+        {
+            "title": "בלריו בשמי מקוה ישראל",
+            "description": "",
+            "start_page": 32,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "עם שני מנועים מעל למים",
+            "description": "",
+            "start_page": 33,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "שבועשל בנייה עצמית",
+            "description": "",
+            "start_page": 34,
+            "author": "מירי חנוך"
+        },
+        {
+            "title": "לא בצינורות המקובלים",
+            "description": "",
+            "start_page": 38,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "בסיס לשלום בשארם",
+            "description": "",
+            "start_page": 44,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 47,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "ממיג-25 עד מיג-31",
+            "description": "",
+            "start_page": 50,
+            "author": "אודי צופף"
+        },
+        {
+            "title": "לילה ליום",
+            "description": "",
+            "start_page": 54,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "זה הטוקאנו!",
+            "description": "",
+            "start_page": 59,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "2010 - עד אודיסאה בחלל",
+            "description": "",
+            "start_page": 62,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "אדם, יהודי, ישראלי, טיס",
+            "description": "",
+            "start_page": 71,
+            "author": "ריקי ריבלין וצפי סער"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 75,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 79,
+            "author": ""
+        },
+        {
+            "title": "מכתבים",
+            "description": "",
+            "start_page": 80,
+            "author": ""
+        }
+    ]
+}

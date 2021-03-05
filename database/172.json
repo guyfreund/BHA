@@ -1,0 +1,240 @@
+{
+    "metadata": {
+        "issue_number": "172",
+        "year": "1989",
+        "month": {
+            "to": "דצמבר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 7.5,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 40.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר",
+            "שלמה וולקוביץ"
+        ],
+        "number_of_pages": "124",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=970",
+        "title": "בטאון חיל האויר דצמבר 1989 מס' 71 (172)",
+        "new_issue_number": 71,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC172.pdf&page=Body&ProdID=970"
+    },
+    "index": [
+        {
+            "author": "אהרון לפידות",
+            "start_page": 8,
+            "title": "• קץ עידן המעצמות במזה״ת. ראיון עם מפקד חיל־האויר",
+            "description": ""
+        },
+        {
+            "author": "גיא רימון",
+            "start_page": 12,
+            "title": "• תאריכון העשור.",
+            "description": ""
+        },
+        {
+            "author": "ענר גוברין",
+            "start_page": 17,
+            "title": "• פחות נשק סובייטי למדינות ערב?",
+            "description": ""
+        },
+        {
+            "author": "שרון שדה",
+            "start_page": 18,
+            "title": "• אין גלולות הרגעה.",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 20,
+            "title": "• ה־77* יגיע לחיל-האויר.",
+            "description": ""
+        },
+        {
+            "author": "ישגב נקדימון",
+            "start_page": 22,
+            "title": "• סימולאטורים - א11 מסדר טילים - 077.",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 24,
+            "title": "• והמנצחהוא-7-16.",
+            "description": ""
+        },
+        {
+            "author": "יקיר אלקריב",
+            "start_page": 26,
+            "title": "• ההנאה שלי קידמית.",
+            "description": ""
+        },
+        {
+            "author": "צבי גוטמן",
+            "start_page": 27,
+            "title": "• קלאסי וקל.",
+            "description": ""
+        },
+        {
+            "author": "שרון שדה",
+            "start_page": 30,
+            "title": "• לטוס על־חוט.",
+            "description": ""
+        },
+        {
+            "author": "עגר גוברין",
+            "start_page": 35,
+            "title": "עסקי אוויר. על אנשים, ארועים ואקטואליה",
+            "description": ""
+        },
+        {
+            "author": "ישגב נקדימון",
+            "start_page": 38,
+            "title": "״כאן נפל הפאנטום של אבא״. בנו של שמואל חץ ז״ל מבקר במקום נפילת אביו במצרים",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 40,
+            "title": "לטוס קרוב לאמא אדמה. עולמו של טייס מסק״ר",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 43,
+            "title": "סוחוי 24: יותר עמוק, יותר מדוייק. באויר המזה״ת",
+            "description": ""
+        },
+        {
+            "author": "ישגב נקדימון",
+            "start_page": 46,
+            "title": "ללא שליטה. על התמודדות עם מצבי לחץ",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 50,
+            "title": "קוברה 489 תחרת לחיים. 7055 7\\,707? ־ אין מושג כזה",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 52,
+            "title": "מבט מזווית אחרת. חיל האויר בעיני חילות היבשה והים",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 58,
+            "title": "פרחי הטיס של הנ״מ. קורס קצינים ברמה אחרת",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 62,
+            "title": "יומן נוכחות. 20 שנות יסעור",
+            "description": ""
+        },
+        {
+            "author": "גיא רימון",
+            "start_page": 66,
+            "title": "תעופה אלפיים. טייסת תעופה בבסיס",
+            "description": ""
+        },
+        {
+            "author": "גיל ארבל",
+            "start_page": 70,
+            "title": "להטוטי מסוקים. צוות אירובאטי חדש",
+            "description": ""
+        },
+        {
+            "author": "דן איקין",
+            "start_page": 73,
+            "title": "לקראת שמיים פתוחים. על סף אירופה 1992",
+            "description": ""
+        },
+        {
+            "author": "שרון שדה",
+            "start_page": 76,
+            "title": "באויר העולם. פרטים חדשים על 8-2",
+            "description": ""
+        },
+        {
+            "author": "אד הירש",
+            "start_page": 80,
+            "title": "צווח לעניין. על צוות הפיתוח של 71-1x71",
+            "description": ""
+        },
+        {
+            "author": "גיא רימון",
+            "start_page": 85,
+            "title": "מסכין יפנית עד מדחס אויר. כלי־עזר לבניית דגמים",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 90,
+            "title": "קראו לו מר 7-15. על רם קולר דל, טייס וג׳נטלמן",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 94,
+            "title": "האדם השלישי. על מכונאים מוטסים",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 98,
+            "title": "מטוס על הקרקע. בין גיחה לגיחה",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 103,
+            "title": "תעופה ספורטיבית. מדריך בטאון ח״א",
+            "description": ""
+        },
+        {
+            "author": "עגר גוברין",
+            "start_page": 109,
+            "title": "הכפר שגידל טייסי־קרב. על הסרט ״ספארטה בגליל״",
+            "description": ""
+        },
+        {
+            "author": "יואב ויגוגרד",
+            "start_page": 110,
+            "title": "תשמרו על קשר. על יחידת הקשר של ח״א",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 112,
+            "title": "בין הבסיסים.",
+            "description": ""
+        },
+        {
+            "author": "דנה לבוא",
+            "start_page": 114,
+            "title": "מטוסים חדשים למוזיאון.",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 115,
+            "title": "מדף אווירי.",
+            "description": ""
+        }
+    ]
+}

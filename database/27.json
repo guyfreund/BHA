@@ -1,0 +1,224 @@
+{
+    "metadata": {
+        "year": "1954",
+        "month": {
+            "to": "יוני",
+            "from": "מאי"
+        },
+        "date_of_publish": "Sat May 01 15:39:29 UTC 1954",
+        "issue_number": "27",
+        "publisher": "חיל האויר",
+        "editor": "משה פומרנץ",
+        "deputy_editor": "סגן יהודה עופר",
+        "graphics_editor": "-",
+        "technical_editor": "-",
+        "price": {
+            "amount": 600,
+            "type": "פרוטה"
+        },
+        "photographers": [
+            "נחום בן חורין",
+            "לזר חזקיה",
+            "יאן גרינברג",
+            "יעקב בורשיטין",
+            "דוד ארנפלד",
+            "בן בסס",
+            "אליהו הלוי",
+            "שלמה כהנא",
+            "דוד מזרחי"
+        ],
+        "system": "-",
+        "subscription_price": {
+            "amount": -1,
+            "type": ""
+        },
+        "number_of_pages": "204",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=610",
+        "title": "בטאון חיל האויר מאי -יוני 1954 מס' 27",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC27.pdf&page=Body&ProdID=610"
+    },
+    "index": [
+        {
+            "title": "פקודת יום ליום העצמאות תשי'ד",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "בפריס ובמוסקבה",
+            "description": "",
+            "start_page": 7,
+            "author": ""
+        },
+        {
+            "title": "הרפיד האדום",
+            "description": "",
+            "start_page": 16,
+            "author": ""
+        },
+        {
+            "title": "בשמי העולם החדש",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "בשמי המזרח התיכון",
+            "description": "",
+            "start_page": 32,
+            "author": ""
+        },
+        {
+            "title": "ג'ורג' יוסוף ופואר לומדים להטיס סילונים",
+            "description": "",
+            "start_page": 36,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 40,
+            "author": ""
+        },
+        {
+            "title": "תצלומים מספרים",
+            "description": "",
+            "start_page": 50,
+            "author": ""
+        },
+        {
+            "title": "מר דוליטל המופלא - סקירה",
+            "description": "",
+            "start_page": 56,
+            "author": ""
+        },
+        {
+            "title": "התוכל לזהות מטוסים אלו?",
+            "description": "",
+            "start_page": 68,
+            "author": ""
+        },
+        {
+            "title": "קליעים מודרכים",
+            "description": "",
+            "start_page": 70,
+            "author": ""
+        },
+        {
+            "title": "הבלונדינית והרובוט",
+            "description": "",
+            "start_page": 72,
+            "author": ""
+        },
+        {
+            "title": "מה פסול בתמונה זו?",
+            "description": "",
+            "start_page": 74,
+            "author": ""
+        },
+        {
+            "title": "קרב באויר",
+            "description": "",
+            "start_page": 75,
+            "author": ""
+        },
+        {
+            "title": "הנתיב לחלל",
+            "description": "",
+            "start_page": 81,
+            "author": ""
+        },
+        {
+            "title": "התשובה הנכונה",
+            "description": "",
+            "start_page": 90,
+            "author": ""
+        },
+        {
+            "title": "הם אוהבים לטוס",
+            "description": "",
+            "start_page": 92,
+            "author": ""
+        },
+        {
+            "title": "זיהוי כנפים",
+            "description": "",
+            "start_page": 94,
+            "author": ""
+        },
+        {
+            "title": "יוש נוסע למונטרו-סיטי",
+            "description": "",
+            "start_page": 95,
+            "author": ""
+        },
+        {
+            "title": "כוחה האוירי של פולניה",
+            "description": "",
+            "start_page": 101,
+            "author": ""
+        },
+        {
+            "title": "המנוע הסילוני",
+            "description": "",
+            "start_page": 104,
+            "author": ""
+        },
+        {
+            "title": "אוירודינמיקה",
+            "description": "",
+            "start_page": 114,
+            "author": ""
+        },
+        {
+            "title": "חחוזק המתכות בטמפרטורות גבוהות",
+            "description": "",
+            "start_page": 135,
+            "author": ""
+        },
+        {
+            "title": "תשובות לזיהוי מטוסים",
+            "description": "",
+            "start_page": 143,
+            "author": ""
+        },
+        {
+            "title": "דאיה על כנפי רוח",
+            "description": "",
+            "start_page": 145,
+            "author": ""
+        },
+        {
+            "title": "ממסלול באת",
+            "description": "",
+            "start_page": 147,
+            "author": ""
+        },
+        {
+            "title": "הם נותנים ביטחון והצלה",
+            "description": "",
+            "start_page": 157,
+            "author": ""
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 166,
+            "author": ""
+        },
+        {
+            "title": "דאר אויר",
+            "description": "",
+            "start_page": 174,
+            "author": ""
+        }
+    ]
+}

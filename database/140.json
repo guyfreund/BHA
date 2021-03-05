@@ -1,0 +1,141 @@
+{
+    "metadata": {
+        "issue_number": "140",
+        "year": "1984",
+        "month": {
+            "to": "יוני",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 200.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "בנציבר",
+            "1000"
+        ],
+        "subscription_price": {
+            "amount": 1000.0,
+            "type": "שקל"
+        },
+        "number_of_pages": "76",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=983",
+        "title": "בטאון חיל האויר יוני 1984 מס' 39 (140)",
+        "new_issue_number": 39,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC140.pdf&page=Body&ProdID=983"
+    },
+    "index": [
+        {
+            "title": "הקרב שלפני הקרב",
+            "description": "",
+            "start_page": 6,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "הוקאיי-מיפגשים מסוג אחר",
+            "description": "",
+            "start_page": 9,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "טכנולוגיות מאוחדות בבית שמש",
+            "description": "",
+            "start_page": 14,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "תקיפות העומק שברו את המצרים",
+            "description": "",
+            "start_page": 17,
+            "author": "יקיר אלקריב וירון כץ"
+        },
+        {
+            "title": "חברים מספרים על זוריק",
+            "description": "",
+            "start_page": 23,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "לא למשכן את העתיד",
+            "description": "",
+            "start_page": 30,
+            "author": "ירון כץ"
+        },
+        {
+            "title": "אינסטנט טייסת",
+            "description": "",
+            "start_page": 34,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "מוסטאנג בגלגול נשמות",
+            "description": "",
+            "start_page": 37,
+            "author": "גיל ארבל"
+        },
+        {
+            "title": "פאראדוכסיםם היסטוריים",
+            "description": "",
+            "start_page": 31,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "להפתיע את האוייב על הקרקע",
+            "description": "",
+            "start_page": 47,
+            "author": "תא\"ל א'"
+        },
+        {
+            "title": "הכפיר של נורית",
+            "description": "",
+            "start_page": 50,
+            "author": "ליאת גולדשטיין"
+        },
+        {
+            "title": "קפיצת מדרגה מסוקית",
+            "description": "",
+            "start_page": 52,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "צ'אפארל - הפלה ראשונה",
+            "description": "",
+            "start_page": 57,
+            "author": "ריקי ריבלין"
+        },
+        {
+            "title": "באוי העולם",
+            "description": "",
+            "start_page": 59,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "אור באורט חילי",
+            "description": "",
+            "start_page": 65,
+            "author": "ריקי ריבלין"
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 67,
+            "author": ""
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 68,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 72,
+            "author": ""
+        }
+    ]
+}

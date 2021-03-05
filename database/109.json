@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "issue_number": "109",
+        "year": "1979",
+        "month": {
+            "to": "דצמבר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 12.0,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": 62.0,
+            "type": "לירה ישראלית"
+        },
+        "number_of_pages": "68",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=948",
+        "title": "בטאון חיל האויר דצמבר 1978 מס' 8 (109)",
+        "new_issue_number": 8,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC109.pdf&page=Body&ProdID=948"
+    },
+    "index": [
+        {
+            "title": "ראשונים לקרב - ראשונים לשלום",
+            "description": "",
+            "start_page": 3,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "כפירי שמיים כפירי קרקע",
+            "description": "",
+            "start_page": 7,
+            "author": "רון הדר"
+        },
+        {
+            "title": "לאנטבה ובחזרה",
+            "description": "",
+            "start_page": 10,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "מבצע \"נחשון\" האוירי",
+            "description": "",
+            "start_page": 15,
+            "author": "אלי אייל"
+        },
+        {
+            "title": "ציפורי הלילה של טייסת הגליל",
+            "description": "",
+            "start_page": 17,
+            "author": "רזי גוטרמן"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 21,
+            "author": ""
+        },
+        {
+            "title": "נמחק מהסד\"כ",
+            "description": "",
+            "start_page": 25,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "כיבוי אש ב-50 שניות",
+            "description": "",
+            "start_page": 30,
+            "author": "אריה ברנע"
+        },
+        {
+            "title": "אשר על הדגמים",
+            "description": "",
+            "start_page": 32,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "פואימה פדגוגית אוירית",
+            "description": "",
+            "start_page": 34,
+            "author": "אריה ברנע"
+        },
+        {
+            "title": "פאנבורו ",
+            "description": "",
+            "start_page": 36,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "מכתבים",
+            "description": "",
+            "start_page": 41,
+            "author": ""
+        },
+        {
+            "title": "ההפצצות השיגו מטרתן",
+            "description": "",
+            "start_page": 42,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "באויר המזרח-התיכון",
+            "description": "",
+            "start_page": 44,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "המטריה האוירית של אלנבי",
+            "description": "",
+            "start_page": 47,
+            "author": "רון בודנר"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 53,
+            "author": ""
+        }
+    ]
+}

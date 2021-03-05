@@ -1,0 +1,224 @@
+{
+    "metadata": {
+        "year": "1957",
+        "month": {
+            "to": "יוני",
+            "from": "מאי"
+        },
+        "issue_number": "39-40",
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סגן יהודה עופר",
+        "price": {
+            "amount": -1,
+            "type": ""
+        },
+        "photographers": [
+            "קרול דויטש",
+            "בר שמשון",
+            "גרינברג אדם",
+            "הלפמן דוד",
+            "טאובר אוסקר",
+            "כהן יצחק",
+            "ניאזי אלויה"
+        ],
+        "subscription_price": {
+            "amount": -1,
+            "type": ""
+        },
+        "number_of_pages": "234",
+        "subscription_only": true,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=866",
+        "title": "בטאון חיל האויר 1957 מס' 39-40",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC39-40.pdf&page=Body&ProdID=866"
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "מצפלין עד פנטר",
+            "description": "",
+            "start_page": 14,
+            "author": "אלעזר הורביץ"
+        },
+        {
+            "title": "רודי-האיש שאינו רודה באנשיו",
+            "description": "",
+            "start_page": 21,
+            "author": "יעקב בן אמיר"
+        },
+        {
+            "title": "2 תפקידים לאחת",
+            "description": "",
+            "start_page": 25,
+            "author": "פרץ עופר"
+        },
+        {
+            "title": "אורי וג'ורג' נפגשו בקליפורניה",
+            "description": "",
+            "start_page": 28,
+            "author": ""
+        },
+        {
+            "title": "אחד בסירה אחת",
+            "description": "",
+            "start_page": 30,
+            "author": ""
+        },
+        {
+            "title": "הרשיונות חולקו על ידי הנציב העליון",
+            "description": "",
+            "start_page": 40,
+            "author": "יצחק זמיר"
+        },
+        {
+            "title": "המיסטר ואני",
+            "description": "",
+            "start_page": 46,
+            "author": ""
+        },
+        {
+            "title": "תעשיית המטוסים הצרפתית לשיאים חדשים",
+            "description": "",
+            "start_page": 52,
+            "author": "סרן יהודה עופר"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 74,
+            "author": ""
+        },
+        {
+            "title": "תצלומים מספרים",
+            "description": "",
+            "start_page": 88,
+            "author": ""
+        },
+        {
+            "title": "",
+            "description": "אדוארדס",
+            "start_page": 94,
+            "author": "רענן לוריא"
+        },
+        {
+            "title": "שמפו של דאלי",
+            "description": "",
+            "start_page": 106,
+            "author": "פיליפ הולסמן"
+        },
+        {
+            "title": "סכנה! להטוטי אוויר",
+            "description": "",
+            "start_page": 132,
+            "author": ""
+        },
+        {
+            "title": "האדם המעופף",
+            "description": "",
+            "start_page": 135,
+            "author": "ליאו ולנטין"
+        },
+        {
+            "title": "כיבוש שמי תעלת למנש",
+            "description": "",
+            "start_page": 151,
+            "author": "דוקטור אמיל פוירשטיין"
+        },
+        {
+            "title": "מיהו ג'ינס?",
+            "description": "",
+            "start_page": 152,
+            "author": ""
+        },
+        {
+            "title": "מלחמת האויר באלג'יריה",
+            "description": "",
+            "start_page": 153,
+            "author": ""
+        },
+        {
+            "title": "אוירודינמיקה (18)",
+            "description": "",
+            "start_page": 159,
+            "author": "דוד אביר (אברמוביץ)"
+        },
+        {
+            "title": "המנוע הסלוני",
+            "description": "",
+            "start_page": 170,
+            "author": "זאב סגל"
+        },
+        {
+            "title": "יירוט במהירויות גבוהות (רשימה לטייסים)",
+            "description": "",
+            "start_page": 178,
+            "author": "רב-סרן אריה הלל"
+        },
+        {
+            "title": "שלישית נחשוני האויר האלביונית",
+            "description": "",
+            "start_page": 181,
+            "author": "עמנואל בן גוריון"
+        },
+        {
+            "title": "גופך והמטוס",
+            "description": "",
+            "start_page": 191,
+            "author": ""
+        },
+        {
+            "title": "רקיטה + סילון - במטוס הירוט של המחר?",
+            "description": "",
+            "start_page": 198,
+            "author": ""
+        },
+        {
+            "title": "בדד במרחבים",
+            "description": "",
+            "start_page": 202,
+            "author": "חיים סרטאי"
+        },
+        {
+            "title": "מצרים 1956L מלחמה על פי ספרי הלימוד",
+            "description": "",
+            "start_page": 211,
+            "author": ""
+        },
+        {
+            "title": "מיגים חדשים במצרים",
+            "description": "",
+            "start_page": 216,
+            "author": "א. דובינסקי וי. אלירז"
+        },
+        {
+            "title": "4-מנועיים בחצי האי ערב",
+            "description": "",
+            "start_page": 222,
+            "author": ""
+        },
+        {
+            "title": "שטיחים מעופפים מעל בגדד",
+            "description": "",
+            "start_page": 223,
+            "author": "ג'ון ניגרה"
+        },
+        {
+            "title": "השטיחים הללו...",
+            "description": "",
+            "start_page": 225,
+            "author": ""
+        }
+    ]
+}

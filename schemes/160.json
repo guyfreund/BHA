@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "issue_number": "160",
+        "year": "1987",
+        "month": {
+            "from": "ספטמבר",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 3.5,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": 15.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר"
+        ],
+        "number_of_pages": 88,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "עסקי אויר",
+            "description": "",
+            "start_page": 6,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "על המסלול",
+            "description": "",
+            "start_page": 10,
+            "author": "אלינער בן-עקיבא"
+        },
+        {
+            "title": "כוח אוירי ביד",
+            "description": "",
+            "start_page": 14,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "מרדף בגובה אפס",
+            "description": "",
+            "start_page": 18,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "שני מבנים-מטרה אחת",
+            "description": "",
+            "start_page": 25,
+            "author": "דרור מרום וגיא רימון"
+        },
+        {
+            "title": "יום ארועים",
+            "description": "",
+            "start_page": 26,
+            "author": ""
+        },
+        {
+            "title": "הספינקס הסורי",
+            "description": "",
+            "start_page": 28,
+            "author": "דריה מעוז"
+        },
+        {
+            "title": "מלחמה היא עבודת צוות",
+            "description": "",
+            "start_page": 34,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "איגוף מצפון: סוחוי 27",
+            "description": "",
+            "start_page": 38,
+            "author": "אודי צופף"
+        },
+        {
+            "title": "המפקד היוצא של חיל-האויר, האלוף עמוס לפידות: לחזור הביתה בשלום",
+            "description": "",
+            "start_page": 40,
+            "author": "אהרון לפידות וטייל ארליך"
+        },
+        {
+            "title": "המפקד הנכנס של חיל-האויר, האלוף אביהו בן-נון: האתגר-לשמור על פער האיכות",
+            "description": "",
+            "start_page": 46,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "ראדא: אויוניקה בסטנדארט אמריקני",
+            "description": "",
+            "start_page": 50,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "אייר פראנס: קאראוול -קונקורד-איירבוס",
+            "description": "",
+            "start_page": 52,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "עמוס, ליוון ישראלי ראשון בחלל",
+            "description": "",
+            "start_page": 55,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 58,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "עליונות מקומית",
+            "description": "",
+            "start_page": 61,
+            "author": "שמואל גורדון"
+        },
+        {
+            "title": "החוליה",
+            "description": "",
+            "start_page": 66,
+            "author": "נפתלי ארבל"
+        },
+        {
+            "title": "X-29: לפנים וקדימה",
+            "description": "",
+            "start_page": 70,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "צבע כנפי הכסף",
+            "description": "",
+            "start_page": 73,
+            "author": "דריה מעוז"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 76,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        }
+    ]
+}

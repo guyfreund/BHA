@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "issue_number": "62",
+        "year": "1963",
+        "month": {
+            "to": "אוגוסט",
+            "from": "יולי"
+        },
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סגן יהודה עופר",
+        "price": {
+            "amount": 1.5,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "166",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=856",
+        "title": "בטאון חיל האויר יולי-אוגוסט 1963 מס' 62",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC62.pdf&page=Body&ProdID=856"
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "פקודת יום",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "ייסי מאך 2 של ישראל",
+            "description": "",
+            "start_page": 8,
+            "author": "ע. מרים"
+        },
+        {
+            "title": "אפילו דאסו לא חלם...",
+            "description": "",
+            "start_page": 20,
+            "author": "ד. רפפורט"
+        },
+        {
+            "title": "מירז' זה מירז'",
+            "description": "",
+            "start_page": 40,
+            "author": "ט. יעקב"
+        },
+        {
+            "title": "צבר ושמו דני",
+            "description": "",
+            "start_page": 50,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 62,
+            "author": ""
+        },
+        {
+            "title": "אספקלריה אוירית",
+            "description": "",
+            "start_page": 65,
+            "author": ""
+        },
+        {
+            "title": "כאן מחדשים עלומי המטוס",
+            "description": "",
+            "start_page": 70,
+            "author": "י. בן אמיר"
+        },
+        {
+            "title": "יום הורים",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        },
+        {
+            "title": "אוירובטיקה בטכניקולור",
+            "description": "",
+            "start_page": 81,
+            "author": "א. גיליס"
+        },
+        {
+            "title": "מטוס בעל עודף מרץ",
+            "description": "",
+            "start_page": 86,
+            "author": "יהודה עופר"
+        },
+        {
+            "title": "הצלם האוירי הראשון בארץ ישראל",
+            "description": "",
+            "start_page": 99,
+            "author": ""
+        },
+        {
+            "title": "800 אלף עיניים מלמטה",
+            "description": "",
+            "start_page": 106,
+            "author": "יעקב טרנר"
+        },
+        {
+            "title": "בשמי המזרח התיכון",
+            "description": "",
+            "start_page": 113,
+            "author": ""
+        },
+        {
+            "title": "מיג-21",
+            "description": "",
+            "start_page": 121,
+            "author": ""
+        },
+        {
+            "title": "המטאטא המכושף",
+            "description": "",
+            "start_page": 125,
+            "author": ""
+        },
+        {
+            "title": "בגד-החלל הוא כוונת-טילים",
+            "description": "",
+            "start_page": 126,
+            "author": ""
+        },
+        {
+            "title": "היום דמיון - מחר מציאות ? ",
+            "description": "",
+            "start_page": 128,
+            "author": ""
+        },
+        {
+            "title": "מהירויות ומרחקים בעידן החלל",
+            "description": "",
+            "start_page": 135,
+            "author": ""
+        },
+        {
+            "title": "לקראת מבצע אפולו",
+            "description": "",
+            "start_page": 141,
+            "author": "סא,ל ד\"ר ד. ברוך"
+        },
+        {
+            "title": "מה הריץ את לוין?",
+            "description": "",
+            "start_page": 150,
+            "author": ""
+        },
+        {
+            "title": "כנויים חדשים למטוסי ארה\"ב",
+            "description": "",
+            "start_page": 158,
+            "author": ""
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "year": "1955",
+        "month": {
+            "to": "אפריל",
+            "from": "מרץ"
+        },
+        "date_of_publish": "Tue Mar 01 16:40:25 UTC 1955",
+        "issue_number": "31",
+        "publisher": "חיל האויר",
+        "editor": "משה פומרנץ",
+        "deputy_editor": "סגן יהודה עופר",
+        "graphics_editor": "-",
+        "technical_editor": "-",
+        "price": {
+            "amount": 600,
+            "type": "פרוטה"
+        },
+        "photographers": [
+            "דוד מזרחי",
+            "יצחק כהן",
+            "יהודה ע.",
+            "יאן גרינברג"
+        ],
+        "system": "-",
+        "subscription_price": {
+            "amount": -1,
+            "type": ""
+        },
+        "number_of_pages": "184",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=1012",
+        "title": "בטאון חיל האויר מרץ-אפריל 1955 מס' 31",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC31.pdf&page=Body&ProdID=1012"
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "ציון לשבח",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "צו קריאה",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 23,
+            "author": ""
+        },
+        {
+            "title": "תצלומים מספרים",
+            "description": "",
+            "start_page": 32,
+            "author": ""
+        },
+        {
+            "title": "הסייבר התחלק כמו על חמאה",
+            "description": "",
+            "start_page": 37,
+            "author": ""
+        },
+        {
+            "title": "תסריט ליום האטום?",
+            "description": "",
+            "start_page": 38,
+            "author": ""
+        },
+        {
+            "title": "הן מתחרות בצפורים",
+            "description": "",
+            "start_page": 40,
+            "author": ""
+        },
+        {
+            "title": "אורות הגישה הגורליים",
+            "description": "",
+            "start_page": 44,
+            "author": ""
+        },
+        {
+            "title": "מטוסים מעל אידלווילד",
+            "description": "",
+            "start_page": 44,
+            "author": ""
+        },
+        {
+            "title": "צנחנים של סוף השבוע",
+            "description": "",
+            "start_page": 50,
+            "author": ""
+        },
+        {
+            "title": "נאצי נלהב - בראש ח.א. הגרמני החדש",
+            "description": "",
+            "start_page": 52,
+            "author": ""
+        },
+        {
+            "title": "חוזק המטוסים מהו?",
+            "description": "",
+            "start_page": 55,
+            "author": ""
+        },
+        {
+            "title": "אוירודינמיקה (12)",
+            "description": "",
+            "start_page": 76,
+            "author": ""
+        },
+        {
+            "title": "מבנה המטוס - חיקוי לקליפת הביצה",
+            "description": "",
+            "start_page": 96,
+            "author": ""
+        },
+        {
+            "title": "המנוע הסילוני (9)",
+            "description": "",
+            "start_page": 104,
+            "author": ""
+        },
+        {
+            "title": "ניקבת הסופות",
+            "description": "",
+            "start_page": 119,
+            "author": ""
+        },
+        {
+            "title": "צנחתי מ-400 רגל",
+            "description": "",
+            "start_page": 123,
+            "author": ""
+        },
+        {
+            "title": "אחזקה אוירית",
+            "description": "",
+            "start_page": 125,
+            "author": ""
+        },
+        {
+            "title": "כך נבדקים צוותות האויר",
+            "description": "",
+            "start_page": 134,
+            "author": ""
+        },
+        {
+            "title": "העשרים וחמש שנות טיסה",
+            "description": "",
+            "start_page": 149,
+            "author": ""
+        },
+        {
+            "title": "התשובה הנכונה",
+            "description": "",
+            "start_page": 154,
+            "author": ""
+        },
+        {
+            "title": "דאר אויר",
+            "description": "",
+            "start_page": 156,
+            "author": ""
+        },
+        {
+            "title": "בשמי המזרח התיכון",
+            "description": "",
+            "start_page": 159,
+            "author": ""
+        }
+    ]
+}

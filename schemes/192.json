@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "issue_number": "192",
+        "year": "1993",
+        "month": {
+            "from": "יוני",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 12.0,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": 65.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "רביב גנשרוא",
+            "שאול שוורץ",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר"
+        ],
+        "number_of_pages": "",
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "מפקד חיל האויר: ההיערכות שלנו צריכה להיות מול יכולת האויב, לא מול ניחוש כוונותיו",
+            "description": "",
+            "start_page": 2,
+            "author": ""
+        },
+        {
+            "title": "פרסום ראשון: \"אגרוף סגול\" - טיל אויר קרקע נגד סוללת טילים",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "העשירון העליון: חשיפה ראשונה של תוכנית \"אתגר\", המיועדת להצמיח את צמרת הפיקוד העתידית של חיל-האויר",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "פנתר: חיל-האויר החליט להגדיל את מערך המסוקים הימיים. על הפרק, רכש אפשרי של מסוק מסוג פנתר",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "המסגרת המאבק בטרור",
+            "description": "",
+            "start_page": 14,
+            "author": "קובי מרינקו"
+        },
+        {
+            "title": "עצמאים בשטח",
+            "description": "",
+            "start_page": 18,
+            "author": "עינת אהרונוב"
+        },
+        {
+            "title": "הזמן הירוק",
+            "description": "",
+            "start_page": 22,
+            "author": "קובי מרינקו"
+        },
+        {
+            "title": "בנעליים גדולות",
+            "description": "",
+            "start_page": 26,
+            "author": "רועי צהר"
+        },
+        {
+            "title": "4X4",
+            "description": "",
+            "start_page": 32,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "מעל גגות תל-אביב",
+            "description": "",
+            "start_page": 38,
+            "author": "רביב גנשרוא"
+        },
+        {
+            "title": "46, פעם שנייה",
+            "description": "",
+            "start_page": 46,
+            "author": "דן סלע"
+        },
+        {
+            "title": "הקלות הבלתי נסבלת",
+            "description": "",
+            "start_page": 52,
+            "author": "שרון גבע"
+        },
+        {
+            "title": "ממריאים",
+            "description": "",
+            "start_page": 60,
+            "author": "שרון גבע"
+        },
+        {
+            "title": "יושבים על הגדר",
+            "description": "",
+            "start_page": 64,
+            "author": "דן סלע"
+        },
+        {
+            "title": "עולים על טיל",
+            "description": "",
+            "start_page": 68,
+            "author": "רועי יצהר"
+        },
+        {
+            "title": "א\"ב של אירובאטיקה",
+            "description": "",
+            "start_page": 74,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 81,
+            "author": ""
+        },
+        {
+            "title": "מטוס התובלה העתידי של צבא ארה\"ב, ה-C-17, בצרות",
+            "description": "",
+            "start_page": 82,
+            "author": ""
+        },
+        {
+            "title": "שיתוף פעולה רוסי-אמריקני בתחנת-חלל",
+            "description": "",
+            "start_page": 84,
+            "author": ""
+        },
+        {
+            "title": "F-16 בלוק 500 ראשון",
+            "description": "",
+            "start_page": 86,
+            "author": ""
+        }
+    ]
+}

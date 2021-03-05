@@ -1,0 +1,186 @@
+{
+    "metadata": {
+        "issue_number": "170",
+        "year": "1989",
+        "month": {
+            "to": "יולי",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 6.5,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 36.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר",
+            "שלמה וולקוביץ"
+        ],
+        "number_of_pages": "124",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=825",
+        "title": "בטאון חיל האויר יולי 1989 מס' 69 (170)",
+        "new_issue_number": 69,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC170.pdf&page=Body&ProdID=825"
+    },
+    "index": [
+        {
+            "author": "ישגב נקדימון",
+            "start_page": 4,
+            "title": "מלת המפתח ורסאטיליות. על הזנקות בטייסת 160 ־ק",
+            "description": ""
+        },
+        {
+            "author": "ענר גוברין",
+            "start_page": 11,
+            "title": "עסקי אויר. על אנשים, אירועים ואקטואליה",
+            "description": ""
+        },
+        {
+            "author": "אהרון לפידוח",
+            "start_page": 14,
+            "title": "מאזן האיומים. ראיון אם מפקד חיל־האויר, האלוף אביהו בן־נון",
+            "description": ""
+        },
+        {
+            "author": "אריאל גולו",
+            "start_page": 19,
+            "title": "לטוס מרפידים. דף בספר הטיסות של האלוף רן גורן",
+            "description": ""
+        },
+        {
+            "author": "שרון ארגוב",
+            "start_page": 20,
+            "title": "עם הקוקו בלי הסרפן ב־6 ג׳י. כתבת הבטאון טסה ב־16־ק",
+            "description": ""
+        },
+        {
+            "author": "אייל ארליך",
+            "start_page": 22,
+            "title": "על האדם ועל כוח האדם. ראיון מיוחד עם ראש להקכוח־אדם, תא״י משה מורג",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 26,
+            "title": "כולם מחפשים זנב. עולמם של טייסי יירוט",
+            "description": ""
+        },
+        {
+            "author": "ישגב נקדימון",
+            "start_page": 32,
+            "title": "מבחן שמים לטוקאנו. מטוס ההדרכה הבראזילי בישראל",
+            "description": ""
+        },
+        {
+            "author": "דרור מרום",
+            "start_page": 36,
+            "title": "כוח אש. גיבוש מערך מסוקי הקרב בחיל־האויר",
+            "description": ""
+        },
+        {
+            "author": "דגה לבוא",
+            "start_page": 42,
+            "title": "וכל אחד פרח אחר. בוגרי קורס הטיס יולי 1989",
+            "description": ""
+        },
+        {
+            "author": "דפי ויטלה",
+            "start_page": 46,
+            "title": "תחנת בקרה מעופפת. עשור למטוסי ההוקאיי בחיל־האויר",
+            "description": ""
+        },
+        {
+            "author": "שרון ארגוב",
+            "start_page": 50,
+            "title": "טיפול 10,000 בסיסי. על תחזוקה מונעת",
+            "description": ""
+        },
+        {
+            "author": "מל״ט עם אימפקט גדול. דור שלישי למל״טים מתוצרת התעשיה האוירית אריה אגוזי",
+            "start_page": 53,
+            "title": "",
+            "description": ""
+        },
+        {
+            "author": "אנחנו שנינו מאותה טייסת. קורס הטיס הראשון של אל־על זה 10 שנים דן ארקין",
+            "start_page": 54,
+            "title": "",
+            "description": ""
+        },
+        {
+            "author": "אהרון לפידות",
+            "start_page": 58,
+            "title": "סאלון רוסי. הסאלון האוירי ה־38 בלה־בורז׳ה",
+            "description": ""
+        },
+        {
+            "author": "צבי גוטמן",
+            "start_page": 68,
+            "title": "צווח אלפא. הצוות האירובאטי של חיל־האויר הצרפתי",
+            "description": ""
+        },
+        {
+            "author": "שרון שדה",
+            "start_page": 74,
+            "title": "ללא חתימת מכ״ם ־ 8-2 בשדה הקרב העתידי",
+            "description": ""
+        },
+        {
+            "author": "גורדון לויט",
+            "start_page": 78,
+            "title": "גוי של שבח. פרק מיומנו של מתנדב מח״ל",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגוד",
+            "start_page": 84,
+            "title": "מקצועות אויריים. מדריך בטאון חיל־האויר למתגייס",
+            "description": ""
+        },
+        {
+            "author": "גיא רימון",
+            "start_page": 88,
+            "title": "בכל קנה מידה. בונה דגמים בן 13",
+            "description": ""
+        },
+        {
+            "author": "שרון שדה",
+            "start_page": 92,
+            "title": "באויר העולם. טיסת־בכורה ל־7-15 08^700/1§",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 94,
+            "title": "מניצנים ללוחמים. טירונות נ״מ",
+            "description": ""
+        },
+        {
+            "author": "גיא רימון",
+            "start_page": 98,
+            "title": "הינשוף הזקן. על טייסת סופר־פרלונים",
+            "description": ""
+        },
+        {
+            "author": "יואב וינוגרד",
+            "start_page": 108,
+            "title": "נשארים באויר. גדנ״ע אויר בדרך למעלה",
+            "description": ""
+        },
+        {
+            "author": "",
+            "start_page": 112,
+            "title": "בין הבסיסים",
+            "description": ""
+        }
+    ]
+}

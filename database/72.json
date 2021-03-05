@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "issue_number": "72",
+        "year": "1966",
+        "month": {
+            "to": "אוקטובר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": 1.75,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "162",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=837",
+        "title": "בטאון חיל האויר אוקטובר 1966 מס' 72",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC72.pdf&page=Body&ProdID=837"
+    },
+    "index": [
+        {
+            "title": "עשור לקדש",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "מיסטר - המטוס של סיני",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "הרפתקה במדבר",
+            "description": "",
+            "start_page": 25,
+            "author": "מ. נאור"
+        },
+        {
+            "title": "אספקלריה אוירית",
+            "description": "",
+            "start_page": 34,
+            "author": ""
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 50,
+            "author": ""
+        },
+        {
+            "title": "מטוסי הקוו - כקוו המכחול",
+            "description": "",
+            "start_page": 53,
+            "author": "צ. גוטמן"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 58,
+            "author": "י. עופר"
+        },
+        {
+            "title": "אפריקה - כוחה האוירי של היבשת",
+            "description": "",
+            "start_page": 77,
+            "author": ""
+        },
+        {
+            "title": "״פוגות״ מעל אוגנדה",
+            "description": "",
+            "start_page": 87,
+            "author": "י. עופר"
+        },
+        {
+            "title": "הזבוב האירובטי",
+            "description": "",
+            "start_page": 92,
+            "author": ""
+        },
+        {
+            "title": "נפילת המבצר",
+            "description": "",
+            "start_page": 95,
+            "author": ""
+        },
+        {
+            "title": "טילים בצפון ויאטנם",
+            "description": "",
+            "start_page": 101,
+            "author": ""
+        },
+        {
+            "title": "המטוס למלחמה במרידות",
+            "description": "",
+            "start_page": 108,
+            "author": ""
+        },
+        {
+            "title": "משפחת ה״מירז׳״",
+            "description": "",
+            "start_page": 116,
+            "author": "י. עופר"
+        },
+        {
+            "title": "״לולייני השחקים״",
+            "description": "",
+            "start_page": 127,
+            "author": ""
+        },
+        {
+            "title": "עבודתו האחרונה של פול",
+            "description": "",
+            "start_page": 135,
+            "author": ""
+        },
+        {
+            "title": "כלי טיס סוללים דרך לירח",
+            "description": "",
+            "start_page": 142,
+            "author": ""
+        },
+        {
+            "title": "״פערי נשק״ במרוצת הדורות",
+            "description": "",
+            "start_page": 152,
+            "author": ""
+        },
+        {
+            "title": "מטוסי בקרב של סוחוי - ״גולדי״",
+            "description": "",
+            "start_page": 154,
+            "author": ""
+        },
+        {
+            "title": "ה״ליברייטור״ טבל בים",
+            "description": "",
+            "start_page": 157,
+            "author": ""
+        }
+    ]
+}

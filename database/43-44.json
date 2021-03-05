@@ -1,0 +1,263 @@
+{
+    "metadata": {
+        "year": "1958",
+        "month": {
+            "to": "מאי",
+            "from": "אפריל"
+        },
+        "issue_number": "43-44",
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סגן יהודה עופר",
+        "price": {
+            "amount": 1750,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [
+            "ש. בייג",
+            "דייב הלפמן",
+            "א. ווידנהויז",
+            "יצחק כהן",
+            "פריץ כהן",
+            "ניהזי אלויה",
+            "שמואל הירש",
+            "קלוגר",
+            "אריה שאשוע",
+            "יעקב מחט"
+        ],
+        "subscription_price": {
+            "amount": -1,
+            "type": ""
+        },
+        "number_of_pages": "295",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=1022",
+        "title": "בטאון חיל האויר אפריל מאי 1958 מס' 43-44",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC44-43.pdf&page=Body&ProdID=1022"
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "פקודת יון של מפקד חיל האויר",
+            "description": "",
+            "start_page": 7,
+            "author": ""
+        },
+        {
+            "title": "כך נולד הרעיון המקורי",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "סוללי העצמאות באויר",
+            "description": "",
+            "start_page": 20,
+            "author": "אדם שתקאי"
+        },
+        {
+            "title": "רכש-להיות או לחדול?",
+            "description": "",
+            "start_page": 42,
+            "author": "הימן שמיר"
+        },
+        {
+            "title": "משאל - מה היתה החוויה האוירית הגדולה ביותר בחייך?",
+            "description": "",
+            "start_page": 50,
+            "author": "מירה אברך"
+        },
+        {
+            "title": "מכת בכורות משמי אשדוד",
+            "description": "",
+            "start_page": 61,
+            "author": "דניאל דורון"
+        },
+        {
+            "title": "הרברדים צוללים על פאלוג'ה",
+            "description": "",
+            "start_page": 64,
+            "author": "עודד אברבנאל"
+        },
+        {
+            "title": "הבופייטר",
+            "description": "",
+            "start_page": 68,
+            "author": ""
+        },
+        {
+            "title": "דקוטה גולש למים",
+            "description": "",
+            "start_page": 72,
+            "author": ""
+        },
+        {
+            "title": "שר הביטחון מלוה התעצמותו של חיל האויר",
+            "description": "",
+            "start_page": 95,
+            "author": ""
+        },
+        {
+            "title": "קפיצות הדרך היבשתיות של המטה האוירי",
+            "description": "",
+            "start_page": 100,
+            "author": "יעקב בן אמיר"
+        },
+        {
+            "title": "נחיתת אונס על גדות הזמבזי",
+            "description": "",
+            "start_page": 107,
+            "author": ""
+        },
+        {
+            "title": "תעלומת מכרז העודפים",
+            "description": "",
+            "start_page": 110,
+            "author": ""
+        },
+        {
+            "title": "לוד - ת'א, הטיסה הגורלית",
+            "description": "",
+            "start_page": 113,
+            "author": ""
+        },
+        {
+            "title": "החלפת פרופלר אחרי כל טיסה",
+            "description": "",
+            "start_page": 115,
+            "author": ""
+        },
+        {
+            "title": "כאשר קורסי הטיס נערכו ב...רפתות",
+            "description": "",
+            "start_page": 118,
+            "author": ""
+        },
+        {
+            "title": "קרב לעיני רבבות",
+            "description": "",
+            "start_page": 120,
+            "author": ""
+        },
+        {
+            "title": "בדד בלילה אפור",
+            "description": "",
+            "start_page": 122,
+            "author": "י. הירש"
+        },
+        {
+            "title": "החיתת אונס בשדה חצילים",
+            "description": "",
+            "start_page": 126,
+            "author": "י. אלטמן"
+        },
+        {
+            "title": "טבילת אש ראשונה",
+            "description": "",
+            "start_page": 130,
+            "author": "א. רוזן"
+        },
+        {
+            "title": "תינוק - הדאון הקטן ביותר בעולם",
+            "description": "",
+            "start_page": 134,
+            "author": ""
+        },
+        {
+            "title": "העלמה ניקול הגיעה מפריס",
+            "description": "",
+            "start_page": 146,
+            "author": ""
+        },
+        {
+            "title": "כך נולד הספיטפייר הראשון",
+            "description": "",
+            "start_page": 148,
+            "author": ""
+        },
+        {
+            "title": "מכחולו המעופף של רענן",
+            "description": "",
+            "start_page": 150,
+            "author": "ר. לוריא"
+        },
+        {
+            "title": "קרב - במהירות סילונית",
+            "description": "",
+            "start_page": 164,
+            "author": ""
+        },
+        {
+            "title": "הפגזים נכנסו לו ישר לצינור הפליטה!",
+            "description": "",
+            "start_page": 183,
+            "author": ""
+        },
+        {
+            "title": "חידון העשור",
+            "description": "",
+            "start_page": 204,
+            "author": ""
+        },
+        {
+            "title": "ממסך התכלת למסך הכסף",
+            "description": "",
+            "start_page": 208,
+            "author": "זאב רב-נוף"
+        },
+        {
+            "title": "נפתרה תעלומת טיסה מספר 777",
+            "description": "",
+            "start_page": 211,
+            "author": ""
+        },
+        {
+            "title": "בריחה מבור הגוססים",
+            "description": "",
+            "start_page": 215,
+            "author": ""
+        },
+        {
+            "title": "טיפטיפה מטיפטופי טיפיט",
+            "description": "",
+            "start_page": 232,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 237,
+            "author": "רב-סרן יהודה עופר"
+        },
+        {
+            "title": "על סף תקופת הטילים",
+            "description": "",
+            "start_page": 246,
+            "author": ""
+        },
+        {
+            "title": "דגמי הנייר העל-קוליים",
+            "description": "",
+            "start_page": 263,
+            "author": ""
+        },
+        {
+            "title": "כיצד תבנה לך דגם מיסטר",
+            "description": "",
+            "start_page": 265,
+            "author": ""
+        },
+        {
+            "title": "קל מן האויר",
+            "description": "",
+            "start_page": 268,
+            "author": ""
+        }
+    ]
+}

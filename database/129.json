@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "issue_number": "129",
+        "year": "1982",
+        "month": {
+            "to": "יולי",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 25.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "130",
+            "שקל"
+        ],
+        "subscription_price": {
+            "amount": 130.0,
+            "type": "שקל"
+        },
+        "number_of_pages": "54",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=993",
+        "title": "בטאון חיל האויר יולי 1982 מס' 28 (129)",
+        "new_issue_number": 28,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC129.pdf&page=Body&ProdID=993"
+    },
+    "index": [
+        {
+            "title": "המערכה האוירית 16.6.82 - 4.6.82",
+            "description": "",
+            "start_page": 2,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "כפיר שאג מי לא יירא?",
+            "description": "",
+            "start_page": 3,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "הרסנו את מערך האוייב",
+            "description": "",
+            "start_page": 5,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "נוסחת הפלא של טייסי ה-F-16",
+            "description": "",
+            "start_page": 6,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "טייסות הנגב הרחוק שלטו בשמי לבנון",
+            "description": "",
+            "start_page": 7,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "תקיפת לילה",
+            "description": "",
+            "start_page": 8,
+            "author": "סרן ע'"
+        },
+        {
+            "title": "מלחמה חדשה, אנשים חדשים",
+            "description": "",
+            "start_page": 9,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "שלושה גליונות מיוחדים",
+            "description": "",
+            "start_page": 11,
+            "author": "משה הדר"
+        },
+        {
+            "title": "עיני טייס המסוק והשבוי הסורי נפגשו",
+            "description": "",
+            "start_page": 39,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "אצלנו כל טייס הוא מפקד",
+            "description": "",
+            "start_page": 40,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "מסוק הקרב כאן בלבנון",
+            "description": "",
+            "start_page": 41,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "מבט מלמעלה על המלחמה שלמטה",
+            "description": "",
+            "start_page": 43,
+            "author": "סרן א'"
+        },
+        {
+            "title": "נ\"מ - נגד מחבלים",
+            "description": "",
+            "start_page": 44,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "המלחמה על החיים",
+            "description": "",
+            "start_page": 46,
+            "author": "אהרון לפידות"
+        }
+    ]
+}

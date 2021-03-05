@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "issue_number": "133",
+        "year": "1983",
+        "month": {
+            "to": "אפריל",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 50.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "גיל ארבל"
+        ],
+        "subscription_price": {
+            "amount": 250.0,
+            "type": "שקל"
+        },
+        "number_of_pages": "76",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=990",
+        "title": "בטאון חיל האויר אפריל 1983 מס' 32 (133)",
+        "new_issue_number": 32,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC133.pdf&page=Body&ProdID=990"
+    },
+    "index": [
+        {
+            "title": "11 שזכו באות המופת, בצל\"שים ובמכתבי הערכה",
+            "description": "",
+            "start_page": 6,
+            "author": "ערן שטויירמן וברק אטקין"
+        },
+        {
+            "title": "זה מתחיל ונגמר בדוגמה האישית",
+            "description": "",
+            "start_page": 12,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "פיתון 3 - דור שלישי לטיל אויר-אויר",
+            "description": "",
+            "start_page": 16,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "שורשים מעמיקים בנגב",
+            "description": "",
+            "start_page": 22,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "מומלץ להתחיל בקטן",
+            "description": "",
+            "start_page": 26,
+            "author": "אורי ועמית"
+        },
+        {
+            "title": "זהירות, פצצה!",
+            "description": "",
+            "start_page": 29,
+            "author": "דניאל מולד"
+        },
+        {
+            "title": "אל תוך הלילה",
+            "description": "",
+            "start_page": 34,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "שרוול רוח בודד במדבר",
+            "description": "",
+            "start_page": 41,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "כפירים במדבר",
+            "description": "",
+            "start_page": 44,
+            "author": "מיכל איל"
+        },
+        {
+            "title": "קשוח? נראה אותך אחרי שבוע על ההר",
+            "description": "",
+            "start_page": 48,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "דף מספר ההשמצות",
+            "description": "",
+            "start_page": 51,
+            "author": "מיכל איל"
+        },
+        {
+            "title": "המפתח הוא שיפור האיכות",
+            "description": "",
+            "start_page": 52,
+            "author": ""
+        },
+        {
+            "title": "האוירונאוטים",
+            "description": "",
+            "start_page": 54,
+            "author": "ערן שטויירמן"
+        },
+        {
+            "title": "לבחור בטוב ביותר",
+            "description": "",
+            "start_page": 57,
+            "author": "ברק אטקין ומיכל איל"
+        },
+        {
+            "title": "מה אתה אומר",
+            "description": "",
+            "start_page": 61,
+            "author": ""
+        },
+        {
+            "title": "לוחמה אלקטרונית (ב')",
+            "description": "",
+            "start_page": 62,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "המפציץ המאוייש יישרד",
+            "description": "",
+            "start_page": 64,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "טורנאדו - המטוס שאיחר את הרכבת",
+            "description": "",
+            "start_page": 66,
+            "author": "סא\"ל אורי דרומי"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 70,
+            "author": ""
+        }
+    ]
+}

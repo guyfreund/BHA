@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "issue_number": "99",
+        "year": "1976",
+        "month": {
+            "to": "אפריל",
+            "from": ""
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "",
+        "price": {
+            "amount": 10.0,
+            "type": "ל״י"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "164",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=931",
+        "title": "בטאון חיל האויר אפריל 1976 מס' 99",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC99.pdf&page=Body&ProdID=931"
+    },
+    "index": [
+        {
+            "title": "כך הופלו הטייסים הרוסים במלחמת ההתשה",
+            "description": "",
+            "start_page": 6,
+            "author": "יעקב בן אמיר"
+        },
+        {
+            "title": "כפיר - ה״צבר״ הקרבי של חיל האויר",
+            "description": "",
+            "start_page": 17,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "פירות ההילולים של תעשיית הנשק בישראל",
+            "description": "",
+            "start_page": 26,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "הפנטומים מורידים שומן ומחזקים את השרירים",
+            "description": "",
+            "start_page": 34,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "ה״בואינג״ הגדול משרת בחיל האויר",
+            "description": "",
+            "start_page": 39,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "פ-15 ו-פ-16 - לישראל",
+            "description": "",
+            "start_page": 48,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "ראיון עם מפקד טייסת",
+            "description": "",
+            "start_page": 58,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "העורף האוירי של מדינות העימות",
+            "description": "",
+            "start_page": "64",
+            "author": "י. שמריהו"
+        },
+        {
+            "title": "נשק אטומי למצרים",
+            "description": "",
+            "start_page": 69,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "הכל נשאר במשפחה",
+            "description": "",
+            "start_page": 72,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "ציונות כדאיות וכל השאר",
+            "description": "",
+            "start_page": 79,
+            "author": "יעקב בן אמיר"
+        },
+        {
+            "title": "פנים חדשות בטכני",
+            "description": "",
+            "start_page": 84,
+            "author": "תמיר זאבי"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 88,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "לאנס, סקאד, פרשינג",
+            "description": "",
+            "start_page": 106,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "טילים חדשים במזרח",
+            "description": "",
+            "start_page": 114,
+            "author": "אבי אלדד"
+        },
+        {
+            "title": "תסריטים ולא לסרט",
+            "description": "",
+            "start_page": 18,
+            "author": "ע. עמית"
+        },
+        {
+            "title": "שעתם הגדולה של הליקופטרי-הקרב",
+            "description": "",
+            "start_page": 123,
+            "author": "ע. עשת"
+        },
+        {
+            "title": "האוטובוס האוירי פורש כנפים",
+            "description": "",
+            "start_page": 130,
+            "author": ""
+        },
+        {
+            "title": "״הליידי הגדולה״",
+            "description": "",
+            "start_page": 133,
+            "author": "אבי אלדד"
+        },
+        {
+            "title": "נשק איסטרטגי לשנות ה-80",
+            "description": "",
+            "start_page": 141,
+            "author": ""
+        },
+        {
+            "title": "קונקורד - מהפכה או כשלון?",
+            "description": "",
+            "start_page": 146,
+            "author": ""
+        },
+        {
+            "title": "״ציפורי-הרעם״ האוירובטיות",
+            "description": "",
+            "start_page": 156,
+            "author": ""
+        },
+        {
+            "title": "שעשועים אויריים",
+            "description": "",
+            "start_page": 160,
+            "author": ""
+        }
+    ]
+}

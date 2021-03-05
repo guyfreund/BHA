@@ -1,0 +1,171 @@
+{
+    "metadata": {
+        "issue_number": "145",
+        "year": "1985",
+        "month": {
+            "to": "מרץ",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 600.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "אורי שנקר",
+            "גילי ארבל"
+        ],
+        "subscription_price": {
+            "amount": 3500.0,
+            "type": "שקל"
+        },
+        "number_of_pages": "104",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=840",
+        "title": "בטאון חיל האויר מרץ 1985 מס' 44 (145)",
+        "new_issue_number": 44,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC145.pdf&page=Body&ProdID=840"
+    },
+    "index": [
+        {
+            "title": "6",
+            "description": "ענר גוברין",
+            "start_page": "הצלה מצפרוני הסערה",
+            "author": ""
+        },
+        {
+            "title": "10",
+            "description": "יקיר אלקריב",
+            "start_page": "",
+            "author": ""
+        },
+        {
+            "title": "החייאה במרומים",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "הצלה מצפרוני הסערה",
+            "description": "",
+            "start_page": 10,
+            "author": ""
+        },
+        {
+            "title": "ראיתי את רגע הפיצוץ",
+            "description": "",
+            "start_page": 11,
+            "author": ""
+        },
+        {
+            "title": "נ\"מ - ראשון נכנס, אחרון יוצא",
+            "description": "",
+            "start_page": 12,
+            "author": "ענת גוברין"
+        },
+        {
+            "title": "וולקנים בשלג",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "פאנטום-החיים מתחילים בגיל 40",
+            "description": "",
+            "start_page": 13,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "מים ושמיים מתאחדים",
+            "description": "",
+            "start_page": 18,
+            "author": "ענת גוברין וירון כץ"
+        },
+        {
+            "title": "מדיניות התעוםה עומדת למבחן",
+            "description": "",
+            "start_page": 22,
+            "author": "דניאל מולד"
+        },
+        {
+            "title": "מסוקין-אתגר מגלגל עד רוטור",
+            "description": "",
+            "start_page": 24,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "יהלומים צריך ללטש",
+            "description": "",
+            "start_page": 28,
+            "author": "ריקי ריבלין"
+        },
+        {
+            "title": "לביא-אב טיפוס מ-1986",
+            "description": "",
+            "start_page": 31,
+            "author": ""
+        },
+        {
+            "title": "כל כנפי הטורנאדו",
+            "description": "",
+            "start_page": 39,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "סי-הארייר בלתי מנוצח (ב')",
+            "description": "",
+            "start_page": 45,
+            "author": "קטמאנדר נ.ד. ווארד"
+        },
+        {
+            "title": "באוי העולם",
+            "description": "",
+            "start_page": 49,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "C-17 תובלה אוירית מהפכנית",
+            "description": "",
+            "start_page": 52,
+            "author": "אל\"מ אורי דרומי"
+        },
+        {
+            "title": "זאב המריא מאושוויץ",
+            "description": "",
+            "start_page": 56,
+            "author": "אריה ברנע"
+        },
+        {
+            "title": "שמורת טבע",
+            "description": "",
+            "start_page": 62,
+            "author": "גיל בר-טל"
+        },
+        {
+            "title": "כאריזה מעופפת",
+            "description": "",
+            "start_page": 69,
+            "author": "משה דור"
+        },
+        {
+            "title": "הילדים לטיס (ב')",
+            "description": "",
+            "start_page": 72,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "בין הסיסים",
+            "description": "",
+            "start_page": 76,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 79,
+            "author": ""
+        }
+    ]
+}

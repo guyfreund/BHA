@@ -1,0 +1,200 @@
+{
+    "metadata": {
+        "issue_number": "84",
+        "year": "1971",
+        "month": {
+            "to": "מרץ",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": "",
+            "type": ""
+        },
+        "photographers": [
+            "מיכה בר-עם"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "164",
+        "subscription_only": true,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=956",
+        "title": "בטאון חיל האויר מרס 1971 מס' 84",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://www.fisher.org.il//DigitalLibrary/BITEONIM/TOC84.pdf&page=Body&ProdID=956"
+    },
+    "index": [
+        {
+            "title": "מתחתי שכבת צמר גפן ",
+            "description": "",
+            "start_page": 4,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "השינויים במערך הטילים המצרי",
+            "description": "",
+            "start_page": 11,
+            "author": ""
+        },
+        {
+            "title": "מרדף אחרי מטוס-ביון רוסי",
+            "description": "",
+            "start_page": 15,
+            "author": ""
+        },
+        {
+            "title": "עכשיו מותר לגלות",
+            "description": "",
+            "start_page": 18,
+            "author": "ג. שטרסמן"
+        },
+        {
+            "title": "הכיוון הבא הוא...",
+            "description": "",
+            "start_page": 27,
+            "author": "יוסף מיכאלי"
+        },
+        {
+            "title": "",
+            "description": "",
+            "start_page": "",
+            "author": "כ"
+        },
+        {
+            "title": "השותפות החדשה",
+            "description": "",
+            "start_page": 31,
+            "author": ""
+        },
+        {
+            "title": "כאן מכשירים את טייסי המחר",
+            "description": "",
+            "start_page": 34,
+            "author": "ש. אהרני"
+        },
+        {
+            "title": "כי מצה\"ל תצא תורה",
+            "description": "",
+            "start_page": 39,
+            "author": "ליאורה כפיר"
+        },
+        {
+            "title": "כך הופלו טייסי הנילוס",
+            "description": "",
+            "start_page": 40,
+            "author": "צ. איש-טוב"
+        },
+        {
+            "title": "צלחות מעופפות - מציאות או תעתועי דמיון?",
+            "description": "",
+            "start_page": 47,
+            "author": ""
+        },
+        {
+            "title": "אני והאי-300",
+            "description": "",
+            "start_page": 52,
+            "author": ". ברנדנר"
+        },
+        {
+            "title": "קרוב ללב טייסיו",
+            "description": "",
+            "start_page": 62,
+            "author": ""
+        },
+        {
+            "title": "המפרץ הפרסי",
+            "description": "",
+            "start_page": 67,
+            "author": ""
+        },
+        {
+            "title": "חדשות תעוםה משנת 1938",
+            "description": "",
+            "start_page": 70,
+            "author": "יצחק זמיר"
+        },
+        {
+            "title": "מאזן האימה",
+            "description": "",
+            "start_page": 72,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "גיחה לילית בנתיב הו-צ'י-מין",
+            "description": "",
+            "start_page": 84,
+            "author": "מרק בנרט"
+        },
+        {
+            "title": "מה חדש בעולם המרחפים",
+            "description": "",
+            "start_page": 90,
+            "author": "ע. עמית"
+        },
+        {
+            "title": "הייתי שבוי בהאנוי",
+            "description": "",
+            "start_page": 95,
+            "author": "נוריס אוברלי"
+        },
+        {
+            "title": "אפולו 14, הצעד השלישי",
+            "description": "",
+            "start_page": 101,
+            "author": ""
+        },
+        {
+            "title": "נוסע סמוי",
+            "description": "",
+            "start_page": 110,
+            "author": ""
+        },
+        {
+            "title": "פ-111",
+            "description": "",
+            "start_page": 113,
+            "author": "ע. עשת"
+        },
+        {
+            "title": "גוף הטייס, בכינור מכוון היטב",
+            "description": "",
+            "start_page": 123,
+            "author": ""
+        },
+        {
+            "title": "בלוג",
+            "description": "",
+            "start_page": 131,
+            "author": ""
+        },
+        {
+            "title": "שיבתו הארוכה של מיד",
+            "description": "",
+            "start_page": 132,
+            "author": ""
+        },
+        {
+            "title": "דוד וגלית בשמי פינלנד ",
+            "description": "",
+            "start_page": 137,
+            "author": "א. כרמלי"
+        },
+        {
+            "title": "מעללי ראשונים",
+            "description": "",
+            "start_page": 149,
+            "author": ""
+        },
+        {
+            "title": "תשבץ תעופתי מספר 6",
+            "description": "",
+            "start_page": 160,
+            "author": ""
+        }
+    ]
+}

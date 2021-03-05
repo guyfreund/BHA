@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "issue_number": "110",
+        "year": "1979",
+        "month": {
+            "to": "מרץ",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 12.0,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר"
+        ],
+        "subscription_price": {
+            "amount": 62.0,
+            "type": "ל״י"
+        },
+        "number_of_pages": "73",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=947",
+        "title": "בטאון חיל האויר מרס 1979 מס' 9 (110)",
+        "new_issue_number": 9,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC110.pdf&page=Body&ProdID=947"
+    },
+    "index": [
+        {
+            "title": "חלהיות עוד יותר טובים",
+            "description": "",
+            "start_page": 3,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "שובר השיאים",
+            "description": "",
+            "start_page": 6,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "טיסה אחת ב-F-15",
+            "description": "",
+            "start_page": 10,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 13,
+            "author": ""
+        },
+        {
+            "title": "״אלוף-משנה למילואים...״",
+            "description": "",
+            "start_page": 16,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "ח״א 001 קורא לאוסלו",
+            "description": "",
+            "start_page": 19,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "שלוש שנים - ל-3 שניות",
+            "description": "",
+            "start_page": 20,
+            "author": "רון הדר"
+        },
+        {
+            "title": "בכל העימותים ניצח השכל",
+            "description": "",
+            "start_page": 22,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "בהרקולס לשארם",
+            "description": "",
+            "start_page": 24,
+            "author": ""
+        },
+        {
+            "title": "הדודה של החיל",
+            "description": "",
+            "start_page": 26,
+            "author": "רון הדר"
+        },
+        {
+            "title": "האמנם טובים השניים?",
+            "description": "",
+            "start_page": 27,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "צל״ש לנופל בקרב",
+            "description": "",
+            "start_page": 30,
+            "author": "אריה ברנע"
+        },
+        {
+            "title": "אקדמיה אוירית בהרי הסלע",
+            "description": "",
+            "start_page": 31,
+            "author": "זאב שיף"
+        },
+        {
+            "title": "F-16 - מטוס עיסקת-המאה",
+            "description": "",
+            "start_page": 35,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "פה לא קבור הכלב",
+            "description": "",
+            "start_page": 38,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 40,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "באויר המזרח-התיכון",
+            "description": "",
+            "start_page": 44,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "״מר בפה - צריך לירוק״",
+            "description": "",
+            "start_page": 46,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "עליונות אוירית בכיבוש ארץ-ישראל",
+            "description": "",
+            "start_page": 48,
+            "author": "רון בודנר"
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 51,
+            "author": ""
+        },
+        {
+            "title": "מכתבים",
+            "description": "",
+            "start_page": 52,
+            "author": ""
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 53,
+            "author": ""
+        }
+    ]
+}

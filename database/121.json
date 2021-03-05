@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "issue_number": "121",
+        "year": "1981",
+        "month": {
+            "to": "פברואר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אורי דרומי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 8.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "משה מילנר"
+        ],
+        "subscription_price": {
+            "amount": 40.0,
+            "type": "שקל חדש"
+        },
+        "number_of_pages": "68",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=916",
+        "title": "בטאון חיל האויר פברואר 1981 מס' 20 (121)",
+        "new_issue_number": 20,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://www.fisher.org.il/DigitalLibrary/BITEONIM/TOC121.pdf&page=Body&ProdID=916"
+    },
+    "index": [
+        {
+            "title": "טייסת שקפצה דור",
+            "description": "",
+            "start_page": 3,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "הטילשוגר והתפוצץ באיזור הזנב",
+            "description": "",
+            "start_page": 7,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "אילו כולם היו כמוהם",
+            "description": "",
+            "start_page": 8,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "אירובאטיקה",
+            "description": "",
+            "start_page": 10,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 15,
+            "author": ""
+        },
+        {
+            "title": "האוצר של איתן",
+            "description": "",
+            "start_page": 19,
+            "author": "סא\"ל אורי"
+        },
+        {
+            "title": "שליטה מלאה בשמי המדבר",
+            "description": "",
+            "start_page": 23,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "כשהטייסת הבאווארית היתה בעפולה",
+            "description": "",
+            "start_page": 32,
+            "author": "נפתלי ארבל"
+        },
+        {
+            "title": "ששהבקו הראשון - של הנ\"מ",
+            "description": "",
+            "start_page": 34,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "הסריקה המבטיחה יירוט מוצלח",
+            "description": "",
+            "start_page": 37,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "לא מלחמת ששת-הימים",
+            "description": "",
+            "start_page": 42,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 45,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "אזרח טוב - מתנדב",
+            "description": "",
+            "start_page": 50,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "הטיסה הקיסרית של סגן פרנקל",
+            "description": "",
+            "start_page": 52,
+            "author": "דן ירון"
+        },
+        {
+            "title": "עסקים כרגיל בעציון",
+            "description": "",
+            "start_page": 54,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "",
+            "description": "",
+            "start_page": "",
+            "author": "5"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 56,
+            "author": ""
+        },
+        {
+            "title": "מכתבים",
+            "description": "",
+            "start_page": 58,
+            "author": ""
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 59,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 62,
+            "author": ""
+        }
+    ]
+}

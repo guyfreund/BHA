@@ -1,0 +1,181 @@
+{
+    "metadata": {
+        "issue_number": "198",
+        "year": "1994",
+        "month": {
+            "from": "יוני",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 14.0,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": 75.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "שאול שוורץ",
+            "רובי קסטרו",
+            "גיורא נוימן",
+            "אסף שילה"
+        ],
+        "number_of_pages": 116,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "מפקד חיל-האויר: חובה להחזיר את רון הביתה ולשם כך חייבים לקחת סיכונים",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "מוביל מסוקי הסער במבצע ללכידת דיראני: סוף סוף עשינו משהו למען רון ארד",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "72 אחוזים עירוניים, 15 אחוזים מושבניקים, 13 אחוזים קיבוצניקים. דיוקן קבוצתי של קורס-הטיס האחרון",
+            "description": "",
+            "start_page": 10,
+            "author": ""
+        },
+        {
+            "title": "686 הפלות, 39 אייסים, יחס של 1:30. התפלגות ההפלות בקרבות-אוויר בכל המלחמות וביניהן",
+            "description": "",
+            "start_page": 13,
+            "author": ""
+        },
+        {
+            "title": "28 זכיות לאמ\"ן, 27 לרפא\"ל, 17 לתעשייה האוירית. רשימת כל הגופים שזכו עד כה בפרס ביטחון ישראל",
+            "description": "",
+            "start_page": 14,
+            "author": ""
+        },
+        {
+            "title": "ייצור כל מטוסי ה-F-151 המיועדים לחיל-האויר יארך שנה בלבד. סעודיה תתמן את סגירת קו הייצור המשותף לה ולישראל",
+            "description": "",
+            "start_page": 15,
+            "author": ""
+        },
+        {
+            "title": "שר ההגנה הפולני הציע לישראל לקנות סקאדים",
+            "description": "",
+            "start_page": 16,
+            "author": ""
+        },
+        {
+            "title": "ארבעה טייסי חיל-האויר טסו במיג-29",
+            "description": "",
+            "start_page": 24,
+            "author": "ענר גוברין ודן סלע"
+        },
+        {
+            "title": "עמק הסילון",
+            "description": "",
+            "start_page": 28,
+            "author": "טל אלון"
+        },
+        {
+            "title": "לדרבי חוקים משלו",
+            "description": "",
+            "start_page": 36,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "סדנת ים",
+            "description": "",
+            "start_page": 42,
+            "author": "רועי יצהר"
+        },
+        {
+            "title": "רשאי להמריא",
+            "description": "",
+            "start_page": 48,
+            "author": "דן סלע"
+        },
+        {
+            "title": "תפסו כיוון",
+            "description": "",
+            "start_page": 52,
+            "author": "טל אלון"
+        },
+        {
+            "title": "אוורבוך, תסתדר בשלשות",
+            "description": "",
+            "start_page": 58,
+            "author": "דן סלע"
+        },
+        {
+            "title": "מגה טק",
+            "description": "",
+            "start_page": 62,
+            "author": ""
+        },
+        {
+            "title": "אחד על אחד",
+            "description": "",
+            "start_page": 70,
+            "author": "יולי חרומצ'נקו"
+        },
+        {
+            "title": "באה מסמליה",
+            "description": "",
+            "start_page": 74,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "מבצע אירון",
+            "description": "",
+            "start_page": 82,
+            "author": "דן סלע"
+        },
+        {
+            "title": "יש לקולונל מי שיכתוב עליו",
+            "description": "",
+            "start_page": 86,
+            "author": "אורי ירום"
+        },
+        {
+            "title": "בחזרה ליום ה-D",
+            "description": "",
+            "start_page": 90,
+            "author": "עמיר רגב"
+        },
+        {
+            "title": "כחול-לבן-אדום",
+            "description": "",
+            "start_page": 94,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "מדף אווירי",
+            "description": "",
+            "start_page": "",
+            "author": "99"
+        },
+        {
+            "title": "באיחור של שנתיים וחצי: המראת הבכורהה של היורופייטר",
+            "description": "",
+            "start_page": 100,
+            "author": ""
+        },
+        {
+            "title": "שקט מתוח: קו הרוחב 35, המתוח בין שתי הקוריאות, מתחמם",
+            "description": "",
+            "start_page": 102,
+            "author": ""
+        },
+        {
+            "title": "שובה של האפולו: גירסה מעודכנת של החללית ההיסטורית",
+            "description": "",
+            "start_page": 110,
+            "author": ""
+        }
+    ]
+}

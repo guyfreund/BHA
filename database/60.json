@@ -1,0 +1,198 @@
+{
+    "metadata": {
+        "issue_number": "60",
+        "year": "1962",
+        "month": {
+            "to": "דצמבר",
+            "from": "נובמבר"
+        },
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "יהודה עופר",
+        "price": {
+            "amount": 1.5,
+            "type": "לירה ישראלית"
+        },
+        "photographers": [
+            "שלום צדוק",
+            "ז'ק פרבר",
+            "מנשה סמואלוב",
+            "אילן זבולוני",
+            "אילן ברונר"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "180",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=1016",
+        "title": "בטאון חיל האויר נובמבר-דצמבר 1962 מס' 60",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC60.pdf&page=Body&ProdID=1016"
+    },
+    "index": [
+        {
+            "title": "בגליון זה ",
+            "description": "4",
+            "start_page": "",
+            "author": ""
+        },
+        {
+            "title": "נץ בשמי ישראל",
+            "description": "",
+            "start_page": 5,
+            "author": ""
+        },
+        {
+            "title": "אספקלריה אווירית",
+            "description": "",
+            "start_page": 17,
+            "author": ""
+        },
+        {
+            "title": "הוראות בניה לדגם הנטר",
+            "description": "",
+            "start_page": 22,
+            "author": ""
+        },
+        {
+            "title": "אמא טבע",
+            "description": "",
+            "start_page": 29,
+            "author": ""
+        },
+        {
+            "title": "ירושלים - עיר החודש",
+            "description": "",
+            "start_page": 35,
+            "author": "יעקב טרנר"
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 45,
+            "author": ""
+        },
+        {
+            "title": "הלוחמים באש",
+            "description": "",
+            "start_page": 48,
+            "author": "יעקב בן אמיר"
+        },
+        {
+            "title": "רדסטון - הטיל שהצטיין במלחמה הקרה",
+            "description": "",
+            "start_page": 52,
+            "author": "מ. יהודה"
+        },
+        {
+            "title": "חיל האויר המצרי",
+            "description": "",
+            "start_page": 65,
+            "author": ""
+        },
+        {
+            "title": "אנטומיה של אל-קהירה",
+            "description": "",
+            "start_page": 69,
+            "author": ""
+        },
+        {
+            "title": "טילים בצל הפירמידות",
+            "description": "",
+            "start_page": 72,
+            "author": "י. אביבני"
+        },
+        {
+            "title": "חיל האויר התימני",
+            "description": "",
+            "start_page": 89,
+            "author": ""
+        },
+        {
+            "title": "תולדותיהם החייכניות של מתקני הניסוי",
+            "description": "",
+            "start_page": 94,
+            "author": ""
+        },
+        {
+            "title": "תולדותיהם החייכניות של הממציאים",
+            "description": "",
+            "start_page": 96,
+            "author": ""
+        },
+        {
+            "title": "טייס רוכב עם הקוזקים",
+            "description": "",
+            "start_page": 98,
+            "author": ""
+        },
+        {
+            "title": "המלחמה בזנב המטוס",
+            "description": "",
+            "start_page": 109,
+            "author": ""
+        },
+        {
+            "title": "טסתי בכנף המפרש",
+            "description": "",
+            "start_page": 117,
+            "author": "אלברט לו"
+        },
+        {
+            "title": "כך צחקו לפני 92 שנה",
+            "description": "",
+            "start_page": 123,
+            "author": ""
+        },
+        {
+            "title": "דור המטוסים הצבאיים הבא?",
+            "description": "",
+            "start_page": 124,
+            "author": ""
+        },
+        {
+            "title": "אלופי השחקים",
+            "description": "",
+            "start_page": 129,
+            "author": "עמנואל בן גוריון"
+        },
+        {
+            "title": "לעבודה בלחץ גבוה",
+            "description": "",
+            "start_page": 144,
+            "author": ""
+        },
+        {
+            "title": "הטייס שנמלט בטיל-ההתאבדות",
+            "description": "",
+            "start_page": 146,
+            "author": ""
+        },
+        {
+            "title": "פרהיסטורי מול חדיש...",
+            "description": "",
+            "start_page": 158,
+            "author": ""
+        },
+        {
+            "title": "חיל האויר של ארץ הפיורדים",
+            "description": "",
+            "start_page": 160,
+            "author": ""
+        },
+        {
+            "title": "אויראים מפורסמים ומטוסיהם",
+            "description": "",
+            "start_page": 166,
+            "author": ""
+        },
+        {
+            "title": "ב-28 אמצעי תעבורה שונים",
+            "description": "",
+            "start_page": 176,
+            "author": ""
+        }
+    ]
+}

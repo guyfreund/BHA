@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "year": "1950",
+        "month": {
+            "to": "פברואר",
+            "from": ""
+        },
+        "date_of_publish": "Wed Feb 01 12:50:45 UTC 1950\n",
+        "issue_number": "7",
+        "publisher": "חיל האויר",
+        "editor": "משה פומרנץ",
+        "deputy_editor": "-",
+        "graphics_editor": "-",
+        "technical_editor": "-",
+        "price": {
+            "amount": -1,
+            "type": ""
+        },
+        "photographers": [],
+        "system": "-",
+        "subscription_price": {
+            "amount": -1,
+            "type": ""
+        },
+        "number_of_pages": "60",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=1029",
+        "title": "בטאון חיל האויר פברואר 1950 מס' 7",
+        "new_issue_number": "-1"
+    },
+    "index": []
+}

@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "issue_number": "118",
+        "year": "1980",
+        "month": {
+            "to": "אוגוסט",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 4.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר"
+        ],
+        "subscription_price": {
+            "amount": 20.0,
+            "type": "שקל"
+        },
+        "number_of_pages": "68",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=941",
+        "title": "בטאון חיל האויר אוגוסט 1980 מס' 17 (118)",
+        "new_issue_number": 17,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC118.pdf&page=Body&ProdID=941"
+    },
+    "index": [
+        {
+            "title": "לאחור בסיפוק - וקדימה בעין פקוחה",
+            "description": "ראיון עם מפקד חיל-האויר, אלוף דוד עברי",
+            "start_page": 3,
+            "author": ""
+        },
+        {
+            "title": "להטיס ״ציפור מושלמת״",
+            "description": "",
+            "start_page": 7,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "F-16 - המטוס לטייס-הקרב",
+            "description": "",
+            "start_page": 10,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "קטן וקטלני",
+            "description": "",
+            "start_page": 14,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 17,
+            "author": ""
+        },
+        {
+            "title": "הלב נשאר בטייסת",
+            "description": "",
+            "start_page": 21,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "מספר 1 צריך להיות נועז",
+            "description": "",
+            "start_page": 27,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "שש כנפיים לאחת",
+            "description": "",
+            "start_page": 31,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "אהבת גבהים",
+            "description": "",
+            "start_page": 39,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "40 שנה לקרב על בריטניה",
+            "description": "",
+            "start_page": 42,
+            "author": "אוריע עמית"
+        },
+        {
+            "title": "השמיים התמלאו ברביעיות",
+            "description": "",
+            "start_page": 45,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "שישיות באויר",
+            "description": "",
+            "start_page": 48,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "נשק תמורת נפט",
+            "description": "",
+            "start_page": 52,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "הצ׳פארל נשאר במשפחה",
+            "description": "",
+            "start_page": 56,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 58,
+            "author": ""
+        },
+        {
+            "title": "מכתבים",
+            "description": "",
+            "start_page": 59,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 60,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "מדור הדגמים",
+            "description": "",
+            "start_page": 62,
+            "author": "אשר רוט"
+        }
+    ]
+}

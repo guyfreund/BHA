@@ -1,0 +1,176 @@
+{
+    "metadata": {
+        "issue_number": "80",
+        "year": "1969",
+        "month": {
+            "to": "דצמבר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "רב סרן יהודה עופר",
+        "price": {
+            "amount": "",
+            "type": ""
+        },
+        "photographers": [
+            "יוסף ידגר"
+        ],
+        "subscription_price": {
+            "amount": "",
+            "type": ""
+        },
+        "number_of_pages": "164",
+        "subscription_only": true,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=902",
+        "title": "בטאון חיל האויר דצמבר 1969 מס' 80",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC80.pdf&page=Body&ProdID=902"
+    },
+    "index": [
+        {
+            "title": "שיגרה לוהטת ",
+            "description": "",
+            "start_page": 6,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "קרבות האויר בשמי התעלה",
+            "description": "",
+            "start_page": 25,
+            "author": "אלי אייל"
+        },
+        {
+            "title": "מטוס היוקרה עלה ביוקר",
+            "description": "",
+            "start_page": 30,
+            "author": ""
+        },
+        {
+            "title": "הייתי ג'ק בחיל האויר",
+            "description": "",
+            "start_page": 34,
+            "author": "זאב"
+        },
+        {
+            "title": "לטוס בכל מחיר...",
+            "description": "",
+            "start_page": 38,
+            "author": "איתן הבר"
+        },
+        {
+            "title": "מלחמת 36 השעות",
+            "description": "",
+            "start_page": 41,
+            "author": ""
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 42,
+            "author": ""
+        },
+        {
+            "title": "הפטישים",
+            "description": "",
+            "start_page": 47,
+            "author": "צ. איש טוב"
+        },
+        {
+            "title": "על מזג האויר",
+            "description": "",
+            "start_page": 54,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "סיפורה של גיחה אחת",
+            "description": "",
+            "start_page": 57,
+            "author": ""
+        },
+        {
+            "title": "כשהספיטפייר היה פנטם..",
+            "description": "",
+            "start_page": 62,
+            "author": "ג. צבי"
+        },
+        {
+            "title": "פרופסור ערי ז'בוטינסקי והדאיה",
+            "description": "",
+            "start_page": 70,
+            "author": ""
+        },
+        {
+            "title": "גורדון גורינג והחיל אויר",
+            "description": "",
+            "start_page": 72,
+            "author": ""
+        },
+        {
+            "title": "זהר הארגמן",
+            "description": "",
+            "start_page": 73,
+            "author": "יוסף עופר"
+        },
+        {
+            "title": "בחיל האויר הפקיסטני",
+            "description": "",
+            "start_page": 81,
+            "author": "עמוס עשת"
+        },
+        {
+            "title": "הצעד הקטן, הגדול",
+            "description": "",
+            "start_page": 92,
+            "author": "מאיר כהן"
+        },
+        {
+            "title": "אפולו 12",
+            "description": "",
+            "start_page": 120,
+            "author": ""
+        },
+        {
+            "title": "היגואר",
+            "description": "",
+            "start_page": 122,
+            "author": "ע. עמית"
+        },
+        {
+            "title": "להיות או לא להיות",
+            "description": "",
+            "start_page": 132,
+            "author": ""
+        },
+        {
+            "title": "ספרי תעופה עתיקים",
+            "description": "",
+            "start_page": 136,
+            "author": ""
+        },
+        {
+            "title": "אמני השחקים",
+            "description": "",
+            "start_page": 140,
+            "author": ""
+        },
+        {
+            "title": "אנא, מישהו - הזדרז",
+            "description": "",
+            "start_page": 147,
+            "author": ""
+        },
+        {
+            "title": "נפלתי מגובה 15,000 רגל",
+            "description": "",
+            "start_page": 152,
+            "author": ""
+        },
+        {
+            "title": "תשבץ תעופתי מספר 2",
+            "description": "",
+            "start_page": 158,
+            "author": ""
+        }
+    ]
+}

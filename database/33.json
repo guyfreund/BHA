@@ -1,0 +1,195 @@
+{
+    "metadata": {
+        "year": "1954",
+        "month": {
+            "to": "אוקטובר",
+            "from": "ספטמבר"
+        },
+        "date_of_publish": "Fri Jul 01 16:50:12 UTC 1955",
+        "issue_number": "33",
+        "publisher": "חיל האויר",
+        "editor": "משה הדר",
+        "deputy_editor": "סגן יהודה עופר",
+        "graphics_editor": "-",
+        "technical_editor": "-",
+        "price": {
+            "amount": 600,
+            "type": "פרוטה"
+        },
+        "photographers": [
+            "יסוף סקורטובסקי",
+            "מיכאל האן",
+            "שלמה כהנא",
+            "יאן גרינברג",
+            "יעקב בורנשטיין",
+            "ישראל בן שחר",
+            "ע. יהודה",
+            "מאיר שליפר",
+            "חיים ווינדהויז",
+            "בוריס רומן"
+        ],
+        "system": "-",
+        "subscription_price": {
+            "amount": -1,
+            "type": ""
+        },
+        "number_of_pages": 154,
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=845",
+        "title": "בטאון חיל האויר 1954 מס' 33",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC33.pdf&page=Body&ProdID=845"
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "מסליקים עד קונסטליישן",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "אצלנו בחיל",
+            "description": "",
+            "start_page": 11,
+            "author": ""
+        },
+        {
+            "title": "הדרך לשחקים",
+            "description": "",
+            "start_page": 18,
+            "author": ""
+        },
+        {
+            "title": "מפציצי מלחמת השחרור",
+            "description": "",
+            "start_page": 20,
+            "author": ""
+        },
+        {
+            "title": "האנשים המהירים ביותר בישראל",
+            "description": "",
+            "start_page": 25,
+            "author": ""
+        },
+        {
+            "title": "משחק המלכים מצמיח כנפיים",
+            "description": "",
+            "start_page": 30,
+            "author": ""
+        },
+        {
+            "title": "סלון פריז 55",
+            "description": "",
+            "start_page": 33,
+            "author": ""
+        },
+        {
+            "title": "באוויר העולם",
+            "description": "",
+            "start_page": 48,
+            "author": ""
+        },
+        {
+            "title": "תצלומים מספרים",
+            "description": "",
+            "start_page": 60,
+            "author": ""
+        },
+        {
+            "title": "עלייתו ושקיעתו של נשק הנקם הגרמני (2)",
+            "description": "",
+            "start_page": 66,
+            "author": ""
+        },
+        {
+            "title": "כנפיים חדשות ברוסיה",
+            "description": "",
+            "start_page": 76,
+            "author": ""
+        },
+        {
+            "title": "אווירודינמיקה (14)",
+            "description": "",
+            "start_page": 82,
+            "author": ""
+        },
+        {
+            "title": "חמרי המטוס (3)",
+            "description": "",
+            "start_page": 98,
+            "author": ""
+        },
+        {
+            "title": "המנוע היסלוני (10)",
+            "description": "",
+            "start_page": 114,
+            "author": ""
+        },
+        {
+            "title": "הבריטניה מופיעה",
+            "description": "",
+            "start_page": 121,
+            "author": ""
+        },
+        {
+            "title": "מחסום החום",
+            "description": "",
+            "start_page": 124,
+            "author": ""
+        },
+        {
+            "title": "מר וון הו הנכבד",
+            "description": "",
+            "start_page": 128,
+            "author": ""
+        },
+        {
+            "title": "מטוסים בחיתולים",
+            "description": "",
+            "start_page": 130,
+            "author": ""
+        },
+        {
+            "title": "בדרך לכוכבים",
+            "description": "",
+            "start_page": 132,
+            "author": ""
+        },
+        {
+            "title": "עובדות על עישון",
+            "description": "",
+            "start_page": 135,
+            "author": ""
+        },
+        {
+            "title": "הצלח במדבר",
+            "description": "",
+            "start_page": 138,
+            "author": ""
+        },
+        {
+            "title": "בום קולי מהו",
+            "description": "",
+            "start_page": 143,
+            "author": ""
+        },
+        {
+            "title": "דאר אוויר",
+            "description": "",
+            "start_page": 150,
+            "author": ""
+        },
+        {
+            "title": "בשמי המזרח התיכון",
+            "description": "",
+            "start_page": 154,
+            "author": ""
+        }
+    ]
+}

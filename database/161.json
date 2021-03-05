@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "issue_number": "161",
+        "year": "1987",
+        "month": {
+            "to": "נובמבר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 4.5,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר"
+        ],
+        "subscription_price": {
+            "amount": 22.0,
+            "type": "ש״ח"
+        },
+        "number_of_pages": "88",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=989",
+        "title": "בטאון חיל האויר נובמבר 1987 מס' 60 (161)",
+        "new_issue_number": 60,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC161.pdf&page=Body&ProdID=989"
+    },
+    "index": [
+        {
+            "title": "עסקי אויר",
+            "description": "ראיון עם מפקד חיל-האויר, האלוף אביהו בן-נון",
+            "start_page": 6,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "יורת טובים לטיס",
+            "description": "",
+            "start_page": 10,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "מלחמת עצבים במחבלים",
+            "description": "",
+            "start_page": 14,
+            "author": ""
+        },
+        {
+            "title": "מובילים אינם בוכים",
+            "description": "",
+            "start_page": 15,
+            "author": "יגאל סרנה"
+        },
+        {
+            "title": "בעבודה קשה",
+            "description": "",
+            "start_page": 18,
+            "author": "דריה מעוז"
+        },
+        {
+            "title": "ליל הקוברה",
+            "description": "",
+            "start_page": 22,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "רקע אדום לכנפיים",
+            "description": "",
+            "start_page": 26,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "עד הבורג האחרון",
+            "description": "",
+            "start_page": 30,
+            "author": "רואני אלרואי"
+        },
+        {
+            "title": "כל הג׳י הזה",
+            "description": "",
+            "start_page": 34,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "הכן מסוקך לחורף",
+            "description": "ביקור ב״סאראטוגה״",
+            "start_page": 37,
+            "author": "דרור מרום וגיא רימון"
+        },
+        {
+            "title": "דקה אחת לנחיתה",
+            "description": "המלחמה במפרץ הפרסי",
+            "start_page": 42,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "עשן על המים",
+            "description": "",
+            "start_page": 46,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "ההסלמה: צעד אחר צעד",
+            "description": "",
+            "start_page": 48,
+            "author": "משה פרל"
+        },
+        {
+            "title": "כוח-דלתה אינו עונה",
+            "description": "",
+            "start_page": 52,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 60,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "זכרונות מאפריקה",
+            "description": "",
+            "start_page": 63,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "F-16D לחיל-האויר בקצב כפול",
+            "description": "",
+            "start_page": 66,
+            "author": "גיא רימון"
+        },
+        {
+            "title": "תחיית הפאנטום",
+            "description": "",
+            "start_page": 69,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "טי.וו.איי - עסקים כרגיל, אם לא למעלה מזה",
+            "description": "",
+            "start_page": 70,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "נאס״א חוזרת למסלול",
+            "description": "",
+            "start_page": 72,
+            "author": ""
+        },
+        {
+            "title": "״השתתפתי בהפצצת ברלין״",
+            "description": "",
+            "start_page": 74,
+            "author": "גיא רימון"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 76,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        }
+    ]
+}

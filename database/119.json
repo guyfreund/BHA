@@ -1,0 +1,141 @@
+{
+    "metadata": {
+        "issue_number": "119",
+        "year": "1980",
+        "month": {
+            "to": "אוקטובר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אורי דרומי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 5.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "יחידת צילום אוירי חיל האויר",
+            "אהרון לפידות"
+        ],
+        "subscription_price": {
+            "amount": 25.0,
+            "type": "שקל"
+        },
+        "number_of_pages": "68",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=914",
+        "title": "בטאון חיל האויר אוקטובר 1980 מס' 18 (119)",
+        "new_issue_number": 18,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC119.pdf&page=Body&ProdID=914"
+    },
+    "index": [
+        {
+            "title": "כל עשר שניות - טיל",
+            "description": "",
+            "start_page": 3,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "המחלצים",
+            "description": "",
+            "start_page": 7,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "לוחמת-האויר הארוכה ביותר",
+            "description": "",
+            "start_page": 11,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "הפצצה על מבצר בופור",
+            "description": "",
+            "start_page": 22,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "מכונאים על הגובה",
+            "description": "",
+            "start_page": 24,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "מדנקירק עד בירמינהגם",
+            "description": "",
+            "start_page": 29,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "החוב הרב למעטים",
+            "description": "",
+            "start_page": 30,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "המעז הוא המפיל",
+            "description": "",
+            "start_page": 35,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "פנה אל התוקף והתמודד איתו",
+            "description": "",
+            "start_page": 39,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "שירות בלתי-נשכח",
+            "description": "",
+            "start_page": 43,
+            "author": ""
+        },
+        {
+            "title": "מועדונים להרמת המוראל",
+            "description": "",
+            "start_page": 46,
+            "author": ""
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 49,
+            "author": ""
+        },
+        {
+            "title": "מוטיבאציה מהקרקע לרקעי",
+            "description": "",
+            "start_page": 56,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "המחסן שעשה חושבים...",
+            "description": "",
+            "start_page": 52,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "על כנפי הכסף",
+            "description": "",
+            "start_page": 55,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "נצחון בסימטת המיגים",
+            "description": "",
+            "start_page": 59,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 63,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 64,
+            "author": ""
+        }
+    ]
+}

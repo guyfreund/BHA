@@ -1,0 +1,192 @@
+{
+    "metadata": {
+        "issue_number": "148",
+        "year": "1985",
+        "month": {
+            "to": "ספטמבר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 850.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "ראובן קסטרו",
+            "אורי שנקר",
+            "בנצי בר",
+            "יעל אשל"
+        ],
+        "subscription_price": {
+            "amount": 4800.0,
+            "type": "שקל"
+        },
+        "number_of_pages": "96",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=843",
+        "title": "בטאון חיל האויר ספטמבר 1985 מס' 47 (148)",
+        "new_issue_number": 47,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC148.pdf&page=Body&ProdID=843"
+    },
+    "index": [
+        {
+            "title": "ראיון מיוחד עם שר הביטחון, יצחק רבין: עדיף למנוע מלחמה מלנצח בה",
+            "description": "",
+            "start_page": 10,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "היסעורים שבאו מעבר לאלפים",
+            "description": "",
+            "start_page": 14,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "פצצות אוגוסט",
+            "description": "",
+            "start_page": 22,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "רמה בכל מחיר",
+            "description": "",
+            "start_page": 26,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "האטארי בגדול בעולם",
+            "description": "",
+            "start_page": 32,
+            "author": "דורון דנאי"
+        },
+        {
+            "title": "חילוץ מים-המוות",
+            "description": "34",
+            "start_page": "מירי חנוך",
+            "author": ""
+        },
+        {
+            "title": "חילוץ מים המוות",
+            "description": "",
+            "start_page": 34,
+            "author": "מירי חנוך"
+        },
+        {
+            "title": "רמזורים בשמים",
+            "description": "",
+            "start_page": 36,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "ברגל השלישית",
+            "description": "",
+            "start_page": 40,
+            "author": "יגאל סרנה"
+        },
+        {
+            "title": "לטוס עם כנפיים מקוצצות?",
+            "description": "",
+            "start_page": 42,
+            "author": "יקיראלקריב וענר גוברין"
+        },
+        {
+            "title": "חשופים מול צריח",
+            "description": "",
+            "start_page": 46,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "נ\"ט מהיר, מדוייק וקטלני",
+            "description": "",
+            "start_page": 48,
+            "author": "גיל בר-טל"
+        },
+        {
+            "title": "סופר-קוברה: מסול-על",
+            "description": "",
+            "start_page": 50,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "נחיתה על טוטם-פול",
+            "description": "",
+            "start_page": 52,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 54,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "קפיצה מסוקית אל המאה ה-21",
+            "description": "",
+            "start_page": 57,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "כרתים נפלה מהאויר",
+            "description": "",
+            "start_page": 61,
+            "author": "אל\"מ אורי דרומי"
+        },
+        {
+            "title": "יש גם וולוו מעופף",
+            "description": "",
+            "start_page": 66,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "האדם ישלוט במכונה",
+            "description": "",
+            "start_page": 70,
+            "author": ""
+        },
+        {
+            "title": "לעשות סדר",
+            "description": "בשמיים",
+            "start_page": "",
+            "author": "73"
+        },
+        {
+            "title": "דן ארקין",
+            "description": "טייס ושמו ג'ו (ב')",
+            "start_page": "",
+            "author": "74"
+        },
+        {
+            "title": "ריקי ריבלין",
+            "description": "ללכת לפני המחשבה",
+            "start_page": "",
+            "author": "81"
+        },
+        {
+            "title": "ענר גוברין",
+            "description": "ג",
+            "start_page": "",
+            "author": ""
+        },
+        {
+            "title": "ללכת לפני המחשבה",
+            "description": "",
+            "start_page": 81,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 85,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 88,
+            "author": ""
+        }
+    ]
+}

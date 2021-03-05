@@ -1,0 +1,162 @@
+{
+    "metadata": {
+        "issue_number": "125",
+        "year": "1981",
+        "month": {
+            "to": "אוקטובר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 15.0,
+            "type": "שקל"
+        },
+        "photographers": [],
+        "subscription_price": {
+            "amount": 80.0,
+            "type": "שקל"
+        },
+        "number_of_pages": "68",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=939",
+        "title": "בטאון חיל האויר אוקטובר 1981 מס' 24 (125)",
+        "new_issue_number": 24,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC125.pdf&page=Body&ProdID=939"
+    },
+    "index": [
+        {
+            "title": "מהלומה בלב האויב",
+            "description": "",
+            "start_page": 2,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "במקום הגשר - בריכת בוץ",
+            "description": "",
+            "start_page": 4,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "הגביע שנשאר בטייסת",
+            "description": "",
+            "start_page": 5,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "יסעורים בחגווי הסלע",
+            "description": "",
+            "start_page": 8,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "\"זאפטה\" על זאפטה",
+            "description": "",
+            "start_page": 11,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "בקרב אמת הקריטריונים משתנים",
+            "description": "",
+            "start_page": 11,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "הלב יוצא עם המטוס",
+            "description": "",
+            "start_page": 15,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "טוהר נשקנו לא נפגע",
+            "description": "",
+            "start_page": 17,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "תקיפת יעדים אסטרטגיים בסוריה",
+            "description": "",
+            "start_page": 22,
+            "author": "עודד מרום"
+        },
+        {
+            "title": "הגיחה הקשה ביותר בחיי",
+            "description": "",
+            "start_page": 26,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "לעצור את השריון בכל מחיר",
+            "description": "",
+            "start_page": 29,
+            "author": "אריה דגן"
+        },
+        {
+            "title": "מאש הקרב לארץ האש",
+            "description": "",
+            "start_page": 30,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "כשהאצ\"ל טיפח טייסים...",
+            "description": "",
+            "start_page": 31,
+            "author": "נפתלי ארבל"
+        },
+        {
+            "title": "מוטיבאציה העולה מצוותי הקרקע",
+            "description": "",
+            "start_page": 36,
+            "author": "חנה זמר"
+        },
+        {
+            "title": "מלה שאפשר להצמד אליה",
+            "description": "",
+            "start_page": 38,
+            "author": "יעקב אגמון"
+        },
+        {
+            "title": "כשג'יפ נופל ממטוס באמצע הלילה...",
+            "description": "",
+            "start_page": 41,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "F-18 - דבור שפגיעתו קשה",
+            "description": "",
+            "start_page": 46,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "חיל-האויר האמרקני - לאן?",
+            "description": "",
+            "start_page": 50,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 53,
+            "author": ""
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 57,
+            "author": ""
+        },
+        {
+            "title": "מכתבים",
+            "description": "",
+            "start_page": 61,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 62,
+            "author": ""
+        }
+    ]
+}

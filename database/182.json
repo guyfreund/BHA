@@ -1,0 +1,180 @@
+{
+    "metadata": {
+        "issue_number": "182",
+        "year": "1991",
+        "month": {
+            "to": "אוקטובר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 12.0,
+            "type": "ש״ח"
+        },
+        "subscription_price": {
+            "amount": 65.0,
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר",
+            "שלמה וולקוביץ"
+        ],
+        "number_of_pages": "101",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=964",
+        "title": "בטאון חיל האויר אוקטובר 1991 מס' 81 (182)",
+        "new_issue_number": 81,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC182.pdf&page=Body&ProdID=964"
+    },
+    "index": [
+        {
+            "title": "מפקד חיל האוויר: חשוב להמשיך לעקוב אחרי עיראק",
+            "description": "",
+            "start_page": 2,
+            "author": ""
+        },
+        {
+            "title": "ראש להק ציוד: הפרדת רשויות מוחלטת ושינויים בסדרי החשיבות",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "מטוסי F-16 ו-F-15 חדשים בחי להאויר",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "״סקאד C״ בידי מדינות ערב",
+            "description": "",
+            "start_page": 7,
+            "author": ""
+        },
+        {
+            "title": "טייסת מבריקה",
+            "description": "",
+            "start_page": 10,
+            "author": "קובי מרינקו"
+        },
+        {
+            "title": "הולכים לזרוק ״סובארו״",
+            "description": "",
+            "start_page": 16,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "טייסי הפרוטוקול",
+            "description": "",
+            "start_page": 22,
+            "author": "סמדר פרי ושרון שדה"
+        },
+        {
+            "title": "עם הגב למצלמה",
+            "description": "",
+            "start_page": 28,
+            "author": "קובי מרינקו"
+        },
+        {
+            "title": "נכנסו לוורטיגו",
+            "description": "",
+            "start_page": 34,
+            "author": "ליאורה שוסטר"
+        },
+        {
+            "title": "יחסים מסוכנים",
+            "description": "",
+            "start_page": 40,
+            "author": "ענבר גוברין"
+        },
+        {
+            "title": "עונת החילוצים",
+            "description": "",
+            "start_page": 46,
+            "author": "קרן קרפ"
+        },
+        {
+            "title": "מה אנחנו יודעים בעצם על האטום?",
+            "description": "",
+            "start_page": 50,
+            "author": ""
+        },
+        {
+            "title": "סיכוי טוב להרכבת מטוסי F-16 בארץ",
+            "description": "",
+            "start_page": 53,
+            "author": "שרון דה וקובי מרינקו"
+        },
+        {
+            "title": "האדם שמאחורי כוח האש",
+            "description": "",
+            "start_page": 54,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "רפא״ל תייצר את הרש״ק של החץ",
+            "description": "",
+            "start_page": 56,
+            "author": "קובי מרינקו"
+        },
+        {
+            "title": "מי הבוס?",
+            "description": "",
+            "start_page": 58,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "אני יודע שאנ יאמות בקיץ",
+            "description": "",
+            "start_page": 64,
+            "author": "הילי מודריק"
+        },
+        {
+            "title": "קרוב לצלחת",
+            "description": "",
+            "start_page": 70,
+            "author": "עודד גלוברמן"
+        },
+        {
+            "title": "חלוקת עבודה",
+            "description": "",
+            "start_page": 76,
+            "author": "הילי מודריק"
+        },
+        {
+            "title": "מדף אווירי",
+            "description": "ספרים",
+            "start_page": 83,
+            "author": ""
+        },
+        {
+            "title": "העתיד טמון בתמרון - שיטה חדשה האמורה לשפר את מעטפת הטיסה של מטוסי הקרב הנוכחיים",
+            "description": "",
+            "start_page": 84,
+            "author": ""
+        },
+        {
+            "title": "חיל האוויר הסובייטי בסימן רפורמה עדיפות לזרוע האוויר",
+            "description": "",
+            "start_page": 85,
+            "author": ""
+        },
+        {
+            "title": "אסון הצ׳אלנג׳ר - טיוחים בחקירת ״נאסא״",
+            "description": "",
+            "start_page": 90,
+            "author": ""
+        },
+        {
+            "title": "אנגלית",
+            "description": "",
+            "start_page": 94,
+            "author": ""
+        }
+    ]
+}

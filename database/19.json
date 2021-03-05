@@ -1,25 +1,33 @@
 {
     "metadata": {
-        "issue_number": "18",
         "year": "1952",
         "month": {
-            "from": "ינואר",
-            "to": "פברואר"
+            "to": "מאי",
+            "from": "אפריל"
         },
-        "publisher": "מפקדת חיל האויר",
+        "date_of_publish": "Tue Apr 01 14:09:03 UTC 1952",
+        "issue_number": "19",
+        "publisher": "חיל האויר",
         "editor": "משה פומרנץ",
-        "deputy_editor": "צחי שן",
+        "deputy_editor": "-",
+        "graphics_editor": "-",
+        "technical_editor": "-",
         "price": {
-            "amount": 250.0,
+            "amount": 250,
             "type": "פרוטה"
         },
-        "subscription_price": {
-            "amount": "",
-            "type": "ש״ח"
-        },
         "photographers": [],
-        "number_of_pages": 140,
-        "subscription_only": false
+        "system": "-",
+        "subscription_price": {
+            "amount": -1,
+            "type": ""
+        },
+        "number_of_pages": "180",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=1010",
+        "title": "בטאון חיל האויר אפריל-מאי 1952 מס' 19",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC19.pdf&page=Body&ProdID=1010"
     },
     "index": [
         {
@@ -38,31 +46,31 @@
             "title": "שכון אנשי שרות קבע",
             "description": "",
             "start_page": 8,
-            "author": "רב סרן יחיאל אלון"
+            "author": ""
         },
         {
-            "title": "ראיון עם הפרופ' סידני גולדסטין",
+            "title": "ראיון עם הפרופסור סידני גולדסטין",
             "description": "",
             "start_page": 9,
-            "author": "יעקב זהבי"
+            "author": ""
         },
         {
             "title": "פיקוד ומנהיגות",
             "description": "",
             "start_page": 11,
-            "author": "סיר ג'ון סלסור"
+            "author": ""
         },
         {
             "title": "בריטניה מפגינה את חידושיה בתעופה",
             "description": "",
             "start_page": 18,
-            "author": "סרן יוסף זינגר"
+            "author": ""
         },
         {
             "title": "מבצעי כוח מוטס ולקחם",
             "description": "",
             "start_page": 29,
-            "author": "לוחם"
+            "author": ""
         },
         {
             "title": "המזרח התיכון ואפריקה בגיאופוליטיקה אוירית",
@@ -74,7 +82,7 @@
             "title": "מצלמה אוירית בכנפי יונה",
             "description": "",
             "start_page": 38,
-            "author": "י. מחט וי. עופר"
+            "author": ""
         },
         {
             "title": "על מטוסי סילון מפי טייס בוחן",
@@ -86,7 +94,7 @@
             "title": "באויר העולם",
             "description": "",
             "start_page": 48,
-            "author": "י. דויטש וי. זמיר"
+            "author": ""
         },
         {
             "title": "הבננה המעופפת",
@@ -98,72 +106,72 @@
             "title": "דאוני מטרה לאמון טייסי קרב",
             "description": "",
             "start_page": 62,
-            "author": "יוסף זינגר"
+            "author": ""
         },
         {
-            "title": "אוירודינמיקה מס' 4",
+            "title": "אוירודינמיקה מספר 4",
             "description": "",
             "start_page": 66,
-            "author": "סרן דוד אברמוביץ"
+            "author": ""
         },
         {
             "title": "גלוסטר מטאור",
             "description": "",
             "start_page": 86,
-            "author": "י. מטוסי"
+            "author": ""
         },
         {
             "title": "בנה לך מטאור קטן",
             "description": "",
             "start_page": 93,
-            "author": "שלמה ירקוני"
+            "author": ""
         },
         {
-            "title": "מיוחד לממציאים/ כיצד מגיעים לקרקע?",
+            "title": "מיוחד לממציאים",
             "description": "",
             "start_page": 97,
-            "author": "יעקב זהבי"
+            "author": ""
         },
         {
-            "title": "בשמי המזרח הרחוק/ מטוסים קלים קוריאה",
+            "title": "בשמי המזרח הרחוק",
+            "description": "מטוסים קלים בקוריאה",
+            "start_page": 102,
+            "author": ""
+        },
+        {
+            "title": "טיסות בראשית",
+            "description": "דרכה של הטייסת אמליה ארהרט",
+            "start_page": 105,
+            "author": ""
+        },
+        {
+            "title": "צחצחו את המטוסים",
             "description": "",
             "start_page": 102,
             "author": ""
         },
         {
-            "title": "טיסות בראשית/ דרכה של הטייסת אמליה ארהרט",
-            "description": "",
-            "start_page": 105,
-            "author": ""
-        },
-        {
-            "title": "צחצחו את המטוסים!",
-            "description": "",
-            "start_page": 108,
-            "author": "סרן אריה הלל"
-        },
-        {
             "title": "על הטייסת הקלה",
             "description": "",
             "start_page": 110,
-            "author": "סגן שלמה ירקוני"
+            "author": ""
         },
         {
             "title": "מילשטיין רב המכונאים",
             "description": "",
             "start_page": 113,
-            "author": "שלמיר"
+            "author": ""
         },
         {
             "title": "כרוניקה תעופתית",
             "description": "",
-            "start_page": 16,
+            "start_page": 116,
             "author": ""
         },
         {
             "title": "תעופה אזרחית",
             "description": "",
-            "start_page": 19,
+            "start_page": 119,
             "author": ""
         },
         {
@@ -173,7 +181,7 @@
             "author": ""
         },
         {
-            "title": "בזמי המזרח התיכון",
+            "title": "בשמי המזרח התיכון",
             "description": "",
             "start_page": 124,
             "author": ""

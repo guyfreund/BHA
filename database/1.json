@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "year": "1948",
+        "month": {
+            "to": "ספטמבר",
+            "from": ""
+        },
+        "date_of_publish": "Mon Sep 20 12:18:32 UTC 1948\n",
+        "issue_number": "1",
+        "publisher": "חיל האויר",
+        "editor": "-",
+        "deputy_editor": "-",
+        "graphics_editor": "-",
+        "technical_editor": "-",
+        "price": {
+            "amount": 50,
+            "type": "מיל ארץ ישראלי"
+        },
+        "photographers": [
+            ""
+        ],
+        "system": "-",
+        "subscription_price": {
+            "amount": -1,
+            "type": ""
+        },
+        "number_of_pages": "28",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=865",
+        "title": "בטאון חיל האויר ספטמבר 1948 מס' 1",
+        "new_issue_number": "-1",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://files.iaflibrary.org.il/DigitalLibrary/BITEONIM/TOC1.pdf&page=Body&ProdID=865"
+    },
+    "index": [
+        {
+            "title": "דברי ראש הממשלה ושר הביטחון",
+            "description": "",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "דבר המפקד",
+            "description": "",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "החיל שלנו",
+            "description": "",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "כנפים לעם",
+            "description": "",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "טיסת ביקור לנגב",
+            "description": "",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "פעולת חרקירי",
+            "description": "סיפורו של טייס",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "המסלול בכפר עציון",
+            "description": "",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "הקרב על גואדאלאירה",
+            "description": "",
+            "start_page": -1,
+            "author": ""
+        },
+        {
+            "title": "מה דעתך על טיסה למאדים?",
+            "description": "",
+            "start_page": -1,
+            "author": "string"
+        },
+        {
+            "title": "הראדאר רוכב על כנפי הרוח",
+            "description": "",
+            "start_page": -1,
+            "author": ""
+        }
+    ]
+}

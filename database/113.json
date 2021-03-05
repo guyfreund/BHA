@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "issue_number": "113",
+        "year": "1979",
+        "month": {
+            "to": "אוקטובר",
+            "from": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אורי",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 20.0,
+            "type": "ל״י"
+        },
+        "photographers": [
+            "גיל ארבל"
+        ],
+        "subscription_price": {
+            "amount": 100.0,
+            "type": "ל״י"
+        },
+        "number_of_pages": "68",
+        "subscription_only": false,
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=945",
+        "title": "בטאון חיל האויר אוקטובר 1979 מס' 12 (113)",
+        "new_issue_number": 12,
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC113.pdf&page=Body&ProdID=945"
+    },
+    "index": [
+        {
+            "title": "נכישת-מוות לטנקי האוייב",
+            "description": "",
+            "start_page": 3,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "לטפח טייס ולוחם מתוחכם",
+            "description": "",
+            "start_page": 6,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "עין-הנץ סורקות מגבוה",
+            "description": "",
+            "start_page": 10,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 13,
+            "author": ""
+        },
+        {
+            "title": "״במיבצעים לא אבכה״",
+            "description": "",
+            "start_page": 16,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "״קודם-כל - ביצוע ברמה״",
+            "description": "",
+            "start_page": 19,
+            "author": "עמרי"
+        },
+        {
+            "title": "והדאקוטה לעולם נשארת...",
+            "description": "",
+            "start_page": 22,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "קטנים, אבל גדולים",
+            "description": "",
+            "start_page": 25,
+            "author": "רון הדר"
+        },
+        {
+            "title": "״נזירי״ הקשר",
+            "description": "",
+            "start_page": 28,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "12 מעשי-הגבורה של הרקולס ושות׳",
+            "description": "",
+            "start_page": 31,
+            "author": "זאב"
+        },
+        {
+            "title": "הרקולסים בגרינהאם קומון",
+            "description": "",
+            "start_page": 34,
+            "author": "רס״ן ג׳"
+        },
+        {
+            "title": "לטוס עד הסוף!",
+            "description": "",
+            "start_page": 37,
+            "author": "סא״ל א׳"
+        },
+        {
+            "title": "F-5E - נמר ולא מנייר",
+            "description": "",
+            "start_page": 38,
+            "author": "יוסךף בודנסקי"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 42,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "כרוח על-פני המים",
+            "description": "",
+            "start_page": 46,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "אפסנאות עם מוטיבאציה",
+            "description": "",
+            "start_page": 48,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "מאזן האימה של טילי השיוט",
+            "description": "",
+            "start_page": 50,
+            "author": "יוסף בודנסקי"
+        },
+        {
+            "title": "מה אתה אומר?",
+            "description": "",
+            "start_page": 53,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "מכתביפ",
+            "description": "",
+            "start_page": 54,
+            "author": ""
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 56,
+            "author": ""
+        }
+    ]
+}

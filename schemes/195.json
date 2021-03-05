@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "issue_number": "195",
+        "year": "1993",
+        "month": {
+            "from": "דצמבר",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 12.0,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": 65.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "רביב גנשוא",
+            "שאול שורץ",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר"
+        ],
+        "number_of_pages": 100,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "שיגור חי של מל\"ט",
+            "description": "",
+            "start_page": 3,
+            "author": ""
+        },
+        {
+            "title": "ראש להק מודיעין: \"לעיראק יש עדיין טילים שהצליחה להסתיר, וייתכן שגם כמות מצומצמת של מגרים\"",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "\"היה שם נ\"מ בכמות ובכלים\"",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "רחוק מהבית",
+            "description": "",
+            "start_page": 14,
+            "author": "דן סלע"
+        },
+        {
+            "title": "מסע הדילוגים של 001",
+            "description": "",
+            "start_page": 20,
+            "author": "רועי יצהר"
+        },
+        {
+            "title": "הפיתיון",
+            "description": "",
+            "start_page": 26,
+            "author": "דן סלע"
+        },
+        {
+            "title": "קיר של פגזים",
+            "description": "",
+            "start_page": 30,
+            "author": ""
+        },
+        {
+            "title": "אגוזי",
+            "description": "",
+            "start_page": 32,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "מגה טק",
+            "description": "",
+            "start_page": 36,
+            "author": ""
+        },
+        {
+            "title": "מצינור פיטו ועד כסא מפלט",
+            "description": "",
+            "start_page": 42,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "הר עם כנפיים",
+            "description": "",
+            "start_page": 48,
+            "author": "רביב גנשרוא"
+        },
+        {
+            "title": "החלטה גורלית",
+            "description": "",
+            "start_page": 54,
+            "author": "קובי מרינקו"
+        },
+        {
+            "title": "דגים בים המלח",
+            "description": "",
+            "start_page": 62,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "שושלת",
+            "description": "",
+            "start_page": 68,
+            "author": "שרון גבע"
+        },
+        {
+            "title": "גבוה, ספונטני, עם עיניים כחולות",
+            "description": "",
+            "start_page": 74,
+            "author": "טל אלון"
+        },
+        {
+            "title": "הנסיכים לטיס",
+            "description": "",
+            "start_page": "",
+            "author": "קובי מרינקו וענר גוברין"
+        },
+        {
+            "title": "המעופף",
+            "description": "",
+            "start_page": 84,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 87,
+            "author": ""
+        },
+        {
+            "title": "זירת הטילים",
+            "description": "",
+            "start_page": 88,
+            "author": ""
+        },
+        {
+            "title": "כנגד כל הסיכויים - מבט על חברת-התעופה הלאומית הסורית",
+            "description": "",
+            "start_page": 92,
+            "author": ""
+        },
+        {
+            "title": "היורש של ה-F-22",
+            "description": "",
+            "start_page": 95,
+            "author": ""
+        }
+    ]
+}
