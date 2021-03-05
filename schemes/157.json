@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "issue_number": "157",
+        "year": "1987",
+        "month": {
+            "from": "מרץ",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 3.0,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": 15.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר"
+        ],
+        "number_of_pages": 88,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "הפעם הממשלה לא נפלה..",
+            "description": "",
+            "start_page": 6,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "פריצה בלבנון",
+            "description": "",
+            "start_page": 8,
+            "author": "רוני אלרואי"
+        },
+        {
+            "title": "תשובה כפולה",
+            "description": "",
+            "start_page": 14,
+            "author": "משה פרל"
+        },
+        {
+            "title": "חילוץ בלב הסערה",
+            "description": "",
+            "start_page": 16,
+            "author": "רוני אלרואי"
+        },
+        {
+            "title": "להתבגר עם סקייהוק",
+            "description": "",
+            "start_page": 18,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "צוות אחד",
+            "description": "",
+            "start_page": 20,
+            "author": ""
+        },
+        {
+            "title": "איך עוברים מ-A ל-C",
+            "description": "",
+            "start_page": 22,
+            "author": "אלינער בן-עקיבא"
+        },
+        {
+            "title": "המרגלית שבכתר",
+            "description": "",
+            "start_page": 26,
+            "author": "רוני אלרואי"
+        },
+        {
+            "title": "מהקל אל הכבד",
+            "description": "",
+            "start_page": 28,
+            "author": "אלינער בן-עקיבא"
+        },
+        {
+            "title": "אם זמרת נופלת ממטוס באמצע הלילה...",
+            "description": "",
+            "start_page": 31,
+            "author": ""
+        },
+        {
+            "title": "סוויסאייר:חדשנות ושמרנות",
+            "description": "",
+            "start_page": 32,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "העתיד מתוכנן במחשב",
+            "description": "",
+            "start_page": 34,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "מראה מעל המטוס",
+            "description": "",
+            "start_page": 37,
+            "author": ""
+        },
+        {
+            "title": "הגיל שבצילום מהאויר",
+            "description": "",
+            "start_page": 40,
+            "author": "יגאל סרנה"
+        },
+        {
+            "title": "לא כציפור בכלוב-לאסלו",
+            "description": "",
+            "start_page": 42,
+            "author": "יגאל סרנה"
+        },
+        {
+            "title": "תגובות",
+            "description": "",
+            "start_page": 49,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": "רם אברהמי",
+            "author": ""
+        },
+        {
+            "title": "קרוב למציאות",
+            "description": "",
+            "start_page": 54,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "חיל האויר של לוב",
+            "description": "תלוי באיזה צ'אד",
+            "start_page": 57,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "A-320",
+            "description": "הלביא של אירופה",
+            "start_page": 60,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "הבט אחורה באומץ",
+            "description": "",
+            "start_page": 62,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "אגרוף אוירי על המים",
+            "description": "",
+            "start_page": 66,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "תיתכן תקיפה אוירית אמריקנית",
+            "description": "",
+            "start_page": 70,
+            "author": "אלינער בן-עקיבא"
+        },
+        {
+            "title": "אל שנת 2000 ואלך",
+            "description": "",
+            "start_page": 72,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 76,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        }
+    ]
+}

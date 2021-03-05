@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "issue_number": "159",
+        "year": "1987",
+        "month": {
+            "from": "יולי",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 3.6,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": 15.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר"
+        ],
+        "number_of_pages": 88,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "ראיון עם מפקד חיל האויר, אלוף עמוס לפידות: קודם כל עליונות אוירית",
+            "description": "",
+            "start_page": 6,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "ראיון עם אלוף מוטי מחט: חיל האויר הוא היתרון היחסי",
+            "description": "",
+            "start_page": 9,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "עיניים לטילים",
+            "description": "",
+            "start_page": 10,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "תחתשמי מוסקבה",
+            "description": "",
+            "start_page": 12,
+            "author": "אייל ארליך"
+        },
+        {
+            "title": "מדובר בבני-אדם",
+            "description": "",
+            "start_page": 15,
+            "author": "אלינער בן-עקיבא"
+        },
+        {
+            "title": "מחול אירובאטי",
+            "description": "",
+            "start_page": 20,
+            "author": "גיא רימון"
+        },
+        {
+            "title": "רודיאו בשחקים",
+            "description": "",
+            "start_page": 22,
+            "author": "אל\"מ אורי דרומי"
+        },
+        {
+            "title": "חמש שנים למלחמת לבנון: פאנטומים מעל ביירות",
+            "description": "",
+            "start_page": 27,
+            "author": ""
+        },
+        {
+            "title": "\"בריטיש אירוווייס:: אפשר כבר לחייך",
+            "description": "",
+            "start_page": 36,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "הילה מאירה למסוק",
+            "description": "",
+            "start_page": 38,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "אוספים פוטנציאל",
+            "description": "",
+            "start_page": 42,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "ממזל\"ט עד סופר=פאנטום",
+            "description": "",
+            "start_page": 47,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "לחיי הסאלונים שבדרך",
+            "description": "",
+            "start_page": 49,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 50,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "טיסה עם כוח",
+            "description": "",
+            "start_page": 54,
+            "author": "רם אברהמי ויקיר אלקריב"
+        },
+        {
+            "title": "המחייאים",
+            "description": "",
+            "start_page": 56,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "המראה קיבוצית",
+            "description": "",
+            "start_page": 59,
+            "author": "מירב מורן"
+        },
+        {
+            "title": "מודי-אלון שנגד(ב')",
+            "description": "",
+            "start_page": 60,
+            "author": "מירב מורן"
+        },
+        {
+            "title": "כעוף החול",
+            "description": "",
+            "start_page": 64,
+            "author": "דרור מרום ודריה מעוז"
+        },
+        {
+            "title": "מסוף מן ההתחלה",
+            "description": "",
+            "start_page": 70,
+            "author": "רוני אלרואי"
+        },
+        {
+            "title": "מחיר ההתראה המאוחרת",
+            "description": "",
+            "start_page": 73,
+            "author": "אודי צופף"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 76,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        }
+    ]
+}

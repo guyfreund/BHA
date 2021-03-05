@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "issue_number": "156",
+        "year": "1987",
+        "month": {
+            "from": "ינואר",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 3.0,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": 15.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "ראובן קסטרו",
+            "אורי שנקר",
+            "בנצי בר"
+        ],
+        "number_of_pages": 89,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "עדות ראייה",
+            "description": "",
+            "start_page": 6,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "כך הוכן הלביא להמראת הבכורה",
+            "description": "",
+            "start_page": 10,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "אדם מול סילון אש",
+            "description": "",
+            "start_page": 14,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "ידידי, אורי",
+            "description": "",
+            "start_page": 18,
+            "author": "ריקי ריבלין"
+        },
+        {
+            "title": "ראיון עם מפקד חיל-האויר",
+            "description": "כוח ההרתעה",
+            "start_page": 20,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "זהו מטוס אדיר!",
+            "description": "",
+            "start_page": 22,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "חלוצי הדור החדש",
+            "description": "",
+            "start_page": 26,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "טייסים באור וצל",
+            "description": "",
+            "start_page": 30,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "לחימה לטווח ארוך",
+            "description": "",
+            "start_page": 34,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "טיסה נעימה",
+            "description": "",
+            "start_page": 38,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "הגדול מכולם",
+            "description": "",
+            "start_page": 42,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "באוי העולם",
+            "description": "",
+            "start_page": 50,
+            "author": "רהם אברהמי"
+        },
+        {
+            "title": "עידן חדש בנאס\"א",
+            "description": "",
+            "start_page": 53,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "סופרמסוק",
+            "description": "",
+            "start_page": 56,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "מנושאת מטוסים לטייסת",
+            "description": "",
+            "start_page": 60,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "מרותקים מרצון",
+            "description": "",
+            "start_page": 62,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "בל על המים",
+            "description": "",
+            "start_page": 66,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "בחליפת הלחץ",
+            "description": "",
+            "start_page": 70,
+            "author": "עלינבר בן-עקיבא"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 70,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        }
+    ]
+}

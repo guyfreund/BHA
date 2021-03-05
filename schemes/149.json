@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "issue_number": "149",
+        "year": "1985",
+        "month": {
+            "from": "נובמבר",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 850.0,
+            "type": "שקל"
+        },
+        "subscription_price": {
+            "amount": 4800.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "גיל ארבל"
+        ],
+        "number_of_pages": 96,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "מפקד חיל האויר, האלוף עמוס לפידות: הלום בשקט, הלום רחוק",
+            "description": "",
+            "start_page": "",
+            "author": "10"
+        },
+        {
+            "title": "הפצצה בלב אש\"ף",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "ראש אמ\"ן, אלוף אהוד ברק: מלחמה בטרור יש לנהל בהתמדה נעדרת אשליות",
+            "description": "",
+            "start_page": 17,
+            "author": ""
+        },
+        {
+            "title": "כוח 14: כנפיים לטרור",
+            "description": "",
+            "start_page": 21,
+            "author": ""
+        },
+        {
+            "title": "הלוחמה בטרור:התפישה הישראלית",
+            "description": "",
+            "start_page": 24,
+            "author": ""
+        },
+        {
+            "title": "ראלי לא נורמאלי",
+            "description": "",
+            "start_page": 26,
+            "author": "גיל בר-טל"
+        },
+        {
+            "title": "טיסת-מכשולים למכסיקו",
+            "description": "",
+            "start_page": 30,
+            "author": "מירי חנוך"
+        },
+        {
+            "title": "טייסת קטנה-גדולה",
+            "description": "",
+            "start_page": 34,
+            "author": "ריקי ריבלין"
+        },
+        {
+            "title": "ציפיות גדולות מדי",
+            "description": "",
+            "start_page": 36,
+            "author": ""
+        },
+        {
+            "title": "למטוס נשמה משלו",
+            "description": "",
+            "start_page": 37,
+            "author": "גיל בר-טל"
+        },
+        {
+            "title": "נ\"מ חצי-כחול חצי-ירוק",
+            "description": "",
+            "start_page": 39,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "ישראל בסאלון האוירי בסינגאפור",
+            "description": "",
+            "start_page": 42,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "ה\"קליפרים\" מגיעים",
+            "description": "",
+            "start_page": 44,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "לא טיול שנתי",
+            "description": "",
+            "start_page": 46,
+            "author": "גיל בר-טל"
+        },
+        {
+            "title": "אחים חורגים לגאלאכסי",
+            "description": "",
+            "start_page": 53,
+            "author": "אודי צופף"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 57,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "לא חוד-החנית",
+            "description": "",
+            "start_page": 60,
+            "author": "עודד פריירייך"
+        },
+        {
+            "title": "מסוק נגד מסוק",
+            "description": "",
+            "start_page": 64,
+            "author": ""
+        },
+        {
+            "title": "אפאצ'י: הלפייר ב-196 קשר",
+            "description": "",
+            "start_page": 68,
+            "author": ""
+        },
+        {
+            "title": "מטוס על חבל דק",
+            "description": "",
+            "start_page": 70,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "קולומבוס ישראלי",
+            "description": "",
+            "start_page": 75,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "דרך הגב",
+            "description": "",
+            "start_page": "",
+            "author": "מירי חנוך"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 84,
+            "author": ""
+        },
+        {
+            "title": "דואר אויר",
+            "description": "",
+            "start_page": 86,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 88,
+            "author": ""
+        }
+    ]
+}

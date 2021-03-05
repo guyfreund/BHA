@@ -1,0 +1,200 @@
+{
+    "metadata": {
+        "issue_number": "151-152",
+        "year": "1986",
+        "month": {
+            "from": "אפריל",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 3.0,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": "",
+            "type": "ש״ח"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "ראובן קסטרו",
+            "אורי שנקר",
+            "בנצי בר",
+            "יעל אשל"
+        ],
+        "number_of_pages": 136,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "מפקדת חיל-האויר, האלוף עמוס לפידות:הפעולה האמריקנית בלוב הושפעה מפעולת חיל-האוי בטוניסיה",
+            "description": "",
+            "start_page": 6,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "מערכת מעולה-פגיעות מעולות",
+            "description": "",
+            "start_page": 8,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "אש קטלנית מגובה נמוך",
+            "description": "",
+            "start_page": 10,
+            "author": "גיל בר-טל"
+        },
+        {
+            "title": "כך יירטנו את הגאלף-סטרים הלובי",
+            "description": "",
+            "start_page": 14,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "דוד עברי:הלביא יהיה מטוס התקיפה הטוב בעולם",
+            "description": "",
+            "start_page": 16,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "כפירים אל המים",
+            "description": "",
+            "start_page": 22,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "צה\"ל - מקרן, לא ראי",
+            "description": "",
+            "start_page": 30,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "פאנטומים עכשיו",
+            "description": "",
+            "start_page": 34,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "עינייםחדשות לנ\"מ",
+            "description": "",
+            "start_page": 39,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "50 שהם 151",
+            "description": "",
+            "start_page": 40,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "הארם נגד S.A.-5",
+            "description": "",
+            "start_page": 42,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "טבעת המוות של הצ'לנג'ר",
+            "description": "",
+            "start_page": 45,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "סינון זהיר",
+            "description": "",
+            "start_page": 50,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "עיןחדשה, אומץ לב, דבקות במטרה",
+            "description": "",
+            "start_page": 54,
+            "author": "ריקי ריבלין"
+        },
+        {
+            "title": "השווים והשוות יותר",
+            "description": "",
+            "start_page": 58,
+            "author": "טלי בשן ומירי חנוך"
+        },
+        {
+            "title": "כוחה של כמות",
+            "description": "",
+            "start_page": 62,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "קצת אחרת",
+            "description": "",
+            "start_page": 65,
+            "author": ""
+        },
+        {
+            "title": "להשמיד את האויב בבסיסיו",
+            "description": "",
+            "start_page": 74,
+            "author": "אלמ אורי דרומי"
+        },
+        {
+            "title": "השיר והשירות",
+            "description": "",
+            "start_page": 81,
+            "author": "משה דור"
+        },
+        {
+            "title": "פגישה ברמב\"ם",
+            "description": "",
+            "start_page": 82,
+            "author": "שרית נקש"
+        },
+        {
+            "title": "להיפלט ולהישאר בחיים",
+            "description": "",
+            "start_page": 84,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "מס' 3 מתאמץ יותר",
+            "description": "",
+            "start_page": 90,
+            "author": "אודי צופף"
+        },
+        {
+            "title": "מלחמת צללים בלתי פוסקת",
+            "description": "",
+            "start_page": 98,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "הלם על הנילוס",
+            "description": "",
+            "start_page": 102,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "יחי ההבדל הקטן",
+            "description": "",
+            "start_page": 110,
+            "author": "ירון כץ"
+        },
+        {
+            "title": "פטיש כבד",
+            "description": "",
+            "start_page": 117,
+            "author": "אלינער בן-עקיבא"
+        },
+        {
+            "title": "המראה בסא גלגלים",
+            "description": "",
+            "start_page": 128,
+            "author": "עודד מרום"
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 130,
+            "author": ""
+        }
+    ]
+}

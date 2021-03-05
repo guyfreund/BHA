@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "issue_number": "155",
+        "year": "1986",
+        "month": {
+            "from": "נובמבר",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 3.0,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": 15.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "ראובן קסטרו",
+            "אורי שנקר",
+            "בנצי בר"
+        ],
+        "number_of_pages": 88,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "הסיפור המלא של חילוץץ טייס הפאנטום מלבנון",
+            "description": "הביתה!",
+            "start_page": 6,
+            "author": "אלינעבר בן עקיבא"
+        },
+        {
+            "title": "כדור אש על המים",
+            "description": "",
+            "start_page": 9,
+            "author": ""
+        },
+        {
+            "title": "ראיון מיוחד עם מפקד בסיס אל\"מ ש'",
+            "description": "לחלץ בכל תנאי",
+            "start_page": 10,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "בום על-קולי בקהיר",
+            "description": "",
+            "start_page": 12,
+            "author": "תא\"ל אשר שניר"
+        },
+        {
+            "title": "השורשים של הפאנטום",
+            "description": "",
+            "start_page": 16,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "אלופי האלתור",
+            "description": "",
+            "start_page": 22,
+            "author": "אלינער בן עקיבא"
+        },
+        {
+            "title": "דף בספר הטיסות",
+            "description": "",
+            "start_page": 27,
+            "author": "אל\"מ א'"
+        },
+        {
+            "title": "\"חינך תורן\" לשנתיים",
+            "description": "",
+            "start_page": 28,
+            "author": "מירי חנוך"
+        },
+        {
+            "title": "קפיצה גדולה קדימה",
+            "description": "",
+            "start_page": 30,
+            "author": "אלינער בן עקיבא"
+        },
+        {
+            "title": "המסע הארוך היותר",
+            "description": "",
+            "start_page": 32,
+            "author": "מירי חנוך"
+        },
+        {
+            "title": "לביא - מבט מבחוץ",
+            "description": "",
+            "start_page": 34,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "טכניקה של כתיבה",
+            "description": "",
+            "start_page": 36,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "שמיים פותחים",
+            "description": "",
+            "start_page": 38,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "F-14 וכל השאר",
+            "description": "",
+            "start_page": 42,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "מנהלים בעננים",
+            "description": "",
+            "start_page": 48,
+            "author": "אד הירש, ארה\"ב"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 50,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "לאגוף את הפוליסאריו אנכית",
+            "description": "",
+            "start_page": 54,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "שש כנפיים לאחד",
+            "description": "",
+            "start_page": 57,
+            "author": "דניאל מולד"
+        },
+        {
+            "title": "אור ירוק על דימדומים",
+            "description": "",
+            "start_page": 58,
+            "author": ""
+        },
+        {
+            "title": "תרגום חופשי",
+            "description": "",
+            "start_page": 62,
+            "author": ""
+        },
+        {
+            "title": "תרגיל קבוצתי עם דיפנר",
+            "description": "",
+            "start_page": 66,
+            "author": ""
+        },
+        {
+            "title": "בנה ביתך בנבטים",
+            "description": "",
+            "start_page": 70,
+            "author": "זאב"
+        },
+        {
+            "title": "תמוז בלהבות",
+            "description": "",
+            "start_page": 75,
+            "author": "אלי נוה"
+        },
+        {
+            "title": "מחירבה לאמפיתיאטרון",
+            "description": "",
+            "start_page": 76,
+            "author": "דניאל מולד"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 82,
+            "author": ""
+        }
+    ]
+}

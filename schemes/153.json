@@ -1,0 +1,188 @@
+{
+    "metadata": {
+        "issue_number": "153",
+        "year": "1986",
+        "month": {
+            "from": "יולי",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 2.75,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": 15.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "ראובן קסטרו",
+            "אורי שנקר",
+            "בנצי בר",
+            "יעל אשל"
+        ],
+        "number_of_pages": 88,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "ראיון מיוחד עם מפקד חיל-האויר, האלוף עמוס לפידות",
+            "description": "תשובות לאיומים",
+            "start_page": 6,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "כך חוסלו סוללות הטילים הסוריות בלבנון",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "מנוע לביא בגוף פאנטום",
+            "description": "",
+            "start_page": 10,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "ראיון עם שגריר ישראל באו\"ם, בנימין נתניהו",
+            "description": "המערב יכול לנצח",
+            "start_page": 12,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "המערב נכשל בטיפול בטרור האוירי",
+            "description": "",
+            "start_page": 14,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "מוטה גור, רמטכ\"ל אנטבה: כך תוכנן המבצע",
+            "description": "",
+            "start_page": 18,
+            "author": "מירי חנוך"
+        },
+        {
+            "title": "רכבת של טילים בעין=חילוואה",
+            "description": "",
+            "start_page": 19,
+            "author": ""
+        },
+        {
+            "title": "F-16C - העתיד כבר כאן",
+            "description": "",
+            "start_page": 21,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "חבלי הקליטה בעלייתו של F-16ב",
+            "description": "",
+            "start_page": 25,
+            "author": "אלינער בן-עקיבא"
+        },
+        {
+            "title": "לאור ירח ובלעדיו",
+            "description": "",
+            "start_page": 26,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "גלילת הלביא",
+            "description": "",
+            "start_page": 28,
+            "author": ""
+        },
+        {
+            "title": "הפלת בכורה עולמית",
+            "description": "",
+            "start_page": 32,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "המילכוד הכפול",
+            "description": "",
+            "start_page": 34,
+            "author": "אל\"מ מי"
+        },
+        {
+            "title": "קורס טיס-המילון",
+            "description": "",
+            "start_page": 36,
+            "author": "אריאל גולר וענר גוברין"
+        },
+        {
+            "title": "אלגאנטית בשטח",
+            "description": "",
+            "start_page": 43,
+            "author": "מירי חנוך"
+        },
+        {
+            "title": "מיג-27 מתוצרת הארץ",
+            "description": "",
+            "start_page": 46,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "באוי העולם",
+            "description": "",
+            "start_page": 52,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "על חוט השערה-בין כישלון להצלחה",
+            "description": "",
+            "start_page": 56,
+            "author": "אלמ א'"
+        },
+        {
+            "title": "צ'יק צ'אק",
+            "description": "",
+            "start_page": 60,
+            "author": ""
+        },
+        {
+            "title": "זבאנג-ועוד לא גמרנו",
+            "description": "",
+            "start_page": 64,
+            "author": "מירי חנוך"
+        },
+        {
+            "title": "רומן עם רמון",
+            "description": "",
+            "start_page": 66,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "טרנר: לא מוצג מוזיאוני",
+            "description": "",
+            "start_page": 70,
+            "author": "יגאל סרנה"
+        },
+        {
+            "title": "אני והספיט",
+            "description": "",
+            "start_page": 72,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "ה\"נשר\" ממריא",
+            "description": "",
+            "start_page": 78,
+            "author": "משה פירל"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": "מדף אוירי",
+            "author": "80"
+        },
+        {
+            "title": "",
+            "description": "",
+            "start_page": 83,
+            "author": "83"
+        }
+    ]
+}
