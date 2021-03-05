@@ -80,8 +80,16 @@ def fill_metadata(issue):
     issue_dict['publisher'] = check_n_get_val(issue, 'publisher')
     issue_dict['editor'] = check_n_get_val(issue, 'editor')
     issue_dict['deputy editor'] = check_n_get_val(issue, 'deputy_editor')
-    issue_dict['price'] = check_n_get_val(issue, 'price', 'amount')
-    issue_dict['subscription price'] = check_n_get_val(issue, 'subscription_price', 'amount')
+    price = check_n_get_val(issue, 'price', 'amount')
+    if type(price) is str:
+        issue_dict['price'] = price
+    if type(price) is int:
+        issue_dict['price'] = str(price) if price > 0 else ""
+    price = check_n_get_val(issue, 'subscription_price', 'amount')
+    if type(price) is str:
+        issue_dict['price'] = price
+    if type(price) is int:
+        issue_dict['subscription price'] = str(price) if price > 0 else ""
     issue_dict['currency'] = check_n_get_val(issue, 'price', 'type')
     issue_dict['photographers'] = check_n_get_val(issue, 'photographers')
     issue_dict['number of pages'] = check_n_get_val(issue, 'number_of_pages')
@@ -92,18 +100,18 @@ def fill_metadata(issue):
         issue_dict['index link'] = '-'
 
 
-def handle_quotes(str):
-    if(type(str) is list):
-        str = ','.join(str)
-    if(type(str) is str):
-        return str.replace('"', '\"')
-    return str
+def handle_quotes(val):
+    if(type(val) is list):
+        val = ','.join(val)
+    if(type(val) is str):
+        return val.replace('"', '\"')
+    return val
 
 
 def check_n_get_val(issue, field, op_field=None):
     if field in issue.keys():
         if op_field is not None:
-            if 'op_field' in issue[field]:
+            if op_field in issue[field].keys():
                 return handle_quotes(issue[field][op_field])
         else:
             return handle_quotes(issue[field])
