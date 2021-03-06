@@ -1,2 +1,0 @@
-pdfminer.six==20201018
-python-bidi==0.4.2
