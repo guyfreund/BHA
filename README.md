@@ -27,4 +27,4 @@ This repository is the implementation of a final project in Digital Humanities c
 2. IAF Library site - http://iaflibrary.org.il/
 
 ## Our project in Omeka
-https://betaonlibrary.omeka.net/collections/
+https://betaonlibrary.omeka.net/collections/show/7
