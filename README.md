@@ -1,7 +1,6 @@
 # Final Project - Digital Humanities - Israeli Air Force Magazine
 
-## Goal
-The goal of this project is to create a digital collection of all the issues of IAF magazine. Before this project, all data sources of the IAF magazine weren't machine readable, and our main goal was to produce machine readable data.
+This repository is the implementation of a final project in Digital Humanities course taken by Guy Freund & Amit Haim from The department of Computer Science, Ben-Gurion University, Israel. The project's goal is to create a digital collection of all the issues of IAF magazine. Before this project, all data sources of the IAF magazine weren't machine readable, and our main goal was to produce machine readable data.
 
 ## Python Files
 1. `tagger.py` - A interactive program to help the tagging process of IAF library issues.
