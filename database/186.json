@@ -1,151 +1,17 @@
 {
     "metadata": {
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=806",
         "issue_number": "186",
+        "title": "בטאון חיל האויר ינוי 1992 85 (186)",
+        "new_issue_number": 85,
+        "publisher": "חיל האויר",
         "year": "1992",
+        "editor": "מירב הלפרין",
+        "number_of_pages": "82",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC186.pdf&page=Body&ProdID=806",
         "month": {
             "to": "יוני",
             "from": ""
-        },
-        "publisher": "חיל האויר",
-        "editor": "מירב הלפרין",
-        "deputy_editor": "דניאל מולד",
-        "price": {
-            "amount": 12.0,
-            "type": "ש״ח"
-        },
-        "subscription_price": {
-            "amount": 65.0,
-            "type": "ש״ח"
-        },
-        "photographers": [
-            "גיל ארבל",
-            "רביב גנשרוא",
-            "רובי קסטרו",
-            "אסף שילה",
-            "משה מילנר",
-            "שלמה וולקוביץ"
-        ],
-        "number_of_pages": "82",
-        "subscription_only": false,
-        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=806",
-        "title": "בטאון חיל האויר ינוי 1992 85 (186)",
-        "new_issue_number": 85,
-        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC186.pdf&page=Body&ProdID=806"
-    },
-    "index": [
-        {
-            "title": "מפקד חיל האוויר: כדי לשלוט גם בתחום הלילה, צריך יותר טייסים",
-            "description": "",
-            "start_page": 2,
-            "author": ""
-        },
-        {
-            "title": "אם אתה יליד הארץ, בוגר מגמה ריאלית, ילד סנדוויץ, בן של מהנדס, שונא ספרות ואוהב פיסיקה - פרופיל של בוגר קורס הטיס האחרון",
-            "description": "",
-            "start_page": 5,
-            "author": ""
-        },
-        {
-            "title": "תחת הסעיף ״יעדים״ - דיווח מפורט משורת התקיפות האחרונה שביצע חיל האוויר בלבנון",
-            "description": "",
-            "start_page": 6,
-            "author": "ענר גוברין"
-        },
-        {
-            "title": "אל״ם (מיל׳) אביאם סלע: ״תקיפת הסוללות נדחתה בשנה בגלל תקיפת הכור״",
-            "description": "",
-            "start_page": 14,
-            "author": "ענר גוברין וקובי מרינקו"
-        },
-        {
-            "title": "הטייסים חולצו כשהם תלויים משני צידי הקוברה",
-            "description": "",
-            "start_page": 18,
-            "author": "ליאורה שוסטרה"
-        },
-        {
-            "title": "אבירי הזנב הכתום",
-            "description": "",
-            "start_page": 22,
-            "author": "שרון גבע"
-        },
-        {
-            "title": "מסע כנפיים",
-            "description": "",
-            "start_page": 28,
-            "author": "שרון גבע"
-        },
-        {
-            "title": "50,000 רגל",
-            "description": "",
-            "start_page": 34,
-            "author": "גיל ארבל"
-        },
-        {
-            "title": "אימוני מסקרקע",
-            "description": "",
-            "start_page": 40,
-            "author": "ליאורה שוסטר"
-        },
-        {
-            "title": "כל ההתחלות",
-            "description": "",
-            "start_page": 48,
-            "author": "שרון גבע"
-        },
-        {
-            "title": "גם טייסת הפוגות נשלחה למלחמה",
-            "description": "",
-            "start_page": 58,
-            "author": "עודד גלוברמן"
-        },
-        {
-            "title": "ההוראה היתה לטוס נמוך",
-            "description": "",
-            "start_page": 64,
-            "author": "שרון גבע"
-        },
-        {
-            "title": "חבר המושבחים",
-            "description": "",
-            "start_page": 68,
-            "author": "קובי מרינקו"
-        },
-        {
-            "title": "כבר הבלגנו",
-            "description": "",
-            "start_page": 72,
-            "author": "מירב הלפרין"
-        },
-        {
-            "title": "גבירותי ורבותי, הצוות האירובאטי",
-            "description": "",
-            "start_page": 78,
-            "author": "גיל ארבל"
-        },
-        {
-            "title": "מדף אווירי",
-            "description": "",
-            "start_page": 87,
-            "author": ""
-        },
-        {
-            "title": "הסינים עולים לאוויר - ומאפשרים דריסת רגל למערב",
-            "description": "",
-            "start_page": 88,
-            "author": ""
-        },
-        {
-            "title": "טייסי האטארי - כך נראה תא הטייס המודרני: מערכות אוויוניות, תצוגות צבע ומחשבים רבי עוצמה",
-            "description": "",
-            "start_page": 90,
-            "author": ""
-        },
-        {
-            "title": "טיל הפאטריוט החדש, שלב אחרי שלב, סידרת תצלומים מהשיגור הראשון",
-            "description": "",
-            "start_page": 94,
-            "author": ""
         }
-    ]
+    }
 }

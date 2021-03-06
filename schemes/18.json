@@ -1,1 +1,182 @@
-{}
+{
+    "metadata": {
+        "issue_number": "18",
+        "year": "1952",
+        "month": {
+            "from": "ינואר",
+            "to": "פברואר"
+        },
+        "publisher": "מפקדת חיל האויר",
+        "editor": "משה פומרנץ",
+        "deputy_editor": "צחי שן",
+        "price": {
+            "amount": 250.0,
+            "type": "פרוטה"
+        },
+        "subscription_price": {
+            "amount": "",
+            "type": "ש״ח"
+        },
+        "photographers": [],
+        "number_of_pages": 140,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "בגליון זה",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "למתנדבים בעם",
+            "description": "",
+            "start_page": 7,
+            "author": ""
+        },
+        {
+            "title": "שכון אנשי שרות קבע",
+            "description": "",
+            "start_page": 8,
+            "author": "רב סרן יחיאל אלון"
+        },
+        {
+            "title": "ראיון עם הפרופ' סידני גולדסטין",
+            "description": "",
+            "start_page": 9,
+            "author": "יעקב זהבי"
+        },
+        {
+            "title": "פיקוד ומנהיגות",
+            "description": "",
+            "start_page": 11,
+            "author": "סיר ג'ון סלסור"
+        },
+        {
+            "title": "בריטניה מפגינה את חידושיה בתעופה",
+            "description": "",
+            "start_page": 18,
+            "author": "סרן יוסף זינגר"
+        },
+        {
+            "title": "מבצעי כוח מוטס ולקחם",
+            "description": "",
+            "start_page": 29,
+            "author": "לוחם"
+        },
+        {
+            "title": "המזרח התיכון ואפריקה בגיאופוליטיקה אוירית",
+            "description": "",
+            "start_page": 35,
+            "author": ""
+        },
+        {
+            "title": "מצלמה אוירית בכנפי יונה",
+            "description": "",
+            "start_page": 38,
+            "author": "י. מחט וי. עופר"
+        },
+        {
+            "title": "על מטוסי סילון מפי טייס בוחן",
+            "description": "",
+            "start_page": 41,
+            "author": ""
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 48,
+            "author": "י. דויטש וי. זמיר"
+        },
+        {
+            "title": "הבננה המעופפת",
+            "description": "",
+            "start_page": 58,
+            "author": ""
+        },
+        {
+            "title": "דאוני מטרה לאמון טייסי קרב",
+            "description": "",
+            "start_page": 62,
+            "author": "יוסף זינגר"
+        },
+        {
+            "title": "אוירודינמיקה מס' 4",
+            "description": "",
+            "start_page": 66,
+            "author": "סרן דוד אברמוביץ"
+        },
+        {
+            "title": "גלוסטר מטאור",
+            "description": "",
+            "start_page": 86,
+            "author": "י. מטוסי"
+        },
+        {
+            "title": "בנה לך מטאור קטן",
+            "description": "",
+            "start_page": 93,
+            "author": "שלמה ירקוני"
+        },
+        {
+            "title": "מיוחד לממציאים/ כיצד מגיעים לקרקע?",
+            "description": "",
+            "start_page": 97,
+            "author": "יעקב זהבי"
+        },
+        {
+            "title": "בשמי המזרח הרחוק/ מטוסים קלים קוריאה",
+            "description": "",
+            "start_page": 102,
+            "author": ""
+        },
+        {
+            "title": "טיסות בראשית/ דרכה של הטייסת אמליה ארהרט",
+            "description": "",
+            "start_page": 105,
+            "author": ""
+        },
+        {
+            "title": "צחצחו את המטוסים!",
+            "description": "",
+            "start_page": 108,
+            "author": "סרן אריה הלל"
+        },
+        {
+            "title": "על הטייסת הקלה",
+            "description": "",
+            "start_page": 110,
+            "author": "סגן שלמה ירקוני"
+        },
+        {
+            "title": "מילשטיין רב המכונאים",
+            "description": "",
+            "start_page": 113,
+            "author": "שלמיר"
+        },
+        {
+            "title": "כרוניקה תעופתית",
+            "description": "",
+            "start_page": 16,
+            "author": ""
+        },
+        {
+            "title": "תעופה אזרחית",
+            "description": "",
+            "start_page": 19,
+            "author": ""
+        },
+        {
+            "title": "דאר אויר",
+            "description": "",
+            "start_page": 122,
+            "author": ""
+        },
+        {
+            "title": "בזמי המזרח התיכון",
+            "description": "",
+            "start_page": 124,
+            "author": ""
+        }
+    ]
+}

@@ -1,145 +1,17 @@
 {
     "metadata": {
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=807",
         "issue_number": "187",
+        "title": "בטאון חיל האויר אוגוסט 1992 86 (187)",
+        "new_issue_number": 86,
+        "publisher": "חיל האויר",
         "year": "1992",
+        "number_of_pages": "92",
+        "editor": "מירב הלפרין",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC187.pdf&page=Body&ProdID=807",
         "month": {
             "to": "אוגוסט",
             "from": ""
-        },
-        "publisher": "חיל האויר",
-        "editor": "מירב הלפרין",
-        "deputy_editor": "דניאל מולד",
-        "price": {
-            "amount": 12.0,
-            "type": "ש״ח"
-        },
-        "subscription_price": {
-            "amount": 65.0,
-            "type": "ש״ח"
-        },
-        "photographers": [
-            "גיל ארבל",
-            "רביב גנשרוא",
-            "רובי קסטרו",
-            "אסף שילה",
-            "משה מילנר",
-            "שלמה וולקוביץ"
-        ],
-        "number_of_pages": "92",
-        "subscription_only": false,
-        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=807",
-        "title": "בטאון חיל האויר אוגוסט 1992 86 (187)",
-        "new_issue_number": 86,
-        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/TOC187.pdf&page=Body&ProdID=807"
-    },
-    "index": [
-        {
-            "title": "מפקד חיל האוויר: תאונת האנפה ותאונת הארשת אירו בגלל פגישה חמורה במשמעת",
-            "description": "",
-            "start_page": 2,
-            "author": ""
-        },
-        {
-            "title": "פרסום ראשון: ״קרס״: טיל להשמדת סוללות טק״א ומכ״מים",
-            "description": "",
-            "start_page": 5,
-            "author": ""
-        },
-        {
-            "title": "ארבע תקיפות על ג׳אבל צפי - סיפורן של ארבע התקיפות האחרונות בלבנון, מפי הטייסים שהתתפו",
-            "description": "",
-            "start_page": 6,
-            "author": ""
-        },
-        {
-            "title": "רואים ירוק רואים שקוף",
-            "description": "",
-            "start_page": 20,
-            "author": "ליאורה שוסטר"
-        },
-        {
-            "title": "מתחילים במתקדם",
-            "description": "",
-            "start_page": 26,
-            "author": "דרור מרום"
-        },
-        {
-            "title": "היי הג׳י, היי הג׳י",
-            "description": "",
-            "start_page": 32,
-            "author": "עינת אהרונוב"
-        },
-        {
-            "title": "עקשנות",
-            "description": "",
-            "start_page": 38,
-            "author": "שרון גבע"
-        },
-        {
-            "title": "שיגור ישיר",
-            "description": "",
-            "start_page": 42,
-            "author": "קובי מרינקו"
-        },
-        {
-            "title": "מרחיב אופקים",
-            "description": "",
-            "start_page": 48,
-            "author": "דרור מרום"
-        },
-        {
-            "title": "תקופת האבן",
-            "description": "",
-            "start_page": 54,
-            "author": "קובי מרינקו"
-        },
-        {
-            "title": "TO BE OR NOT TO B-52?",
-            "description": "",
-            "start_page": 60,
-            "author": "אהרון לפידות"
-        },
-        {
-            "title": "אקשן",
-            "description": "",
-            "start_page": 66,
-            "author": "ליאורה שוסטר"
-        },
-        {
-            "title": "בגובה דשא",
-            "description": "",
-            "start_page": 71,
-            "author": "גיל ארבל"
-        },
-        {
-            "title": "ספר. זה כל הסיפור",
-            "description": "",
-            "start_page": 76,
-            "author": "ליאורה שוסטר"
-        },
-        {
-            "title": "מדף אווירי",
-            "description": "",
-            "start_page": 79,
-            "author": ""
-        },
-        {
-            "title": "גרמניה יירטה את מטוס הקרב האירופי",
-            "description": "",
-            "start_page": 80,
-            "author": ""
-        },
-        {
-            "title": "נחשף תא הטייס של ה-F-117",
-            "description": "",
-            "start_page": 84,
-            "author": ""
-        },
-        {
-            "title": "תחנת חחל למכירה",
-            "description": "",
-            "start_page": 86,
-            "author": ""
         }
-    ]
+    }
 }

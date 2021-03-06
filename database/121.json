@@ -18,7 +18,7 @@
         ],
         "subscription_price": {
             "amount": 40.0,
-            "type": "שקך חדש"
+            "type": "שקל חדש"
         },
         "number_of_pages": "68",
         "subscription_only": false,

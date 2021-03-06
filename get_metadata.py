@@ -37,14 +37,14 @@ ALL_DATA_FILE_PATH = 'all_data.json'
 
 
 def json_write(path, data):
-    with open(path, 'w') as f:
+    with open(path, 'w', encoding="utf8") as f:
         f.write(json.dumps(data, indent=4, ensure_ascii=False).encode('utf8').decode())
 
 
 def json_read(path):
     try:
         if os.path.exists(path):
-            with open(path, 'r') as json_file:
+            with open(path, 'r', encoding="utf8") as json_file:
                 result = json.load(json_file)
         else:
             result = {}

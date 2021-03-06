@@ -1,0 +1,175 @@
+{
+    "metadata": {
+        "issue_number": "158",
+        "year": "1987",
+        "month": {
+            "from": "מאי",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 3.5,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": 18.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "רובי קסטרו",
+            "אסף שילה",
+            "משה מילנר"
+        ],
+        "number_of_pages": 88,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "טיסה עם אצבע על ההדק",
+            "description": "",
+            "start_page": 6,
+            "author": "דרור מרום וענר גוברין"
+        },
+        {
+            "title": "מבחן של כבוד",
+            "description": "",
+            "start_page": 8,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "מספר שניים בעקבות אחד",
+            "description": "",
+            "start_page": 12,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "מכיפה לקסדה",
+            "description": "",
+            "start_page": 14,
+            "author": "מירב מורן"
+        },
+        {
+            "title": "בראש גדול",
+            "description": "",
+            "start_page": 16,
+            "author": "רוני אלרואי"
+        },
+        {
+            "title": "מילון עם פוטנציאל",
+            "description": "",
+            "start_page": 18,
+            "author": "אלינער בן-עקיבא ויקיר אלקריב"
+        },
+        {
+            "title": "גאוות כפירים",
+            "description": "",
+            "start_page": 22,
+            "author": "דריה מעוז"
+        },
+        {
+            "title": "שעת המיראז'",
+            "description": "",
+            "start_page": 25,
+            "author": "אלינער בן עקיבא וענר גוברין"
+        },
+        {
+            "title": "חילוץ מלוע הארי",
+            "description": "",
+            "start_page": 30,
+            "author": "אלוף דוד עברי"
+        },
+        {
+            "title": "מראה מעל הנילוס",
+            "description": "",
+            "start_page": 32,
+            "author": "סמדר פרי"
+        },
+        {
+            "title": "טייס עם שארית הפליטה",
+            "description": "",
+            "start_page": 34,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "פרוזדור לסאלון",
+            "description": "",
+            "start_page": 37,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "לופטהאנזה זה לא לופטגשעפט",
+            "description": "",
+            "start_page": 38,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "לגעת ברוח",
+            "description": "",
+            "start_page": 43,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "אופרה חדשה לפאנטום",
+            "description": "",
+            "start_page": 48,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "יונץ",
+            "description": "",
+            "start_page": 50,
+            "author": ""
+        },
+        {
+            "title": "כוח הטכנולוגיה",
+            "description": "",
+            "start_page": 55,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "מודי - אלון שנגדע",
+            "description": "",
+            "start_page": 60,
+            "author": "מירב מורן"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 64,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "סיכון גבוה בגובה נמוך",
+            "description": "",
+            "start_page": 66,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "עם כל הלב",
+            "description": "",
+            "start_page": 69,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "אורי אקרא לו",
+            "description": "",
+            "start_page": 72,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 76,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        }
+    ]
+}

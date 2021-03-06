@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "issue_number": "191",
+        "year": "1993",
+        "month": {
+            "from": "אפריל",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 12.0,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": 65.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "רביב גנשרוא",
+            "רובי קסטרו",
+            "אסף שילה",
+            "שלמה וולקוביץ"
+        ],
+        "number_of_pages": 92,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "נתיב טיסה בין ישראל לירדן",
+            "description": "",
+            "start_page": 3,
+            "author": ""
+        },
+        {
+            "title": "הגיבוש לקורס-טיס יקוצר",
+            "description": "",
+            "start_page": 3,
+            "author": ""
+        },
+        {
+            "title": "מזל\"ט חדש לטווח קרוב",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "פיתוחישראלי למטוס ה-F-22: ניהוג ווקטורי מלא",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "תמיד טייס - הנשיא השביעי של מדינת ישראל",
+            "description": "",
+            "start_page": 12,
+            "author": ""
+        },
+        {
+            "title": "פריצת דרך",
+            "description": "דיווח בלעדי מהניסוי האחרון של טיל החץ",
+            "start_page": 14,
+            "author": "קובי מרינקו"
+        },
+        {
+            "title": "חוג הסילון",
+            "description": "",
+            "start_page": 20,
+            "author": "דרור מרום ועינת אהרונוב"
+        },
+        {
+            "title": "לטוס בכל מחיר",
+            "description": "",
+            "start_page": 32,
+            "author": "רועי צהר וענר גוברין"
+        },
+        {
+            "title": "בקרובת יורד מהפסים",
+            "description": "",
+            "start_page": 40,
+            "author": "קובי מרינקו"
+        },
+        {
+            "title": "שכרון גבהים",
+            "description": "",
+            "start_page": "",
+            "author": "עינת אהרונוב"
+        },
+        {
+            "title": "באיכר טייס",
+            "description": "",
+            "start_page": 50,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "יבלת",
+            "description": "",
+            "start_page": 54,
+            "author": "שרון גבע"
+        },
+        {
+            "title": "הצפון והאדום",
+            "description": "",
+            "start_page": 60,
+            "author": "עינת אהרונוב"
+        },
+        {
+            "title": "מתחזקים מעמד",
+            "description": "",
+            "start_page": 66,
+            "author": "רביב גנשרוא"
+        },
+        {
+            "title": "שעת הסין",
+            "description": "",
+            "start_page": 72,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 7,
+            "author": ""
+        },
+        {
+            "title": "",
+            "description": "להטיס את ה\"ציפור השחורה\"",
+            "start_page": 78,
+            "author": ""
+        },
+        {
+            "title": "שיגור בחצי מחיר",
+            "description": "",
+            "start_page": 80,
+            "author": ""
+        },
+        {
+            "title": "הקרב האמיתי",
+            "description": "",
+            "start_page": 82,
+            "author": ""
+        },
+        {
+            "title": "האם ניתן לנטוע עצים בחלל?",
+            "description": "",
+            "start_page": 84,
+            "author": ""
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "issue_number": "154",
+        "year": "1986",
+        "month": {
+            "from": "ספטמבר",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 3.0,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": 15.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "ראובן קסטרו",
+            "אורי שנקר",
+            "בנצי בר"
+        ],
+        "number_of_pages": 88,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "\"בישול\" טילי הוק-משופר",
+            "description": "",
+            "start_page": 6,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "הצלה יקרה",
+            "description": "",
+            "start_page": 8,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "לטוס על חם",
+            "description": "",
+            "start_page": 11,
+            "author": "ענר גוברין ומירי חנוך"
+        },
+        {
+            "title": "תמונות מזל\"טיות",
+            "description": "",
+            "start_page": 12,
+            "author": "גיל בר-טל"
+        },
+        {
+            "title": "להפיל במבט",
+            "description": "",
+            "start_page": 14,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "ראיון מיוחד עם מנכ\"ל התעשייה האוירית, משהקרת",
+            "description": "הלביא-מגלילה להמראה",
+            "start_page": 18,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "מנוע השואג כלביא",
+            "description": "",
+            "start_page": 22,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "הזקן והאויר",
+            "description": "",
+            "start_page": 28,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "הרוח איתן",
+            "description": "",
+            "start_page": 38,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "פאנבורו 86",
+            "description": "מירוץ שחקים אירופי",
+            "start_page": 42,
+            "author": "אהרון לפידות, פאנבורו"
+        },
+        {
+            "title": "מיג 29 - מבט ראשון",
+            "description": "",
+            "start_page": 50,
+            "author": "אודי צופף"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 52,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "בסימן ה-V",
+            "description": "",
+            "start_page": 56,
+            "author": "עודד פריירייך"
+        },
+        {
+            "title": "תמיד על הקו",
+            "description": "",
+            "start_page": 60,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "ורטיגו!",
+            "description": "",
+            "start_page": 62,
+            "author": "אלינוער בן-עקיבא"
+        },
+        {
+            "title": "קרבות-אויר על הכתלים",
+            "description": "",
+            "start_page": 66,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "TOP GUN",
+            "description": "",
+            "start_page": 68,
+            "author": "דניאל מולד"
+        },
+        {
+            "title": "פקידת מיבצעים:זוהר ומצוקה",
+            "description": "",
+            "start_page": 71,
+            "author": "מירי חנוך"
+        },
+        {
+            "title": "נוסטאלגיה ראוייה לשמה",
+            "description": "",
+            "start_page": 73,
+            "author": "לימור גולדשטיין"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 82,
+            "author": ""
+        }
+    ]
+}

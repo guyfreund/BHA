@@ -1,163 +1,17 @@
 {
     "metadata": {
+        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=808",
         "issue_number": "188",
+        "title": "בטאון חיל האויר אוקטובר 1992 87 (188)",
+        "new_issue_number": 87,
+        "publisher": "חיל האויר",
+        "number_of_pages": "100",
         "year": "1992",
+        "editor": "מירב הלפרין",
+        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/OTC188.pdf&page=Body&ProdID=808",
         "month": {
             "to": "אוקטובר",
             "from": ""
-        },
-        "publisher": "חיל האויר",
-        "editor": "מירב הלפרין",
-        "deputy_editor": "דניאל מולד",
-        "price": {
-            "amount": 12.0,
-            "type": "ש״ח"
-        },
-        "subscription_price": {
-            "amount": 65.0,
-            "type": "ש״ח"
-        },
-        "photographers": [
-            "גיל ארבל",
-            "רביב גנשרוא",
-            "רובי קסטרו",
-            "אסף שילה",
-            "משה מילנר",
-            "שלמה וולקוביץ"
-        ],
-        "number_of_pages": "100",
-        "subscription_only": false,
-        "issue_link": "http://www.iaflibrary.org.il/Product.asp?ProdID=808",
-        "title": "בטאון חיל האויר אוקטובר 1992 87 (188)",
-        "new_issue_number": 87,
-        "index_link": "http://www.iaflibrary.org.il/countPage.asp?ref=http://fisher.org.il/DigitalLibrary/BITEONIM/OTC188.pdf&page=Body&ProdID=808"
-    },
-    "index": [
-        {
-            "title": "סוף סוף: הבלק הוק הצטרף לסד״כ",
-            "description": "",
-            "start_page": 4,
-            "author": ""
-        },
-        {
-            "title": "הניסוי הבא של החץ ייערך בתחילת 93׳",
-            "description": "",
-            "start_page": 5,
-            "author": ""
-        },
-        {
-            "title": "טילי הסקאד C נקלטו בחטיבת הסקאד הסורית",
-            "description": "",
-            "start_page": 5,
-            "author": ""
-        },
-        {
-            "title": "טיל במנוע",
-            "description": "",
-            "start_page": 12,
-            "author": ""
-        },
-        {
-            "title": "יומן השבוע",
-            "description": "",
-            "start_page": 16,
-            "author": "דרור מרום"
-        },
-        {
-            "title": "ועכשיו, במיבצע",
-            "description": "",
-            "start_page": 24,
-            "author": "ליאורה שוסטר"
-        },
-        {
-            "title": "למקומות, היכון, חילוץ",
-            "description": "",
-            "start_page": 30,
-            "author": "רועי צהר"
-        },
-        {
-            "title": "החטפים ציוו עלי לטוס לביירות",
-            "description": "",
-            "start_page": 36,
-            "author": "סמדר פרי"
-        },
-        {
-            "title": "התעלה עלתה לשמיים",
-            "description": "",
-            "start_page": 40,
-            "author": "ליאורה שוסטר"
-        },
-        {
-            "title": "כעבור שעה נפגע מטוסו של אהוד",
-            "description": "",
-            "start_page": 46,
-            "author": "עודד גלוברמן"
-        },
-        {
-            "title": "ארבעה ימים רצופים",
-            "description": "",
-            "start_page": 50,
-            "author": "שרון גבע"
-        },
-        {
-            "title": "פגז אחד מספיק",
-            "description": "",
-            "start_page": 54,
-            "author": "דרור מרום"
-        },
-        {
-            "title": "איש העטלף",
-            "description": "",
-            "start_page": 60,
-            "author": "ליאורה שוסטר"
-        },
-        {
-            "title": "עד קצה המסלול",
-            "description": "",
-            "start_page": 66,
-            "author": "עינת אהרונוב"
-        },
-        {
-            "title": "מטען חורג",
-            "description": "",
-            "start_page": 70,
-            "author": "קובי מרינקו"
-        },
-        {
-            "title": "נאחזים באוויר",
-            "description": "",
-            "start_page": 74,
-            "author": "רועי צהר"
-        },
-        {
-            "title": "בשנה הבאה במוסקבה",
-            "description": "",
-            "start_page": 80,
-            "author": "אהרון לפידות"
-        },
-        {
-            "title": "מדף אווירי",
-            "description": "",
-            "start_page": 87,
-            "author": ""
-        },
-        {
-            "title": "F-15E: לא למכירה - מה יש בדגם הE של ה F-15 שהופך אותו למטוס בלעדי של ארה״ב, חסר סיכוי, לפי שעה, להיות מוצע למכירה?",
-            "description": "",
-            "start_page": 88,
-            "author": ""
-        },
-        {
-            "title": "רחוק יותר, חכם יותר, קטלני יותר - הדור הרביעי של טילי האוויר-אוויר",
-            "description": "",
-            "start_page": 90,
-            "author": ""
-        },
-        {
-            "title": "טלסקופ החחל ״האבל״ - סיכום זמני",
-            "description": "",
-            "start_page": 94,
-            "author": ""
         }
-    ]
+    }
 }

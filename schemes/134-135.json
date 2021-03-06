@@ -1,7 +1,203 @@
 {
     "metadata": {
         "issue_number": "134-135",
-        "year": "1983\u001a\u001a\u001a\u001a\u001a\u001a\u001a"
+        "year": "1983",
+        "month": {
+            "from": "יולי",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 100.0,
+            "type": "שקל"
+        },
+        "subscription_price": {
+            "amount": 300.0,
+            "type": "שקל"
+        },
+        "photographers": [
+            "גיל ארבל",
+            "כפיר"
+        ],
+        "number_of_pages": 140,
+        "subscription_only": false
     },
-    "index": {}
+    "index": [
+        {
+            "title": "המשקל הסגולי של חיל האויר עלה",
+            "description": "ראיון מיוחד עם שר הביטחון פרופ' משה ארנס",
+            "start_page": 7,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "כושר ההרתעה התעצם",
+            "description": "ראיון מיוחד עם מפקד חיל-האויר, האלוף עמוס לפידות",
+            "start_page": 10,
+            "author": ""
+        },
+        {
+            "title": "מבט מלמעלה",
+            "description": "",
+            "start_page": 16,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "לוודא שבחרנו את האדם הנכון",
+            "description": "",
+            "start_page": 20,
+            "author": "דורון רוזנבלום"
+        },
+        {
+            "title": "מי-8 מי יודע?",
+            "description": "",
+            "start_page": 24,
+            "author": "גיל ארבל"
+        },
+        {
+            "title": "איזה מין לביא?",
+            "description": "",
+            "start_page": 26,
+            "author": "אורי מית"
+        },
+        {
+            "title": "מדן ועל אילת בבל-212",
+            "description": "",
+            "start_page": 35,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "אין משאירים נעדר בשטח",
+            "description": "",
+            "start_page": 41,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "הקרב על ביירות: פרקי יומן",
+            "description": "",
+            "start_page": 45,
+            "author": "אלכסנדר גולקרוב"
+        },
+        {
+            "title": "הטרמינל הבינלאומי של דמור",
+            "description": "",
+            "start_page": 52,
+            "author": "ערן שטוירמן"
+        },
+        {
+            "title": "ביקור בזק בעובדה",
+            "description": "",
+            "start_page": 54,
+            "author": "זאב"
+        },
+        {
+            "title": "המהפכה הצרפתית 1953-1967",
+            "description": "",
+            "start_page": 58,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "יש גם ענתיקות שעוד טסות",
+            "description": "",
+            "start_page": 67,
+            "author": "תמר זאבי"
+        },
+        {
+            "title": "נחש קטן ומסוכן",
+            "description": "",
+            "start_page": 73,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "נעורים חדשים לפוגה-מאגיסטר",
+            "description": "",
+            "start_page": 75,
+            "author": "צבי גוטמן"
+        },
+        {
+            "title": "אריה במילואים",
+            "description": "",
+            "start_page": 78,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "יש על מי לסמוך",
+            "description": "",
+            "start_page": 84,
+            "author": "אורי עמית"
+        },
+        {
+            "title": "פונג שבעה חורים",
+            "description": "",
+            "start_page": 88,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "אהרון אפלפלד: מפקדים כבני-אדם",
+            "description": "",
+            "start_page": "",
+            "author": ""
+        },
+        {
+            "title": "חנוך ברטוב: היוצר שולט בגולם ישר אל היבול",
+            "description": "",
+            "start_page": 95,
+            "author": "חיים לנגלבן"
+        },
+        {
+            "title": "תצוגה כל-אירופית",
+            "description": "",
+            "start_page": 96,
+            "author": "אהרון לפידות"
+        },
+        {
+            "title": "נאוה אני וחמישית",
+            "description": "",
+            "start_page": 108,
+            "author": "ליאת גולדשטיין"
+        },
+        {
+            "title": "חלוקת הירושה של הדוד סם",
+            "description": "",
+            "start_page": 111,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "תמונת-שמיים ממוחשבת",
+            "description": "",
+            "start_page": 114,
+            "author": "ערן שטוימן"
+        },
+        {
+            "title": "המעגל השלם של ג'ונסון",
+            "description": "",
+            "start_page": 119,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "כך אולף סוס הפרא",
+            "description": "",
+            "start_page": 132,
+            "author": "ברק אטקין"
+        },
+        {
+            "title": "שמורת-טבע של קרב אבירים",
+            "description": "",
+            "start_page": 128,
+            "author": "מיכל איל"
+        },
+        {
+            "title": "חלוצת החובשות המוסטות",
+            "description": "",
+            "start_page": 132,
+            "author": "ירון כץ"
+        },
+        {
+            "title": "הרעם הכחול",
+            "description": "",
+            "start_page": 135,
+            "author": "ברק אטקין"
+        }
+    ]
 }

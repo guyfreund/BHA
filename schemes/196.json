@@ -1,0 +1,170 @@
+{
+    "metadata": {
+        "issue_number": "196",
+        "year": "1994",
+        "month": {
+            "from": "פברואר",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 14.0,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": 75.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "רביב גנשרוא",
+            "שאול שוורץ",
+            "גיורא ניומן",
+            "רובי קסטרו",
+            "אסף שילה"
+        ],
+        "number_of_pages": 100,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "וולקנים משופרים מבצע ארה\"ב",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "פנתר - מסוק ימי חדש",
+            "description": "",
+            "start_page": 4,
+            "author": ""
+        },
+        {
+            "title": "נחיתה על כביש חוצה-שומרון",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "אחרי הברק בא רעם",
+            "description": "",
+            "start_page": 10,
+            "author": "מירב הלפרין"
+        },
+        {
+            "title": "מנוסה",
+            "description": "",
+            "start_page": 16,
+            "author": "רועי יצהר"
+        },
+        {
+            "title": "מכונת מלחמה",
+            "description": "",
+            "start_page": 20,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "סיירת פתן",
+            "description": "",
+            "start_page": 26,
+            "author": "דן סלע"
+        },
+        {
+            "title": "חשיפה לצפון",
+            "description": "",
+            "start_page": "",
+            "author": "אודי עציון"
+        },
+        {
+            "title": "32",
+            "description": "",
+            "start_page": "",
+            "author": ""
+        },
+        {
+            "title": "חשיפה לצפון",
+            "description": "",
+            "start_page": 32,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "שבוע אמריקה",
+            "description": "",
+            "start_page": 36,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "קן צרעות",
+            "description": "",
+            "start_page": 44,
+            "author": "ען נתיב"
+        },
+        {
+            "title": "מגה טק",
+            "description": "",
+            "start_page": 48,
+            "author": ""
+        },
+        {
+            "title": "מטר קדימה",
+            "description": "",
+            "start_page": 56,
+            "author": "טל אלון"
+        },
+        {
+            "title": "על קו הזינוק",
+            "description": "",
+            "start_page": 69,
+            "author": "אודי עציום"
+        },
+        {
+            "title": "שיט למרחקים ארוכים",
+            "description": "",
+            "start_page": 64,
+            "author": "דרור מרום"
+        },
+        {
+            "title": "מסע בין כוכבים",
+            "description": "",
+            "start_page": 70,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "עגונה",
+            "description": "",
+            "start_page": 74,
+            "author": "גיורא נוימן"
+        },
+        {
+            "title": "שנת חורף",
+            "description": "",
+            "start_page": 80,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 83,
+            "author": ""
+        },
+        {
+            "title": "בזאר מזרחי",
+            "description": "",
+            "start_page": 84,
+            "author": ""
+        },
+        {
+            "title": "בולשוי בלט",
+            "description": "",
+            "start_page": 86,
+            "author": ""
+        },
+        {
+            "title": "האבל בידינו, שם זמני",
+            "description": "",
+            "start_page": 94,
+            "author": ""
+        }
+    ]
+}

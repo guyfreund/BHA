@@ -1,0 +1,166 @@
+{
+    "metadata": {
+        "issue_number": "150",
+        "year": "1986",
+        "month": {
+            "from": "ינואר",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "אהרון לפידות",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 0.85,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": 4.8,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "גיל ארבל"
+        ],
+        "number_of_pages": 86,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "דראמה בכינרת",
+            "description": "",
+            "start_page": 6,
+            "author": "גיל בר-טל"
+        },
+        {
+            "title": "סכנה אוירית מצפון",
+            "description": "",
+            "start_page": 11,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "רומאן קר עם השמיים",
+            "description": "",
+            "start_page": 14,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "כפירים במרומי האינדים",
+            "description": "",
+            "start_page": 19,
+            "author": "דן ארקין"
+        },
+        {
+            "title": "להבדיל בין צבוע לחתול",
+            "description": "",
+            "start_page": 20,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "פייפא-כפתור ופרח",
+            "description": "",
+            "start_page": 22,
+            "author": "גיל ארבל"
+        },
+        {
+            "title": "כוח השתתפות",
+            "description": "",
+            "start_page": 25,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "אהבה אפלטונית",
+            "description": "",
+            "start_page": 28,
+            "author": "מירי חנוך"
+        },
+        {
+            "title": "כמעט אסטרונאוטים",
+            "description": "",
+            "start_page": 30,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "דף ספר הטיסות",
+            "description": "",
+            "start_page": 34,
+            "author": ""
+        },
+        {
+            "title": "חורף של משבר אלקטרוני",
+            "description": "",
+            "start_page": 36,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "חלוץ בראזילי בערבה",
+            "description": "",
+            "start_page": 38,
+            "author": "אריאל גולר"
+        },
+        {
+            "title": "יובל 50 לדאקוטה",
+            "description": "תובלה לנצח",
+            "start_page": 42,
+            "author": "אל\"מ אורי דרומי"
+        },
+        {
+            "title": "ו...קפוץ",
+            "description": "",
+            "start_page": "",
+            "author": "גיל בר-טל"
+        },
+        {
+            "title": "באויר העולם",
+            "description": "",
+            "start_page": 58,
+            "author": "רם אברהמי"
+        },
+        {
+            "title": "מטוס קרב לעולם השלישי",
+            "description": "",
+            "start_page": 63,
+            "author": "יקיר אלקריב"
+        },
+        {
+            "title": "זמן שווה הרבה כסף",
+            "description": "",
+            "start_page": 66,
+            "author": "גיל בר-טל"
+        },
+        {
+            "title": "לטוס לקראת השמש העולה",
+            "description": "",
+            "start_page": 69,
+            "author": ""
+        },
+        {
+            "title": "צעד לקראת המאה ה-21",
+            "description": "",
+            "start_page": 71,
+            "author": "עודד פריירייך"
+        },
+        {
+            "title": "טייס קיטע אדם שלם",
+            "description": "",
+            "start_page": 74,
+            "author": "משה דור"
+        },
+        {
+            "title": "משפחהחמש-חמשית",
+            "description": "",
+            "start_page": 76,
+            "author": "מירי חנוך"
+        },
+        {
+            "title": "בין הבסיסים",
+            "description": "",
+            "start_page": 78,
+            "author": ""
+        },
+        {
+            "title": "מדף אוירי",
+            "description": "",
+            "start_page": 83,
+            "author": ""
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "metadata": {
+        "issue_number": "197",
+        "year": "1994",
+        "month": {
+            "from": "אפריל",
+            "to": ""
+        },
+        "publisher": "חיל האויר",
+        "editor": "מירב הלפרין",
+        "deputy_editor": "דניאל מולד",
+        "price": {
+            "amount": 14.0,
+            "type": "שקל חדש"
+        },
+        "subscription_price": {
+            "amount": 75.0,
+            "type": "שקל חדש"
+        },
+        "photographers": [
+            "שאול שוורץ",
+            "רובי קסטרו",
+            "גיורא נוימן",
+            "אסף שילה"
+        ],
+        "number_of_pages": 101,
+        "subscription_only": false
+    },
+    "index": [
+        {
+            "title": "מאות משגרי סטינגר לישראל",
+            "description": "",
+            "start_page": 6,
+            "author": ""
+        },
+        {
+            "title": "שמענו בום חזק מהזנב, ומהסוק החל שוב להפיל את האף",
+            "description": "",
+            "start_page": 8,
+            "author": ""
+        },
+        {
+            "title": "שיפורים בהוקאיי",
+            "description": "",
+            "start_page": 9,
+            "author": ""
+        },
+        {
+            "title": "",
+            "description": "",
+            "start_page": 1,
+            "author": ""
+        },
+        {
+            "title": "כחלילית בבקעת הלבנון",
+            "description": "",
+            "start_page": 18,
+            "author": "דן סלע"
+        },
+        {
+            "title": "ינשוף שחור",
+            "description": "",
+            "start_page": 22,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "אינסטינקט בסיסי",
+            "description": "",
+            "start_page": 30,
+            "author": "דן סלע"
+        },
+        {
+            "title": "הספר השחור של בהרב",
+            "description": "",
+            "start_page": 34,
+            "author": "יולי חרומצ'נקו"
+        },
+        {
+            "title": "יחד",
+            "description": "",
+            "start_page": 40,
+            "author": "רועי צהר"
+        },
+        {
+            "title": "מאמין בחיים",
+            "description": "",
+            "start_page": 46,
+            "author": "יולי חרומצ'נקו"
+        },
+        {
+            "title": "מגה טק",
+            "description": "",
+            "start_page": 50,
+            "author": ""
+        },
+        {
+            "title": "לומדים לאבד את השליטה",
+            "description": "",
+            "start_page": 58,
+            "author": "רועי צהר"
+        },
+        {
+            "title": "חלליות או לא להיות",
+            "description": "",
+            "start_page": 64,
+            "author": "ענר גוברין ואודי עציון"
+        },
+        {
+            "title": "מלחמת הכוכבים",
+            "description": "",
+            "start_page": 68,
+            "author": "אודי עציון"
+        },
+        {
+            "title": "הנץ ממלטה",
+            "description": "",
+            "start_page": 76,
+            "author": "יולי חרומצ'קו"
+        },
+        {
+            "title": "מיירטי הפיראטים",
+            "description": "",
+            "start_page": 80,
+            "author": "ענר גוברין"
+        },
+        {
+            "title": "מדף אווירי",
+            "description": "",
+            "start_page": 85,
+            "author": ""
+        },
+        {
+            "title": "באוויר העולם",
+            "description": "",
+            "start_page": 86,
+            "author": ""
+        },
+        {
+            "title": "מטוס בוגר, לא מיושן: ה-F-111 עדיין בתמונה",
+            "description": "",
+            "start_page": 88,
+            "author": ""
+        },
+        {
+            "title": "יפן בדרך לאטום",
+            "description": "",
+            "start_page": 90,
+            "author": ""
+        }
+    ]
+}
