@@ -19,7 +19,7 @@
     },
     "photographers": [],
     "number_of_pages": "int",
-    "subscription_only": "bool"
+    "d": "bool"
   },
   "index": {
     "title": "string",

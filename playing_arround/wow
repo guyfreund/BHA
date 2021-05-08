@@ -1,0 +1,5 @@
+
+we have 3 lamps x,y,z initialy each of the lamps is turned off
+in each turn we randomluy choose one of the lamps and change its state
+how many turn would it take - on avergae - until all of them are turned on
+
