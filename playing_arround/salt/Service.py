@@ -1,6 +1,6 @@
 
 from Database import Database
-from Predictor import Predictor
+from Validator import Validator
 from flask import Flask
 import logging
 
@@ -10,13 +10,13 @@ app = Flask("wow")
 class Service:
     def __init__(self):
         self.database = Database("path_to_db")
-        self.predictor = Predictor(self.database)
+        self.validator = Validator(self.database)
 
     @app.route('/sample/<sample>')
     def handle_sample(self, sample):
         self.database.add_sample(sample)
         logging.debug(sample)
-        return self.predictor.predict(sample)
+        return self.validator.validate(sample)
 
     @app.route('/model/<model>')
     def handle_model(self, model):

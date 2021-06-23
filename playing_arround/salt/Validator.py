@@ -2,11 +2,11 @@
 import Database as DB
 
 
-class Predictor:
+class Validator:
     def __init__(self, database: DB):
         self.database = database
 
-    def predict(self, sample):
+    def validate(self, sample):
         path = sample['path']
         model = self.database.get_model_by_path(path)
         if model:
